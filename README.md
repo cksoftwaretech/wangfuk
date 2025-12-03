@@ -19,5 +19,8 @@ https://www.bd.gov.hk/chineseT/documents/guideline/GGMBISMWIS.pdf
 https://smarttender.brplatform.org.hk/zh-HK/index.htm
 
 以下檔案過大暫時未能上載：
-大維修相關資訊 2. 工程解說會簡報(宏業及鴻毅).pdf
-大維修相關資訊 8. 特別業主大會解說會簡報(14-3-2025).pdf 
+* 大維修相關資訊 2. 工程解說會簡報(宏業及鴻毅).pdf
+* 大維修相關資訊 8. 特別業主大會解說會簡報(14-3-2025).pdf 
+* 宏福通訊 第12屆管理委員會-第4期.pdf
+* 宏福通訊 第12屆管理委員會-第5期.pdf
+* 宏福通訊 第12屆管理委員會-第9期.pdf
