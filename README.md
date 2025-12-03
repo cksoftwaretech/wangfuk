@@ -14,8 +14,8 @@ By around 11:50 p.m. latest on the same day, the homepage returned to normal.
 2018年9月7特別業主大會議程連結有誤，導向至會議紀錄。
 
 強制驗樓驗窗計劃 2. 及 3. 各導向以下連結，均已失效。
-https://www.bd.gov.hk/chineseT/services/index_MBIS_MWIS.html
-https://www.bd.gov.hk/chineseT/documents/guideline/GGMBISMWIS.pdf
+* https://www.bd.gov.hk/chineseT/services/index_MBIS_MWIS.html
+* https://www.bd.gov.hk/chineseT/documents/guideline/GGMBISMWIS.pdf
 
 強制驗樓驗窗計劃 10. 非文件，係導向以下連結。
 https://smarttender.brplatform.org.hk/zh-HK/index.htm
