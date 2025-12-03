@@ -20,7 +20,7 @@ By around 11:50 p.m. latest on the same day, the homepage returned to normal.
 強制驗樓驗窗計劃 10. 非文件，係導向以下連結。
 https://smarttender.brplatform.org.hk/zh-HK/index.htm
 
-以下檔案過大，已另行上載至：https://mega.nz/folder/M5cHHAYa#W0VxI6dDM1b6fpf4K9Ma1w
+以下檔案過大，已另行上載至 MEGA Cloud Storage：https://mega.nz/folder/M5cHHAYa#W0VxI6dDM1b6fpf4K9Ma1w
 * 大維修相關資訊 2. 工程解說會簡報(宏業及鴻毅).pdf
 * 大維修相關資訊 8. 特別業主大會解說會簡報(14-3-2025).pdf 
 * 宏福通訊 第12屆管理委員會-第4期.pdf
