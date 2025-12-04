@@ -3,7 +3,7 @@ This GitHub repository is used to store backups of all of the meeting minutes, a
 
 Starting around the evening of December 3, 2025 (Hong Kong Time), the website’s homepage above suddenly became inaccessible and displayed the error: `HTTP Error 404.0 - Not Found`. It had been functioning normally before that.
 
-![]()
+![](https://github.com/sparktsang/wangfuk/blob/main/Error.jpg)
 
 By around 11:50 p.m. latest on the same day, the homepage returned to normal.
 
