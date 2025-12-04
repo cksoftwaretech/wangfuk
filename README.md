@@ -34,3 +34,7 @@ The following files are too large and have therefore been uploaded separately to
 * 宏福通訊 第12屆管理委員會-第4期.pdf
 * 宏福通訊 第12屆管理委員會-第5期.pdf
 * 宏福通訊 第12屆管理委員會-第9期.pdf
+
+---
+
+**Special thanks** to **Eric** for selflessly coming to the rescue; with his professional data analytics skills, he organized a large volume of files, enabling this backup project to be completed.
