@@ -1,4 +1,4 @@
-This GitHub repository is used to store backups of all of the meeting minutes, and other major documents, from the Wang Fuk Court Incorporated Owners' website.
+This GitHub repository is used to store backups of all of the meeting minutes, and other major documents, from the Wang Fuk Court Incorporated Owners' (宏福苑業主法立案法團) website.
 > http://www.wangfuk.org/html/home/index.asp
 
 ---
@@ -73,7 +73,7 @@ The following files are too large and have therefore been uploaded separately to
 
 ### Project description
 
-This is part of a [project](https://sparktsang.github.io/life/2025/12/04/status.html) which examines the tragic fire at Wang Fuk Court during renovation works, which resulted in over 150 deaths.
+This is part of a [project](https://sparktsang.github.io/life/2025/12/04/status.html) which examines the [tragic fire](https://en.wikipedia.org/wiki/Wang_Fuk_Court_fire) at Wang Fuk Court during renovation works, which resulted in over 150 deaths.
 
 ---
 
