@@ -73,7 +73,7 @@ The following files are too large and have therefore been uploaded separately to
 
 ### Project description
 
-This is part of a [project](https://sparktsang.github.io/life/2025/12/04/status.html) which examines the [tragic fire](https://en.wikipedia.org/wiki/Wang_Fuk_Court_fire) at Wang Fuk Court during renovation works, which resulted in over 150 deaths.
+This is part of a [project](https://sparktsang.github.io/life/2025/12/04/status.html) which examines the [tragic fire](https://en.wikipedia.org/wiki/Wang_Fuk_Court_fire) at Wang Fuk Court on 26 November 2025 during renovation works, which resulted in over 150 deaths.
 
 ---
 
