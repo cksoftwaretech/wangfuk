@@ -1,6 +1,8 @@
 This GitHub repository is used to store backups of all of the meeting minutes, and other major documents, from the Wang Fuk Court Incorporated Owners' website.
 > http://www.wangfuk.org/html/home/index.asp
 
+---
+
 ### Service Outage Report: December 3, 2025
 
 Starting around the evening of December 3, 2025 (Hong Kong Time), the website’s homepage suddenly became inaccessible and displayed the error: `HTTP Error 404.0 - Not Found`. It had been functioning normally before that.
@@ -30,7 +32,7 @@ https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md
 
 第九屆全體委員會議記錄中，多項「會議議程」於網站缺漏，但「會議紀錄」完整。
 
-2018年9月7日特別業主大會議程連結有誤，導向至同日會議紀錄。
+2018年9月7日特別業主大會議程連結有誤，導向至同日會議紀錄。是故，當日議程缺漏。
 
 強制驗樓驗窗計劃 2. 及 3. 各導向以下連結，均已失效。
 * https://www.bd.gov.hk/chineseT/services/index_MBIS_MWIS.html
