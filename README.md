@@ -22,32 +22,45 @@ By around 11:50 p.m. on the same day, the homepage returned to normal functional
 
 ---
 
+### Compilation of meeting minutes for accessibility
+
 The meeting minutes from 2024-12-18 to 2025-11-07 have been consolidated into Markdown format as follows.
 
 https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md
 
 ---
 
-法團網站中，2018年12月18日第十屆第九次全體委員會議記錄之連結有誤，導向至2021年11月17日第十一屆第九次全體委員會議記錄。因此，2018年12月18日第十屆第九次全體委員會議記錄缺漏。
+### Data Integrity & Discrepancy Log
 
-第九屆全體委員會議記錄中，多項「會議議程」於網站缺漏，但「會議紀錄」完整。
+**1. Mismatched Record (10th Term):**
+The link for the *Minutes of the 9th Management Committee Meeting of the 10th Term (December 18, 2018)* (2018年12月18日第十屆第九次全體委員會議記錄) is incorrectly mapped. It redirects to the *11th Term Minutes (November 17, 2021)* (2021年11月17日第十一屆第九次全體委員會議記錄) instead. Consequently, the original 2018 document is missing.
 
-2018年9月7日特別業主大會議程連結有誤，導向至同日會議紀錄。是故，當日議程缺漏。
+**2. Missing Agendas (9th Term):**
+While the *Meeting Minutes* for the 9th Term are complete, multiple *Meeting Agendas* are missing from the source website.
 
-強制驗樓驗窗計劃 2. 及 3. 各導向以下連結，均已失效。
-* https://www.bd.gov.hk/chineseT/services/index_MBIS_MWIS.html
-* https://www.bd.gov.hk/chineseT/documents/guideline/GGMBISMWIS.pdf
+**3. Incorrect Link (2018 EGM):**
+The link for the *Agenda of the Extraordinary General Meeting (September 7, 2018)* (2018年9月7日特別業主大會議程) incorrectly points to the *Minutes* of the same day. As a result, the Agenda document is missing.
 
-強制驗樓驗窗計劃 10. 非文件，係導向以下連結。
-https://smarttender.brplatform.org.hk/zh-HK/index.htm
+**4. Broken External Links (MBIS/MWIS):**
+Items 2 and 3 under the *Mandatory Building Inspection & Window Inspection Scheme* (強制驗樓驗窗計劃 2. 及 3.) point to the following dead URLs:
+*   `https://www.bd.gov.hk/chineseT/services/index_MBIS_MWIS.html`
+*   `https://www.bd.gov.hk/chineseT/documents/guideline/GGMBISMWIS.pdf`
+
+**5. Non-Document Redirection:**
+Item 10 under the same scheme (強制驗樓驗窗計劃 10.) is not a hosted document but a direct link to the external Smart Tender platform:
+*   `https://smarttender.brplatform.org.hk/zh-HK/index.htm`
 
 ---
+
+### Batch download
 
 To batch download the files from this repository, you may enter its URL into the following website: 
 
 https://download-directory.github.io/
 
 ---
+
+### Large files
 
 The following files are too large and have therefore been uploaded separately to MEGA Cloud Storage: https://mega.nz/folder/M5cHHAYa#W0VxI6dDM1b6fpf4K9Ma1w
 * 大維修相關資訊 2. 工程解說會簡報(宏業及鴻毅).pdf
@@ -58,8 +71,12 @@ The following files are too large and have therefore been uploaded separately to
 
 ---
 
+### Project description
+
 This is part of a [project](https://sparktsang.github.io/life/2025/12/04/status.html) which examines the tragic fire at Wang Fuk Court during renovation works, which resulted in over 150 deaths.
 
 ---
+
+### Special thanks
 
 **Special thanks** to **Eric** for selflessly coming to the rescue; with his professional data analytics skills, he organized a large volume of files, enabling this backup project to be completed.
