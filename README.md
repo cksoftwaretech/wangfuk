@@ -3,6 +3,14 @@ This GitHub repository stores backups of all of the meeting minutes and other do
 
 ---
 
+### Compilation of meeting minutes for accessibility
+
+The meeting minutes from 2024-01-19 to 2025-11-07 have been consolidated into Markdown format as follows.
+
+https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md
+
+---
+
 ### Service Outage Report: December 3, 2025
 
 Starting around the evening of December 3, 2025 (Hong Kong Time), the website’s homepage suddenly became inaccessible and displayed the error: `HTTP Error 404.0 - Not Found`. It had been functioning normally before that.
@@ -19,14 +27,6 @@ It has been [suggested](https://github.com/Hong-Kong-Emergency-Coordination-Hub/
 The presence of the raw IIS error confirms that this was a **server-side infrastructure failure** (system maintenance or configuration detachment) and not a client-side protocol mismatch. See also the [detailed analysis of this error](https://github.com/sparktsang/wangfuk/blob/main/error_analysis.md). 
 
 By around 11:50 p.m. on the same day, the homepage returned to normal functionality via HTTP.
-
----
-
-### Compilation of meeting minutes for accessibility
-
-The meeting minutes from 2024-01-19 to 2025-11-07 have been consolidated into Markdown format as follows.
-
-https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md
 
 ---
 
