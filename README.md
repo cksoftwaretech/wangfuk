@@ -1,4 +1,4 @@
-This GitHub repository is used to store backups of all of the meeting minutes and other documents from the Wang Fuk Court Incorporated Owners' (宏福苑業主法立案法團) website.
+This GitHub repository stores backups of all of the meeting minutes and other documents from the Wang Fuk Court Incorporated Owners' (宏福苑業主法立案法團) website.
 > http://www.wangfuk.org/html/home/index.asp
 
 ---
