@@ -114,7 +114,7 @@ On 1 December 2025, Lee Yuen Ching (李宛澄), a volunteer who had been coordin
 
 Between December 3 and December 6, 2025, the independent civil investigation into the Wang Fuk Court fire was effectively neutralized through coordinated extra-legal pressure. Two prominent citizen investigators, **Hailey Cheng** (鄭曦琳, known as 'hmtwinter') and **Ellie Yuen**, simultaneously announced the cessation of their reporting on December 3, citing "accurate intelligence" and "force majeure" respectively.
 
-By December 6, Cheng’s "Wang Fuk Court Fire Documentary" (a GitHub-hosted open-source evidence repository) was deleted (404). Cheng publicly attributed the closure to her being "busy dating Jungkook" (a member of BTS), accompanied by a "silence/oops" emoji (🫢). This resort to absurdity serves as a cryptic acknowledgment of coercion—signaling that the closure was involuntary but explicit protest was no longer possible.
+By December 6, Cheng’s "Hong Kong Fire Documentary" (a GitHub-hosted evidence repository) was deleted (404). Cheng publicly attributed the closure to her being "busy dating Jungkook" (a member of BTS), accompanied by a "silence/oops" emoji (🫢). This resort to absurdity serves as a cryptic acknowledgment of coercion—signaling that the closure was involuntary but explicit protest was no longer possible.
 
 **📜 Original Record (Composite):**
 
