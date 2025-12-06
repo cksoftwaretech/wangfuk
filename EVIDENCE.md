@@ -107,3 +107,60 @@ On 1 December 2025, Lee Yuen Ching (李宛澄), a volunteer who had been coordin
 *   [LIHKG Thread Archive](https://lihkg.com/thread/4034232)
 
 ---
+
+### 🆔 [E-CENSOR-2025-12-06-01] The Dismantling of Independent Archives
+
+**🚨 Significance:**
+
+Between December 3 and December 6, 2025, the independent civil investigation into the Wang Fuk Court fire was effectively neutralized through coordinated extra-legal pressure. Two prominent citizen investigators, **Hailey Cheng** (鄭曦琳, known as 'hmtwinter') and **Ellie Yuen**, simultaneously announced the cessation of their reporting on December 3, citing "accurate intelligence" and "force majeure" respectively.
+
+By December 6, Cheng’s "Wang Fuk Court Fire Documentary" (a GitHub-hosted open-source evidence repository) was deleted (404). Cheng publicly attributed the closure to her being "busy dating Jungkook" (a member of BTS), accompanied by a "silence/oops" emoji (🫢). This resort to absurdity serves as a cryptic acknowledgment of coercion—signaling that the closure was involuntary but explicit protest was no longer possible.
+
+**📜 Original Record (Composite):**
+
+> **Evidence [A]: The Simultaneous Cessation**
+> *Source: Yahoo News Hong Kong / 2025-12-04*
+>
+> **【宏福苑五級火｜鄭曦琳 Ellie Yuen 表明不再發表評論...】**
+> "(...) 持續跟進事件的城大學生鄭曦琳（Hailey）昨晚（3 日）就表示，因為收到「非常準確的情報」，「我應不會再繼續發表任何關於火災的留言，也不會再接受任何媒體訪問」(...)"
+> "至於跟進事件的另一人 Ellie Yuen 就在 Threads 發聲明，指「本人就宏福苑火災的所有相關新聞工作早已結束，基於顯然易見的不可抗力因素，並無進一步評論、補充或其他相關工作。」"
+>
+> *Translation:*
+> **[Wang Fuk Court No. 5 Alarm Fire | Hailey Cheng & Ellie Yuen state they will no longer comment...]**
+> "(...) CityU student **Hailey Cheng**, who had been following the event, stated last night (3rd) that due to receiving 'very accurate intelligence', 'I shall not continue to post any comments regarding the fire, nor accept any media interviews' (...)"
+> "Another person following the event, **Ellie Yuen**, issued a statement on Threads, stating 'My journalism work regarding the Wang Fuk Court fire has long concluded. Due to obvious **force majeure** factors, there will be no further comments, supplements, or related work.'"
+
+> **Evidence [B]: The Chronology of Silencing**
+> *Source: Threads (@hmtwinter) / 2025-12-03 to 2025-12-06*
+>
+> *[2025-12-03 19:34]* "剛從警署離開。(...) 向大家報個平安。" (Just left the police station... Reporting that I am safe.)
+>
+> *[2025-12-03 21:07]* "我剛剛收到非常準確的情報。我應不會再繼續發表任何關於火災的留言..." (I just received very accurate intelligence. I should not continue to post any comments regarding the fire...)
+>
+> *[2025-12-04 00:05]* "因得知政府擔憂市民的言論或被外國勢力曲解，我已主動告知所有國際媒體，暫勿引用或報導..." (Learning that the government worries citizens' speech might be distorted by foreign forces, I have voluntarily informed all international media not to quote...)
+>
+> *[2025-12-06 16:55]* "**忙著拍拖，不搞資料庫了 🫢**"
+>
+> *Translation:*
+> "**Busy dating, not doing the database anymore 🫢**"
+
+> **Evidence [C]: The Erasure and Underground Backup**
+> *Source: LIHKG / 2025-12-06*
+>
+> **Topic: 何文田金冬天個火災資料庫已經404，咁大件事無人講？**
+> "今日係街到睇見到404咗 (...) 但好彩，我一早已經預咗有今日！所以晨早backup咗。"
+>
+> *Translation:*
+> **Topic: hmtwinter's fire database is already 404, such a big deal and no one is talking about it?**
+> "Saw it went 404 while on the street today (...) But luckily, I predicted this day would come long ago! So I backed it up early on."
+
+**📅 Date:** 2025-12-06 | **Type:** Composite Evidence (Social Media & Press)
+
+**🔗 Links:**
+*   [Yahoo News Archive](https://hk.news.yahoo.com/share/ce802388-3b4a-411e-a048-409a42d72534)
+*   [HK01 Archive](https://www.hk01.com/article/60299963)
+*   [Threads (@hmtwinter)](https://www.threads.com/@hmtwinter)
+*   [LIHKG Thread (Backup Source)](https://lihkg.com/thread/4037140)
+*   [Mirrored Database (wfc-fire.collection.news)](https://wfc-fire.collection.news/)
+
+---
