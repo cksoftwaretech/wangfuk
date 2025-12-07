@@ -112,20 +112,20 @@ These contradictions do not accuse intent—they simply present verifiable discr
 
 ---
 
-### 🆔 [E-ADMIN-2025-09-29-01] Zombie Governance: The "Lift" Contractor & The $1.7M Blunder
+### 🆔 [E-ADMIN-2025-09-29-01] Documentary Failures: The 'Lift Contractor' Error & The $1.7M Mislabeling
 
 **🚨 Significance:**
 
-Official records reveal that the Management Committee (MC) operated in a state of **"Zombie Governance"**, approving critical safety contracts without basic comprehension or scrutiny.
+Official records indicate significant procedural and documentation failures within the MC’s decision-making process, approving critical safety contracts despite the presence of major documentation errors that appear to have gone undetected at the time. 
 
-On September 29, 2025, the MC approved a tender for fire safety repairs. However, the minutes show they unanimously passed a document containing two fatal absurdities:
+On September 29, 2025, the MC approved a tender for fire safety repairs. However, the minutes show they unanimously passed a document containing two significant documentation errors:
 1.  **Wrong Profession:** They listed the fire safety companies as **"Lift Contractors"** (升降機承辦商).
 2.  **Wrong Cost:** They approved the repair cost of **HK$144,170** as a **"Monthly Fee"** (每月費用).
 
 **Logical Deduction:**
-*   **The "Rubber Stamp" Proof:** If even one member had read the document, they would have asked why a "Lift" company was fixing fire hoses.
-*   **The Financial Blindness:** If the figure was truly a "Monthly Fee," the annual cost would be **HK$1.73 million**—an astronomical figure for minor repairs. That no one questioned this implies the committee members were financially illiterate or simply not looking at what they were signing.
-*   **The Conclusion:** This explains the disaster. A committee that cannot distinguish between a Lift Contractor and a Fire Contractor, or between a one-off payment and a monthly fee, lacks the cognitive capacity to monitor complex building safety.
+*   **The Oversight Indicator:** The presence of errors such as 'lift contractor' suggests the document may not have undergone detailed review at the time.
+*   **The Financial Blindness:** Such a mislabeling ('monthly fee') would normally raise budgeting questions, suggesting the figure may have been accepted without cross-checking its intended meaning.
+*   **The Conclusion:** This explains the disaster. A committee that cannot distinguish between a Lift Contractor and a Fire Contractor, or between a one-off payment and a monthly fee, indicating the governance process may not have been sufficiently robust to oversee complex building safety matters.
 
 **📜 Original Record:**
 
