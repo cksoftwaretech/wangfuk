@@ -49,6 +49,67 @@ The data exposes a clear strategy: Win the maintenance contract with an absurdly
 
 ---
 
+### 🆔 [E-SAFETY-2024-06-27-01] The "Out of Stock" Hoax & The "Free Upgrade" Trap
+
+**🚨 Significance:**
+
+Official records document a coordinated attempt by the Contractor (**Prestige/宏業**) and Consultant (**Will Power/鴻毅**) to manipulate the estate into changing external wall materials based on false premises and suspicious financial generosity.
+
+**1. The "Supply Chain" Hoax:**
+On June 27, 2024, Prestige claimed that standard 1x1 inch mosaic tiles were **"no longer produced"**.
+*   *Logical Fallacy:* Mosaic tiles are a generic, global commodity. Claiming they are "out of production" is factually absurd. It is a fabricated crisis to force a change.
+
+**2. The "Benevolent" Trap:**
+On Oct 5, 2024, Prestige offered to switch to Tiles (supposedly a premium material) **without charging the price difference**.
+*   *The Math:* According to the Consultant's own chart, Tiles (HK$130-$200/m²) are significantly more expensive than Mosaic (HK$40/m²).
+*   *The Suspicion:* In the ruthless construction industry, a contractor *never* absorbs a cost increase voluntarily. If Prestige was willing to waive the difference (approx. $600k based on the minutes), it implies their **actual cost** for the specific tiles they sourced was likely **lower** than the mosaic tiles + coating.
+*   *The Play:* They tried to swap a labor-intensive material (Mosaic) for a potentially cheaper/easier alternative (Tiles) under the guise of a "free upgrade."
+
+**3. The Consultant's Complicity:**
+Instead of verifying the "out of production" claim (which is their job), Will Power facilitated the switch by producing comparison charts favoring tiles and paving the legal pathway to bypass the Deed of Mutual Covenant (DMC).
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Fabrication (No Stock)**
+> *Source: 12th MC Meeting Minutes (No. 2) / 2024-06-27*
+>
+> **5.1**
+> "...承建商經查詢供應商後，有關外牆現有之 1x1 吋紙皮石飾面物料**已不再生產**..."
+>
+> *Translation:*
+> **5.1**
+> "...The Contractor [Prestige], after enquiring with suppliers, stated that the existing 1x1 inch mosaic tile material is **no longer produced**..."
+
+> **Evidence [B]: The Suspicious Generosity**
+> *Source: 12th MC EGM Minutes / 2024-10-05*
+>
+> "承建商縱然在轉換物料後會有多出的費用亦最終同意及已書面回覆**不會向法團徵收差價**..."
+>
+> *Translation:*
+> "Even though switching materials would incur extra costs, the Contractor [Prestige] eventually agreed and replied in writing that they **would not charge the Corporation for the price difference**..."
+
+> **Evidence [C]: The Market Reality (Consultant's Chart)**
+> *Source: Material Comparison Chart / 2024-09-27*
+>
+> | Material | Market Price (Ref) |
+> | :--- | :--- |
+> | Mosaic (紙皮石) | ~$40/m² |
+> | Tiles (磚瓦) | ~$130 - $200/m² |
+>
+> *(Analysis: If the chart is true, Prestige was offering a ~300% material upgrade for free. This defies economic gravity unless the specific tiles used were of inferior quality or obtained at a distress price.)*
+
+**📅 Timeline:**
+*   **2024-06-27:** Prestige claims Mosaic is "out of production."
+*   **2024-09-27:** Will Power issues comparison chart favoring Tiles.
+*   **2024-10-05:** Owners vote 54.59% to **Reject** the switch and keep Mosaic.
+
+**🔗 Links:**
+*   [Minute 2](http://www.wangfuk.org/html/meeting/12/%E7%AC%AC2%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-06-27%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
+*   [EGM Minutes (The Offer)](http://www.wangfuk.org/html/meeting/03/%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-10-05%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AE%A1%EF%A7%A4%E5%A7%94%E5%93%A1%E6%9C%83%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
+*   [Comparison Chart](http://www.wangfuk.org/html/home/doc/2024-09-27%20%E7%B4%99%E7%9A%AE%E7%9F%B3%E8%88%87%E7%A3%9A%E7%93%A6%E6%AF%94%E8%BC%83%20(%E9%B4%BB%E6%AF%85).pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/%E5%A4%A7%E7%B6%AD%E4%BF%AE%E7%9B%B8%E9%97%9C%E8%B3%87%E8%A8%8A%204.%202024-09-27%20%E7%B4%99%E7%9A%AE%E7%9F%B3%E8%88%87%E7%A3%9A%E7%93%A6%E6%AF%94%E8%BC%83%20(%E9%B4%BB%E6%AF%85).pdf)
+
+---
+
 ### 🆔 [E-SAFETY-2024-11-15-01] The Insurance Boycott
 
 **🚨 Significance:**
