@@ -1,3 +1,57 @@
+### 🆔 [E-ADMIN-2025-09-29] Zombie Governance: The "Lift" Contractor & The $1.7M Blunder
+
+**🚨 Significance:**
+
+Official records reveal that the Management Committee (MC) operated in a state of **"Zombie Governance"**, approving critical safety contracts without basic comprehension or scrutiny.
+
+On September 29, 2025, the MC approved a tender for fire safety repairs. However, the minutes show they unanimously passed a document containing two fatal absurdities:
+1.  **Wrong Profession:** They listed the fire safety companies as **"Lift Contractors"** (升降機承辦商).
+2.  **Wrong Cost:** They approved the repair cost of **$144,170** as a **"Monthly Fee"** (每月費用).
+
+**Logical Deduction:**
+*   **The "Rubber Stamp" Proof:** If even one member had read the document, they would have asked why a "Lift" company was fixing fire hoses.
+*   **The Financial Blindness:** If the figure was truly a "Monthly Fee," the annual cost would be **$1.73 million**—an astronomical figure for minor repairs. That no one questioned this implies the committee members were financially illiterate or simply not looking at what they were signing.
+*   **The Conclusion:** This explains the disaster. A committee that cannot distinguish between a Lift Contractor and a Fire Contractor, or between a one-off payment and a monthly fee, lacks the cognitive capacity to monitor complex building safety.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Absurd Approval**
+> *Source: 12th MC Meeting Minutes (No. 12) / 2025-09-29*
+>
+> **10) 商討及議決消防設備執修事宜**
+> "**10.1** ...共收到有 4 間註冊**升降機承辦商**回覆報價... 詳情如下：
+>
+> | 承辦商 | **每月費用** |
+> | :---: | :---: |
+> | 宏泰消防工程有限公司 | **$144,170** |
+> (...)"
+>
+> *Translation:*
+> **10) Discussion and resolution on fire equipment rectification**
+> "**10.1** ...received quotes from 4 registered **Lift Contractors**... Details as follows:
+> | Contractor | **Monthly Fee** |
+> | :---: | :---: |
+> | Victory Fire Engineering Ltd. | **$144,170** |"
+
+> **Evidence [B]: The Belated Correction (2 Months Later)**
+> *Source: 12th MC Meeting Minutes (No. 13) / 2025-11-07*
+>
+> **2.1**
+> "有關 10.1 項：共收到有 4 間註冊升降機承辦商回覆報價，更正為共收到有 4 間**消防承辦商**回覆報價。另將每月費用**刪除每月兩字**。 (全體知悉)"
+>
+> *Translation:*
+> **2.1**
+> "Regarding Item 10.1: 'received quotes from 4 registered Lift Contractors' is corrected to 'received quotes from 4 registered **Fire Contractors**'. Also, for the monthly fee, **delete the word 'Monthly'**. (All noted)"
+
+**📅 Date:** 2025-09-29 (Error Committed) | 2025-11-07 (Error Admitted)
+
+**🔗 Links:**
+*   [Minute 12 (The Error)](http://www.wangfuk.org/html/meeting/12/2025-10-27%20%E7%AC%AC12%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-09-29%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
+*   [Minute 13 (The Correction)](http://www.wangfuk.org/html/meeting/12/2025-11-7%20%E7%AC%AC13%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-11-07%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E4%B8%89%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
+*   [Full Archive (Markdown)](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md)
+
+---
+
 ### 🆔 [E-NEGLIGENCE-2025-11-07-01] The Paralyzed Water Network & The Fatal Maintenance
 
 **🚨 Significance:**
