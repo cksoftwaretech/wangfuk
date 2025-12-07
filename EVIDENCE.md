@@ -12,7 +12,7 @@ The decision to replace these valves was finalized on **November 7, 2025**. The 
 
 **3. Systemic Collusion & Conflict of Interest:**
 *   **The Consultant (Will Power / 鴻毅):** Acted as both the building inspector and the project manager, facilitating Prestige's winning bid. 
-*   **The Contractor (Prestige / 宏業):** Their directors now face **manslaughter** charges. Despite being more expensive, they were awarded specific fire tank valve repairs (Item 11.5) to "avoid warranty disputes," effectively locking the MC into their ecosystem.
+*   **The Contractor (Prestige / 宏業):** Their directors now face **manslaughter** charges. Despite the quotes from other companies, they were awarded specific fire tank valve repairs (Item 11.5) to "avoid warranty disputes," effectively locking the MC into their ecosystem.
 *   **The "Double Agent" (Wong Chin Hang / 黃展鏗):** The Clerk of Works, theoretically representing the residents but hired via the Consultant, pushed for these specific repairs that facilitated the Contractor's workflow.
 *   **The Silent Watchdog (Victory Fire / 宏泰):** As the fire system maintenance contractor, they secured the renewal contract in Sept 2025. Yet, it took the *General Contractor's* need for waterproofing in Nov 2025 to identify "aging valves" that Victory's annual inspection apparently missed or ignored.
 
@@ -48,8 +48,7 @@ The decision to replace these valves was finalized on **November 7, 2025**. The 
 >
 > *Translation:*
 > **11.5**
-> "Regarding the leakage of the fire tank gate valve at Wang Chi Court... Considering the waterproofing warranty will be held by the Major Repair Contractor, to avoid future disputes, members suggested having **'Prestige' [Macro-Ip]** quote for the replacement..."
-> *(Analysis: Prestige was awarded the specific fire tank job despite higher costs ($102,000 vs $78,400 in item 7.1 comparison), consolidating their control over the fire safety infrastructure.)*
+> "Regarding the leakage of the fire tank gate valve at Wang Chi Court... Considering the waterproofing warranty will be held by the Major Repair Contractor, to avoid future disputes, members suggested having **'Prestige'** quote for the replacement..."
 
 > **Evidence [D]: The Failure of Routine Checks**
 > *Source: 12th MC Meeting Minutes (No. 12) / 2025-09-29*
