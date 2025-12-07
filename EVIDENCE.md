@@ -470,6 +470,63 @@ On December 4, 2025, MC Chairman Tsui Man-kam admitted to the press he was "**un
 
 ---
 
+### 🆔 [E-MEDIA-2025-11-27-01] The "Stenography Journalism" & The Missed Scam
+
+**🚨 Significance:**
+
+Media coverage of the "Wall Material Controversy" demonstrates a systemic failure in investigative journalism. Major outlets (TVB, Sing Tao) acted as mere "data entry clerks," reciting numbers from a comparison chart while completely missing the chronological context that revealed a potential fraud.
+
+**1. "Picture-Book" Reporting:**
+Reporters focused solely on a single document (the Sept 2024 Price Chart) and mechanically recited the price differences ($32 vs $40). They failed to cross-reference with the June minutes (where the Contractor claimed Mosaic was "out of production") or the October minutes (where the Contractor offered a suspicious "free upgrade").
+
+**2. The Amplification of Absurdity:**
+Both outlets quoted the phrase "**Unknown Material**" regarding the Contractor's bid, yet treated it as a neutral fact.
+*   *The Logic Failure:* A responsible journalist would ask: "How can a contractor bid on a project if the material is unknown? Is this a phantom bid?" By simply repeating it, the media normalized an obvious irregularity.
+
+**3. The "Human Centipede" Effect:**
+Sing Tao's report, published hours after TVB's, largely regurgitated the same superficial data points. This creates a "False Consensus," leading the public to believe the "controversy" was about *price*, when the real controversy was about *deception* (the bait-and-switch scheme).
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Lazy Reporting (TVB)**
+> *Source: TVB News / 2025-11-27 16:00*
+>
+> "除了講解厚度和損壞率外，亦列出一般價錢... 紙皮石平均市場價40元... 宏業...收32元... 但當時文件指「**未知何種物料**」。"
+>
+> *Translation:*
+> "Besides explaining thickness... listed general prices... Mosaic avg market price $40... Prestige charges $32... but the document noted '**unknown material**'."
+> *(Analysis: Reporting a bid for "unknown material" without questioning its validity is negligence.)*
+
+> **Evidence [B]: The Copycat Reporting (Sing Tao)**
+> *Source: Sing Tao / 2025-11-27 19:06*
+>
+> "...同時列出了市場一般價格... 當時文件註明「**未知何種物料**」，意味用料細節未明。"
+>
+> *Translation:*
+> "...simultaneously listed market prices... the document noted '**unknown material**', implying material details were unclear."
+> *(Analysis: Copied the same point, added zero insight.)*
+
+> **Evidence [C]: The Missed Truth (The Lie)**
+> *Source: 12th MC Meeting Minutes (No. 2) / 2024-06-27*
+>
+> "承建商... 有關外牆現有之 1x1 吋紙皮石飾面物料**已不再生產**..."
+>
+> *Translation:*
+> "Contractor... stated existing 1x1 inch mosaic is **no longer produced**..."
+> *(Analysis: This is the real story—the lie that started it all—which the media completely ignored.)*
+
+**📅 Timeline:**
+*   **2024-06:** The Lie (No Stock). **[Media Missed]**
+*   **2024-09:** The Chart (Price Diff). **[Media Reported]**
+*   **2024-10:** The Trap (Free Upgrade). **[Media Missed]**
+
+**🔗 Links:**
+*   [TVB Report Archive](https://news.tvb.com/tc/taipofire/6927c289e435294129313abc/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85%EF%BD%9C%E5%A4%A7%E5%9F%94%E5%AE%8F%E7%A6%8F%E8%8B%913%E5%84%84%E5%85%83%E5%B7%A5%E7%A8%8B%E6%99%82%E9%96%93%E8%BB%B8%E6%9C%AC%E5%8F%B0%E8%B3%87%E6%96%99%E6%90%9C%E9%9B%86%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0)
+*   [Sing Tao Report Archive](https://www.stheadline.com/society/3521856/%E5%A4%A7%E5%9F%94%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E5%A4%9A%E5%9C%96%E7%B6%AD%E4%BF%AE%E5%B7%A5%E7%A8%8B%E9%80%A0%E5%83%B933%E5%84%84-%E4%BD%8F%E6%88%B6%E5%8D%8A%E5%B9%B4%E8%A6%81%E4%BA%A418%E8%90%AC-%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85%E5%B7%A5%E7%A8%8B%E6%99%82%E9%96%93%E7%B7%9A)
+*   [Minute 2 (The Lie)](http://www.wangfuk.org/html/meeting/12/%E7%AC%AC2%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
+
+---
+
 ### 🆔 [E-SUPPRESS-2025-12-01-01] Arrest of Volunteer Coordinator
 
 **🚨 Significance:**
