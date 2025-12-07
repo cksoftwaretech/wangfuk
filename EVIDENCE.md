@@ -76,16 +76,7 @@ These are documented discrepancies. The public can judge what they mean.
 
 **🚨 Significance:**
 
-Official records indicate significant procedural and documentation failures within the MC’s decision-making process, approving critical safety contracts despite the presence of major documentation errors that appear to have gone undetected at the time. 
-
-On September 29, 2025, the MC approved a tender for fire safety repairs. However, the minutes show they unanimously passed a document containing two significant documentation errors:
-1.  **Wrong Profession:** They listed the fire safety companies as **"Lift Contractors"** (升降機承辦商).
-2.  **Wrong Cost:** They approved the repair cost of **HK$144,170** as a **"Monthly Fee"** (每月費用).
-
-**Logical Deduction:**
-*   **The Oversight Indicator:** The presence of errors such as 'lift contractor' suggests the document may not have undergone detailed review at the time.
-*   **The Financial Blindness:** Such a mislabeling ('monthly fee') would normally raise budgeting questions, suggesting the figure may have been accepted without cross-checking its intended meaning.
-*   **The Conclusion:** This explains the disaster. A committee that cannot distinguish between a Lift Contractor and a Fire Contractor, or between a one-off payment and a monthly fee, indicating the governance process may not have been sufficiently robust to oversee complex building safety matters.
+Official minutes show that on 29 Sep 2025, the MC unanimously approved a fire-safety tender despite two glaring errors in the document — listing the contractors as "Lift Contractors" and misclassifying the HK$144,170 repair fee as a "Monthly Fee" — revealing a decision-making process that may not have received even basic scrutiny and raising serious doubts about the MC’s capacity to oversee critical building safety matters.
 
 **📜 Original Record:**
 
