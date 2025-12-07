@@ -99,6 +99,74 @@ Official minutes show that on 29 Sep 2025, the MC unanimously approved a fire-sa
 
 ---
 
+### 🆔 [E-SAFETY-2025-05-21-01] The 10-Month Ghost Supervisor & The "Closed-Loop" Collusion
+
+**🚨 Significance:**
+
+Official records expose a shocking **10-month supervision vacuum** during the most critical initial phases of the renovation, coupled with a hiring structure that creates a fundamental conflict of interest.
+
+**1. The 10-Month Danger Gap:**
+The General Contractor (**Prestige/宏業**) commenced work (Bai Shen ceremony) on **July 16, 2024**. However, the Clerk of Works (COW/工程監督) only assumed duty on **May 21, 2025**.
+*   **The Reality:** For around 300 days, major works including scaffolding erection, external wall hacking, and material delivery proceeded without independent on-site supervision.
+*   **The Irony:** The MC claimed in the AGM that the COW "improved engineering quality," ignoring that the foundations of the project were laid while the post was vacant.
+
+**2. The "Incestuous" Hiring Structure:**
+The COW, Mr. Wong Chin Hang, is theoretically the residents' eyes and ears. However:
+*   **The Paymaster:** Residents pay the bill (HK$39,718/month).
+*   **The Boss:** The Consultant (**Will Power/鴻毅**) receives the money, takes an "Admin Fee," and employs the COW.
+*   **The Target:** The COW is supposed to supervise the Contractor (**Prestige/宏業**).
+*   **The Conflict:** Since **Will Power** facilitated **Prestige** winning the tender (as established in previous evidence), the COW is essentially paid by the Consultant to supervise the Consultant's own preferred partner. This is a "Closed Loop" where the referee, the player, and the linesman are all on the same team.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Project Start Date**
+> *Source: 12th MC Meeting Minutes (No. 2) / 2024-06-27*
+>
+> **4.13**
+> "「宏業」將於 **7 月 16 日**進行拜神儀式"
+>
+> *Translation:*
+> "'Prestige' will conduct the worship ceremony (Project Commencement) on **July 16**."
+
+> **Evidence [B]: The 10-Month Hiring Failure**
+> *Source: 12th MC Meeting Minutes (No. 6 & No. 9)*
+>
+> *[2024-10-21]* "惟現時該應徵者已另覓工作，故不會出席面試..." (The applicant found another job...)
+> *[2025-03-01]* "暫時收到 6 名... 委員一致表示由工程顧問公司招聘及提供工程監督的服務..." (Received 6 applications... Members agreed to have the Consultant recruit and provide the service...)
+
+> **Evidence [C]: The Late Arrival & Payment Structure**
+> *Source: 12th MC Meeting Minutes (No. 10) / 2025-05-21*
+>
+> **5.7**
+> "駐地盤工程監督黃展鏗先生現已正式到任。...另工程監督薪金及行政費每月$39,718..."
+>
+> *Translation:*
+> "Resident Clerk of Works Mr. **Wong Chin Hang** has now officially assumed duty [in May 2025]... monthly salary and **admin fee** of **$39,718**..."
+
+> **Evidence [D]: The "Improvement"**
+> *Source: 12th MC Meeting Minutes (Annual No. 20) / 2025-09-13*
+>
+> **1.4**
+> "在 5 月份成功聘請了大維修工程監督...工程質素及進度都能提升。"
+>
+> *Translation:*
+> "In May we successfully appointed COW for the project. The COW...has helped improve both the quality and the schedule of the works."
+
+**📅 Timeline:**
+*   **2024-07-16:** Project Starts (Unsupervised).
+*   **2024-08 to 2025-04:** Hiring process fails repeatedly; works continue.
+*   **2025-05-21:** COW arrives (10 months late).
+
+**🔗 Links:**
+*   [Minutes 2 (Start Date)](http://www.wangfuk.org/html/meeting/12/%E7%AC%AC2%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-06-27%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
+*   [Minutes 6](http://www.wangfuk.org/html/meeting/12/%E7%AC%AC6%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-10-21%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%85%AD%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
+*   [Minutes 9](http://www.wangfuk.org/html/meeting/12/2025-03-01%20%E7%AC%AC9%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-03-01%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E4%B9%9D%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
+*   [Minutes 10 (Arrival)](http://www.wangfuk.org/html/meeting/12/2025-05-21%20%E7%AC%AC10%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-05-21%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
+*   [Minutes Annual No. 20](http://www.wangfuk.org/html/meeting/03/%E7%AC%AC25%E6%AC%A1%E5%85%A8%E9%AB%94%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83(%E5%91%A8%E5%B9%B4%E5%A4%A7%E6%9C%83)%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-09-13%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AE%A1%EF%A7%A4%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%94%E6%AC%A1%E5%85%A8%E9%AB%94%E6%A5%AD%E4%B8%BB%E5%91%A8%EF%A6%8E%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
+*   [Full Archive](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md)
+
+---
+
 ### 🆔 [E-SAFETY-2025-11-07-01] The Paralyzed Water Network & The Fatal Maintenance
 
 **🚨 Significance:**
