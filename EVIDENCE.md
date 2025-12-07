@@ -1,14 +1,14 @@
-### 🆔 [E-SAFETY-2025-12-04] The "Normal" Myth vs. The Broken Reality
+### 🆔 [E-SAFETY-2025-12-04-01] The "Normal" Myth vs. The Broken Reality
 
 **🚨 Significance:**
 
-There is an irreconcilable contradiction between the maintenance contractor's public defense and the internal maintenance records, suggesting a deliberate cover-up of safety failures.
+There is a contradiction between the maintenance contractor's public defense and the internal maintenance records, suggesting a cover-up of safety failures.
 
 **1. The Public Whitewash:**
-On December 4, 2025 (post-disaster), **Victory Fire Engineering (宏泰)**—the contractor for 9 consecutive years—claimed on national television (Now News) that the system was "functioning normally" (運作正常) during the Annual Inspection in March 2025, emphasizing there were "no big problems."
+On December 4, 2025 (post-disaster), **Victory Fire Engineering (宏泰)**—the contractor for 9 consecutive years—claimed on Now News that the system was "functioning normally" (運作正常) during the Annual Inspection in March 2025, emphasizing there were "no big problems."
 
 **2. The Internal Reality:**
-Internal records from September 29, 2025, completely falsify this claim. The records list a massive repair bill of **$144,170** for defects in the most critical life-saving components:
+Internal records from September 29, 2025 list a massive repair bill of **$144,170** for defects in the most critical life-saving components:
 *   **Fire Inlet Valves (消防入水掣):** Essential for firefighters to pump water into the building.
 *   **Hose Reel Assemblies (喉轆組件):** Essential for residents to fight fire.
 *   **Fire Bells (消防警鐘):** Essential for evacuation.
@@ -47,11 +47,11 @@ Internal records from September 29, 2025, completely falsify this claim. The rec
 **📅 Dates:**
 *   2025-03: Annual Inspection (Claimed "Normal")
 *   2025-09-29: Defects Confirmed (Repair Tender Approved)
-*   2025-12-04: Victory's Denial on TV
+*   2025-12-04: Victory's Denial
 
 **🔗 Links:**
 *   [Now News Archive](https://news.now.com/home/local/player?newsId=628390)
-*   [Minute 12 (The Defects)](http://www.wangfuk.org/html/meeting/12/2025-10-27%20%E7%AC%AC12%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-09-29%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
+*   [Minute 12 (The Defects)](http://www.wangfuk.org/html/meeting/12/2025-10-27%20%E7%AC%AC12%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-09-29%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf) | [Markdown](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md)
 
 ---
 
