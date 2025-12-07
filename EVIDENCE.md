@@ -45,7 +45,7 @@ The data exposes a clear strategy: Win the maintenance contract with an absurdly
 
 **🔗 Links:**
 *   [Sing Tao Archive](https://www.singtaousa.com/index.php/2025-11-28/%E5%A4%A7%E5%9F%94%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C8%E5%BB%88%E8%AD%A6%E9%90%98%E5%A4%B1%E9%9D%88-%E6%B6%88%E9%98%B2%E6%89%BF%E8%BE%A6%E5%95%86%E5%AE%8F%E6%B3%B0%E5%A5%AA/5389260)
-*   [MC Minutes (Source of Data)](http://www.wangfuk.org/html/meeting/index.htm)
+*   [MC Minutes (Source)](http://www.wangfuk.org/html/meeting/index.htm)
 
 ---
 
