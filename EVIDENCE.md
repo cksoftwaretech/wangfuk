@@ -744,6 +744,58 @@ While media (HK01, InMedia) recorded the "sloppy" quote, the **official governme
 
 ---
 
+### 🆔 [E-GOV-2025-12-01-02] The 95% vs 35% Paradox: A Statistical Miracle?
+
+**🚨 Significance:**
+
+A massive statistical anomaly exists between the ICAC's inventory findings and the Government's field test results, suggesting that the "rigorous" post-fire inspection was either deeply flawed or the sampling method remained biased.
+
+**1. The Inventory Reality (95% Fake):**
+ICAC investigation confirms the contractors purchased **2,300 rolls** of non-compliant nets and only **115 rolls** of compliant nets.
+*   *Math:* 115 ÷ (2300 + 115) = **4.76%**.
+*   *Implication:* Theoretically, **95.2%** of the nets on the buildings should be flammable.
+
+**2. The Test Reality (35% Failed):**
+Security Bureau Chief Chris Tang claimed that out of 20 samples taken from "high, medium, and low" levels, only **7 failed**.
+*   *Math:* 7 ÷ 20 = **35% Failure Rate** (meaning **65% Passed**).
+
+**3. The Logical Void:**
+How can a building wrapped in **95% fake nets** yield a test result where **65% of samples pass**?
+*   *Hypothesis A (The "Sloppy" Persists):* Even when "climbing out", inspectors largely stayed within the "Decoy Zone" (the 5% compliant area).
+*   *Hypothesis B (The "Moving Goalpost"):* The testing criteria for "compliance" were lowered or inconsistent with the ICAC's definition of "compliant."
+*   *Conclusion:* The discrepancy of **60 percentage points** is statistically inexplicable by random sampling.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Inventory (The 95% Defect)**
+> *Source: ICAC (via news.gov.hk) / 2025-12-01*
+>
+> "購買 **2,300卷**...未達阻燃標準... 購買 **115卷**...達阻燃標準"
+>
+> *Translation:*
+> "Purchased **2,300 rolls**... non-compliant... Purchased **115 rolls**... compliant."
+> *(Ratio: ~95% Bad)*
+
+> **Evidence [B]: The Field Test (The 35% Defect)**
+> *Source: news.gov.hk / 2025-12-01*
+>
+> "檢取共 **20個樣本** 進行測試，其中 **七個樣本** 並不合乎阻燃標準。"
+>
+> *Translation:*
+> "Collected **20 samples** for testing, of which **7 samples** did not meet fire-retardant standards."
+> *(Ratio: 35% Bad)*
+
+**📅 Timeline:**
+*   **2025-12-01 (16:29):** Chris Tang announces 7/20 failed (35%).
+*   **2025-12-01 (16:29):** ICAC announces 2300 vs 115 rolls (95%).
+*   *(Note: These two announcements happened almost simultaneously, masking the contradiction.)*
+
+**🔗 Links:**
+*   [Security Bureau Statement (The Test)](https://www.news.gov.hk/chi/2025/12/20251201/20251201_162907_879.html)
+*   [ICAC Statement (The Inventory)](https://www.news.gov.hk/chi/2025/12/20251201/20251201_162941_981.html)
+
+---
+
 ### 🆔 [E-MEDIA-2025-11-27-01] The "Stenography Journalism" & The Missed Scam
 
 **🚨 Significance:**
