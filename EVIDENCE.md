@@ -49,6 +49,88 @@ The data exposes a clear strategy: Win the maintenance contract with an absurdly
 
 ---
 
+### 🆔 [E-SAFETY-2024-01-28-01] The "Fireproof" Paradox: Paying for Safety, Getting a Death Trap
+
+**🚨 Significance:**
+
+A catastrophic failure in construction safety management turned the primary escape route into a smoke funnel. Despite owners voting overwhelmingly (76.82%) to pay **5 times more** (HK$992,000 vs HK$198,400) for high-spec Fire Rated Windows to enhance safety, the Contractor (**Prestige/宏業**) removed the windows during renovation and replaced them with **perforated wooden boards** to facilitate worker access.
+
+**1. The Fatal irony:**
+*   **What was paid for:** 316 Stainless Steel, sealed, fire-rated windows designed to prevent smoke ingress.
+*   **What was installed:** Wooden boards with holes, which are flammable and allow smoke to freely enter the staircase.
+*   **The Consequence:** During the fire, these "convenience holes" allowed thick smoke to penetrate the staircase—the only vertical escape route—turning it into a chimney. Residents reported the staircase was "filled with thick smoke", directly contributing to the high casualty count in **Wang Tai Court** (82 deaths), which was not even the fire's origin.
+
+**2. The Regulatory Violation:**
+This practice flagrantly violates the **Code of Practice for Fire Safety in Buildings 2011**, Section C9.7, which mandates that staircase openings must be protected by fixed windows with fire resistance ratings equal to the staircase walls.
+*   *Expert Opinion:* Engineer Lau Tak-on called it "completely unacceptable", noting that even temporary openings require fire-resistant sealing (e.g., gypsum board, fire wool), not just "a piece of wood with a hole."
+
+**3. The Missing Upgrade:**
+Minutes from Nov 15, 2025 (11 days before the fire) record an additional HK$297,600 spent to upgrade frames to "316 Stainless Steel." Yet, on-site inspection at Wang Tai Court revealed that on floors 5, 10, 15, 20, and 25, **no such frames were visible**—only the deadly wooden boards or gaping holes remained.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Owners' Choice (Safety First)**
+> *Source: 11th MC EGM Minutes / 2024-01-28*
+>
+> | Option | Cost | Vote % |
+> | :--- | :--- | :--- |
+> | Repair Existing | HK$198,400 | 23.18% |
+> | **Replace with Fire Rated Windows** | **HK$992,000** | **76.82%** |
+>
+> *(Analysis: Owners explicitly paid a premium for safety.)*
+
+> **Evidence [B]: The Owners' Choice (Safety First)**
+> *Source: 12th MC Meeting Minutes (No. 7) / 2024-11-15*
+>
+>**5** "經工程會議商討後建議將上述窗框物料升級為 316 不銹鋼...合共為$297,600...各委員一致贊成通過"
+>
+> *Translation:*
+>"After discussion...the upgrade proposal of the above window frame materials to 316 stainless steel...a total cost of $297,600...unanimously approved"
+
+> **Evidence [C]: The Deadly Reality (Wooden Boards)**
+> *Source: The Collective HK (集誌社) / 2025-12-05*
+>
+> "宏泰閣逃生梯在原來窗口位置，裝了一塊「**開窿、漏罅**」的木板... 李先生形容「後樓梯係求生的唯一通道， 𠵱家係畀人鑿穿咗後欄，任濃煙入到應最遲先入嘅地方...」"
+>
+> *Translation:*
+> "In Wang Tai Court's escape staircase... a '**perforated, leaky**' wooden board was installed... Mr. Lee described: 'The rear staircase is the only survival route, now someone has chiseled through the back door, allowing thick smoke to enter where it should enter last...'"
+
+> **Evidence [D]: The "Missing" Steel Frames**
+> *Source: The Collective HK (集誌社)*
+>
+> "宏泰閣... 在 5 樓 、10樓、15 樓、20 樓、25 樓，亦**未能見到「日」字型的窗框**..."
+>
+> *Translation:*
+> "Wang Tai Court... on floors 5, 10, 15, 20, 25, **the 'Sun' shaped [stainless steel] window frames were not visible**..."
+> *(Analysis: This contradicts the Nov 15 minutes approving the steel upgrade. Where did the money go?)*
+
+> **Evidence [E]: Death Toll in Wang Tai Court**
+> *Source: TVB News / 2025-12-03*
+>
+> "宏昌閣及宏泰閣，分別有70及82人喪生"
+>
+> *Translation:*
+> "Wang Cheung Court and Wang Tai Court...70 and 82 fatalities respectively"
+
+**¶ Statutory Basis:**
+
+*   **Requirement:** Protection of Required Staircases (Openings must have Fire Resistance Rating).
+*   **Provision:** Code of Practice for Fire Safety in Buildings 2011, Section C9.7 & Building (Construction) Regulations, Reg 35.
+*   **Ref:** [BD Code 2011](https://www.bd.gov.hk/doc/tc/resources/codes-and-references/code-and-design-manuals/fs_code2011_c.pdf) | [eLegislation Cap. 123Q Section 35](https://www.elegislation.gov.hk/hk/cap123Q!en/s35?_lang=en)
+
+**📅 Timeline:**
+*   **2024-01-28:** Owners vote for HK$992k Fire Windows.
+*   **2025-11-15:** MC approves extra HK$297k for Steel Upgrade.
+*   **2025-11-26:** The Fire (Smoke enters via wooden boards).
+
+**🔗 Links:**
+*   [The Collective Report](https://thecollectivehk.com/宏福苑五級火直擊走火樓梯漏洞密封窗疑變開窿)
+*   [Minutes EGM (Fire Rated Windows)](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf)
+*   [Minutes 7 (Steel Frame)](http://www.wangfuk.org/html/meeting/12/第7次全體委員會議記錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-11-15%20第十二屆第七次會議紀錄.pdf)
+*   [Deaths in Wang Tai Court](https://news.tvb.com/tc/local/69300a52ada134dbdf40370d/港澳-宏福苑五級火｜增至159死-絕大部分來自宏昌宏泰閣)
+
+---
+
 ### 🆔 [E-SAFETY-2024-06-27-01] The "Out of Stock" Hoax & The "Free Upgrade" Trap
 
 **🚨 Significance:**
