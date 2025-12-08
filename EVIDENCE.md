@@ -650,7 +650,7 @@ To cover up this "sloppiness," the narrative was shifted to blame "cunning crimi
 *   *Logical Flaw:* It is economically improbable for a contractor to strategically "stripe" a building with different nets just to fool inspectors. It is far more likely they used a mixed batch of cheap/illegal nets throughout, and the government simply didn't bother to check the upper floors initially.
 
 **4. The Sanitization:**
-While media (HK01, InMedia) recorded the "sloppy" quote, the **official government press release (news.gov.hk)** removed the word "草率" entirely. This effectively scrubbed the record of any admission of procedural weakness.
+While media (HK01, InMedia) recorded the "sloppy" quote, the **official government press release (news.gov.hk)** removed the word "草率" entirely. 
 
 **📜 Original Record:**
 
