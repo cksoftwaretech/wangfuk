@@ -1,65 +1,38 @@
-### 🆔 [E-SAFETY-2015-12-31-01] The "Standard" Trap: Why "Compliant" Nets Can Still Burn Down a Building
+### 🆔 [E-ADMIN-2025-12-04-02] The Chairman's fatal ignorance on safety status
 
 **🚨 Significance:**
 
-Investigation reveals that the government's claim of "Compliance" relies on a systemic loophole involving the **Chinese National Standard (GB 5725-2009)**. While accepted by the Labour Department, this standard is fundamentally designed for **"Fall Protection"** (Safety Nets), not **"Fire Protection"** (Fire Retardant Fabrics).
-
-**1. The "Lowest Common Denominator":**
-Hong Kong accepts three standards: US (NFPA 701), UK (BS 5867), and China (GB 5725).
-*   **US/UK Standards:** Rigorous tests for vertical flame spread, specifically for fabrics/curtains. Crucially, they require testing **before and after washing/leaching**.
-*   **China Standard (GB 5725):** Primarily a "Safety Net" standard for catching falling objects. Its fire test is less stringent (allows 4s afterflame vs 2s in US) and, most critically, has **no water washing requirement** (無水洗要求).
-
-**2. The "Rain-Wash" Vulnerability:**
-The lack of a washing requirement in GB 5725 allows manufacturers to use cheap, water-soluble fire retardant coatings.
-*   *The Scenario:* A net passes the lab test → gets installed → it rains → the fire retardant washes off → the net becomes highly flammable.
-*   *The Link:* This explains why "compliant" nets might fail catastrophically in a real fire after exposure to weather.
-
-**3. The Statistical Anomaly Explained:**
-This loophole provides a potential explanation for the massive discrepancy between the ICAC's inventory (95% fake) and the Government's field test (65% pass) [[E-GOV-2025-12-01-02]](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-gov-2025-12-01-02-the-95-vs-35-paradox-a-statistical-miracle). If the "compliant" nets were merely coated with temporary retardants that washed off, or if the testing criteria for "compliance" were based on the looser GB standard, the results would be heavily skewed.
-
-**4. Misplaced Purpose:**
-Using a "Fall Protection" standard to regulate "Fire Spread" on high-rise facades is a category error. GB 5725 explicitly states its scope is "preventing people/objects from falling," not acting as a fire barrier for skyscrapers.
+On December 4, 2025, MC Chairman Tsui Man-kam admitted to the press he was "**unclear**" whether the critical fire safety repairs (approved Sep 29) had been completed before the fire. This admission reveals a fatal governance failure: the MC approved the $144,170 contract covering essential components like **inlet valves** and **fire bells**, but failed to monitor its execution. Consequently, when the disaster struck, the estate's top decision-maker did not know if the life-saving systems were operational or dismantled for maintenance.
 
 **📜 Original Record:**
 
-> **Evidence [A]: The "No Wash" Loophole**
-> *Source: HK01 / 2025-12-01*
+> **Evidence [A]: The Admission of Ignorance**
+> *Source: Now News / 2025-12-04*
 >
-> "根據英國及美國標準，所有測試樣本都要在水洗前後進行測試；但中國標準則**無水洗要求**。"
->
-> *Translation:*
-> "According to UK and US standards, all samples must be tested before and after washing; but the Chinese standard has **no water washing requirement**."
-
-> **Evidence [B]: The Scope of GB 5725**
-> *Source: GB 5725-2009 Standard Document*
->
-> "本標準適用於...防止人員或物體墜落的安全網。...縱、橫方向的續燃及陰燃時間不應大於4 s。"
+> "本台向業主立案法團主席徐滿柑查詢，他表示**不清楚該次的消防執修工程是否已經完成**。"
 >
 > *Translation:*
-> "This standard applies to... safety nets for preventing falls of persons or objects... Afterflame and afterglow time shall not exceed 4 s."
-> *(Analysis: Fire resistance is a minor clause, not the primary design goal.)*
+> "Now News enquired with MC Chairman **Tsui Man-kam**, who stated he **was unclear whether that specific fire rectification work had been completed.**"
 
-> **Evidence [C]: The Government's Acceptance**
-> *Source: Labour Dept Code of Practice for Bamboo Scaffolding*
+> **Evidence [B]: The Project He Approved**
+> *Source: 12th MC Meeting Minutes (No. 12) / 2025-09-29*
 >
-> "以下列出認可標準的例子... (i) GB 5725-2009 - 安全網..."
+> **10.3**
+> "經商議後，徐主席動議由最低報價的「宏泰消防工程有限公司」進行消防設備執修工作，各委員一致贊成通過。"
 >
 > *Translation:*
-> "Examples of accepted standards... (i) GB 5725-2009 - Safety Nets..."
+> "After discussion, **Chairman Tsui moved** to have the lowest bidder, 'Victory Fire Engineering', conduct the fire equipment rectification works; all members unanimously approved."
 
-**¶ Statutory Basis:**
+> **Evidence [C]: The Project Timeline**
+> *Source: 12th MC Meeting Minutes (No. 13) / 2025-11-07*
+>
+> *Note: Just 19 days before the fire, the minutes were amended regarding this specific project (correcting the "Lift/Monthly" error), proving the project was fresh on the agenda.*
 
-*   **Regulation:** [Code of Practice for Bamboo Scaffolding Safety (Labour Department)](https://www.labour.gov.hk/tc/public/pdf/os/B/Bamboo.pdf).
-*   **Standard:** [GB 5725-2009 (Safety Nets)](https://slgcfy.ylvtc.cn/__local/E/2A/A6/D261E552E92AF2309E741C0E66D_D4B58DB4_AFD4A.pdf).
-
-**📅 Timeline:**
-*   **~2015:** HK Govt begins accepting GB 5725 (approx. 10 years ago).
-*   **2025-11-26:** The Fire (Nets likely washed by rain prior to fire).
-*   **2025-12-01:** Media exposes the "No Wash" difference.
+**📅 Date:** 2025-12-04
 
 **🔗 Links:**
-*   [HK01 Investigation](https://www.hk01.com/社會新聞/60299460)
-*   [Dr. Gavin Chiu Analysis](https://www.facebook.com/drgavinchiu/posts/pfbid02stD19K1LTYJFwtQmZjnT41TbwrK2yRZSoMWQXVoAujzozY7epq87An82LSizcdhAl)
+*   [Now News Archive](https://news.now.com/home/local/player?newsId=628390)
+*   [Minutes 12](http://www.wangfuk.org/html/meeting/12/2025-10-27%20%E7%AC%AC12%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-09-29%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf) | [Markdown](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md)
 
 ---
 
@@ -558,60 +531,6 @@ The decision to replace these valves was finalized on **November 7, 2025**. The 
 
 ---
 
-### 🆔 [E-SAFETY-2025-11-20-01] The "Paper Shield": How 16 Inspections Missed the Fire Trap
-
-**🚨 Significance:**
-
-The Labour Department (LD) conducted **16 inspections** between July 2024 and Nov 2025 (the last one just 6 days before the fire) but failed to detect the flammable nets. This failure stems from a systemic flaw: inspections focus on verifying **"Paper Certificates"** rather than testing the **"Physical Material"**.
-
-**1. The "Audit by Paper" Loophole:**
-The LD confirmed their inspection method involved "checking the Product Quality Certificates".
-*   *The Trick:* As exposed by the ICAC, the contractors bought a small batch of legitimate nets to obtain valid certificates.
-*   *The Failure:* Inspectors accepted these certificates as proof for the *entire* site. They did not conduct on-site combustion tests, allowing 2,300 rolls of fake nets to hide behind a single piece of paper.
-
-**2. Industry Verdict: "Certificates are Waste Paper":**
-Expert Ho Ping-tak (HK Scaffolding Professionals Union) describes the regulatory reliance on certificates as fatal.
-*   *The Reality:* "Certificates are waste paper... If the certificate says it's a dog, [the inspector accepts] it's a dog."
-*   *The Blind Spot:* Visually, fire-retardant and flammable nets look identical. Without physical testing, visual inspection is useless. Ho explicitly states: "Focusing on certificates is wrong... it will kill people."
-
-**3. The 16 Missed Opportunities:**
-The fact that 16 separate site visits resulted in zero findings regarding the nets proves that the current inspection protocol is **performative** rather than **functional**. The system is designed to check boxes, not to ensure safety.
-
-**📜 Original Record:**
-
-> **Evidence [A]: The Official Defense (We Checked the Paper)**
-> *Source: The Witness / 2025-11-27*
->
-> "勞工處...共進行了 **16 次巡查**...查看屋苑棚架上俗稱「棚網」的保護幕之**產品質量證書**是否符合要求..."
->
-> *Translation:*
-> "Labour Department... conducted **16 inspections**... checking if the **Product Quality Certificates** of the scaffolding nets met requirements..."
-
-> **Evidence [B]: The Industry Reality (Paper is Trash)**
-> *Source: The Witness / 2025-11-27*
->
-> "何炳德直言，「...證書好假㗎咋！」...形容「**證書等於一張廢紙**... 證書話佢係狗就係狗...」...「你唔現場試過，完全憑證書，係會**害死人**」"
->
-> *Translation:*
-> "Ho Ping-tak stated bluntly, '...Certificates are very fake!'... describing 'A **certificate is equivalent to a piece of waste paper**... If the certificate says it's a dog, it's a dog...' ... 'If you don't test on-site and rely solely on certificates, it will **kill people**.'"
-
-**¶ Statutory Basis:**
-
-*   **Duty:** General duties of proprietors (ensure safety at work).
-*   **Provision:** [Factories and Industrial Undertakings Ordinance (Cap. 59), Section 6A](https://www.elegislation.gov.hk/hk/cap59!en/s6A?_lang=en).
-
-**📅 Timeline:**
-*   **2024-07 to 2025-11:** 16 LD Inspections conducted.
-*   **2025-11-20:** Last inspection (Passed based on paper).
-*   **2025-11-26:** The Fire (Paper burns, truth revealed).
-
-**🔗 Links:**
-*   [The Witness Report (Official Response)](https://thewitnesshk.com/宏福苑五級火-勞工處證書顯示棚網阻燃符標準-曾巡/)
-*   [The Witness Report (Expert Opinion)](https://thewitnesshk.com/宏福苑五級火-兩部門守則指棚網應具阻燃性-業界指/)
-*   ICAC Statement: [[E-SAFETY-2025-10-31-01]](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-2025-10-31-01-the-price-of-life-hk593-per-victim--the-5-decoy)
-
----
-
 ### 🆔 [E-SAFETY-2025-12-03-01] The "Silent" Alarm Mystery: Official Chaos & The 2-Year Penalty for 159 Lives
 
 **🚨 Significance:**
@@ -768,41 +687,122 @@ These are documented discrepancies. The public can judge what they mean.
 
 ---
 
-### 🆔 [E-SAFETY-2025-12-04-02] The Chairman's fatal ignorance on safety status
+### 🆔 [E-GOV-2015-12-31-01] The "Standard" Trap: Why "Compliant" Nets Can Still Burn Down a Building
 
 **🚨 Significance:**
 
-On December 4, 2025, MC Chairman Tsui Man-kam admitted to the press he was "**unclear**" whether the critical fire safety repairs (approved Sep 29) had been completed before the fire. This admission reveals a fatal governance failure: the MC approved the $144,170 contract covering essential components like **inlet valves** and **fire bells**, but failed to monitor its execution. Consequently, when the disaster struck, the estate's top decision-maker did not know if the life-saving systems were operational or dismantled for maintenance.
+Investigation reveals that the government's claim of "Compliance" relies on a systemic loophole involving the **Chinese National Standard (GB 5725-2009)**. While accepted by the Labour Department, this standard is fundamentally designed for **"Fall Protection"** (Safety Nets), not **"Fire Protection"** (Fire Retardant Fabrics).
+
+**1. The "Lowest Common Denominator":**
+Hong Kong accepts three standards: US (NFPA 701), UK (BS 5867), and China (GB 5725).
+*   **US/UK Standards:** Rigorous tests for vertical flame spread, specifically for fabrics/curtains. Crucially, they require testing **before and after washing/leaching**.
+*   **China Standard (GB 5725):** Primarily a "Safety Net" standard for catching falling objects. Its fire test is less stringent (allows 4s afterflame vs 2s in US) and, most critically, has **no water washing requirement** (無水洗要求).
+
+**2. The "Rain-Wash" Vulnerability:**
+The lack of a washing requirement in GB 5725 allows manufacturers to use cheap, water-soluble fire retardant coatings.
+*   *The Scenario:* A net passes the lab test → gets installed → it rains → the fire retardant washes off → the net becomes highly flammable.
+*   *The Link:* This explains why "compliant" nets might fail catastrophically in a real fire after exposure to weather.
+
+**3. The Statistical Anomaly Explained:**
+This loophole provides a potential explanation for the massive discrepancy between the ICAC's inventory (95% fake) and the Government's field test (65% pass) [[E-GOV-2025-12-01-02]](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-gov-2025-12-01-02-the-95-vs-35-paradox-a-statistical-miracle). If the "compliant" nets were merely coated with temporary retardants that washed off, or if the testing criteria for "compliance" were based on the looser GB standard, the results would be heavily skewed.
+
+**4. Misplaced Purpose:**
+Using a "Fall Protection" standard to regulate "Fire Spread" on high-rise facades is a category error. GB 5725 explicitly states its scope is "preventing people/objects from falling," not acting as a fire barrier for skyscrapers.
 
 **📜 Original Record:**
 
-> **Evidence [A]: The Admission of Ignorance**
-> *Source: Now News / 2025-12-04*
+> **Evidence [A]: The "No Wash" Loophole**
+> *Source: HK01 / 2025-12-01*
 >
-> "本台向業主立案法團主席徐滿柑查詢，他表示**不清楚該次的消防執修工程是否已經完成**。"
->
-> *Translation:*
-> "Now News enquired with MC Chairman **Tsui Man-kam**, who stated he **was unclear whether that specific fire rectification work had been completed.**"
-
-> **Evidence [B]: The Project He Approved**
-> *Source: 12th MC Meeting Minutes (No. 12) / 2025-09-29*
->
-> **10.3**
-> "經商議後，徐主席動議由最低報價的「宏泰消防工程有限公司」進行消防設備執修工作，各委員一致贊成通過。"
+> "根據英國及美國標準，所有測試樣本都要在水洗前後進行測試；但中國標準則**無水洗要求**。"
 >
 > *Translation:*
-> "After discussion, **Chairman Tsui moved** to have the lowest bidder, 'Victory Fire Engineering', conduct the fire equipment rectification works; all members unanimously approved."
+> "According to UK and US standards, all samples must be tested before and after washing; but the Chinese standard has **no water washing requirement**."
 
-> **Evidence [C]: The Project Timeline**
-> *Source: 12th MC Meeting Minutes (No. 13) / 2025-11-07*
+> **Evidence [B]: The Scope of GB 5725**
+> *Source: GB 5725-2009 Standard Document*
 >
-> *Note: Just 19 days before the fire, the minutes were amended regarding this specific project (correcting the "Lift/Monthly" error), proving the project was fresh on the agenda.*
+> "本標準適用於...防止人員或物體墜落的安全網。...縱、橫方向的續燃及陰燃時間不應大於4 s。"
+>
+> *Translation:*
+> "This standard applies to... safety nets for preventing falls of persons or objects... Afterflame and afterglow time shall not exceed 4 s."
+> *(Analysis: Fire resistance is a minor clause, not the primary design goal.)*
 
-**📅 Date:** 2025-12-04
+> **Evidence [C]: The Government's Acceptance**
+> *Source: Labour Dept Code of Practice for Bamboo Scaffolding*
+>
+> "以下列出認可標準的例子... (i) GB 5725-2009 - 安全網..."
+>
+> *Translation:*
+> "Examples of accepted standards... (i) GB 5725-2009 - Safety Nets..."
+
+**¶ Statutory Basis:**
+
+*   **Regulation:** [Code of Practice for Bamboo Scaffolding Safety (Labour Department)](https://www.labour.gov.hk/tc/public/pdf/os/B/Bamboo.pdf).
+*   **Standard:** [GB 5725-2009 (Safety Nets)](https://slgcfy.ylvtc.cn/__local/E/2A/A6/D261E552E92AF2309E741C0E66D_D4B58DB4_AFD4A.pdf).
+
+**📅 Timeline:**
+*   **~2015:** HK Govt begins accepting GB 5725 (approx. 10 years ago).
+*   **2025-11-26:** The Fire (Nets likely washed by rain prior to fire).
+*   **2025-12-01:** Media exposes the "No Wash" difference.
 
 **🔗 Links:**
-*   [Now News Archive](https://news.now.com/home/local/player?newsId=628390)
-*   [Minutes 12](http://www.wangfuk.org/html/meeting/12/2025-10-27%20%E7%AC%AC12%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-09-29%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf) | [Markdown](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md)
+*   [HK01 Investigation](https://www.hk01.com/社會新聞/60299460)
+*   [Dr. Gavin Chiu Analysis](https://www.facebook.com/drgavinchiu/posts/pfbid02stD19K1LTYJFwtQmZjnT41TbwrK2yRZSoMWQXVoAujzozY7epq87An82LSizcdhAl)
+
+---
+
+### 🆔 [E-GOV-2025-11-20-01] The "Paper Shield": How 16 Inspections Missed the Fire Trap
+
+**🚨 Significance:**
+
+The Labour Department (LD) conducted **16 inspections** between July 2024 and Nov 2025 (the last one just 6 days before the fire) but failed to detect the flammable nets. This failure stems from a systemic flaw: inspections focus on verifying **"Paper Certificates"** rather than testing the **"Physical Material"**.
+
+**1. The "Audit by Paper" Loophole:**
+The LD confirmed their inspection method involved "checking the Product Quality Certificates".
+*   *The Trick:* As exposed by the ICAC, the contractors bought a small batch of legitimate nets to obtain valid certificates.
+*   *The Failure:* Inspectors accepted these certificates as proof for the *entire* site. They did not conduct on-site combustion tests, allowing 2,300 rolls of fake nets to hide behind a single piece of paper.
+
+**2. Industry Verdict: "Certificates are Waste Paper":**
+Expert Ho Ping-tak (HK Scaffolding Professionals Union) describes the regulatory reliance on certificates as fatal.
+*   *The Reality:* "Certificates are waste paper... If the certificate says it's a dog, [the inspector accepts] it's a dog."
+*   *The Blind Spot:* Visually, fire-retardant and flammable nets look identical. Without physical testing, visual inspection is useless. Ho explicitly states: "Focusing on certificates is wrong... it will kill people."
+
+**3. The 16 Missed Opportunities:**
+The fact that 16 separate site visits resulted in zero findings regarding the nets proves that the current inspection protocol is **performative** rather than **functional**. The system is designed to check boxes, not to ensure safety.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Official Defense (We Checked the Paper)**
+> *Source: The Witness / 2025-11-27*
+>
+> "勞工處...共進行了 **16 次巡查**...查看屋苑棚架上俗稱「棚網」的保護幕之**產品質量證書**是否符合要求..."
+>
+> *Translation:*
+> "Labour Department... conducted **16 inspections**... checking if the **Product Quality Certificates** of the scaffolding nets met requirements..."
+
+> **Evidence [B]: The Industry Reality (Paper is Trash)**
+> *Source: The Witness / 2025-11-27*
+>
+> "何炳德直言，「...證書好假㗎咋！」...形容「**證書等於一張廢紙**... 證書話佢係狗就係狗...」...「你唔現場試過，完全憑證書，係會**害死人**」"
+>
+> *Translation:*
+> "Ho Ping-tak stated bluntly, '...Certificates are very fake!'... describing 'A **certificate is equivalent to a piece of waste paper**... If the certificate says it's a dog, it's a dog...' ... 'If you don't test on-site and rely solely on certificates, it will **kill people**.'"
+
+**¶ Statutory Basis:**
+
+*   **Duty:** General duties of proprietors (ensure safety at work).
+*   **Provision:** [Factories and Industrial Undertakings Ordinance (Cap. 59), Section 6A](https://www.elegislation.gov.hk/hk/cap59!en/s6A?_lang=en).
+
+**📅 Timeline:**
+*   **2024-07 to 2025-11:** 16 LD Inspections conducted.
+*   **2025-11-20:** Last inspection (Passed based on paper).
+*   **2025-11-26:** The Fire (Paper burns, truth revealed).
+
+**🔗 Links:**
+*   [The Witness Report (Official Response)](https://thewitnesshk.com/宏福苑五級火-勞工處證書顯示棚網阻燃符標準-曾巡/)
+*   [The Witness Report (Expert Opinion)](https://thewitnesshk.com/宏福苑五級火-兩部門守則指棚網應具阻燃性-業界指/)
+*   ICAC Statement: [[E-SAFETY-2025-10-31-01]](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-2025-10-31-01-the-price-of-life-hk593-per-victim--the-5-decoy)
 
 ---
 
