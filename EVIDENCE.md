@@ -1,3 +1,68 @@
+### 🆔 [E-SAFETY-2015-12-31-01] The "Standard" Trap: Why "Compliant" Nets Can Still Burn Down a Building
+
+**🚨 Significance:**
+
+Investigation reveals that the government's claim of "Compliance" relies on a systemic loophole involving the **Chinese National Standard (GB 5725-2009)**. While accepted by the Labour Department, this standard is fundamentally designed for **"Fall Protection"** (Safety Nets), not **"Fire Protection"** (Fire Retardant Fabrics).
+
+**1. The "Lowest Common Denominator":**
+Hong Kong accepts three standards: US (NFPA 701), UK (BS 5867), and China (GB 5725).
+*   **US/UK Standards:** Rigorous tests for vertical flame spread, specifically for fabrics/curtains. Crucially, they require testing **before and after washing/leaching**.
+*   **China Standard (GB 5725):** Primarily a "Safety Net" standard for catching falling objects. Its fire test is less stringent (allows 4s afterflame vs 2s in US) and, most critically, has **no water washing requirement** (無水洗要求).
+
+**2. The "Rain-Wash" Vulnerability:**
+The lack of a washing requirement in GB 5725 allows manufacturers to use cheap, water-soluble fire retardant coatings.
+*   *The Scenario:* A net passes the lab test → gets installed → it rains → the fire retardant washes off → the net becomes highly flammable.
+*   *The Link:* This explains why "compliant" nets might fail catastrophically in a real fire after exposure to weather.
+
+**3. The Statistical Anomaly Explained:**
+This loophole provides a potential explanation for the massive discrepancy between the ICAC's inventory (95% fake) and the Government's field test (65% pass) [[E-GOV-2025-12-01-02]](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-gov-2025-12-01-02-the-95-vs-35-paradox-a-statistical-miracle). If the "compliant" nets were merely coated with temporary retardants that washed off, or if the testing criteria for "compliance" were based on the looser GB standard, the results would be heavily skewed.
+
+**4. Misplaced Purpose:**
+Using a "Fall Protection" standard to regulate "Fire Spread" on high-rise facades is a category error. GB 5725 explicitly states its scope is "preventing people/objects from falling," not acting as a fire barrier for skyscrapers.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The "No Wash" Loophole**
+> *Source: HK01 / 2025-12-01*
+>
+> "根據英國及美國標準，所有測試樣本都要在水洗前後進行測試；但中國標準則**無水洗要求**。"
+>
+> *Translation:*
+> "According to UK and US standards, all samples must be tested before and after washing; but the Chinese standard has **no water washing requirement**."
+
+> **Evidence [B]: The Scope of GB 5725**
+> *Source: GB 5725-2009 Standard Document*
+>
+> "本標準適用於...防止人員或物體墜落的安全網。...縱、橫方向的續燃及陰燃時間不應大於4 s。"
+>
+> *Translation:*
+> "This standard applies to... safety nets for preventing falls of persons or objects... Afterflame and afterglow time shall not exceed 4 s."
+> *(Analysis: Fire resistance is a minor clause, not the primary design goal.)*
+
+> **Evidence [C]: The Government's Acceptance**
+> *Source: Labour Dept Code of Practice for Bamboo Scaffolding*
+>
+> "以下列出認可標準的例子... (i) GB 5725-2009 - 安全網..."
+>
+> *Translation:*
+> "Examples of accepted standards... (i) GB 5725-2009 - Safety Nets..."
+
+**¶ Statutory Basis:**
+
+*   **Regulation:** [Code of Practice for Bamboo Scaffolding Safety (Labour Department)](https://www.labour.gov.hk/tc/public/pdf/os/B/Bamboo.pdf).
+*   **Standard:** [GB 5725-2009 (Safety Nets)](https://slgcfy.ylvtc.cn/__local/E/2A/A6/D261E552E92AF2309E741C0E66D_D4B58DB4_AFD4A.pdf).
+
+**📅 Timeline:**
+*   **~2015:** HK Govt begins accepting GB 5725 (approx. 10 years ago).
+*   **2025-11-26:** The Fire (Nets likely washed by rain prior to fire).
+*   **2025-12-01:** Media exposes the "No Wash" difference.
+
+**🔗 Links:**
+*   [HK01 Investigation](https://www.hk01.com/社會新聞/60299460)
+*   [Dr. Gavin Chiu Analysis](https://www.facebook.com/drgavinchiu/posts/pfbid02stD19K1LTYJFwtQmZjnT41TbwrK2yRZSoMWQXVoAujzozY7epq87An82LSizcdhAl)
+
+---
+
 ### 🆔 [E-SAFETY-2016-01-01-01] The "Mathematical Impossibility" & The Parasitic Business Model
 
 **🚨 Significance:**
