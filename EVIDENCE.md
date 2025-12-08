@@ -115,8 +115,7 @@ Minutes from Nov 15, 2024 record an additional HK$297,600 spent to upgrade frame
 **¶ Statutory Basis:**
 
 *   **Requirement:** Protection of Required Staircases (Openings must have Fire Resistance Rating).
-*   **Provision:** Code of Practice for Fire Safety in Buildings 2011, Section C9.7 & Building (Construction) Regulations, Section 35.
-*   **Ref:** [BD Code 2011](https://www.bd.gov.hk/doc/tc/resources/codes-and-references/code-and-design-manuals/fs_code2011_c.pdf) | [eLegislation Cap. 123Q Section 35](https://www.elegislation.gov.hk/hk/cap123Q!en/s35?_lang=en)
+*   **Provision:** [Code of Practice for Fire Safety in Buildings 2011](https://www.bd.gov.hk/doc/tc/resources/codes-and-references/code-and-design-manuals/fs_code2011_c.pdf), Section C9.7 & [Building (Construction) Regulations, Section 35](https://www.elegislation.gov.hk/hk/cap123Q!en/s35?_lang=en).
 
 **📅 Timeline:**
 *   **2024-01-28:** Owners vote for HK$992k Fire Windows.
@@ -427,8 +426,7 @@ The decision to replace these valves was finalized on **November 7, 2025**. The 
 **¶ Statutory Basis:**
 
 *   **Duty:** Owner must keep fire service installation in efficient working order at all times.
-*   **Provision:** Fire Service (Installations and Equipment) Regulations, Cap. 95A, Section 8
-*   **Ref:** [eLegislation Cap. 95A](https://www.elegislation.gov.hk/hk/cap95A!en/s8?_lang=en)
+*   **Provision:** Fire Service (Installations and Equipment) Regulations, [Cap. 95A, Section 8](https://www.elegislation.gov.hk/hk/cap95A!en/s8?_lang=en)
 
 **📅 Dates:** 
 *   **COW Appointment:** 2025-05-21
@@ -502,8 +500,7 @@ Victory Fire Engineering (宏泰), the long-term maintenance contractor, denied 
 **¶ Statutory Basis:**
 
 *   **Offence:** False statutory declarations and other false statements without oath.
-*   **Provision:** Crimes Ordinance, Cap 200, Section 36.
-*   **Ref:** [eLegislation Cap. 200 Section 36](https://www.elegislation.gov.hk/hk/cap200!en/s36?_lang=en)
+*   **Provision:** Crimes Ordinance, [Cap 200, Section 36](https://www.elegislation.gov.hk/hk/cap200!en/s36?_lang=en).
 
 **🔗 Links:**
 *   [Ming Pao Report](https://news.mingpao.com/pns/%E8%A6%81%E8%81%9E/article/20251129/s00001/1764354153841)
@@ -724,8 +721,7 @@ On 1 December 2025, Lee Yuen Ching (李宛澄), a volunteer who had been coordin
 **¶ Statutory Basis:**
 
 *   **Charge:** Offences in connection with seditious intention (煽動意圖的相關罪行)
-*   **Provision:** Safeguarding National Security Ordinance, Section 24
-*   **Ref:** [eLegislation A305](https://www.elegislation.gov.hk/hk/A305!en/s24?_lang=en)
+*   **Provision:** [Safeguarding National Security Ordinance, Section 24](https://www.elegislation.gov.hk/hk/A305!en/s24?_lang=en)
 
 **📅 Date:** 2025-12-01 | **Type:** Composite Evidence
 
