@@ -558,6 +558,59 @@ The decision to replace these valves was finalized on **November 7, 2025**. The 
 
 ---
 
+### 🆔 [E-SAFETY-2025-11-20-01] The "Paper Shield": How 16 Inspections Missed the Fire Trap
+
+**🚨 Significance:**
+
+The Labour Department (LD) conducted **16 inspections** between July 2024 and Nov 2025 (the last one just 6 days before the fire) but failed to detect the flammable nets. This failure stems from a systemic flaw: inspections focus on verifying **"Paper Certificates"** rather than testing the **"Physical Material"**.
+
+**1. The "Audit by Paper" Loophole:**
+The LD confirmed their inspection method involved "checking the Product Quality Certificates".
+*   *The Trick:* As exposed by the ICAC [[E-SAFETY-2025-10-31-01]](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-2025-10-31-01-the-price-of-life-hk593-per-victim--the-5-decoy), the contractors bought a small batch of legitimate nets to obtain valid certificates.
+*   *The Failure:* Inspectors accepted these certificates as proof for the *entire* site. They did not conduct on-site combustion tests, allowing 2,300 rolls of fake nets to hide behind a single piece of paper.
+
+**2. Industry Verdict: "Certificates are Waste Paper":**
+Expert Ho Ping-tak (HK Scaffolding Professionals Union) describes the regulatory reliance on certificates as fatal.
+*   *The Reality:* "Certificates are waste paper... If the certificate says it's a dog, [the inspector accepts] it's a dog."
+*   *The Blind Spot:* Visually, fire-retardant and flammable nets look identical. Without physical testing, visual inspection is useless. Ho explicitly states: "Focusing on certificates is wrong... it will kill people."
+
+**3. The 16 Missed Opportunities:**
+The fact that 16 separate site visits resulted in zero findings regarding the nets proves that the current inspection protocol is **performative** rather than **functional**. The system is designed to check boxes, not to ensure safety.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Official Defense (We Checked the Paper)**
+> *Source: The Witness / 2025-11-27*
+>
+> "勞工處...共進行了 **16 次巡查**...查看屋苑棚架上俗稱「棚網」的保護幕之**產品質量證書**是否符合要求..."
+>
+> *Translation:*
+> "Labour Department... conducted **16 inspections**... checking if the **Product Quality Certificates** of the scaffolding nets met requirements..."
+
+> **Evidence [B]: The Industry Reality (Paper is Trash)**
+> *Source: The Witness / 2025-11-27*
+>
+> "何炳德直言，「...證書好假㗎咋！」...形容「**證書等於一張廢紙**... 證書話佢係狗就係狗...」...「你唔現場試過，完全憑證書，係會**害死人**」"
+>
+> *Translation:*
+> "Ho Ping-tak stated bluntly, '...Certificates are very fake!'... describing 'A **certificate is equivalent to a piece of waste paper**... If the certificate says it's a dog, it's a dog...' ... 'If you don't test on-site and rely solely on certificates, it will **kill people**.'"
+
+**¶ Statutory Basis:**
+
+*   **Duty:** General duties of proprietors (ensure safety at work).
+*   **Provision:** [Factories and Industrial Undertakings Ordinance (Cap. 59), Section 6A](https://www.elegislation.gov.hk/hk/cap59!en/s6A?_lang=en).
+
+**📅 Timeline:**
+*   **2024-07 to 2025-11:** 16 LD Inspections conducted.
+*   **2025-11-20:** Last inspection (Passed based on paper).
+*   **2025-11-26:** The Fire (Paper burns, truth revealed).
+
+**🔗 Links:**
+*   [The Witness Report (Official Response)](https://thewitnesshk.com/宏福苑五級火-勞工處證書顯示棚網阻燃符標準-曾巡/)
+*   [The Witness Report (Expert Opinion)](https://thewitnesshk.com/宏福苑五級火-兩部門守則指棚網應具阻燃性-業界指/)
+
+---
+
 ### 🆔 [E-SAFETY-2025-12-03-01] The "Silent" Alarm Mystery: Official Chaos & The 2-Year Penalty for 159 Lives
 
 **🚨 Significance:**
