@@ -53,12 +53,12 @@ The data exposes a clear strategy: Win the maintenance contract with an absurdly
 
 **🚨 Significance:**
 
-A catastrophic failure in construction safety management turned the primary escape route into a smoke funnel. Despite owners voting overwhelmingly (76.82%) to pay **5 times more** (HK$992,000 vs HK$198,400) for high-spec Fire Rated Windows to enhance safety, the Contractor (**Prestige/宏業**) removed the windows during renovation and replaced them with **perforated wooden boards** to facilitate worker access.
+A catastrophic failure in construction safety turned the primary escape route into a smoke funnel. Despite owners voting overwhelmingly (76.82%) to pay **5 times more** (HK$992,000 vs HK$198,400) for Fire Rated Windows to enhance safety, the Contractor (**Prestige/宏業**) replaced them with **perforated wooden boards** to facilitate worker access.
 
 **1. The Fatal irony:**
 *   **What was paid for:** 316 Stainless Steel, sealed, fire-rated windows designed to prevent smoke ingress.
 *   **What was installed:** Wooden boards with holes, which are flammable and allow smoke to freely enter the staircase.
-*   **The Consequence:** During the fire, these "convenience holes" allowed thick smoke to penetrate the staircase—the only vertical escape route—turning it into a chimney. Residents reported the staircase was "filled with thick smoke", directly contributing to the high casualty count in **Wang Tai Court** (82 deaths), which was not even the fire's origin.
+*   **The Consequence:** During the fire, these holes allowed thick smoke to penetrate the staircase—the only escape route—turning it into a chimney. The staircase was reportedly "filled with thick smoke", directly contributing to the high casualty count in **Wang Tai Court** (82 deaths), which was not even the fire's origin.
 
 **2. The Regulatory Violation:**
 This practice flagrantly violates the **Code of Practice for Fire Safety in Buildings 2011**, Section C9.7, which mandates that staircase openings must be protected by fixed windows with fire resistance ratings equal to the staircase walls.
