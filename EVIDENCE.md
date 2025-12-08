@@ -484,12 +484,20 @@ Victory Fire Engineering (宏泰), the long-term maintenance contractor, denied 
 > *Translation:*
 > "Police arrested 6... fire installation contractors today. They are suspected of making **false statements** to FSD, falsely claiming the fire alarm would not be switched off during maintenance."
 
-> **Evidence [D]: The Penalty**
+> **Evidence [D]: The Defence**
+> *Source: Now News / 2025-12-04*
+>
+> "記者：「被捕人與你們公司沒有關係？」鍾先生：「完全無關係。」"
+>
+> *Translation:*
+> "Reporter: 'Do the arrested persons have no connection to your company?' Mr Chung [Director, Victory Fire Engineering]: 'Completely unrelated.'"
+
+> **Evidence [E]: The Penalty**
 > *Source: eLegislation Cap 200 s36*
 >
 > "...liable on conviction upon indictment to **imprisonment for 2 years and to a fine**."
 
-> **Evidence [E]: Sentencing Precedents (2025)**
+> **Evidence [F]: Sentencing Precedents (2025)**
 > *Source: HK Criminal Lawyers*
 >
 > "案例 2... 判該公司負責人 **2 個月監禁**..."
@@ -506,6 +514,7 @@ Victory Fire Engineering (宏泰), the long-term maintenance contractor, denied 
 *   [Ming Pao Report](https://news.mingpao.com/pns/%E8%A6%81%E8%81%9E/article/20251129/s00001/1764354153841)
 *   [HK01 Report](https://www.hk01.com/article/60300482)
 *   [The Collective Report](https://thecollectivehk.com/宏福苑五級火年檢揭有消防裝置輕微損壞/)
+*   [Now News Archive](https://news.now.com/home/local/player?newsId=628390)
 *   [Info.gov.hk (Press Conference)](https://www.info.gov.hk/gia/general/202512/03/P2025120300826.htm)
 *   [HK Criminal Lawyers](https://hkcriminallawyers.com/虛假陳述/)
 
