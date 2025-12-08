@@ -96,7 +96,7 @@ Minutes from Nov 15, 2025 (11 days before the fire) record an additional HK$297,
 > "In Wang Tai Court's escape staircase... a '**perforated, leaky**' wooden board was installed... Mr. Lee described: 'The rear staircase is the only survival route, now someone has chiseled through the back door, allowing thick smoke to enter where it should enter last...'"
 
 > **Evidence [D]: The "Missing" Steel Frames**
-> *Source: The Collective HK (集誌社)*
+> *Source: The Collective HK (集誌社) / 2025-12-05*
 >
 > "宏泰閣... 在 5 樓 、10樓、15 樓、20 樓、25 樓，亦**未能見到「日」字型的窗框**..."
 >
@@ -105,7 +105,7 @@ Minutes from Nov 15, 2025 (11 days before the fire) record an additional HK$297,
 > *(Analysis: This contradicts the Nov 15 minutes approving the steel upgrade. Where did the money go?)*
 
 > **Evidence [E]: Death Toll in Wang Tai Court**
-> *Source: TVB News / 2025-12-03*
+> *Source: Multiple*
 >
 > "宏昌閣及宏泰閣，分別有70及82人喪生"
 >
