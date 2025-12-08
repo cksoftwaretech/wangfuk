@@ -127,7 +127,7 @@ Minutes from Nov 15, 2025 (11 days before the fire) record an additional HK$297,
 *   [The Collective Report](https://thecollectivehk.com/宏福苑五級火直擊走火樓梯漏洞密封窗疑變開窿)
 *   [Minutes EGM (Fire Rated Windows)](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf)
 *   [Minutes 7 (Steel Frame)](http://www.wangfuk.org/html/meeting/12/第7次全體委員會議記錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-11-15%20第十二屆第七次會議紀錄.pdf)
-*   [Deaths in Wang Tai Court](https://news.tvb.com/tc/local/69300a52ada134dbdf40370d/港澳-宏福苑五級火｜增至159死-絕大部分來自宏昌宏泰閣)
+*   Deaths in Wang Tai Court: [[1]](https://news.tvb.com/tc/local/69300a52ada134dbdf40370d/港澳-宏福苑五級火｜增至159死-絕大部分來自宏昌宏泰閣) [[2]](https://thecollectivehk.com/宏福苑五級火｜完成七廈搜索159-死-31失聯　宏泰、宏/) [[3]](https://www.hk01.com/突發/60300234/宏福苑大火災-159人死最細1歲-各廈死亡人數一文看清) [[4]](https://zh-yue.wikipedia.org/wiki/宏福苑大火) [[5]](https://www.ettoday.net/news/20251205/3078839.htm) [[6]](https://orientaldaily.on.cc/content/要聞港聞/odn-20251204-1204_00176_023/災廈完成搜索--宏昌宏泰最多人罹難) [[7]](https://hk.news.yahoo.com/share/69333abe-0f92-4c35-9745-938c8ac333a7) [[8]](https://www.stheadline.com/breaking-news/3523579/大埔宏福苑五級火死者分佈一覽-宏昌宏泰閣最嚴重-周一鳴部份單位發現骨頭仍有待檢驗) 
 
 ---
 
