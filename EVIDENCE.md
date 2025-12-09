@@ -899,6 +899,14 @@ The sudden shift to a new protocol—"Test on-site before installation"—acknow
 > *Translation:*
 > "...materials sampled on-site upon delivery, tested by designated labs and confirmed compliant before they can be put up."
 
+> **Evidence [D]: Buildings Department Sampling (Demonstrating rigorous methodology)**
+> *Source: Development Bureau (Transcript)*  
+>  
+> "以屋宇署的採樣為例，他們做了三百幢私人樓宇。其實每一幢樓宇都是用很嚴謹的方法..."  
+>  
+> *Translation:*  
+> "Taking the Buildings Department's sampling as an example, they sampled 300 private buildings. In fact, each building was sampled using very rigorous methods..."
+
 **¶ Statutory Basis:**
 
 *   **Action:** Emergency Administrative Order (Development Bureau).
@@ -1021,13 +1029,13 @@ How can a building wrapped in **95% fake nets** yield a test result where **65% 
 
 ---
 
-### 🆔 [E-POLICE-2025-12-03-01] The Passive Police: Waiting for Reporters to Solve the Crime
+### 🆔 [E-POLICE-2025-12-03-01] The Passive Police: Media did the Police's Job
 
 **🚨 Significance:**
 
 A disturbing timeline reveals that the Hong Kong Police Force and regulatory bodies failed to initiate basic fraud checks immediately after the fire. Instead, they waited for the media (HK01) to conduct the forensic investigation.
 
-**1. Media did the Police's Job:**
+**1. Reporters did the investigation:**
 It was HK01 reporters, not detectives, who took the initiative to call the Beijing laboratory and check the online database, uncovering the "100% Fake" certificates.
 *   *The Lag:* The fire happened on **Nov 26**. HK01 exposed the fake certificates on **Dec 1**. The Government only announced a formal case file on **Dec 3**.
 *   *The Void:* In those critical days, while contractors were openly displaying forged documents in lobbies to "reassure" residents, law enforcement was effectively absent, allowing evidence to potentially be destroyed or cover-ups to be coordinated.
