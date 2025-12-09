@@ -1235,7 +1235,7 @@ The University demanded Union officers vacate their offices within **48 hours** 
 
 **📅 Timeline:**
 *   **2025-12-02:** SU posts mourning messages.
-*   **2025-12-03:** Democracy Wall barricaded with nets.
+*   **2025-12-03:** Democracy Wall barricaded.
 *   **2025-12-04 (19:00):** University orders SU suspension.
 *   **2025-12-05:** SU issues rebuttal statement.
 *   **2025-12-06 (17:00):** Deadline to vacate office.
