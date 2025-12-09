@@ -530,6 +530,56 @@ The decision to replace these valves was finalized on **November 7, 2025**. The 
 **🔗 Links:** [Official Minutes Directory](http://www.wangfuk.org/html/meeting/index.htm) | [Backup Repo](https://github.com/sparktsang/wangfuk) | [Combined Markdown Archive](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md)
 
 ---
+### 🆔 [E-SAFETY-2025-11-27-01] The "Open Secret": Fake Certificates
+
+**🚨 Significance:**
+
+Investigative reporting reveals that the use of **forged safety certificates** is not an isolated incident but an industry-wide norm, practiced openly and brazenly. Even after the disaster, contractors displayed blatantly fake reports in other estates to reassure residents.
+
+**1. The "100% Fake" Reports on Display:**
+In **Fung Wah Estate** (Chai Wan) and **Yee Kok Court** (Cheung Sha Wan), contractors posted lab reports from a Beijing center to prove their nets were safe.
+*   *The Forgery:* The reports were dated **2025** but used the center's old name (containing "Supervision") which had been changed in **2019**.
+*   *The Verification:* Center staff confirmed: "**Any report issued after 2019 with 'Supervision' in the name is 100% fake.**"
+*   *The Audacity:* Contractors didn't just hide these fakes in a file; they posted them in public lobbies, assuming no one (including the Government) would check.
+
+**2. The Phantom Lab:**
+In **Fortress Garden** (Fortress Hill) and **Yee Lok Garden** (Tuen Mun)—projects also managed by **Prestige (宏業)**—reports were allegedly issued by "Binzhou Inspection and Testing Center."
+*   *The Ghost:* Online queries for report numbers returned "No Document Found."
+*   *The Dead End:* The phone numbers for the manufacturer (Shandong Chenxu) were turned off or invalid.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The "100% Fake" Confirmation**
+> *Source: HK01 / 2025-12-01*
+>
+> "職員指... 2019年以後發出，帶監督兩個字的都是假報告... **百分之百是假報告**。"
+>
+> *Translation:*
+> "Staff stated... any report issued after 2019 with the word 'Supervision' is a fake report... **100% fake report**."
+
+> **Evidence [B]: The Phantom Reports**
+> *Source: HK01 / 2025-11-28*
+>
+> "《香港01》記者以報告編號... 查詢，均顯示「沒有查詢到文件」"
+>
+> *Translation:*
+> "HK01 reporter queried using report numbers... all showed '**No Document Found**'."
+
+**¶ Statutory Basis:**
+
+*   **Offence:** Using a false instrument.
+*   **Provision:** [Crimes Ordinance (Cap. 200), Section 73](https://www.elegislation.gov.hk/hk/cap200!en/s73?_lang=en).
+
+**📅 Timeline:**
+*   **2025-11-27:** Contractors post fake reports to "reassure" residents.
+*   **2025-11-28:** HK01 exposes "No Document Found" error.
+*   **2025-12-01:** HK01 confirms Beijing reports are "100% Fake."
+
+**🔗 Links:**
+*   [HK01 Investigation (Beijing Fake)](https://www.hk01.com/01偵查/60299456)
+*   [HK01 Investigation (Binzhou Ghost)](https://www.hk01.com/社會新聞/60298792)
+
+---
 
 ### 🆔 [E-SAFETY-2025-12-03-01] The "Silent" Alarm Mystery: Official Chaos & The 2-Year Penalty for 159 Lives
 
@@ -806,7 +856,63 @@ The fact that 16 separate site visits resulted in zero findings regarding the ne
 
 ---
 
-### 🆔 [E-GOV-2025-12-01-01] The "Sloppy" Admission
+### 🆔 [E-GOV-2025-12-03-01] The "Total Demolition" Order: An Admission of Systemic Collapse
+
+**🚨 Significance:**
+
+On December 3, 2025, the Development Bureau ordered the immediate removal of scaffolding nets from all buildings under repair (~200 private, ~10 public). This drastic "One-Size-Fits-All"  measure is a tacit admission that the **entire existing regulatory framework has collapsed**.
+
+**1. The "Zero Trust" Declaration:**
+By ordering the removal of *all* nets—regardless of whether they had certificates, passed previous inspections ([16 times](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-gov-2025-11-20-01-the-paper-shield-how-16-inspections-missed-the-fire-trap)), or had been sampled—the Government implied that **no existing documentation is trustworthy anymore**.
+*   *The Subtext:* "We cannot distinguish truth from lies using our current system, so we must destroy everything." This renders all previous checks by the Labour Department and Buildings Department irrelevant.
+
+**2. Panic Governance (Anxiety > Logic):**
+Secretary Bernadette Linn explicitly stated the move was to "relieve the anxiety of owners and residents".
+*   *The Logic Flaw:* The government claimed to have already sampled 300 buildings with "rigorous methods". If these rigorous tests were trustworthy, a blanket demolition order would be scientifically unnecessary. The fact that they ordered it anyway suggests they do not trust their own "rigorous" sampling, or they prioritized political optics over scientific procedure.
+
+**3. "Special Treatment" Overrides Rule of Law:**
+The sudden shift to a new protocol—"Test on-site before installation"—acknowledges that the previous "Certificate-based" system (as criticized by [Ho Ping-tak](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-gov-2025-11-20-01-the-paper-shield-how-16-inspections-missed-the-fire-trap)) was fundamentally broken. The system had to be "Reset" in real-time because the established bureaucracy failed to stop the fakes.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Admission of Forgery & Anxiety**
+> *Source: Development Bureau (Transcript) / 2025-12-03*
+>
+> "我們看到真的懷疑有人在文書上造假，為了保障公眾安全和**免除...心裏的忐忑**... 所有現時正進行大維修的樓宇... 都需要即時將棚網下架。"
+>
+> *Translation:*
+> "We see suspected document forgery... to ensure public safety and **relieve... anxiety**... all buildings currently undergoing major repairs... must remove scaffolding nets immediately."
+
+> **Evidence [B]: The Scale of the Reset**
+> *Source: Development Bureau (Transcript)*
+>
+> "...私營樓宇...大約有二百多幢。...公營房屋...大約有十幾宗。"
+>
+> *Translation:*
+> "...Private buildings ~200... Public housing ~10 cases."
+
+> **Evidence [C]: The New Rule (Implicitly admitting old rule failed)**
+> *Source: Development Bureau (Transcript)*
+>
+> "...物料送到工地時就地採樣，經過指定的檢測所檢測並確定合格後，才可以再上架。"
+>
+> *Translation:*
+> "...materials sampled on-site upon delivery, tested by designated labs and confirmed compliant before they can be put up."
+
+**¶ Statutory Basis:**
+
+*   **Action:** Emergency Administrative Order (Development Bureau).
+*   **Context:** Override of standard Building Works procedures due to public safety crisis.
+
+**📅 Timeline:**
+*   **Dec 03:** Government announces "Total Demolition" order.
+*   **Future:** New "On-site Testing" protocol to be issued.
+
+**🔗 Links:** [Development Bureau Transcript](https://www.info.gov.hk/gia/general/202512/03/P2025120300792.htm)
+
+---
+
+### 🆔 [E-POLICE-2025-12-01-01] The "Sloppy" Admission
 
 **🚨 Significance:**
 
@@ -863,7 +969,7 @@ While media (HK01, InMedia) recorded the "sloppy" quote, the **official governme
 
 ---
 
-### 🆔 [E-GOV-2025-12-01-02] The 95% vs 35% Paradox: A Statistical Miracle?
+### 🆔 [E-POLICE-2025-12-01-02] The 95% vs 35% Paradox: A Statistical Miracle?
 
 **🚨 Significance:**
 
@@ -912,6 +1018,54 @@ How can a building wrapped in **95% fake nets** yield a test result where **65% 
 **🔗 Links:**
 *   [Security Bureau Statement (The Test)](https://www.news.gov.hk/chi/2025/12/20251201/20251201_162907_879.html)
 *   [ICAC Statement (The Inventory)](https://www.news.gov.hk/chi/2025/12/20251201/20251201_162941_981.html)
+
+---
+
+### 🆔 [E-POLICE-2025-12-03-01] The Passive Police: Waiting for Reporters to Solve the Crime
+
+**🚨 Significance:**
+
+A disturbing timeline reveals that the Hong Kong Police Force and regulatory bodies failed to initiate basic fraud checks immediately after the fire. Instead, they waited for the media (HK01) to conduct the forensic investigation.
+
+**1. Media did the Police's Job:**
+It was HK01 reporters, not detectives, who took the initiative to call the Beijing laboratory and check the online database, uncovering the "100% Fake" certificates.
+*   *The Lag:* The fire happened on **Nov 26**. HK01 exposed the fake certificates on **Dec 1**. The Government only announced a formal case file on **Dec 3**.
+*   *The Void:* In those critical days, while contractors were openly displaying forged documents in lobbies to "reassure" residents, law enforcement was effectively absent, allowing evidence to potentially be destroyed or cover-ups to be coordinated.
+
+**2. Reactive vs Proactive:**
+The authorities possesses the power of search and seizure, yet they were outpaced by journalists using public phone lines. The official investigation was triggered only *after* the media humiliation, proving that the enforcement logic is **"Kick-Start"** rather than proactive crime prevention.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Media Investigation (First Mover)**
+> *Source: HK01 / 2025-12-01*
+>
+> "《香港01》記者致電該機構...職員表示...2025年的報告用舊名「百分百是假」。"
+>
+> *Translation:*
+> "HK01 reporters called the institution... staff stated... 2025 reports using the old name are '100% fake'."
+
+> **Evidence [B]: The Belated Official Action**
+> *Source: news.gov.hk / 2025-12-03*
+>
+> "鄧炳強表示...特區政府已經正式立案，會繼續調查..."
+>
+> *Translation:*
+> "Chris Tang stated... the SAR Government has formally opened a case and will continue to investigate..."
+
+**¶ Statutory Basis:**
+
+*   **Duty:** Prevention and detection of crime.
+*   **Provision:** [Police Force Ordinance (Cap. 232), Section 10](https://www.elegislation.gov.hk/hk/cap232!en/s10?_lang=en).
+
+**📅 Timeline:**
+*   **Nov 26:** The Fire.
+*   **Dec 01:** Media exposes fake certificates.
+*   **Dec 03:** Police announce formal investigation.
+
+**🔗 Links:**
+*   [HK01 Investigation](https://www.hk01.com/01偵查/60299456)
+*   [Govt Statement](https://www.news.gov.hk/chi/2025/12/20251203/20251203_193848_455.html)
 
 ---
 
