@@ -1186,6 +1186,67 @@ On 1 December 2025, Lee Yuen Ching (李宛澄), a volunteer who had been coordin
 
 ---
 
+### 🆔 [E-SUPPRESS-2025-12-04-01] The "Mourning" Crime: How a Poster Led to the Death of a Student Union
+
+**🚨 Significance:**
+
+A chilling sequence of events at Hong Kong Baptist University (HKBU) demonstrates how academic institutions have become enforcers of censorship. The Student Union (HKBUSU) was summarily dissolved just 48 hours after posting messages mourning the fire victims and calling for justice.
+
+**1. The "Crime" of Mourning:**
+*   **Dec 2:** HKBUSU posted messages on the Democracy Wall: "Deeply mourn the victims of Wang Fuk Court fire", "We are Hongkongers", and "Implore the government to listen... Justice be done".
+*   **Dec 3:** The wall was barricaded with water barriers and wooden boards. Crucially, the barrier was filled with **"scaffolding nets dismantled from nearby"**—a grotesque irony given the fire was fueled by such nets.
+*   **Dec 4:** The University ordered the **immediate suspension** of the Student Union's operations.
+
+**2. The Fabricated Justifications (The "Self-Fulfilling Prophecy"):**
+The University cited "low membership" and "financial non-compliance" as reasons. However, the Union's rebuttal exposes these as pretexts:
+*   **Membership Trap:** The University stopped collecting fees for the Union in 2021 to cripple it. Despite this, the Union achieved a **sixfold increase** in membership this year through active recruitment. Punishing them now for "low numbers" ignores their recovery and the University's own role in the decline.
+*   **Financial Lie:** The Union and the Office of Student Affairs had *already reached an agreement* on Nov 21 to amend the constitution for a receipt-based reimbursement system. The University abruptly ignored this progress to issue the death sentence.
+
+**3. The Speed of Retaliation:**
+The University demanded Union officers vacate their offices within **48 hours** (by Dec 6). This "Eviction Order" mirrors the government's "Total Demolition Order" on nets—panic-driven, disproportionate, and aimed at erasing visual reminders of dissent/tragedy.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Sequence of Suppression**
+> *Source: Ming Pao / 2025-12-03*
+>
+> "昨日（2日）起...貼上「沉痛哀悼...」、「公義得到伸張」... 今日（3日）遭紅色水馬圍封..."
+>
+> *Translation:*
+> "Yesterday (2nd)... posted 'Deeply mourn...', 'Justice be done'... Today (3rd) barricaded with red water barriers..."
+
+> **Evidence [B]: The Irony of the Nets**
+> *Source: The Collective HK / 2025-12-05*
+>
+> "圍板內放置從附近棚架拆下的棚網，而牆上悼念宏福苑大火的字句已被撕去。"
+>
+> *Translation:*
+> "Inside the hoarding were **scaffolding nets dismantled from nearby**, and the mourning phrases on the wall were torn down."
+
+> **Evidence [C]: The "Low Membership" Rebuttal**
+> *Source: HKBUSU Statement / 2025-12-05*
+>
+> "...leading to a rise of membership nearly **sixfold**, compared with the previous year... contradicts the University's assertion of the Union's poor legitimacy."
+
+> **Evidence [D]: The University's Order**
+> *Source: HKBU Letter to SU / 2025-12-04*
+>
+> "...suspend the operations... with immediate effect... We ask you to remove your personal belongings... by 5 pm on 6 December, 2025."
+
+**📅 Timeline:**
+*   **2025-12-02:** SU posts mourning messages.
+*   **2025-12-03:** Democracy Wall barricaded with nets.
+*   **2025-12-04 (19:00):** University orders SU suspension.
+*   **2025-12-05:** SU issues rebuttal statement.
+*   **2025-12-06 (17:00):** Deadline to vacate office.
+
+**🔗 Links:**
+*   [Ming Pao Report](https://news.mingpao.com/ins/港聞/article/20251203/s00001/1764752154302/)
+*   [The Collective Report](https://thecollectivehk.com/宏福苑五級火｜浸大學生會貼訴求%E3%80%80校方先遮蓋再/)
+*   [HKBUSU Official Statement](https://www.facebook.com/HKBUSU/posts/pfbid0EMejKN3BV9fKmaoX5dTVewi7VhUCzXYdffWaJgKd9HEoWscwYijhmhayaZfoptdnl)
+
+---
+
 ### 🆔 [E-SUPPRESS-2025-12-06-01] The Dismantling of Independent Archives
 
 **🚨 Significance:**
