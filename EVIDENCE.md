@@ -468,6 +468,58 @@ The combination of **Silent Alarms** + **Blinded Windows** meant that for many, 
 
 ---
 
+### 🆔 [E-SAFETY-2024-09-30-01] The Ransom of Safety: "Pay Compensation or Keep the Fire Hazard"
+
+**🚨 Significance:**
+
+Residents were not ignorant of the danger; they were silenced by financial intimidation. When residents raised concerns about the flammability of the Styrofoam boards in September 2024, the Contractor (**Prestige**) and Consultant (**Will Power**) refused to stop, citing "materials already purchased."
+
+**1. Safety Held Hostage:**
+Instead of prioritizing life safety, the professionals threatened residents with **"Compensation Claims"** if they insisted on changing the materials immediately. This forced a fatal situation: the Contractor insisted on using the lethal Styrofoam to avoid "wasted stock." While some residents believed a "compromise" was reached to switch to safer materials later, post-fire confirmation by the MC Chairman that **"every window was sealed with Styrofoam"** suggests that this promise was either a stalling tactic or the "stock" was conveniently enough to cover the whole estate.
+
+**2. Professional Gaslighting:**
+When challenged, the Consultant (**Will Power**) defended the hazard.
+*   *The Lie:* They told residents "Styrofoam is no problem" and claimed: **"The Government has not stipulated that flammable materials cannot be used."**
+*   *The Betrayal:* This statement abdicates all professional duty. A consultant is hired to ensure safety, not to exploit regulatory loopholes to justify using kindling on a high-rise.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Financial Threat**
+> *Source: Ming Pao / 2025-12-10*
+>
+> "宏業也表明已買物料，倘居民要求即時更換，**要先賠償**。...鴻毅稱以已購入的發泡膠作保護**無問題**... 居民最終「妥協」，改為要求**用完已購買的發泡膠後**，改購...「瓦通膠板」..."
+>
+> *Translation:*
+> "Prestige stated materials were bought; if residents demanded immediate change, they **must pay compensation first**... Will Power claimed using the purchased Styrofoam was **no problem**... Residents eventually 'compromised', allowing the use of **existing Styrofoam stock first** before switching to... 'Corrugated Plastic Boards'..."
+
+> **Evidence [B]: The "Not Illegal" Defense**
+> *Source: HK Feature / 2025-11-29*
+>
+> "居民致電該顧問公司，對方竟表示「**政府無規定不可以使用易燃物料**」。"
+>
+> *Translation:*
+> "Residents called the Consultant, who shockingly replied: '**The Government has not stipulated that flammable materials cannot be used**'."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"We respected the contract. Scrapping purchased materials would incur additional costs. We intended to switch materials but logistical constraints or stock levels meant Styrofoam was used. The residents agreed to the arrangement."
+
+**The Logical Trap:**
+1.  **The "Stock" Deception:** If the "compromise" was to use up existing stock, and yet *all* 8 towers were finished with Styrofoam, it implies the contractor had pre-purchased enough lethal material for the entire project from day one. The "compromise" was a lie to silence dissent.
+2.  **Cost vs. Life:** Prioritizing "sunk costs" over "fire risk" is the definition of negligence. A competent professional does not negotiate on lethal hazards.
+
+**📅 Timeline:**
+*   **2024-09:** Residents object to Styrofoam. Consultant threatens compensation claims.
+*   **2024-Late:** Styrofoam installation continues despite "compromise."
+*   **2025-11-26:** Fire reveals all windows were sealed with foam.
+
+**🔗 Links:**
+*   [Ming Pao Report](https://news.mingpao.com/pns/要聞/article/20251210/s00001/1765304157006)
+*   [HK Feature Post](https://www.facebook.com/hkfeature2019/posts/pfbid034mmgD3ZJjkeSBTatbaPnEzmbrfMCGmyQfLnm7ZPS19XSXv4v72dNpjBH85pddN17l)
+
+---
+
 ### 🆔 [E-SAFETY-2024-09-30-02] The "Powerless" Lie: How the Watchdog Approved the Kill
 
 **🚨 Significance:**
@@ -556,58 +608,6 @@ On July 19, 2024, Will Power's Director **Wong Hap-yin** (黃俠然) sat on stag
 *   [Ming Pao Report](https://news.mingpao.com/pns/要聞/article/20251210/s00001/1765304157006)
 *   [Green Bean Report](https://greenbean.media/宏福苑五級火｜總承建商涉另外11項私樓工程｜上年/)
 *   [Presentation by Prestige & Will Power](http://223.197.186.25:8080/wangfuk/工程解說會VDO.mp4)
-
----
-
-### 🆔 [E-SAFETY-2024-10-02-01] The Ransom of Safety: "Pay Compensation or Keep the Fire Hazard"
-
-**🚨 Significance:**
-
-Residents were not ignorant of the danger; they were silenced by financial intimidation. When residents raised concerns about the flammability of the Styrofoam boards in September 2024, the Contractor (**Prestige**) and Consultant (**Will Power**) refused to stop, citing "materials already purchased."
-
-**1. Safety Held Hostage:**
-Instead of prioritizing life safety, the professionals threatened residents with **"Compensation Claims"** if they insisted on changing the materials immediately. This forced a fatal situation: the Contractor insisted on using the lethal Styrofoam to avoid "wasted stock." While some residents believed a "compromise" was reached to switch to safer materials later, post-fire confirmation by the MC Chairman that **"every window was sealed with Styrofoam"** suggests that this promise was either a stalling tactic or the "stock" was conveniently enough to cover the whole estate.
-
-**2. Professional Gaslighting:**
-When challenged, the Consultant (**Will Power**) defended the hazard.
-*   *The Lie:* They told residents "Styrofoam is no problem" and claimed: **"The Government has not stipulated that flammable materials cannot be used."**
-*   *The Betrayal:* This statement abdicates all professional duty. A consultant is hired to ensure safety, not to exploit regulatory loopholes to justify using kindling on a high-rise.
-
-**📜 Original Record:**
-
-> **Evidence [A]: The Financial Threat**
-> *Source: Ming Pao / 2025-12-10*
->
-> "宏業也表明已買物料，倘居民要求即時更換，**要先賠償**。...鴻毅稱以已購入的發泡膠作保護**無問題**... 居民最終「妥協」，改為要求**用完已購買的發泡膠後**，改購...「瓦通膠板」..."
->
-> *Translation:*
-> "Prestige stated materials were bought; if residents demanded immediate change, they **must pay compensation first**... Will Power claimed using the purchased Styrofoam was **no problem**... Residents eventually 'compromised', allowing the use of **existing Styrofoam stock first** before switching to... 'Corrugated Plastic Boards'..."
-
-> **Evidence [B]: The "Not Illegal" Defense**
-> *Source: HK Feature / 2025-11-29*
->
-> "居民致電該顧問公司，對方竟表示「**政府無規定不可以使用易燃物料**」。"
->
-> *Translation:*
-> "Residents called the Consultant, who shockingly replied: '**The Government has not stipulated that flammable materials cannot be used**'."
-
-**🛡️ Pre-emptive Rebuttal:**
-
-**Anticipated Defense:**
-"We respected the contract. Scrapping purchased materials would incur additional costs. We intended to switch materials but logistical constraints or stock levels meant Styrofoam was used. The residents agreed to the arrangement."
-
-**The Logical Trap:**
-1.  **The "Stock" Deception:** If the "compromise" was to use up existing stock, and yet *all* 8 towers were finished with Styrofoam, it implies the contractor had pre-purchased enough lethal material for the entire project from day one. The "compromise" was a lie to silence dissent.
-2.  **Cost vs. Life:** Prioritizing "sunk costs" over "fire risk" is the definition of negligence. A competent professional does not negotiate on lethal hazards.
-
-**📅 Timeline:**
-*   **2024-09:** Residents object to Styrofoam. Consultant threatens compensation claims.
-*   **2024-Late:** Styrofoam installation continues despite "compromise."
-*   **2025-11-26:** Fire reveals all windows were sealed with foam.
-
-**🔗 Links:**
-*   [Ming Pao Report](https://news.mingpao.com/pns/要聞/article/20251210/s00001/1765304157006)
-*   [HK Feature Post](https://www.facebook.com/hkfeature2019/posts/pfbid034mmgD3ZJjkeSBTatbaPnEzmbrfMCGmyQfLnm7ZPS19XSXv4v72dNpjBH85pddN17l)
 
 ---
 
