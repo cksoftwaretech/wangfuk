@@ -355,6 +355,72 @@ This method was documented in **File PC-24-WFC-L-46**. The Consultant (**Will Po
 
 ---
 
+### 🆔 [E-SAFETY-2024-07-19-02] The "Powerless" Lie: How the Watchdog Signed Off on the Fire
+
+**🚨 Significance:**
+
+Post-disaster, a Senior Project Officer from the Consultant (**Will Power/鴻毅**) attempted to rewrite history, claiming they "strongly opposed" (極力反對) the use of Styrofoam but were overruled because they were "not the employer." This defense is contradicted by procedural facts and the physical presence of their leadership.
+
+**1. The "Gatekeeper" became the "Doorman":**
+Sources confirm that all material procurement required Will Power's written approval (入紙...由鴻毅簽署確認).
+*   *The Contradiction:* You cannot "strongly oppose" something and then **sign the approval form**. If the Consultant truly opposed it on safety grounds, they had the contractual power—and professional duty—to reject the material submission. Signing it converted their "opposition" into "authorization."
+
+**2. The Silent Director:**
+On July 19, 2024, Will Power's Director **Wong Hap-yin** (黃俠然) sat on stage while the Contractor presented the Styrofoam sealing method as a standard procedure to residents.
+*   *The Implication:* If the firm "strongly opposed" this hazard, the Director should have intervened *during the public briefing*. His silence signaled to the residents that the Styrofoam method was professionally endorsed and safe.
+
+**3. Blaming the Layman:**
+The Officer's excuse—"I am not the employer"—is a deflection. The "Employer" (the Management Committee) consists of laymen who hired the Consultant specifically to identify and reject technical risks. Blaming the client for a technical safety failure is a fundamental breach of professional ethics.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The "Powerless" Defense**
+> *Source: HK01 / 2025-11-30*
+>
+> "鴻毅...高級項目主任...自曝...曾「**極力反對**」選用發泡膠，惟顧問公司並非僱主，稱無權作出否決。"
+>
+> *Translation:*
+> "Will Power Senior Project Officer... claimed he '**strongly opposed**' using Styrofoam, but as the consultant is not the employer, he claimed he had no right to veto."
+
+> **Evidence [B]: The "Sign-off" Reality**
+> *Source: Oriental Daily / 2025-12-02*
+>
+> "消息人士又稱，宏業建築採購所有物料前，均要向鴻毅入紙，並**由鴻毅簽署確認**。"
+>
+> *Translation:*
+> "Source stated... before procuring any materials, Prestige had to submit forms to Will Power, which were **signed and confirmed by Will Power**."
+
+> **Evidence [C]: The Public Endorsement**
+> *Source: Green Bean Media / 2024-07-19*
+>
+> "工程顧問「鴻毅」董事**黃俠然**...均有出席。...譚雋生...展示了...所用物料正是白色發泡膠。"
+>
+> *Translation:*
+> "Will Power Director **Wong Hap-yin**... was present... [Contractor] displayed... white Styrofoam."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"Our role is advisory. We warned the MC about the risks, but the MC/Contractor insisted on the cheaper/safer-for-glass option. We cannot physically stop the work. We prioritized protecting the windows as requested by the client."
+
+**The Logical Trap:**
+1.  **Professional Duty > Client Whim:** A registered architect/engineer has a statutory duty to public safety that overrides client instructions. If a client orders something illegal or life-threatening (like wrapping a building in fuel), the professional must **refuse to certify** and report to the Buildings Department, not just "advise against it."
+2.  **The "Paper Trail" Challenge:** If they "strongly opposed" it, show us the **written warning letters** or **Non-Conformance Reports (NCR)** issued to the Contractor. If the only record is the "Approval Signature," then the "opposition" is a fabrication.
+3.  **The "Safety" Paradox:** Protecting glass windows (property) at the expense of fire safety (life) is a gross misjudgment of priorities. A professional consultant knows that life safety code always trumps property protection.
+
+**📅 Timeline:**
+*   **2024-07-19:** Director silent at briefing.
+*   **2024-Pre-Construction:** Consultant signs off on Styrofoam material form.
+*   **2025-11-30:** Officer claims they "opposed" it.
+
+**🔗 Links:**
+*   [HK01 Report](https://www.hk01.com/article/60299166)
+*   [Green Bean Report](https://greenbean.media/宏福苑五級火｜總承建商涉另外11項私樓工程｜上年/)
+*   [Oriental Daily Report](https://orientaldaily.on.cc/content/news/odn-20251202-1202_00176_021/)
+*   [Presentation by Prestige & Will Power](http://223.197.186.25:8080/wangfuk/工程解說會VDO.mp4)
+
+---
+
 ### 🆔 [E-SAFETY-2024-11-15-01] The Insurance Boycott
 
 **🚨 Significance:**
