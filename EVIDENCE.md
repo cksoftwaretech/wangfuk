@@ -274,6 +274,87 @@ Instead of verifying the "out of production" claim (which is their job), Will Po
 
 ---
 
+### 🆔 [E-SAFETY-2024-07-19-01] The SOP Death Trap: Use of Flammable Foam
+
+**🚨 Significance:**
+
+The extensive use of highly flammable expanded polystyrene (Styrofoam/Foam Board) to seal windows was not a rogue act, but a **Standard Operating Procedure (SOP)** formally presented 16 months before the fire.
+
+**1. The "Protection" Paradox:**
+Contractor (**Prestige/宏業**) pitched the foam boards as a "protective measure" against debris.
+*   *The Evidence:* In a residents' briefing on July 19, 2024, Prestige explicitly showcased "Sample Boards" of the foam sealing.
+*   *The Irony:* The measure designed to protect property (glass) became the primary fuel that destroyed lives. 
+
+**2. Universal Coverage (The Scale):**
+MC Chairman Tsui confirmed that **every window in all 8 blocks** was sealed. Photos show even air-conditioner vents were sealed "airtight" with silicone.
+*   *The Scale:* **1,984 units** were wrapped in highly flammable material. The estate was sheathed in solid petrol.
+*   *The Consequence:* This created a **"Double-Kill" effect**:
+    1.  **Fuel:** The foam ignited rapidly, spreading fire across the facade.
+    2.  **Gas Chamber:** Burning foam releases toxic black smoke. Since vents were sealed, fresh air couldn't enter, and the smoke produced right at the window seeped into the units.
+
+**3. Collective Professional Negligence:**
+This method was documented in **File PC-24-WFC-L-46**. The Consultant (**Will Power/鴻毅**) reviewed and approved this method statement.
+*   *The Failure:* Architects and safety officers failed to flag that wrapping a high-rise in combustible material violates basic fire safety principles. Multiple inspections also failed to identify this blatant hazard visible from the street.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Public Confession (SOP)**
+> *Source: Green Bean Media (citing Briefing Video) / 2024-07-19*
+>
+> "譚雋生...展示了...所用物料正是白色發泡膠。他說：「...我哋做咗一個sample（樣本）出來，遲啲放埋喺樣版區比大家睇啦。」"
+>
+> *Translation:*
+> "Tam Chun-sang (Site Supervisor)... displayed... white Styrofoam. He said: '...We made a **sample**, and will put it in the mock-up area for everyone to see later.'"
+
+> **Evidence [B]: The Written Protocol**
+> *Source: Prestige Document PC-24-WFC-L-46 / 2024-10-02*
+>
+> "使用 **Foam Board** 完整地將單位外牆窗玻璃遮蓋作保護... 臨時再以薄木板或中空板遮窗..."
+>
+> *Translation:*
+> "Use **Foam Board** to completely cover and protect unit window glass... temporarily cover with thin wood or hollow board..."
+
+> **Evidence [C]: The "Airtight" Seal**
+> *Source: Yahoo News / 2025-12-04*
+>
+> "...有冷氣機的安裝口被封，更在四邊塗上玻璃膠，**密不透風**。"
+>
+> *Translation:* 
+>"...AC installation openings were sealed, with silicone applied on four sides, making it **airtight**."
+
+> **Evidence [D]: Universal Coverage**
+> *Source: HK01 / 2025-11-27*  
+>  
+> "業主立案法團主席徐滿柑...確認宏福苑八座大廈，每個單位的窗戶都貼上了發泡膠板；有居民向記者提供相片，顯示廁所、客廳及房間每個窗，甚至安裝冷氣的位置，均用發泡膠板遮擋"  
+>  
+> *Translation:*  
+> "Mr Tsui Man‑gam, chairman of the Owners’ Corp, confirmed that in all eight blocks of Wang Fuk Court every unit’s windows had foam boards affixed; residents provided reporters with photos showing that every window in bathrooms, living rooms and bedrooms, and even air‑conditioning installation points, were covered with foam boards."  
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"The use of protection boards is industry practice. We did not anticipate a fire of this magnitude. The material was intended to be temporary. The primary responsibility lies with the worker who started the fire, not the protective measures."
+
+**The Logical Trap:**
+1.  **Common Sense vs. Industry Practice:** If "wrapping a building in fuel" is industry practice, then the **entire industry is criminally negligent**. You don't need a degree to know Styrofoam burns; any layman knows this. Professionals claiming ignorance of this risk is an admission of incompetence.
+2.  **Duration of Risk:** The project span was over a year. "Temporary" in construction means months of exposure. Leaving flammable material exposed on a facade for months is a known high-risk scenario (similar to Grenfell's cladding).
+3.  **Causation:** A small spark (from welding/smoking) turns into a catastrophe *only* because the fuel load (Styrofoam + Nets) is present. Blaming the spark while ignoring the fuel is like blaming a match for exploding a gas leak.
+
+**📅 Timeline:**
+*   **2024-07-19:** Prestige presents Styrofoam SOP to residents.
+*   **2024-10-02:** Prestige issues written method statement (PC-24-WFC-L-46).
+*   **2025-11-26:** Styrofoam ignites, causing rapid spread and toxic smoke.
+
+**🔗 Links:**
+*   [Green Bean Report](https://greenbean.media/宏福苑五級火｜總承建商涉另外11項私樓工程｜上年/)
+*   [HK01 Report](https://www.hk01.com/社會新聞/60298146)
+*   [Yahoo News Report](https://hk.news.yahoo.com/share/41f5c996-1e2f-42c0-973c-a82f18dc8e58)
+*   [Prestige Method Statement](http://www.wangfuk.org/html/home/doc/2024-10-02%20L46-外牆施工(保護措施及打鑿)流程(A-H塵).pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/工程承建商通告%2051%202024-10-2%20L46-外牆施工(保護措施及打鑿)流程(A-H塵).pdf)
+*   [Presentation Slides](http://www.wangfuk.org/html/home/doc/工程解說會簡報(宏業及鴻毅).pdf) | [Backup](https://mega.nz/folder/M5cHHAYa#W0VxI6dDM1b6fpf4K9Ma1w)
+*   [Presentation Video](http://223.197.186.25:8080/wangfuk/工程解說會VDO.mp4)
+
+---
+
 ### 🆔 [E-SAFETY-2024-11-15-01] The Insurance Boycott
 
 **🚨 Significance:**
