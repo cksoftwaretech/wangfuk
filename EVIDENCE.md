@@ -132,7 +132,7 @@ The data exposes a clear strategy: Win the maintenance contract with an absurdly
 
 ---
 
-### 🆔 [E-SAFETY-2024-01-28-01] The "Fireproof" Paradox: Paying for Safety, Getting a Death Trap
+### 🆔 [E-SAFETY-WINDOWS-2024-01-28-01] The "Fireproof" Paradox: Paying for Safety, Getting a Death Trap
 
 **🚨 Significance:**
 
@@ -736,6 +736,66 @@ At the end of 2024, faced with major repair works at Wang Fuk Court, nine of Hon
 
 ---
 
+### 🆔 [E-SAFETY-WINDOWS-2025-01-20-01] The "Infinite" Risk: Why Replacing Windows Took Forever
+
+**🚨 Significance:**
+
+A review of construction notices reveals a shocking lack of project management. For 5 out of 7 towers, the Contractor (**Prestige**) issued notices stating the fire window replacement would last **"Until Project Completion"**, with no end date.
+
+**1. The "Open-Ended" Trap:**
+*   **Wang Chi House (H Block):** Work started on **Jan 20, 2025**. By the time of the fire (Nov 26), **10 months** had passed. If the "Until Completion" clause held, residents lived with compromised safety (wooden boards/open holes) for nearly a year.
+*   **The Contrast:** Only Wang Tao (B) and Wang Sun (C) had a defined **one-month** schedule. This proves that the work *could* be done quickly, but for the majority of towers (including the hardest hit Wang Cheong & Wang Tai), the contractor chose to leave the timeline open-ended, maximizing the duration of risk.
+
+**2. The Management Void:**
+Allowing a contractor to define a schedule as "Until Done" is a failure of the **Consultant (Will Power)** and the **MC**. It incentivized the contractor to tear down windows early (for worker access) and leave them open indefinitely, turning a temporary measure into hazard.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The "Infinite" Notices (5 out of 7 towers)**
+> *Source: Prestige Notices (Various Dates)*
+>
+> "日期 : 2025 年 X 月 X 日... 開始 **直至工程完成**"
+>
+> *Translation:*
+> "Date: Starting [Date]... **Until Project Completion**"
+> *(Note: Wang Cheong started Mar 25; Wang Tai started Apr 10. Both were open-ended.)*
+
+> **Evidence [B]: The "Reasonable" Notices (Wang Tao, Wang Sun)**
+> *Source: Prestige Notices (May 29, May 16)*
+>
+> "日期 : ...至 2025 年 6 月 X 日"
+>
+> *Translation:*
+> "Date: ...to June X, 2025"
+> *(Analysis: These towers had a clear ~1 month deadline, proving it was feasible.)*
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"Renovation schedules are dynamic. 'Until Completion' is standard phrasing to allow flexibility for weather or unforeseen issues. The works were ongoing, and safety measures were in place (the wooden boards)."
+
+**The Logical Trap:**
+1.  **Flexibility vs. Negligence:** "Flexibility" means a few weeks' delay, not **10 months** (Wang Chi). Leaving a fire escape route compromised for nearly a year under the guise of "flexibility" is gross negligence.
+2.  **The "Safety Measure" Lie:** The "safety measure" was a flammable wooden board with holes. Prolonging the use of this "measure" didn't protect residents; it extended their exposure to a death trap.
+3.  **Inconsistency:** If Towers B and C could be scheduled for one month, why were the others left open-ended? This inconsistency suggests a lack of planning and supervision, treating some residents' safety as less urgent than others.
+
+**📅 Timeline:**
+*   **2025-01-20:** Wang Chi work starts (No end date).
+*   **2025-03-25:** Wang Cheong work starts (No end date).
+*   **2025-04-10:** Wang Tai work starts (No end date).
+*   **2025-11-26:** Fire occurs.
+
+**🔗 Links:**
+*   [Wang Cheong Notice](http://www.wangfuk.org/html/home/doc/2025-03-20%20N91F%20-更換逃生樓梯公眾窗及設備房百葉窗工程%20(F座).pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/工程承建商通告%20144%202025-3-20%20-%20N91F%20-%20更換逃生樓梯公眾窗及設備房百葉窗工程%20(F座).pdf)
+*   [Wang Tai Notice](http://www.wangfuk.org/html/home/doc/2025-04-08%20N107%20-更換逃生樓梯公眾窗及設備房百葉窗工程%20(E座).pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/工程承建商通告%20160%202025-4-8%20-%20N107%20-更換逃生樓梯公眾窗及設備房百葉窗工程%20(E座).pdf)
+*   [Wang Chi Notice](http://www.wangfuk.org/html/home/doc/2025-01-10%20N64%20-更換逃生樓梯公眾窗及設備房百葉窗工程%20(H座).pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/工程承建商通告%20111%202025-1-10%20-%20N64%20-更換逃生樓梯公眾窗及設備房百葉窗工程%20(H座).pdf)
+*   [Wang Kin Notice](http://www.wangfuk.org/html/home/doc/2025-05-29%20N151B-更換逃生樓梯公眾窗及設備房百葉窗工程%20(D座).pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/工程承建商通告%20210%202025-5-29%20-%20%20N151B-更換逃生樓梯公眾窗及設備房百葉窗工程%20(D座).pdf)
+*   [Wang Shing Notice](http://www.wangfuk.org/html/home/doc/2025-05-29%20N151B-更換逃生樓梯公眾窗及設備房百葉窗工程%20(G座).pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/工程承建商通告%20210%202025-5-29%20-%20%20N151B-更換逃生樓梯公眾窗及設備房百葉窗工程%20(G座).pdf)
+*   [Wang Sun Notice](http://www.wangfuk.org/html/home/doc/2025-05-16%20N146C%20-更換逃生樓梯公眾窗及設備房百葉窗工程%20(C座).pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/工程承建商通告%20205%202025-5-16%20-%20%20N146C更換逃生樓梯公眾窗及設備房百葉窗工程%20(C座).pdf)
+*   [Wang Tao Notice](http://www.wangfuk.org/html/home/doc/2025-05-29%20N151B-更換逃生樓梯公眾窗及設備房百葉窗工程%20(B座).pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/工程承建商通告%20210%202025-5-29%20-%20%20N151B-更換逃生樓梯公眾窗及設備房百葉窗工程%20(B座).pdf)
+
+---
+
 ### 🆔 [E-SAFETY-2025-03-30-01] The "No Big Problem" Discrepancy & The 180-Day Safety Gap
 
 **🚨 Significance:**
@@ -884,7 +944,7 @@ Following a South China Morning Post report naming ISS, the group's shares dropp
 Official records expose a shocking **10-month supervision vacuum** during the most critical initial phases of the renovation, coupled with a hiring structure that creates a fundamental conflict of interest.
 
 **1. The 10-Month Danger Gap:**
-The General Contractor (**Prestige/宏業**) commenced work (Bai Shen ceremony) on **July 16, 2024**. However, the Clerk of Works (COW/工程監督) only assumed duty on **May 21, 2025**.
+The General Contractor (**Prestige/宏業**) commenced work (Worship Ceremony) on **July 16, 2024**. However, the Clerk of Works (COW/工程監督) only assumed duty on **May 21, 2025**.
 *   **The Reality:** For around 300 days, major works including scaffolding erection, external wall hacking, and material delivery proceeded without independent on-site supervision.
 *   **The Irony:** The MC claimed in the AGM that the COW "improved engineering quality," ignoring that the foundations of the project were laid while the post was vacant.
 
@@ -1129,7 +1189,7 @@ In **Fortress Garden** (Fortress Hill) and **Yee Lok Garden** (Tuen Mun)—proje
 
 ---
 
-### 🆔 [E-GOV-2015-12-31-01] The "Standard" Trap: Why "Compliant" Nets Can Still Burn Down a Building
+### 🆔 [E-GOV-NETS-2015-12-31-01] The "Standard" Trap: Why "Compliant" Nets Can Still Burn Down a Building
 
 **🚨 Significance:**
 
@@ -1194,7 +1254,7 @@ Using a "Fall Protection" standard to regulate "Fire Spread" on high-rise facade
 
 ---
 
-### 🆔 [E-GOV-2025-11-20-01] The "Paper Shield": How 16 Inspections Missed the Fire Trap
+### 🆔 [E-GOV-NETS-2025-11-20-01] The "Paper Shield": How 16 Inspections Missed the Fire Trap
 
 **🚨 Significance:**
 
@@ -1248,7 +1308,7 @@ The fact that 16 separate site visits resulted in zero findings regarding the ne
 
 ---
 
-### 🆔 [E-GOV-2025-12-03-01] The "Silent" Alarm Mystery: Official Chaos & The 2-Year Penalty for 159 Lives
+### 🆔 [E-GOV-ALARM-2025-12-03-01] The "Silent" Alarm Mystery: Official Chaos & The 2-Year Penalty for 159 Lives
 
 **🚨 Significance:**
 
@@ -1330,7 +1390,7 @@ Victory Fire Engineering (宏泰), the long-term maintenance contractor, denied 
 
 ---
 
-### 🆔 [E-GOV-2025-12-03-02] The "Total Demolition" Order: An Admission of Systemic Collapse
+### 🆔 [E-GOV-NETS-2025-12-03-02] The "Total Demolition" Order: An Admission of Systemic Collapse
 
 **🚨 Significance:**
 
@@ -1394,7 +1454,7 @@ The sudden shift to a new protocol—"Test on-site before installation"—acknow
 
 ---
 
-### 🆔 [E-POLICE-2025-12-01-01] The "Sloppy" Admission
+### 🆔 [E-POLICE-NETS-2025-12-01-01] The "Sloppy" Admission
 
 **🚨 Significance:**
 
@@ -1451,7 +1511,7 @@ While media (HK01, InMedia) recorded the "sloppy" quote, the **official governme
 
 ---
 
-### 🆔 [E-POLICE-2025-12-01-02] The 95% vs 35% Paradox: A Statistical Miracle?
+### 🆔 [E-POLICE-NETS-2025-12-01-02] The 95% vs 35% Paradox: A Statistical Miracle?
 
 **🚨 Significance:**
 
@@ -1503,7 +1563,7 @@ How can a building wrapped in **95% fake nets** yield a test result where **65% 
 
 ---
 
-### 🆔 [E-POLICE-2025-12-03-01] The Passive Police: Media did the Police's Job
+### 🆔 [E-POLICE-NETS-2025-12-03-01] The Passive Police: Media did the Police's Job
 
 **🚨 Significance:**
 
