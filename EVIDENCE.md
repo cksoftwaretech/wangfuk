@@ -274,7 +274,7 @@ Instead of verifying the "out of production" claim (which is their job), Will Po
 
 ---
 
-### 🆔 [E-SAFETY-2024-07-19-01] The SOP Death Trap: Use of Flammable Foam
+### 🆔 [E-SAFETY-FOAM-2024-07-19-01] The SOP Death Trap: Use of Flammable Foam
 
 **🚨 Significance:**
 
@@ -355,7 +355,7 @@ This method was documented in **File PC-24-WFC-L-46**. The Consultant (**Will Po
 
 ---
 
-### 🆔 [E-SAFETY-2024-07-19-02] The Mechanics of Hell: Radiant Heat & Molten Fire
+### 🆔 [E-SAFETY-FOAM-2024-07-19-02] The Mechanics of Hell: Radiant Heat & Molten Fire
 
 **🚨 Significance:**
 
@@ -412,7 +412,7 @@ The Government confirmed post-fire that the material was "flammable." Yet, this 
 
 ---
 
-### 🆔 [E-SAFETY-2024-07-19-03] The Blinded Victims: How Styrofoam Stole the "Golden Hour" of Escape
+### 🆔 [E-SAFETY-FOAM-2024-07-19-03] The Blinded Victims: How Styrofoam Stole the "Golden Hour" of Escape
 
 **🚨 Significance:**
 
@@ -468,7 +468,76 @@ The combination of **Silent Alarms** + **Blinded Windows** meant that for many, 
 
 ---
 
-### 🆔 [E-SAFETY-2024-09-30-01] The Ransom of Safety: "Pay Compensation or Keep the Fire Hazard"
+### 🆔 [E-SAFETY-FOAM-2024-09-16-01] The "TAPEER" Fraud: Counterfeit Brands & Rigged Safety Demos
+
+**🚨 Significance:**
+
+Investigative reporting confirms that the Styrofoam boards used were not just dangerous, but likely **counterfeit**. Residents identified a glaring typo on the packaging—the German brand "TAPFER" misspelled as "**TAPEER**"—a hallmark of knock-off products.
+
+**1. The "Typo" that Killed:**
+The packaging claimed to be a German "Eco-Health Board," but listed a fake brand name and invalid contact details.
+*   *The Implication:* Legitimate German manufacturers do not misspell their own names. This suggests the contractor (**Prestige**) sourced unregulated knock-offs to maximize profit, bypassing quality controls.
+
+**2. The Duel of Tests (Reality vs. Propaganda):**
+*   **Sep 13 (Reality):** Residents physically tested the "TAPEER" boards. They **ignited immediately**. Photos were posted on Facebook.
+*   **Sep 16 (Propaganda):** To quell the panic, Prestige showed a "Cigarette Test" video to the new MC, claiming the material was fire-resistant.
+*   *The Deception:* Given the residents' successful ignition and the eventual inferno, Prestige's video was likely staged, manipulated, or used a "decoy" sample (similar to the safety nets) to deceive the MC.
+
+**3. The "Good Cop, Bad Cop" Trap:**
+This deception was coordinated with the [Consultant's pressure](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-2024-09-30-01-the-ransom-of-safety-pay-compensation-or-keep-the-fire-hazard). While **Prestige** used the video to claim safety (Gaslighting), **Will Power** used the contract to claim "changing it costs money" (Coercion). This pincer movement silenced the residents' valid concerns.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Counterfeit Evidence (TAPEER)**
+> *Source: HK01 / 2025-12-11*
+>
+> "該德國公司正確拼寫是「TAPFER」... 但包裝大字品牌名就印錯成為「**TAPEER**」。...網上亦無這批產品的防火、產地等任何資料。"
+>
+> *Translation:*
+> "The correct spelling is 'TAPFER'... but the packaging printed the brand as '**TAPEER**'... No online data regarding fire resistance or origin exists for this batch."
+
+> **Evidence [B]: Residents' Ignition Test**
+> *Source: HK01 / 2025-12-11*
+>
+> "9月13日有居民實測封窗膠板... 證實**燒得着**... 並將相片上載至facebook群組... 但並無引起政府部門關注。"
+>
+> *Translation:*
+> "Sept 13: Residents tested the boards... confirmed they **could be ignited**... uploaded photos to Facebook... but failed to attract Government attention."
+
+> **Evidence [C]: The Contractor's "Safe" Video**
+> *Source: HK01 / 2025-12-11*
+>
+> "9月16日... 宏業代表解釋封窗物料是安全的，又提供**煙頭測試的影片**。"
+>
+> *Translation:*
+> "Sept 16... Prestige representatives explained the material was safe and provided a **cigarette test video**."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"The spelling error was a printing mistake by the packaging supplier; the product inside was genuine and met standards (as per our video). The residents' test used an open flame, which exceeds the standard test conditions for this specific material grade."
+
+**The Logical Trap:**
+1.  **The "Printing Error" Excuse:** In construction, traceability is key. A product with a misspelled brand name and dead phone numbers is **untraceable**. Installing untraceable materials is a violation of building protocols. If the packaging is fake, the product is presumed fake until proven otherwise.
+2.  **The "Open Flame" Reality:** A real fire involves open flames (from welding, short circuits, or other burning debris), not just a smoldering cigarette. If the material ignites with a lighter (as residents showed), it is unsafe for a high-rise facade, regardless of whether it passes a mild "cigarette test." Designing for the best-case scenario (cigarette) while ignoring the worst-case (open flame) is fatal negligence.
+3.  **Verification Void:** If the residents claimed it burned and the contractor claimed it didn't, the **Consultant (Will Power)** had a duty to send a sample to an independent lab immediately. Relying on the *Contractor's own video* violates the principle of independent supervision.
+
+**¶ Statutory Basis:**
+
+*   [Code of Practice for Fire Safety in Buildings 2011 (2024 Edition)](https://www.bd.gov.hk/doc/en/resources/codes-and-references/code-and-design-manuals/fs_code2011.pdf)
+*   Applying False Trade Description ([Cap 362 Section 7](https://www.elegislation.gov.hk/hk/cap362!en/s7?_lang=en)).
+
+**📅 Timeline:**
+*   **2024-09-13:** Residents expose flammability.
+*   **2024-09-16:** Prestige shows "safe" video to MC.
+*   **2025-12-11:** Media exposes "TAPEER" counterfeit branding.
+
+**🔗 Links:**
+*   [HK01 Investigation](https://www.hk01.com/article/60302304)
+
+---
+
+### 🆔 [E-SAFETY-FOAM-2024-09-30-01] The Ransom of Safety: "Pay Compensation or Keep the Fire Hazard"
 
 **🚨 Significance:**
 
@@ -520,7 +589,7 @@ When challenged, the Consultant (**Will Power**) defended the hazard.
 
 ---
 
-### 🆔 [E-SAFETY-2024-09-30-02] The "Powerless" Lie: How the Watchdog Approved the Kill
+### 🆔 [E-SAFETY-FOAM-2024-09-30-02] The "Powerless" Lie: How the Watchdog Approved the Kill
 
 **🚨 Significance:**
 
@@ -741,7 +810,7 @@ These are documented discrepancies. The public can judge what they mean.
 
 ---
 
-### 🆔 [E-SAFETY-2025-05-14-01] The Silent Switch: How Management Disabled the Alarm to "Save Trouble"
+### 🆔 [E-SAFETY-ALARM-2025-05-14-01] The Silent Switch: How Management Disabled the Alarm to "Save Trouble"
 
 **🚨 Significance:**
 
@@ -876,7 +945,7 @@ The COW, Mr. Wong Chin Hang, is theoretically the residents' eyes and ears. Howe
 
 ---
 
-### 🆔 [E-SAFETY-2025-10-18-01] The Price of Life: HK$593 per Victim & The 5% Decoy
+### 🆔 [E-SAFETY-NETS-2025-10-18-01] The Price of Life: HK$593 per Victim & The 5% Decoy
 
 **🚨 Significance:**
 
@@ -931,7 +1000,7 @@ This was not negligence; it was a calculated cover-up. Following a scaffolding f
 
 ---
 
-### 🆔 [E-SAFETY-2025-11-07-01] The Paralyzed Water Network & The Fatal Maintenance
+### 🆔 [E-SAFETY-WATER-2025-11-07-01] The Paralyzed Water Network & The Fatal Maintenance
 
 **🚨 Significance:**
 
@@ -1009,7 +1078,7 @@ The decision to replace these valves was finalized on **November 7, 2025**. The 
 
 ---
 
-### 🆔 [E-SAFETY-2025-11-27-01] The "Open Secret": Fake Certificates
+### 🆔 [E-SAFETY-NETS-2025-11-27-01] The "Open Secret": Fake Certificates
 
 **🚨 Significance:**
 
