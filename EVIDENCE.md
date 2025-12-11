@@ -1454,6 +1454,75 @@ The sudden shift to a new protocol—"Test on-site before installation"—acknow
 
 ---
 
+### 🆔 [E-GOV-WINDOWS-2025-12-11-01] The Bureaucratic Maze: "Not My Department" While People Died
+
+**🚨 Significance:**
+
+When questioned about the regulation of the "wooden board windows," three government departments engaged in a game of "pass the buck," revealing a regulatory vacuum that allowed the hazard to persist.
+
+**1. The Circle of Irresponsibility:**
+*   **Fire Services Dept (FSD):** Claimed window works fall under "other departments" (Building works).
+*   **Buildings Dept (BD):** Claimed the estate is HOS (Home Ownership Scheme), so it falls under the **Housing Department (HD)**.
+*   **Housing Dept (HD):** Delayed reply for 10 days, then refused to disclose details citing "ongoing investigation."
+
+**2. The HOS Regulatory Black Hole:**
+The fact that BD (the primary building safety regulator) disavowed responsibility because it's an HOS estate highlights a critical systemic flaw. HOS estates, despite being private property, seem to fall into a gray area where BD steps back, but HD (Independent Checking Unit) is less proactive/visible, creating a **"Regulatory No-Man's Land."**
+
+**3. "Investigation" as a Shield:**
+HD's refusal to answer whether they *received complaints* or *inspected* the windows, citing "ongoing investigation," is a transparency failure. Admitting whether a complaint was received does not prejudice an investigation; hiding it suggests they are covering up administrative inaction.
+
+**📜 Original Record:**
+
+> **Evidence [A]: FSD's Deflection**
+> *Source: The Collective HK / 2025-12-11*
+>
+> "消防處...回覆指，「有關窗戶的建造...工程屬於**其他相關部門的權責範圍**」。"
+>
+> *Translation:*
+> "FSD replied... 'Construction of windows... falls under the jurisdiction of **other relevant departments**'."
+
+> **Evidence [B]: BD's Deflection**
+> *Source: Yahoo News / 2025-12-10*
+>
+> "屋宇署...表示，宏福苑屬於居屋，由**房屋署負責**..."
+>
+> *Translation:*
+> "Buildings Department... stated Wang Fuk Court is HOS, so it is the responsibility of the **Housing Department**..."
+
+> **Evidence [C]: HD's Silence**
+> *Source: The Collective HK / 2025-12-11*
+>
+> "房屋署今（11日）回覆指，「由於...進行調查，我們現時**不宜透露與事故有關的詳情**」。"
+>
+> *Translation:*
+> "Housing Department replied today... 'Due to ongoing investigation... it is **inappropriate to disclose details**'."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"The Independent Checking Unit (ICU) under the Housing Department operates under the delegated authority of the Building Authority. There is no regulatory gap. We are following due process by not commenting on active investigations."
+
+**The Logical Trap:**
+1.  **Delegation = Dilution:** If BD delegates to HD/ICU, but BD is the ultimate authority, BD simply saying "Ask HD" is an abdication of oversight. The public sees "Government," not "Departments." If the left hand doesn't know what the right hand is doing, the body is paralyzed.
+2.  **The "Gap" is Real:** The reality is that **illegal windows existed for months**. If the system (ICU/BD/FSD) was working, someone would have issued an order. The fact that no one did proves the gap exists, regardless of the theoretical legal framework.
+3.  **Silence is Guilt:** Refusing to say "Yes, we received a complaint" or "No, we didn't" implies the answer is damning. If they hadn't received complaints, they would likely say so to clear their name. The refusal to answer suggests **complaints were made and ignored**.
+
+**¶ Statutory Basis:**
+
+*   **Authority:** Buildings Ordinance (Cap. 121).
+*   **Role:** Independent Checking Unit (ICU) Mandate.
+
+**📅 Timeline:**
+*   **2025-11-26:** The Fire.
+*   **2025-11-27:** Media inquiries sent.
+*   **2025-12-11:** Conclusion: Departments deflect or refuse to answer.
+
+**🔗 Links:**
+*   [The Collective Report](https://thecollectivehk.com/宏福苑走火木窗曾否巡查收投訴房屋署不宜透露詳/)
+*   [Yahoo News Report](https://hk.news.yahoo.com/share/0760e461-7fdc-4f76-83c7-707e4667281f)
+
+---
+
 ### 🆔 [E-POLICE-NETS-2025-12-01-01] The "Sloppy" Admission
 
 **🚨 Significance:**
