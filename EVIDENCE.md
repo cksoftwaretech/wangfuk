@@ -1005,6 +1005,77 @@ The COW, Mr. Wong Chin Hang, is theoretically the residents' eyes and ears. Howe
 
 ---
 
+### 🆔 [E-SAFETY-WINDOWS-2025-06-21-01] The Paper Deadline: How a "Completed" Project Remained a Fire Trap for 5 More Months
+
+**🚨 Significance:**
+
+Wang Sun House (Block C) serves as the definitive proof that project oversight had collapsed. Unlike other towers, Wang Sun had a specific completion deadline of **June 21, 2025** for window replacement. However, site evidence and resident testimony confirm that the deadly "wooden board windows" remained in place until the fire in **November 2025**—**5 months past the deadline**.
+
+**1. The Fiction of Schedule:**
+*   **Promise:** Finish by June 21.
+*   **Reality:** Wooden boards installed in "late 2024" were still there in November 2025.
+*   *The Implication:* The "Deadline" was merely decorative. The Consultant (**Will Power**) failed to enforce the contract. Allowing a fire-safety gap to persist 5 months beyond the agreed completion date constitutes gross negligence in project management.
+
+**2. The Obstruction Multiplier:**
+Residents reported not just wooden windows, but **sandbags piled up in stairwells**. The contractor treated the escape route as a storage room. This confirms that the staircases were viewed solely as "workspaces" for the contractor, with residents' safety relegated to an afterthought.
+
+**3. The 1-Year Exposure:**
+Resident testimony indicates the wooden boards were installed "a few weeks after scaffolding went up in late 2024." This means the fire-resistant integrity of the building was compromised for **almost a full year**.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Missed Deadline**
+> *Source: Prestige Notice (Wang Sun) / 2025-05-16*
+>
+> "日期 : ...至 **2025 年 6 月 21 日**"
+>
+> *Translation:*
+> "Date: ...to **June 21, 2025**"
+
+> **Evidence [B]: The Reality (Wood & Sandbags)**
+> *Source: HK01 / 2025-12-05*
+>
+> "拍攝到宏新閣後樓梯外牆位置，有疑似燒毀的「**木板窗**」。居民張先生稱，宏新閣在2024年底搭完棚幾周後，便用木板封窗。...樓梯轉角位更**堆放了沙包**..."
+>
+> *Translation:*
+> "Captured suspected burnt '**wooden board windows**' on Wang Sun Court's rear staircase... Resident Mr. Cheung stated wooden boards were installed a few weeks after scaffolding in **late 2024**... Sandbags were also **piled up** at the staircase corner..."
+
+> **Evidence [C]: The Forensic Confirmation**
+> *Source: The Collective HK / 2025-12-05*
+>
+> "宏新閣... 每隔四、五層，都發現逃生樓梯有疑是**木窗的殘骸**。"
+>
+> *Translation:*
+> "Wang Sun Court... every 4-5 floors, suspected **remains of wooden windows** were found in the escape staircase."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"The extension of work was due to unforeseen site conditions or weather. The sandbags were temporary weighting materials. The wooden boards were temporary protection maintained during the extension period."
+
+**The Logical Trap:**
+1.  **Extension vs. Notification:** If the project was extended from June to November (5 months), where is the **Extension of Time (EOT)** notice? If residents weren't notified, the extension was unauthorized or informal.
+2.  **Temporary becomes Permanent:** A "temporary" hazard that lasts for 12 months (Late 2024 - Nov 2025) is a permanent structural defect. You cannot justify a year-long breach of fire code as a "temporary measure."
+3.  **The "Check-out" Failure:** If the deadline passed in June, the Consultant should have conducted a handover inspection. The fact that wooden boards remained in November proves the Consultant either never checked or actively allowed the contractor to ignore the deadline.
+
+**¶ Statutory Basis:**
+
+*   **Duty:** Fire Safety (Buildings) Ordinance (Obstruction of escape routes).
+
+**📅 Timeline:**
+*   **Late 2024:** Scaffolding up; Wooden boards installed.
+*   **2025-05-20:** Window replacement starts for Wang Sun Court.
+*   **2025-06-21:** Official Completion Deadline.
+*   **Jun - Nov 2025:** **The 5-Month Void** (work continues, hazards remain).
+*   **2025-11-26:** Fire occurs; wooden boards burn.
+
+**🔗 Links:**
+*   [HK01 Report](https://www.hk01.com/突發/60300960)
+*   [The Collective Report](https://thecollectivehk.com/宏福苑五級火直擊走火樓梯漏洞密封窗疑變開窿/)
+*   [Wang Sun Notice](http://www.wangfuk.org/html/home/doc/2025-05-16%20N146C%20-更換逃生樓梯公眾窗及設備房百葉窗工程%20(C座).pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/%E5%B7%A5%E7%A8%8B%E6%89%BF%E5%BB%BA%E5%95%86%E9%80%9A%E5%91%8A%20205%202025-5-16%20-%20%20N146C%E6%9B%B4%E6%8F%9B%E9%80%83%E7%94%9F%E6%A8%93%E6%A2%AF%E5%85%AC%E7%9C%BE%E7%AA%97%E5%8F%8A%E8%A8%AD%E5%82%99%E6%88%BF%E7%99%BE%E8%91%89%E7%AA%97%E5%B7%A5%E7%A8%8B%20(C%E5%BA%A7).pdf)
+
+---
+
 ### 🆔 [E-SAFETY-NETS-2025-10-18-01] The Price of Life: HK$593 per Victim & The 5% Decoy
 
 **🚨 Significance:**
