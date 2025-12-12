@@ -1535,7 +1535,7 @@ The fact that 16 separate site visits resulted in zero findings regarding the ne
 
 ---
 
-### 🆔 [E-GOV-NETS-2025-11-24-01] The Deaf Ear: How 1823 Complaints and "Surprise Inspections" Failed to Stop the Fire
+### 🆔 [E-GOV-NETS-2025-11-24-01] The Deaf Ear: How Hotline Complaints and "Surprise Inspections" Failed to Stop the Fire
 
 **🚨 Significance:**
 
