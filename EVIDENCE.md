@@ -1269,7 +1269,7 @@ The Labour Department (LD) misled residents about fire safety regulations. On Oc
 This was a bureaucratic lie.
 
 **1. The Lie Exposed:**
-Engineer Jason Poon immediately countered (on Oct 5) by citing **Practice Note APP-70**, which states that when scaffolding is covered, **"fire-retardant sheeting should be used"**, a standard established since 1995.
+Engineer Jason Poon (潘焯鴻) immediately countered (on Oct 5) by citing **Practice Note APP-70**, which states that when scaffolding is covered, **"fire-retardant sheeting should be used"**, a standard established since 1995.
 *   *The Implication:* The LD officer either was professionally incompetent (didn't know the rules) or deliberately lied to a layperson to close a complaint file.
 
 **2. The "Two-Tier" Response:**
