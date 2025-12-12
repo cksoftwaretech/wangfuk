@@ -1260,6 +1260,81 @@ Using a "Fall Protection" standard to regulate "Fire Spread" on high-rise facade
 
 ---
 
+### 🆔 [E-GOV-NETS-2024-10-04-01] The "Two-Tier" Truth: How Labour Dept Lied to Residents but Confessed to Experts
+
+**🚨 Significance:**
+
+The Labour Department (LD) misled residents about fire safety regulations. On Oct 4, 2024, in response to a resident's complaint about flammable nets, the LD claimed that current safety regulations **"do not cover fire retardant standards for scaffolding nets."**
+
+This was a bureaucratic lie.
+
+**1. The Lie Exposed:**
+Engineer Jason Poon immediately countered (on Oct 5) by citing **Practice Note APP-70**, which states that when scaffolding is covered, **"fire-retardant sheeting should be used"**, a standard established since 1995.
+*   *The Implication:* The LD officer either was professionally incompetent (didn't know the rules) or deliberately lied to a layperson to close a complaint file.
+
+**2. The "Two-Tier" Response:**
+*   **To the Resident (Oct 4, 2024):** "No law covers fire standards... fire risk is relatively low." (Lie & Dismissal).
+*   **To the Expert (Dec 4, 2024):** "We have always followed up... checked certificates... previous reply was 'unclear'." (Damage Control).
+*   *The Conclusion:* The government only tells the truth when cornered by professionals. Ordinary citizens are fed misinformation to discourage them from pursuing safety issues.
+
+**3. The "Low Risk" Fallacy:**
+The LD justified the "Low Risk" assessment by claiming "no hot works" (welding) were involved.
+*   *The Reality:* As Poon pointed out, construction involves grinders, electrical works, and smoking workers—all ignition sources. Claiming a construction site has "low fire risk" just because there is no welding is a fatal underestimation of site hazards.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Lie**
+> *Source: LD Email to Chung Man Lau / 2024-10-04*
+>
+> "根據現時勞工處所執行...安全條例中，**並沒有涵蓋關於棚網...的阻燃標準**。...棚網發生火災的**風險相對為低**。"
+>
+> *Translation:*
+> "According to current safety regulations enforced by LD... **there is no coverage regarding fire retardant standards for nets**... The risk of fire is **relatively low**."
+
+> **Evidence [B]: The Truth (APP-70)**
+> *Source: Buildings Dept Practice Note APP-70 / 1995*
+>
+> "消防處處長曾表示關注... 宜採取下列預防措施：(a) **應採用耐燃遮布**..."
+>
+> *Translation:*
+> "Director of Fire Services expressed concern... preventive measures should be taken: (a) **Fire-retardant sheeting should be used**...""
+
+> **Evidence [C]: The Admission of "Unclear" Reply**  
+> *Source: Ming Pao / 2025-11-30*  
+>  
+> "[勞工處]承認回覆...「**內容欠清晰，引致誤會**」，遂於去年12月4日再回覆...表示勞工處巡查時一直有跟進...並有檢視...證書，顯示...符合...認可標準。"  
+>  
+> *Translation:*  
+> "LD admitted its reply....was 'unclear and caused misunderstanding', and therefore on 4 Dec 2024 it replied...stating that it had been following up during inspections and had reviewed certificates showing that the nets met...the standards"
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"The initial reply referred strictly to the *Construction Sites (Safety) Regulations*, which indeed focus on structural safety/falling objects. Fire safety is primarily under the Fire Services Ordinance or Buildings Ordinance. It was a technical distinction, not a lie. We clarified later that we do check certificates as part of general safety duties."
+
+**The Logical Trap:**
+1.  **Silo Mentality Kills:** A citizen asking "Is this safe?" does not care which specific ordinance chapter applies. If the LD knows APP-70 exists (which they must), telling a citizen "no standard exists" is **malicious obfuscation**. It prioritizes bureaucratic boundaries over public safety.
+2.  **The "General Duty" Clause:** The *Factories and Industrial Undertakings Ordinance* imposes a "General Duty" to ensure safety. Using flammable nets on a residential building violates this general duty. Hiding behind specific clauses to ignore the general duty is legally dishonest.
+3.  **The Outcome Test:** If the LD truly "followed up" as claimed in the second reply, why did the inspections fail to find the [95% fake nets](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-police-nets-2025-12-01-02-the-95-vs-35-paradox-a-statistical-miracle)? The claim of "following up" is falsified by the reality of the fire.
+
+**¶ Statutory Basis:**
+
+*   **Duty:** General Duties of Proprietors (FIUO Cap 59).
+*   **Guidance:** Practice Note for Authorized Persons (APP-70).
+
+**📅 Timeline:**
+*   **2024-09-06:** Resident emails LD about fire risk.
+*   **2024-10-04:** LD replies "No standard exists, risk is low."
+*   **2024-10-05:** Jason Poon exposes the lie using APP-70.
+*   **2024-12-04:** LD sends "clarification" claiming they did check certificates.
+
+**🔗 Links:**
+*   [Jason Poon FB Post](https://www.facebook.com/100052697821056/posts/1375933047506610)
+*   [Ming Pao Report](https://news.mingpao.com/pns/要聞/article/20251130/s00001/1764441542925)
+*   [APP-70](https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP070.pdf)
+
+---
+
 ### 🆔 [E-GOV-WATER-2025-03-24-01] Official Endorsement of Failure: How FSD Labelled Broken Valves as "Compliant"
 
 **🚨 Significance:**
