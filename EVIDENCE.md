@@ -1,11 +1,11 @@
-### 🆔 [E-ADMIN-2024-01-28-02] The "Basket" Rigging: How 38% Support Became a $5.6 Million Mandate
+### 🆔 [E-ADMIN-2024-01-28-02] The "Basket" Rigging: How 38% Support Became a HK$5.6 Million Mandate
 
 **🚨 Significance:**
 
 Official records reveal a sophisticated mechanism of "Pseudo-Democracy" used to upsell HK$5.6 million worth of optional works. The Consultant (**鴻毅/Will Power**) and the MC orchestrated a "Bundling Strategy" that allowed unpopular items to pass by redefining the concept of "Majority" and utilizing block voting.
 
 **1. The "Minority Rule" Trick:**
-The Consultant defined "Majority Consent" not as >50%, but as simply having more "Agree" votes than "Disagree."
+"Majority Consent" was defined not as >50%, but as simply having more "Agree" votes than "Disagree."
 *   *The Smoking Gun:* The "Performance Bond" item received only **38.5%** support (31.3% opposed, 30.2% invalid). In any normal democratic process, this fails. Here, it was declared "agreed" and added to the bundle.
 *   *The Result:* A minority of respondents (representing only ~10% of all households) effectively dictated the spending for the entire estate.
 
@@ -18,7 +18,7 @@ While the questionnaire showed lukewarm interest (only 529 responses from 1,984 
 *   *The Inference:* This massive jump indicates the deployment of **Proxy Votes (Authorization Tickets)**. The "Organized Vote" crushed the "Independent Vote," approving a $5.6 million upsell that serves the contractor's profit margin.
 
 **4. The Upsell Ratio:**
-The value of these "Optional Works" ($5.64M) is **18 times** the Consultant's own fee ($308k). By facilitating this upsell, the Consultant enriched the Contractor significantly.
+The value of these "Optional Works" ($5.64M) is **18 times** the Consultant's own fee (HK$308k).
 
 **📜 Original Record:**
 
@@ -75,7 +75,7 @@ The value of these "Optional Works" ($5.64M) is **18 times** the Consultant's ow
 *   **Context:** Building Management Ordinance (Cap. 344) - Procurement & Voting Procedures.
 
 **📅 Timeline:**
-*   **2023-11-03:** Questionnaire issued.
+*   **2023-11-03:** The Consultant issued the questionnaires.
 *   **2023-11-23:** Low support (38.5%) items classified as "Agreed."
 *   **2024-01-28:** EGM passes the "Basket" with 90% vote (proxies).
 
