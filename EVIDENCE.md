@@ -183,7 +183,7 @@ State media (**People's Daily**) exposed this exact "No Sample" industry back in
 **¶ Statutory Basis:**
 
 *   Forgery, [Cap 200 Section 71](https://www.elegislation.gov.hk/hk/cap200!en/s71?_lang=en)
-*   Conspiracy to Defraud, [Cap 200 Section 159A](https://www.elegislation.gov.hk/hk/cap200!en/s159A?_lang=en).
+*   Conspiracy to Defraud, [Cap 200 Section 159A](https://www.elegislation.gov.hk/hk/cap200!en/s159A?_lang=en)
 
 **📅 Timeline:**
 *   **2021-07-07:** People's Daily exposes the fake report industry.
@@ -588,7 +588,7 @@ This deception was coordinated with the [Consultant's pressure](https://github.c
 **¶ Statutory Basis:**
 
 *   [Code of Practice for Fire Safety in Buildings 2011 (2024 Edition)](https://www.bd.gov.hk/doc/en/resources/codes-and-references/code-and-design-manuals/fs_code2011.pdf)
-*   False Trade Description ([Cap 362 Section 7](https://www.elegislation.gov.hk/hk/cap362!en/s7?_lang=en)).
+*   False Trade Description, [Cap 362 Section 7](https://www.elegislation.gov.hk/hk/cap362!en/s7?_lang=en)
 
 **📅 Timeline:**
 *   **2024-09-13:** Residents expose flammability.
@@ -1374,7 +1374,7 @@ The report highlights that the **State Administration for Market Regulation (SAM
 2.  **The "One Batch" Test:** They don't need to test *every* roll. Testing *one* random sample locally would have revealed the fraud (as residents did with a lighter). Not doing even a basic spot check implies they **did not want to know the answer**.
 
 **¶ Statutory Basis:**
-*   False Trade Description, [Cap 362 Section 7](https://www.elegislation.gov.hk/hk/cap362!en/s7?_lang=en).
+*   False Trade Description, [Cap 362 Section 7](https://www.elegislation.gov.hk/hk/cap362!en/s7?_lang=en)
 
 **📅 Timeline:**
 *   **2025-10:** Mainland Official verification system goes offline.
@@ -1740,7 +1740,7 @@ A chaotic trail of official statements reveals a critical failure in the fire al
 Fire Safety Consultant Leung Kam-tak (梁錦得) stated it is statistically impossible for 7 towers to fail simultaneously by chance. He concluded it was "**clearly man-made**" , noting that "**unplugging a wire would suffice**" to silence the system.
 
 **3. The Legal Impotence:**
-While the contractors face charges for "False Statements" (Cap 200 s36), the maximum penalty is only **imprisonment for 2 years** and a fine. Recent cases show sentences as light as **2 months imprisonment** or **3 months suspended sentence**.
+While the contractors face charges for False Declarations, the maximum penalty is only **imprisonment for 2 years** and a fine. Recent cases show sentences as light as **2 months imprisonment** or **3 months suspended sentence**.
 *   *The Absurdity:* Lying about a critical safety system that contributed to 159 deaths carries a lighter maximum sentence than many minor theft offenses.
 
 **4. The Defense:**
@@ -1795,8 +1795,7 @@ Victory Fire Engineering (宏泰), the long-term maintenance contractor, denied 
 
 **¶ Statutory Basis:**
 
-*   **Offence:** False statutory declarations and other false statements without oath.
-*   **Provision:** Crimes Ordinance, [Cap 200, Section 36](https://www.elegislation.gov.hk/hk/cap200!en/s36?_lang=en).
+*   False Statutory Declarations, [Cap 200, Section 36](https://www.elegislation.gov.hk/hk/cap200!en/s36?_lang=en)
 
 **🔗 Links:**
 *   [Ming Pao Report](https://news.mingpao.com/pns/%E8%A6%81%E8%81%9E/article/20251129/s00001/1764354153841)
