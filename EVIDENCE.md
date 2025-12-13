@@ -1435,7 +1435,7 @@ The warning demanded "proper storage of flammables." Sticking Styrofoam boards o
 *   **2025-11-26:** Wang Fuk Court Fire (The Realization).
 
 **🔗 Links:**
-*   [CIC Safety Message PDF](https://www.cic.hk/files/page/52/防火安全：加強建築工地的防火安全%20-%20安全訊息%20第02425號（2025年10月）.pdf)
+*   [CIC Safety Message PDF](https://www.cic.hk/files/page/52/防火安全：加強建築工地的防火安全%20-%20安全訊息%20第02425號（2025年10月）.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/建造業議會%20-%20防火安全：加強建築工地的防火安全%20-%20安全訊息%20第02425號（2025年10月）.pdf)
 
 ---
 
