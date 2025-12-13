@@ -208,7 +208,7 @@ Official minutes show that on 29 Sep 2025, the MC unanimously approved a fire-sa
 
 **🚨 Significance:**
 
-On December 4, 2025, MC Chairman Tsui Man-kam admitted to the press he was "**unclear**" whether the critical fire safety repairs (approved Sep 29) had been completed before the fire. This admission reveals a fatal governance failure: the MC approved the $144,170 contract covering essential components like **inlet valves** and **fire bells**, but failed to monitor its execution. Consequently, when the disaster struck, the estate's top decision-maker did not know if the life-saving systems were operational or dismantled for maintenance.
+On December 4, 2025, MC Chairman Tsui Moon-kam admitted to the press he was "**unclear**" whether the critical fire safety repairs (approved Sep 29) had been completed before the fire. This admission reveals a fatal governance failure: the MC approved the $144,170 contract covering essential components like **inlet valves** and **fire bells**, but failed to monitor its execution. Consequently, when the disaster struck, the estate's top decision-maker did not know if the life-saving systems were operational or dismantled for maintenance.
 
 **📜 Original Record:**
 
@@ -218,7 +218,7 @@ On December 4, 2025, MC Chairman Tsui Man-kam admitted to the press he was "**un
 > "本台向業主立案法團主席徐滿柑查詢，他表示**不清楚該次的消防執修工程是否已經完成**。"
 >
 > *Translation:*
-> "Now News enquired with MC Chairman **Tsui Man-kam**, who stated he **was unclear whether that specific fire rectification work had been completed.**"
+> "Now News enquired with MC Chairman **Tsui Moon-kam**, who stated he **was unclear whether that specific fire rectification work had been completed.**"
 
 > **Evidence [B]: The Project He Approved**
 > *Source: 12th MC Meeting Minutes (No. 12) / 2025-09-29*
@@ -560,7 +560,7 @@ This method was documented in **File PC-24-WFC-L-46**. The Consultant (**Will Po
 > "業主立案法團主席徐滿柑...確認宏福苑八座大廈，每個單位的窗戶都貼上了發泡膠板；有居民向記者提供相片，顯示廁所、客廳及房間每個窗，甚至安裝冷氣的位置，均用發泡膠板遮擋"  
 >  
 > *Translation:*  
-> "Mr Tsui Man‑gam, chairman of the Owners’ Corp, confirmed that in all eight blocks of Wang Fuk Court every unit’s windows had foam boards affixed; residents provided reporters with photos showing that every window in bathrooms, living rooms and bedrooms, and even air‑conditioning installation points, were covered with foam boards."  
+> "Mr Tsui Moon‑kam, chairman of the Owners’ Corp, confirmed that in all eight blocks of Wang Fuk Court every unit’s windows had foam boards affixed; residents provided reporters with photos showing that every window in bathrooms, living rooms and bedrooms, and even air‑conditioning installation points, were covered with foam boards."  
 
 **🛡️ Pre-emptive Rebuttal:**
 
