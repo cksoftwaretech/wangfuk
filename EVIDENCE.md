@@ -1244,6 +1244,77 @@ Resident testimony indicates the wooden boards were installed "a few weeks after
 
 ---
 
+### 🆔 [E-SAFETY-2025-07-17-01] The "Hostage" Strategy: How Payment Disputes Extended the Danger Zone
+
+**🚨 Significance:**
+
+A timeline analysis reveals that the Contractor (**Prestige/宏業**) drastically extended the schedule. This delay kept the flammable scaffolding attached to the buildings for months longer than planned, placing the estate in the "Danger Zone" during the fatal fire.
+
+**1. The Original Plan (Safe by Christmas):**
+Documents dated **Jan 18, 2025**, show the original completion date for Phase 2 (Blocks C, D, E - including the fire-struck Wang Tai & Wang Sun) was **Dec 9, 2025**, with scaffolding removed by **Nov 17**.
+*   *The "What If":* If this schedule had been kept, the scaffolding would have been removed by the time of the fire, likely preventing the catastrophic spread.
+
+**2. The 6-Month Delay:**
+By **July 17, 2025**, Prestige issued a new schedule pushing the completion date to **April 2026**.
+*   *The Cause:* This coincides with the new MC's decision (Sep 6, 2024) to extend the payment collection period to **Jan 2026**.
+*   *The Tactic:* It appears Prestige adopted a "Pay Slow, Work Slow" strategy. By aligning the work progress with the cash flow, they kept the estate wrapped in scaffolding as leverage, prioritizing financial security over life safety.
+
+**3. Living in a Cage:**
+Residents were forced to live in sealed, air-conditioner-less units (due to removal for works) for an extended period. This prolonged "siege mentality" likely contributed to "fatigue," where residents became desensitized to construction risks, not realizing the long-term death trap.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Original Schedule (Safe by Nov)**
+> *Source: Prestige Schedule / 2025-01-18*
+>
+> "第二期：C,D,E座... 拆除棚架 **24-10-25 (Oct 24) - 17-11-25 (Nov 17)**"
+>
+> *Translation:*
+> "Phase 2 (Blocks C, D, E)... Dismantle Scaffolding: **Oct 24 to Nov 17, 2025**."
+
+> **Evidence [B]: The Deliberate Delay**
+> *Source: Prestige Schedule / 2025-07-17*
+>
+> "第二期... 完成拆網,拆棚 | 預計 **26年3月 ～ 26年4月**"
+>
+> *Translation:*
+> "Phase 2... Dismantle Nets/Scaffolding | Est. **Mar 2026 - Apr 2026**."
+
+> **Evidence [C]: The Payment Extension**
+> *Source: 12th MC EGM Minutes / 2024-09-06*
+>
+> "大會以 50.88% 通過... 優化方案... 第六期 | **2026 年 01 月 02 日**"
+>
+> *Translation:*
+> "EGM passed... Optimized Scheme... 6th Installment Deadline: **Jan 2, 2026**."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"Delays are common in construction due to weather and labor shortages. The schedule adjustment was realistic, not malicious. We cannot proceed faster than the cash flow allows; materials and labor must be paid. The extension was necessary to ensure quality."
+
+**The Logical Trap:**
+1.  **Safety cannot be conditional:** Scaffolding is a known fire hazard. Extending its presence on a populated building solely for financial leverage creates an **unjustifiable risk**. If cash flow was an issue, the responsible action would be to pause *start* of new sections, not to leave existing sections wrapped in tinder.
+2.  **The "Quality" Excuse:** Extending a project by 6 months (50% increase) cannot be explained solely by "quality." The correlation with the payment schedule is too precise to be coincidental. It demonstrates that the contractor treated the scaffolding not as a tool for work, but as a tool for **debt collection**.
+3.  **The Fatal Consequence:** Whether motivated by malice or business prudence, the decision to extend the schedule had a lethal outcome. The contractor bet the residents' safety against the payment schedule, and the residents lost.
+
+**¶ Statutory Basis:**
+
+*   **Principle:** Timely Performance of Contract.
+
+**📅 Timeline:**
+*   **2024-09-06:** New MC extends payment to Jan 2026.
+*   **2025-01-18:** Prestige plans to finish by Nov 2025.
+*   **2025-07-17:** Prestige delays finish to Apr 2026 (matching payment).
+*   **2025-11-17:** Scaffolding supposed to be removed for Phase 2 through original plan.
+*   **2025-11-26:** Fire occurs.
+
+**🔗 Links:**
+*   [Residents' FB Post](https://www.facebook.com/share/p/1AggjWpq1M/)
+*   [EGM Minutes (Payment)](http://www.wangfuk.org/html/meeting/03/2024年9月6日特別業主大會會議記錄.pdf)
+
+---
+
 ### 🆔 [E-SAFETY-NETS-2025-10-18-01] The Price of Life: HK$593 per Victim & The 5% Decoy
 
 **🚨 Significance:**
