@@ -1,3 +1,75 @@
+### 🆔 [E-ADMIN-2024-01-28-01] The Phantom Voters: How a "Mystery Mouse" Swung the HK$330M Contract
+
+**🚨 Significance:**
+
+Eyewitness accounts from the EGM reveal the mechanics of a likely rigged election. While the meeting minutes record a clean victory for **Prestige (宏業)**, resident observations expose a sudden, inexplicable influx of proxy votes that overwhelmed the legitimate attendees, handing the HK$330 million contract to the cartel's chosen winner.
+
+**1. The "Magic" 37 Minutes:**
+*   **2:12 PM:** Meeting starts. Attendance recorded at **~293 households**.
+*   **2:37 PM:** Voting starts. Vote count suddenly jumps to **~564 households**.
+*   **The Anomaly:** In just 25 minutes, **~271 households** were added to the register. Eyewitnesses confirm no massive crowd entered the venue.
+*   **The Deduction:** These were not people, but **Proxy Votes** dumped into the system at the last minute. This "Ambush Strategy" allows riggers to calculate exactly how many votes are needed to win before playing their hand.
+
+**2. The "Mystery Mouse":**
+Witnesses identified a specific individual who registered *after* the meeting started (2:15 PM) and collected voting ballots for **~45 households** (583 shares) in one go.
+*   *The Tactic:* Holding back a block of votes until the last moment prevents opposition from rallying. It is a classic bid-rigging maneuver to ensure the "preferred" contractor wins by a controlled margin.
+
+**3. Live vs. Proxy:**
+Analysis suggests that while ~95% of *physically present* owners appeared to oppose Prestige, the contractor won with **54.79%** of the total vote.
+*   *The Reality:* The "Live Vote" (Democracy) was crushed by the "Proxy Vote" (Machine). The will of the residents who cared enough to attend was nullified by a stack of papers, some of which residents alleged were forged or obtained through deception ("never authorized before").
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Official Result**
+> *Source: 11th MC Meeting Minutes (No. 23) / 2024-01-28*
+>
+> "出席人數為 595 人(包括授權...)... 宏業建築工程有限公司 **3,866 (54.79%)**"
+>
+> *Translation:*
+> "Attendance 595 (including proxies)... Prestige Construction **3,866 [shares] (54.79%)**"
+
+> **Evidence [B]: The Eyewitness Account (The Influx)**
+> *Source: Yu Ho (FB Group) / 2024-01-31*
+>
+> "2:12pm宣布大會開始，合共...293戶... 2:37pm投票... 結果合共...約564戶... 37分鐘內出現...約271戶... 期間只有不多於40位人士完成登記..."
+>
+> *Translation:*
+> "2:12pm start: **293 households**. 2:37pm vote: **564 households**. In 37 mins, **271 households** appeared... but physically fewer than 40 people entered."
+
+> **Evidence [C]: The "Mystery Mouse"**
+> *Source: Yu Ho (FB Group) / 2024-01-31*
+>
+> "看到有1位人士簡稱「神秘老鼠」...約2:15pm完成登記及獲取合共【583業權份數(約45戶)】的投票表格..."
+>
+> *Translation:*
+> "Saw one person 'Mystery Mouse'... registered at 2:15pm and took ballots for **583 shares (~45 households)**..."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"Proxy voting is legal under the Building Management Ordinance. Owners who cannot attend have the right to authorize representatives. The increase in numbers reflects late registrations, which is common. Allegations of forgery are serious and require proof; without police findings, these are just disgruntled rumors."
+
+**The Logical Trap:**
+1.  **The "Late Arrival" Physics:** Registering 271 households in 25 minutes requires processing **10 households per minute**. Unless there were 10 registration counters working non-stop with zero friction, this physical throughput is highly suspicious. It suggests a "bulk processing" of pre-collected forms, not individual arrivals.
+2.  **The "Unusual" Pattern:** Why would 45 owners entrust their vote to a single "Mystery Mouse" who arrives *late*? This pattern—concentration of power in unknown hands + strategic timing—is the hallmark of **Vote Warehousing**, not organic participation.
+3.  **The Resulting Tragedy:** Whether "legal" or not, this voting mechanism produced a contractor (Prestige) who used fake materials, fake certificates, and ignored safety laws, leading to 159 deaths. The "Legality" of the vote does not absolve the **Immorality** of the outcome.
+
+**¶ Statutory Basis:**
+
+*   **Context:** Proxy Instruments, Building Management Ordinance,  [Cap 344 Section 3](https://www.elegislation.gov.hk/hk/cap344!en/s3?_lang=en)
+
+**📅 Timeline:**
+*   **2024-01-28 (14:12):** Meeting starts (293 households).
+*   **2024-01-28 (14:37):** Vote starts (564 households - Sudden jump).
+*   **2024-01-28 (16:00):** Prestige wins contract.
+*   **2024-01-31:** Residents publish analysis alleging rigging.
+
+**🔗 Links:**
+*   [Yu Ho's Account](https://www.facebook.com/groups/119139415465012/posts/1326593118052963/)
+*   [EGM Minutes](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md#2023-11-23-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+
+---
+
 ### 🆔 [E-ADMIN-2024-01-28-02] The "Basket" Rigging: How 38% Support Became a HK$5.6 Million Mandate
 
 **🚨 Significance:**
