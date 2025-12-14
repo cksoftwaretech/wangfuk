@@ -518,7 +518,7 @@ Will Power inserted a disclaimer stating they "**bear no responsibility for the 
 *   **2024-01-28:** Contract awarded based on unverified scores.
 
 **🔗 Links:**
-*   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資(料簡報小冊子.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/強制驗樓驗窗計劃%2011.%20樓宇復修工程資料簡報小冊子.pdf)
+*   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/強制驗樓驗窗計劃%2011.%20樓宇復修工程資料簡報小冊子.pdf)
 *   EPD ISO Directory: [[1]](https://www.epd.gov.hk/epd/sites/default/files/epd/iso14k.pdf) [[2]](https://www.epd.gov.hk/epd/sites/default/files/epd/iso14k_others.pdf) [[3]](https://www.epd.gov.hk/epd/sites/default/files/epd/english/how_help/tools_ems/files/2023_iso14k_t.pdf)
 
 ---
