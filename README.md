@@ -15,31 +15,34 @@ https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md
 
 The following files are too large and have therefore been uploaded separately to MEGA Cloud Storage: 
 >https://mega.nz/folder/M5cHHAYa#W0VxI6dDM1b6fpf4K9Ma1w
-* 大維修相關資訊 2. 工程解說會簡報(宏業及鴻毅).pdf
-* 大維修相關資訊 8. 特別業主大會解說會簡報(14-3-2025).pdf 
-* 宏福通訊 第12屆管理委員會-第4期.pdf
-* 宏福通訊 第12屆管理委員會-第5期.pdf
-* 宏福通訊 第12屆管理委員會-第9期.pdf
+* 大維修相關資訊 2. 工程解說會簡報(宏業及鴻毅).pdf (Maintenance Project Presention by Prestige & Will Power)
+* 大維修相關資訊 8. 特別業主大會解說會簡報(14-3-2025).pdf (EGM Presentation / 2025-03-14)
+* 宏福通訊 第12屆管理委員會-第4期.pdf (Wang Fuk Newsletter 12th MC - Vol 4)
+* 宏福通訊 第12屆管理委員會-第5期.pdf (Wang Fuk Newsletter 12th MC - Vol 5)
+* 宏福通訊 第12屆管理委員會-第9期.pdf (Wang Fuk Newsletter 12th MC - Vol 9)
 
 ---
 
 ### Data Integrity & Discrepancy Log
 
 **1. Mismatched Record (10th Term):**
-The [link](http://www.wangfuk.org/html/meeting/05/%E7%AC%AC9%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) for the *Minutes of the 9th Management Committee Meeting of the 10th Term (December 18, 2018)* (第十屆第九次全體委員會議記錄) is incorrectly mapped. It redirects to the *11th Term Minutes (November 17, 2021)* (第十一屆第九次全體委員會議記錄) instead. Consequently, the original 2018 document is missing.
+The [link](http://www.wangfuk.org/html/meeting/05/第9次全體委員會議記錄.pdf) for the *10th MC Minutes No.9 (December 18, 2018)* (第十屆第九次全體委員會議記錄) is incorrectly mapped. It redirects to the *11th MC Minutes No.9 (November 17, 2021)* (第十一屆第九次全體委員會議記錄) instead. Consequently, the original 2018 document is missing.
 
 **2. Missing Agendas (9th Term):**
 While the *Meeting Minutes* for the [9th Term](http://www.wangfuk.org/html/meeting/04.htm) are complete, multiple *Meeting Agendas* are missing from the source website.
 
 **3. Incorrect Link (2018 EGM):**
-The [link](http://www.wangfuk.org/html/meeting/05/2018.09.07-%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E8%AD%B0%E7%A8%8B.pdf) for the *Agenda of the Extraordinary General Meeting (September 7, 2018)* (2018年9月7日特別業主大會議程) incorrectly points to the *Minutes* of the same day. As a result, the Agenda document is missing.
+The [link](http://www.wangfuk.org/html/meeting/05/2018.09.07-特別業主大會議程.pdf) for the *Agenda of the Extraordinary General Meeting (September 7, 2018)* (2018年9月7日特別業主大會議程) incorrectly points to the *Minutes* of the same day. As a result, the Agenda document is missing.
 
-**4. Broken External Links (MBIS/MWIS):**
+**4. Broken Document Link:**
+The [link](http://www.wangfuk.org/html/comm/02/第33期%202023.12(印刷).pdf) for Wang Fuk Newsletter 11th MC - Vol.33 (宏福通訊 第11屆管理委員會-第33期) is inaccessible and displayed the error: `HTTP Error 404.0 - Not Found`.
+
+**5. Broken External Links (MBIS/MWIS):**
 Items 2 and 3 under the [*Mandatory Building Inspection & Window Inspection Scheme*](http://www.wangfuk.org/html/home/inspection.asp) (強制驗樓驗窗計劃 2. 及 3.) point to the following dead URLs:
 *   `https://www.bd.gov.hk/chineseT/services/index_MBIS_MWIS.html`
 *   `https://www.bd.gov.hk/chineseT/documents/guideline/GGMBISMWIS.pdf`
 
-**5. Non-Document Redirection:**
+**6. Non-Document Redirection:**
 Item 10 under the same scheme (強制驗樓驗窗計劃 10.) is not a hosted document but a direct link to the external Smart Tender platform:
 *   `https://smarttender.brplatform.org.hk/zh-HK/index.htm`
 
