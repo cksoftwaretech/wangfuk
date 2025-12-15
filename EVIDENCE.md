@@ -629,6 +629,92 @@ Will Power inserted a disclaimer stating they "**bear no responsibility for the 
 
 ---
 
+### 🆔 [E-CARTEL-2023-10-16-01] The Kingmaker's Algorithm: How "Variance" Nullified the Owners' Vote
+
+**🚨 Significance:**
+
+A statistical forensic analysis of the interview scores reveals how the Consultant (**Will Power**) hijacked the selection process. Although the Management Committee (MC) nominally held 50% of the voting power, Will Power utilized **extreme statistical variance** to render the MC's preferences mathematically irrelevant, effectively "Kingmaking" their chosen contractors (including Prestige).
+
+**1. The "Variance" Weapon:**
+*   **MC's Scoring Behavior:** Conservative and clustered (Range: 30 to 71).
+*   **Consultant's Scoring Behavior:** Extreme and polarized (Range: 15 to 90).
+*   *The Mathematical Reality:* In an average-based system, the party with the higher variance dictates the ranking. By swinging their scores wildly, Will Power mathematically overpowered the MC's moderate inputs.
+
+**2. The Assassination of MC's Choices:**
+*   **Target:** **Hitechi** was the MC's **3rd choice** (64 points).
+*   **The Kill:** Will Power gave them a crushing **30 points** (Bottom Tier).
+*   *Result:* Hitechi plummeted to "Grade C" (47 points) and was eliminated from the recommendation list.
+
+**3. The Resurrection of Prestige:**
+*   **Beneficiary:** **Prestige (宏業)** was only mediocre in the MC's eyes (57 points).
+*   **The Boost:** Will Power awarded them a staggering **90 points** (The highest score of all).
+*   *Result:* Prestige skyrocketed to "Grade B" (75 points) and secured a spot on the "First Choice" list.
+
+**4. The 100% Correlation:**
+The "Final Recommendation List" of 5 contractors aligns **perfectly** with Will Power's Top 5.
+*   *Conclusion:* The MC's 50% voting right was an illusion. The Consultant determined 100% of the outcome through statistical manipulation.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Consultant's "Kingmaker" List (Top 5)**
+> *Source: Renovation Booklet p.58*
+>
+> 1.  **Prestige (宏業)**: 90
+> 2.  **Shusum (樹深)**: 88
+> 3.  **Smartgoal  (俊豪)**: 85
+> 4.  **Hong Yi (宏溢)**: 81
+> 5.  **Widely  (偉利)**: 78
+>
+> *(Note: All 5 received "Grade B" in the final tally in terms of interview evaluation.)*
+
+> **Evidence [B]: The Assassination of MC Favorites**
+> *Source: Renovation Booklet p.58*
+>
+> *   **Hitechi (海得志)**: MC gave **64** (High); Consultant gave **30** (Low). -> **Eliminated**.
+> *   **Mega Praise (萬嘉)**: MC gave **60** (High); Consultant gave **39** (Low). -> **Eliminated**.
+
+> **Evidence [C]: The "Prestige" Manipulation**
+> *Source: Renovation Booklet p.58*
+>
+> | Name | Consultant (50%) | MC (50%) | Final |
+> | :--- | :---: | :---: | :---: |
+> | **Prestige** | **90 (46)** | 57 (29) | **75 (Grade B)** |
+>
+> *(Analysis: Without the Consultant's extreme 90, Prestige would have languished in Grade C.)*
+
+> **Evidence [D]: The Final 5 Match**
+> *Source: Renovation Booklet p.63*
+>
+> "...評估各承建商於背景、報價及面試方面的綜合表現後，以下承建商的整體條件較切合本項目所需的要求 :... 1 偉利... 2 宏溢... 3 俊豪... 4 樹深... 5 宏業"
+>
+> *Translation:*
+> "After evaluating each contractor’s overall performance in background, pricing, and interview, the following are considered to best meet the requirements of this project: ... 1 Widely... 2 Hong Yi... 3 Smartgoal... 4 Shusum... 5 Prestige."
+> *(Match Rate: 5 out of 5 with Consultant's Top List.)*
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"The Consultant's scoring reflects professional technical assessment, which naturally differentiates sharply between capable and incapable contractors. The MC members, being laymen, tend to give 'safe', average scores. Our 90 points for Prestige reflected their superior interview performance and technical answers, which justifies the difference."
+
+**The Logical Trap:**
+1.  **"Superior" Performance vs. Reality:** What "technical superiority" did Prestige show to deserve 90 marks? Was it the **fake litigation record** (E-CARTEL-RIGGED-SCORE)? Or the **lack of AP/RSE** (E-CARTEL-RIGGED-CRITERIA)? Awarding 90 marks to a company with a documented history of safety convictions is not "professional differentiation"; it is **professional misconduct**.
+2.  **The Pattern of Elimination:** It is statistically improbable that *every single one* of the MC's preferred candidates (Sea-Tech, Man Ka, Man Sing) was technically "disastrous" enough to warrant 30-range scores from the Consultant. This systematic suppression suggests an intent to purge non-cartel candidates.
+3.  **The Outcome Test:** If Prestige was truly a "90-point" contractor, why did they use fake nets, fake foam, and ignore safety laws? The 90 points were proven false by the fire itself.
+
+**¶ Statutory Basis:**
+
+*   **Context:** Prevention of Bribery Ordinance (fixing tendering outcome).
+
+**📅 Timeline:**
+*   **2023-10-16:** Final interview. Will Power assigns 90 to Prestige, 30 to rivals.
+*   **2023-12-29:** Final List presented (Prestige included).
+*   **2024-01-28:** Prestige wins.
+
+**🔗 Links:**
+*   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/強制驗樓驗窗計劃%2011.%20樓宇復修工程資料簡報小冊子.pdf)
+
+---
+
 ### 🆔 [E-SAFETY-2016-01-01-01] The "Mathematical Impossibility" & The Parasitic Business Model
 
 **🚨 Significance:**
