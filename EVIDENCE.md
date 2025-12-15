@@ -2062,6 +2062,72 @@ The decision to replace these valves was finalized on **November 7, 2025**. The 
 
 ---
 
+### 🆔 [E-SAFETY-WINDOWS-2025-11-26-01] The Inverted Logic: Why Taking the Elevator Saved Lives and Stairs Killed
+
+**🚨 Significance:**
+
+Survivor testimony from Man Leung (Wang Cheong Court) reveals a terrifying inversion of fire safety logic. Due to the [compromised staircases](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-windows-2024-01-28-01-the-fireproof-paradox-paying-for-safety-getting-a-death-trap) and the failure of the [alarm system](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-alarm-2025-05-14-01-the-silent-switch-how-management-disabled-the-alarm-to-save-trouble), the standard "Safe Route" became a death trap, while the strictly prohibited "Forbidden Route" (the elevator) became the only means of survival.
+
+**1. The Staircase Chimney Effect:**
+At **14:52**, moments after the fire started, the resident checked the rear staircase and found **"white smoke rising on both sides."**
+*   *The Implication:* The "Perforated Wooden Boards" had already allowed smoke to breach the staircase integrity. The primary escape route was neutralized almost instantly. Logic dictated: "Going down leads to fire; going up leads to smoke." The stairs were impassable.
+
+**2. The Desperate Gamble:**
+Facing a silent fire alarm ("Pressed and slapped, did not ring") and smoke-filled stairs, the resident and neighbors made a split-second decision to **take the elevator**.
+*   *The Paradox:* Standard fire safety dictates "Do Not Use Lifts." Yet, in this specific man-made disaster, those who followed the rules and entered the smoke-filled stairs risked asphyxiation, while those who broke the rules escaped.
+
+**3. The 3-Minute Margin:**
+Door cam footage revealed that just **3 minutes** after they escaped, the corridor was filled with thick smoke.
+*   *The Verdict:* This confirms the extreme speed of smoke propagation caused by the [**Styrofoam Cladding**](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-foam-2024-07-19-01-the-sop-death-trap-use-of-flammable-foam). Without the early warning of an alarm, a 3-minute hesitation meant death.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Compromised Stairs**
+> *Source: Man Leung (Survivor) / 2025-12-02*
+>
+> "我們查看後樓梯，發覺兩邊也是**白煙向上升**... 如火警在樓下，向下走可能遇上... 煙向上升，更不要向上走！"
+>
+> *Translation:*
+> "We checked the rear stairs, found **white smoke rising on both sides**... If the fire is below, going down risks meeting it... Smoke rises, so definitely don't go up!"
+
+> **Evidence [B]: The Silent Alarm**
+> *Source: Man Leung (Survivor) / 2025-12-02*
+>
+> "同時按了及拍了火警鐘🔔，**竟然不響**！！！"
+>
+> *Translation:*
+> "Simultaneously pressed and slapped the fire alarm bell, **it shockingly did not ring**!!!"
+
+> **Evidence [C]: The Lift Gamble**
+> *Source: Man Leung (Survivor) / 2025-12-02*
+>
+> "我跟鄰居說"博唔博"👀？大家二話不說入了電梯... 幾十秒直到地下... 只要我猶豫多三分鐘，走廊已滿濃煙，或我已GG了"
+>
+> *Translation:*
+> "I asked the neighbor 'Wanna gamble?'... We entered the lift without a word... Seconds later we were on the ground... If I hesitated **3 more minutes**, the corridor would be full of smoke, or I would be 'game over'."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"Taking the elevator during a fire is extremely dangerous. The lift shaft can act as a chimney, or power can cut out, trapping passengers. Residents should not take this case as an example. The correct procedure is to use the smoke-proof staircase. If the staircase has smoke, stay put in the unit."
+
+**The Logical Trap:**
+1.  **The "Correct" Path was Broken:** The "Smoke-Proof Staircase" is a theoretical concept that relies on *intact fire windows*. Because the contractor replaced them with **wooden boards with holes**, the "Correct Procedure" became a suicide mission. You cannot blame residents for abandoning a safety feature that was allowed to be destroyed.
+2.  **"Stay Put" was Fatal:** As seen in the tragedy of [Jack's family](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-victim-2025-11-26-01-the-seven-hours-of-hell-a-real-time-chronicle-of-systemic-murder), "Staying Put" was also fatal due to the **Radiant Heat** from the Styrofoam.
+3.  **Forced Malpractice:** When *every* standard safety protocol (Stairs, Shelter in Place) is compromised by systemic negligence, victims are forced into high-risk gambles. The survival of these residents is not proof that "lifts are safe," but proof that **"the building was unsafe."**
+
+**📅 Timeline:**
+*   **14:51:** Fire starts.
+*   **14:52:** Resident smells smoke. Checks stairs (Smoke rising).
+*   **14:57:** Alarm fails to ring. Decides to take lift.
+*   **14:58:** Escapes to ground.
+*   **15:00:** Door cam shows corridor filled with smoke.
+
+**🔗 Links:**
+*   [Survivor's Facebook Post](https://www.facebook.com/share/p/1G1mbJTrGs/)
+
+---
+
 ### 🆔 [E-SAFETY-NETS-2025-11-27-01] The "Open Secret": Fake Certificates
 
 **🚨 Significance:**
