@@ -629,7 +629,75 @@ Will Power inserted a disclaimer stating they "**bear no responsibility for the 
 
 ---
 
-### 🆔 [E-CARTEL-2023-10-16-01] The Kingmaker's Algorithm: How "Variance" Nullified the Owners' Vote
+### 🆔 [E-CARTEL-2023-10-16-01] The Schizophrenic Scorecard: Why the "Criticized" Beat the "Praised"
+
+**🚨 Significance:**
+
+A textual analysis of the Interview Evaluation Report exposes a blatant disconnect between the Consultant's (**Will Power/鴻毅**) written comments and the actual scores awarded. The grading logic appears inverted: the contractor receiving critical feedback scored *higher* than the contractor receiving glowing praise.
+
+**1. The "Negative" Winner (Prestige):**
+*   **The Comments:** Will Power listed **3 negatives out of 4 points**:
+    *   "Attendees *not confirmed* as future project team." (Unknown team)
+    *   "Individual responses *not ideal*, needed supervisor to supplement." (Incompetence)
+    *   "Explanation too detailed, affecting other answers, time management *needs improvement*." (Poor communication)
+*   **The Score:** **90/100 (Highest in Tender)**.
+*   *The Logic Gap:* How does a team that is "unknown," gives "not ideal" answers, and has "poor time management" achieve a near-perfect score?
+
+**2. The "Positive" Loser (Shusum):**
+*   **The Comments:** Will Power listed **6 positives** including:
+    *   "Attendees *fully* confirmed as project team, including company head." (Commitment)
+    *   "Clear, detailed explanation of workflow and impact on residents." (Competence)
+    *   "Highlighting trusting management and contingency ability." (Trust)
+    *   "Offered **13 free value-added services worth ~HK$39 million**." (Value)
+*   **The Score:** **88/100 (Lower than Prestige)**.
+*   *The Injustice:* A company offering HK$39M in free value and demonstrating superior management was scored *lower* than a company with a shaky presentation.
+
+**3. The Arbitrary Power:**
+This disconnect proves that the "Scoring System" was a sham. The scores were not derived from the performance (as reflected in the comments) but were pre-determined. The comments were likely copy-pasted or written by junior staff, while the scores were hard-coded by senior management to ensure Prestige's victory.
+
+**📜 Original Record:**
+
+> **Evidence [A]: Prestige's Negative Feedback**
+> *Source: Renovation Booklet p.52*
+>
+> "總結：... 未有確定是否為日後工程團隊... 個別人士回應問題**未如理想**... 控制時間方面有需要**作出改善**..."
+> "顧問評分 (50%)：**90**"
+>
+> *Translation:*
+> "Summary: ...Attendees **not confirmed** as future team... individual responses **not ideal**... time control needs **improvement**..."
+> "Consultant Score: **90**"
+
+> **Evidence [B]: Shusum's Glowing Feedback**
+> *Source: Renovation Booklet p.50*
+>
+> "總結：... 全數為本項目工程團隊...過往維修工程經驗豐富...對標書項目及作業守則條例熟悉...突顯令人信任的工程管理...有理解屋苑合約不能改動外牆飾面，反映公司對面試的準備及認真程度...合共提出**13項免費增值服務，等值約3,900萬**"
+> "顧問評分 (50%)：**88**"
+>
+> *Translation:*
+> "Summary: ...Attendees **fully confirmed** as project team...have extensive past maintenance experience...familiar with the tender items and operational regulations...highlighting trustworthy management...understand that the estate contract does not allow alteration of the exterior wall finishes, reflecting the company’s preparation and seriousness for the interview...proposed **13 free value-added services worth ~HK$39M**"
+> "Consultant Score: **88**"
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"Scoring is holistic. While Shusum had good value-added services, Prestige demonstrated superior technical understanding of specific structural repair methods during the Q&A, which carried more weight in our professional judgment. The written summary is just a highlight, not an exhaustive transcript."
+
+**The Logical Trap:**
+1.  **The "Hidden" Merit:** If Prestige had "superior technical understanding," why wasn't it mentioned in the summary? The summary explicitly stated their responses were "**not ideal**. Claiming a hidden merit that contradicts the written record is **revisionism**.
+2.  **Value vs. Vague Tech:** Shusum offered **HK$39M** in tangible value. Prestige offered "unknown team members." To say that vague "technical understanding" outweighs HK$39M in free works requires extraordinary justification, which is absent.
+3.  **The "Unknown Team" Risk:** Evaluating a team that "may not be the future project team" is pointless. You are scoring ghosts. Giving 90 points to a lineup of temporary actors is professional malpractice.
+
+**📅 Timeline:**
+*   **2023-10-16:** Final interviews conducted.
+*   **2023-12-29:** Will Power presents negative comments for Prestige but gives 90 marks.
+*   **2023-12-29:** Will Power presents glowing comments for Shusum but gives 88 marks.
+
+**🔗 Links:**
+*   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf)
+
+---
+
+### 🆔 [E-CARTEL-2023-10-16-02] The Kingmaker's Algorithm: How "Variance" Nullified the Owners' Vote
 
 **🚨 Significance:**
 
@@ -700,10 +768,6 @@ The "Final Recommendation List" of 5 contractors aligns **perfectly** with Will 
 1.  **"Superior" Performance vs. Reality:** What "technical superiority" did Prestige show to deserve 90 marks? Was it the **fake litigation record** (E-CARTEL-RIGGED-SCORE)? Or the **lack of AP/RSE** (E-CARTEL-RIGGED-CRITERIA)? Awarding 90 marks to a company with a documented history of safety convictions is not "professional differentiation"; it is **professional misconduct**.
 2.  **The Pattern of Elimination:** It is statistically improbable that *every single one* of the MC's preferred candidates (Sea-Tech, Man Ka, Man Sing) was technically "disastrous" enough to warrant 30-range scores from the Consultant. This systematic suppression suggests an intent to purge non-cartel candidates.
 3.  **The Outcome Test:** If Prestige was truly a "90-point" contractor, why did they use fake nets, fake foam, and ignore safety laws? The 90 points were proven false by the fire itself.
-
-**¶ Statutory Basis:**
-
-*   **Context:** Prevention of Bribery Ordinance (fixing tendering outcome).
 
 **📅 Timeline:**
 *   **2023-10-16:** Final interview. Will Power assigns 90 to Prestige, 30 to rivals.
