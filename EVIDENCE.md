@@ -1,76 +1,4 @@
-### 🆔 [E-ADMIN-2024-01-28-01] The Phantom Voters: How a "Mystery Mouse" Swung the HK$330M Contract
-
-**🚨 Significance:**
-
-Eyewitness accounts from the EGM reveal the mechanics of a likely rigged election. While the meeting minutes record a clean victory for **Prestige (宏業)**, resident observations expose a sudden, inexplicable influx of proxy votes that overwhelmed the legitimate attendees, handing the HK$330 million contract to the cartel's chosen winner.
-
-**1. The "Magic" 37 Minutes:**
-*   **2:12 PM:** Meeting starts. Attendance recorded at **~293 households**.
-*   **2:37 PM:** Voting starts. Vote count suddenly jumps to **~564 households**.
-*   **The Anomaly:** In just 25 minutes, **~271 households** were added to the register. Eyewitnesses confirm no massive crowd entered the venue.
-*   **The Deduction:** These were not people, but **Proxy Votes** dumped into the system at the last minute. This "Ambush Strategy" allows riggers to calculate exactly how many votes are needed to win before playing their hand.
-
-**2. The "Mystery Mouse":**
-Witnesses identified a specific individual who registered *after* the meeting started (2:15 PM) and collected voting ballots for **~45 households** (583 shares) in one go.
-*   *The Tactic:* Holding back a block of votes until the last moment prevents opposition from rallying. It is a classic bid-rigging maneuver to ensure the "preferred" contractor wins by a controlled margin.
-
-**3. Live vs. Proxy:**
-Analysis suggests that while ~95% of *physically present* owners appeared to oppose Prestige, the contractor won with **54.79%** of the total vote.
-*   *The Reality:* The "Live Vote" (Democracy) was crushed by the "Proxy Vote" (Machine). The will of the residents who cared enough to attend was nullified by a stack of papers, some of which residents alleged were forged or obtained through deception ("never authorized before").
-
-**📜 Original Record:**
-
-> **Evidence [A]: The Official Result**
-> *Source: 11th MC Meeting Minutes (No. 23) / 2024-01-28*
->
-> "出席人數為 595 人(包括授權...)... 宏業建築工程有限公司 **3,866 (54.79%)**"
->
-> *Translation:*
-> "Attendance 595 (including proxies)... Prestige Construction **3,866 [shares] (54.79%)**"
-
-> **Evidence [B]: The Eyewitness Account (The Influx)**
-> *Source: Yu Ho (FB Group) / 2024-01-31*
->
-> "2:12pm宣布大會開始，合共...293戶... 2:37pm投票... 結果合共...約564戶... 37分鐘內出現...約271戶... 期間只有不多於40位人士完成登記..."
->
-> *Translation:*
-> "2:12pm start: **293 households**. 2:37pm vote: **564 households**. In 37 mins, **271 households** appeared... but physically fewer than 40 people entered."
-
-> **Evidence [C]: The "Mystery Mouse"**
-> *Source: Yu Ho (FB Group) / 2024-01-31*
->
-> "看到有1位人士簡稱「神秘老鼠」...約2:15pm完成登記及獲取合共【583業權份數(約45戶)】的投票表格..."
->
-> *Translation:*
-> "Saw one person 'Mystery Mouse'... registered at 2:15pm and took ballots for **583 shares (~45 households)**..."
-
-**🛡️ Pre-emptive Rebuttal:**
-
-**Anticipated Defense:**
-"Proxy voting is legal under the Building Management Ordinance. Owners who cannot attend have the right to authorize representatives. The increase in numbers reflects late registrations, which is common. Allegations of forgery are serious and require proof; without police findings, these are just disgruntled rumors."
-
-**The Logical Trap:**
-1.  **The "Late Arrival" Physics:** Registering 271 households in 25 minutes requires processing **10 households per minute**. Unless there were 10 registration counters working non-stop with zero friction, this physical throughput is highly suspicious. It suggests a "bulk processing" of pre-collected forms, not individual arrivals.
-2.  **The "Unusual" Pattern:** Why would 45 owners entrust their vote to a single "Mystery Mouse" who arrives *late*? This pattern—concentration of power in unknown hands + strategic timing—is the hallmark of **Vote Warehousing**, not organic participation.
-3.  **The Resulting Tragedy:** Whether "legal" or not, this voting mechanism produced a contractor (Prestige) who used fake materials, fake certificates, and ignored safety laws, leading to 159 deaths. The "Legality" of the vote does not absolve the **Immorality** of the outcome.
-
-**¶ Statutory Basis:**
-
-*   **Context:** Proxy Instruments, Building Management Ordinance,  [Cap 344 Section 3](https://www.elegislation.gov.hk/hk/cap344!en/s3?_lang=en)
-
-**📅 Timeline:**
-*   **2024-01-28 (14:12):** Meeting starts (293 households).
-*   **2024-01-28 (14:37):** Vote starts (564 households - Sudden jump).
-*   **2024-01-28 (16:00):** Prestige wins contract.
-*   **2024-01-31:** Residents publish analysis alleging rigging.
-
-**🔗 Links:**
-*   [Yu Ho's Account](https://www.facebook.com/share/p/1CgRcgyGrw/)
-*   [EGM Minutes](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md#2023-11-23-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
-
----
-
-### 🆔 [E-ADMIN-2024-01-28-02] The "Basket" Rigging: How 38% Support Became a HK$5.6 Million Mandate
+### 🆔 [E-ADMIN-2024-01-28-01] The "Basket" Rigging: How 38% Support Became a HK$5.6 Million Mandate
 
 **🚨 Significance:**
 
@@ -527,8 +455,8 @@ Will Power inserted a clause stating: *"Report is based on data submitted by ten
 *   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/強制驗樓驗窗計劃%2011.%20樓宇復修工程資料簡報小冊子.pdf)
 *   LD Conviction Records:
     *   [Oct 2016 - Sep 2018](https://www.labour.gov.hk/tc/osh/pdf/Conviction_record_Q4_2016_to_Q3_2018_tc.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/職安健定罪紀錄%20Oct%202016%20-%20Sep%202018.pdf)
-    *   [Jul 2019 - Jun 2021](https://www.labour.gov.hk/tc/osh/pdf/Conviction_record_tc.pdf) [Backup](https://github.com/sparktsang/wangfuk/blob/main/職安健定罪紀錄%20Jul%202019%20-%20Jun%202021.pdf)
-    *   [Oct 2023 - Sep 2025](https://www.labour.gov.hk/common/osh/pdf/Conviction_record_tc.pdf) [Backup](https://github.com/sparktsang/wangfuk/blob/main/職安健定罪紀錄%20Oct%202023%20-%20Sep%202025.pdf)
+    *   [Jul 2019 - Jun 2021](https://www.labour.gov.hk/tc/osh/pdf/Conviction_record_tc.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/職安健定罪紀錄%20Jul%202019%20-%20Jun%202021.pdf)
+    *   [Oct 2023 - Sep 2025](https://www.labour.gov.hk/common/osh/pdf/Conviction_record_tc.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/職安健定罪紀錄%20Oct%202023%20-%20Sep%202025.pdf)
 *   [*LDBM189/2012*](https://legalref.judiciary.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=88034&QS=%24%28%E5%AE%8F%E6%A5%AD%E5%BB%BA%E7%AF%89%E5%B7%A5%E7%A8%8B%29&TP=JU)
 
 ---
@@ -556,7 +484,7 @@ Will Power inserted a disclaimer stating they "**bear no responsibility for the 
 **📜 Original Record:**
 
 > **Evidence [A]: The "Zero Responsibility" Disclaimer**
-> *Source: Renovation Booklet p.73*
+> *Source: Renovation Booklet p.73 / 2023-10*
 >
 > "報告內容乃跟據投標者遞交之資料及過往記錄而編寫，本公司**無需就投標者遞交之資料真偽或準確性承擔任何責任**。... 如...不同意上述條款，建議不應作出參考及引用。"
 >
@@ -564,7 +492,7 @@ Will Power inserted a disclaimer stating they "**bear no responsibility for the 
 > "The report content is compiled based on data and past records submitted by tenderers; our company **bears no responsibility for the authenticity or accuracy of the data submitted by tenderers**... If... [you] do not agree with the above terms, it is suggested not to refer to or cite [this report]."
 
 > **Evidence [B]: The High Score based on "Private" Docs**
-> *Source: Renovation Booklet p.28*
+> *Source: Renovation Booklet p.28 / 2023-10*
 >
 > "宏業建築... ISO 14001: **1** | ISO 45001: **1** | 公司背景: **3** | 財務證明: **3** | 無法律訴訟: **3**"
 >
@@ -572,7 +500,7 @@ Will Power inserted a disclaimer stating they "**bear no responsibility for the 
 > "Prestige Construction... ISO 14001: **1** | ISO 45001: **1** | Company Structure [includes no. of MPF staff]: **3** | Financial Proof: **3** | No Litigation (Lawyer Letter): **3**"
 
 > **Evidence [C]: The Scoring Criteria**
-> *Source: Renovation Booklet p.27*
+> *Source: Renovation Booklet p.27 / 2023-10*
 >
 > "7. 過往3年由核數師簽署的財政報告... 有 = 3分... 8. 近2年由執業律師發出的無法律訴訟證明文件 有 = 3分"
 >
@@ -643,7 +571,7 @@ A textual analysis of the Interview Evaluation Report exposes a blatant disconne
 *   **The Score:** **90/100 (Highest in Tender)**.
 *   *The Logic Gap:* How does a team that is "unknown," gives "not ideal" answers, and has "poor time management" achieve a near-perfect score?
 
-**2. The "Positive" Loser (Shusum):**
+**2. The "Positive" Loser (Shusum/樹深):**
 *   **The Comments:** Will Power listed **6 positives** including:
     *   "Attendees *fully* confirmed as project team, including company head." (Commitment)
     *   "Clear, detailed explanation of workflow and impact on residents." (Competence)
@@ -693,7 +621,7 @@ This disconnect proves that the "Scoring System" was a sham. The scores were not
 *   **2023-12-29:** Will Power presents glowing comments for Shusum but gives 88 marks.
 
 **🔗 Links:**
-*   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf)
+*   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/強制驗樓驗窗計劃%2011.%20樓宇復修工程資料簡報小冊子.pdf)
 
 ---
 
@@ -765,7 +693,7 @@ The "Final Recommendation List" of 5 contractors aligns **perfectly** with Will 
 "The Consultant's scoring reflects professional technical assessment, which naturally differentiates sharply between capable and incapable contractors. The MC members, being laymen, tend to give 'safe', average scores. Our 90 points for Prestige reflected their superior interview performance and technical answers, which justifies the difference."
 
 **The Logical Trap:**
-1.  **"Superior" Performance vs. Reality:** What "technical superiority" did Prestige show to deserve 90 marks? Was it the **fake litigation record** (E-CARTEL-RIGGED-SCORE)? Or the **lack of AP/RSE** (E-CARTEL-RIGGED-CRITERIA)? Awarding 90 marks to a company with a documented history of safety convictions is not "professional differentiation"; it is **professional misconduct**.
+1.  **"Superior" Performance vs. Reality:** What "technical superiority" did Prestige show to deserve 90 marks? Was it the [**fake litigation record**](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2023-08-31-01-the-perfect-score-scam-how-a-safety-violator-was-rated-clean)? Or the [**lack of AP/RSE**](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2023-03-24-01-headcount-over-brains-how-16-clerks-outranked-a-structural-engineer)? Awarding 90 marks to a company with a documented history of safety convictions is not "professional differentiation"; it is **professional misconduct**.
 2.  **The Pattern of Elimination:** It is statistically improbable that *every single one* of the MC's preferred candidates (Sea-Tech, Man Ka, Man Sing) was technically "disastrous" enough to warrant 30-range scores from the Consultant. This systematic suppression suggests an intent to purge non-cartel candidates.
 3.  **The Outcome Test:** If Prestige was truly a "90-point" contractor, why did they use fake nets, fake foam, and ignore safety laws? The 90 points were proven false by the fire itself.
 
@@ -776,6 +704,78 @@ The "Final Recommendation List" of 5 contractors aligns **perfectly** with Will 
 
 **🔗 Links:**
 *   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/強制驗樓驗窗計劃%2011.%20樓宇復修工程資料簡報小冊子.pdf)
+
+---
+
+### 🆔 [E-CARTEL-2024-01-28-01] The Phantom Voters: How a "Mystery Mouse" Swung the HK$330M Contract
+
+**🚨 Significance:**
+
+Eyewitness accounts from the EGM reveal the mechanics of a likely rigged election. While the meeting minutes record a clean victory for **Prestige (宏業)**, resident observations expose a sudden, inexplicable influx of proxy votes that overwhelmed the legitimate attendees, handing the HK$330 million contract to the cartel's chosen winner.
+
+**1. The "Magic" 37 Minutes:**
+*   **2:12 PM:** Meeting starts. Attendance recorded at **~293 households**.
+*   **2:37 PM:** Voting starts. Vote count suddenly jumps to **~564 households**.
+*   **The Anomaly:** In just 25 minutes, **~271 households** were added to the register. Eyewitnesses confirm no massive crowd entered the venue.
+*   **The Deduction:** These were not people, but **Proxy Votes** dumped into the system at the last minute. This "Ambush Strategy" allows riggers to calculate exactly how many votes are needed to win before playing their hand.
+
+**2. The "Mystery Mouse":**
+Witnesses identified a specific individual who registered *after* the meeting started (2:15 PM) and collected voting ballots for **~45 households** (583 shares) in one go.
+*   *The Tactic:* Holding back a block of votes until the last moment prevents opposition from rallying. It is a classic bid-rigging maneuver to ensure the "preferred" contractor wins by a controlled margin.
+
+**3. Live vs. Proxy:**
+Analysis suggests that while ~95% of *physically present* owners appeared to oppose Prestige, the contractor won with **54.79%** of the total vote.
+*   *The Reality:* The "Live Vote" (Democracy) was crushed by the "Proxy Vote" (Machine). The will of the residents who cared enough to attend was nullified by a stack of papers, some of which residents alleged were forged or obtained through deception ("never authorized before").
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Official Result**
+> *Source: 11th MC Meeting Minutes (No. 23) / 2024-01-28*
+>
+> "出席人數為 595 人(包括授權...)... 宏業建築工程有限公司 **3,866 (54.79%)**"
+>
+> *Translation:*
+> "Attendance 595 (including proxies)... Prestige Construction **3,866 [shares] (54.79%)**"
+
+> **Evidence [B]: The Eyewitness Account (The Influx)**
+> *Source: Yu Ho (FB Group) / 2024-01-31*
+>
+> "2:12pm宣布大會開始，合共...293戶... 2:37pm投票... 結果合共...約564戶... 37分鐘內出現...約271戶... 期間只有不多於40位人士完成登記..."
+>
+> *Translation:*
+> "2:12pm start: **293 households**. 2:37pm vote: **564 households**. In 37 mins, **271 households** appeared... but physically fewer than 40 people entered."
+
+> **Evidence [C]: The "Mystery Mouse"**
+> *Source: Yu Ho (FB Group) / 2024-01-31*
+>
+> "看到有1位人士簡稱「神秘老鼠」...約2:15pm完成登記及獲取合共【583業權份數(約45戶)】的投票表格..."
+>
+> *Translation:*
+> "Saw one person 'Mystery Mouse'... registered at 2:15pm and took ballots for **583 shares (~45 households)**..."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"Proxy voting is legal under the Building Management Ordinance. Owners who cannot attend have the right to authorize representatives. The increase in numbers reflects late registrations, which is common. Allegations of forgery are serious and require proof; without police findings, these are just disgruntled rumors."
+
+**The Logical Trap:**
+1.  **The "Late Arrival" Physics:** Registering 271 households in 25 minutes requires processing **10 households per minute**. Unless there were 10 registration counters working non-stop with zero friction, this physical throughput is highly suspicious. It suggests a "bulk processing" of pre-collected forms, not individual arrivals.
+2.  **The "Unusual" Pattern:** Why would 45 owners entrust their vote to a single "Mystery Mouse" who arrives *late*? This pattern—concentration of power in unknown hands + strategic timing—is the hallmark of **Vote Warehousing**, not organic participation.
+3.  **The Resulting Tragedy:** Whether "legal" or not, this voting mechanism produced a contractor (Prestige) who used fake materials, fake certificates, and ignored safety laws, leading to 159 deaths. The "Legality" of the vote does not absolve the **Immorality** of the outcome.
+
+**¶ Statutory Basis:**
+
+*   **Context:** Proxy Instruments, Building Management Ordinance,  [Cap 344 Section 3](https://www.elegislation.gov.hk/hk/cap344!en/s3?_lang=en)
+
+**📅 Timeline:**
+*   **2024-01-28 (14:12):** Meeting starts (293 households).
+*   **2024-01-28 (14:37):** Vote starts (564 households - Sudden jump).
+*   **2024-01-28 (16:00):** Prestige wins contract.
+*   **2024-01-31:** Residents publish analysis alleging rigging.
+
+**🔗 Links:**
+*   [Yu Ho's Account](https://www.facebook.com/share/p/1CgRcgyGrw/)
+*   [EGM Minutes](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md#2023-11-23-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 
 ---
 
@@ -2782,7 +2782,93 @@ HD's refusal to answer whether they *received complaints* or *inspected* the win
 
 ---
 
-### 🆔 [E-POLICE-NETS-2025-12-01-01] The "Sloppy" Admission
+### 🆔 [E-ENFORCE-2025-11-28-01] The Evidence Magicians: "No File" Before the Fire, 11 Arrests After the Bodies Piled Up
+
+**🚨 Significance:**
+
+Testimonies from Management Committee member Jason Kong (江祥發) and other residents reveal a shocking dereliction of duty by the Independent Commission Against Corruption (ICAC). Despite being presented with documented evidence of bid-rigging *before* the fire, the ICAC explicitly refused to open a case.
+
+**1. The "No File" Rejection:**
+Jason Kong confirms that he and numerous residents submitted documents to the ICAC, addressing specific irregularities. The ICAC's response was: "**Cannot open a file**" and "**Do not see any problem currently.**" They officially closed the complaints.
+
+**2. The 2-Day Miracle:**
+On **Nov 28**, just two days after the fire, the ICAC arrested **8 people**. 3 more next day.
+*   *The Logic Gap:* Corruption evidence is documentary (paper trails, bank records). A fire destroys documents; it does not generate them. If the evidence was sufficient to arrest 11 people *after* the fire, it must have been sufficient *before* the fire when residents submitted it.
+*   *The Conclusion:* The evidence didn't change; the **political pressure** did. The ICAC sat on actionable intelligence until the death toll forced them to act.
+
+**3. The Cost of Justice:**
+As Jason Kong poignantly stated: *"We have to use so many lives to exchange for your investigation."*. This suggests the anti-corruption mechanism in Hong Kong has degraded from "Proactive Law Enforcement" to "Disaster Response."
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Rejection (Jason Kong)**
+> *Source: Fairchild Radio AM1470 / 2025-11-28*
+>
+> "我哋有去過ICAC，ICAC話**開唔到file**，佢話依家暫時睇唔到有咩問題... 我哋係畀晒啲document佢睇... 最初都話立唔到案，即係嬲尾覆返我哋立唔到案就**close file喇**。"
+>
+> *Translation:*
+> "We went to the ICAC. They said they **could not open a file**, that they didn't see any problem... We gave them all the documents... In the end, they replied they couldn't establish a case and **closed the file**."
+
+> **Evidence [B]: The "Exchange" (Jason Kong)**
+> *Source: Fairchild Radio AM1470 / 2025-11-28*
+>
+> "咁依家突然，嘭一聲幾日... 我哋要去咁多生命，去換取你去調查...？"
+>
+> *Translation:*
+> "Now suddenly, bang, in a few days [arrests]... **Do we have to use so many lives to exchange for your investigation...?**"
+
+> **Evidence [C]: More Prior Complaints**  
+> *Source: The Collective / 2025-11-29*  
+>  
+> "出事之後，我淨係想知道點解ICAC 可以即刻捉人，攞 file 去睇。因為你 ICAC 捉人之前一定係有証據先做。我哋去投訴之後到事發前一直無結果"  
+>  
+> *Translation:*  
+> "After the incident, I only want to know why the ICAC could immediately arrest people and seize files. They must have had evidence before making arrests. We filed complaints but nothing happened before the fire."
+
+> **Evidence [D]: The Sudden Arrests**  
+> *Source: ICAC Press Release / 2025-11-28*  
+>  
+> "廉政公署...展開全面調查，今日...拘捕八名人士，包括工程顧問、棚架工程分判商及中間人"  
+>  
+> *Translation:*  
+> "ICAC...launched a full investigation. Today arrests were made... with eight people detained, including engineering consultants, scaffolding subcontractors and intermediaries"
+
+> **Evidence [E]: Further Arrests**
+> *Source: ICAC Press Release / 2025-11-29*
+>
+> "廉政公署... 繼昨日較早時拘捕八人... 再拘捕三名工程承建商負責人..."
+>
+> *Translation:*
+> "ICAC... following the arrest of 8 people earlier yesterday, arrested 3 more contractor responsibles..."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"Corruption investigations are covert. We cannot disclose to complainants that an investigation is active to avoid tipping off suspects. The 'Close File' response was standard procedure to protect the integrity of a secret probe. The arrests post-fire were the culmination of long-term intelligence gathering, expedited by the incident."
+
+**The Logical Trap:**
+1.  **"Covert" vs. "Rejected":** There is a difference between "We will look into it" and "We cannot open a file / No problem found." Telling a complainant that *no problem exists* actively discourages further evidence submission. If it was a secret probe, why claim "no problem" instead of "we have received your report"?
+2.  **The "Acceleration" Myth:** If they were already investigating long-term, why did the fire (which creates chaos and destroys evidence) suddenly make arrests possible in 3 days? High-profile arrests usually require rock-solid evidence. The speed suggests the evidence was *already there* (likely the same documents residents submitted), but the **will to arrest** was missing until the public outcry.
+3.  **The "Open Source" Reality:** The rigging wasn't subtle. The "[1.6% price match](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2023-07-04-01-the-magic-16-how-prestige-hit-the-bullseye-on-a-rigged-target)" and "[90 points for bad interview](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2023-10-16-01-the-schizophrenic-scorecard-why-the-criticized-beat-the-praised)" were visible in the documents residents provided. It didn't require Sherlock Holmes; it required a calculator. Ignoring such obvious red flags is negligence, not strategy.
+
+**¶ Statutory Basis:**
+
+*   **Duty:** Independent Commission Against Corruption Ordinance (Cap. 204), Section 12.
+
+**📅 Timeline:**
+*   **Pre-Fire:** Residents submit documents. ICAC says "No File."
+*   **2025-11-26:** Fire kills 160.
+*   **2025-11-28:** ICAC arrests 8 suspects based on "corruption".
+*   **2025-11-29:** ICAC arrests 3 more.
+
+**🔗 Links:**
+*   [Radio Interview Recording](https://www.am1470.com/data/program_archive_details/575_2763.mp3)
+*   [The Collective Report](https://thecollectivehk.com/宏福苑五級火｜居民：火災前已有多人向-icac-舉報大/)
+*   ICAC Press Release: [28 Nov](https://www.icac.org.hk/tc/p/press/index_id_2209.html) | [29 Nov](https://www.icac.org.hk/tc/p/press/index_id_2210.html)
+
+---
+
+### 🆔 [E-ENFORCE-NETS-2025-12-01-01] The "Sloppy" Admission
 
 **🚨 Significance:**
 
@@ -2839,7 +2925,7 @@ While media (HK01, InMedia) recorded the "sloppy" quote, the **official governme
 
 ---
 
-### 🆔 [E-POLICE-NETS-2025-12-01-02] The 95% vs 35% Paradox: A Statistical Miracle?
+### 🆔 [E-ENFORCE-NETS-2025-12-01-02] The 95% vs 35% Paradox: A Statistical Miracle?
 
 **🚨 Significance:**
 
@@ -2891,7 +2977,7 @@ How can a building wrapped in **95% fake nets** yield a test result where **65% 
 
 ---
 
-### 🆔 [E-POLICE-NETS-2025-12-03-01] The Passive Police: Media did the Police's Job
+### 🆔 [E-ENFORCE-NETS-2025-12-03-01] The Passive Police: Media did the Police's Job
 
 **🚨 Significance:**
 
