@@ -317,7 +317,7 @@ The study finds that price increases are *more pronounced* in districts with hig
 **The Logical Trap:**
 1.  **"Quality" vs. Reality:** If the 50% premium bought "Quality," why did Wang Fuk get **fake nets, fake foam, and broken alarms**? The premium paid for *less* safety, not more.
 2.  **Controlled Variables:** The study *already controlled* for construction cost indices. The 50%+ hike is the **residual** after accounting for labor/material inflation. Blaming global inflation is mathematically dishonest.
-3.  **The "Smart Tender" Failure:** Wang Fuk *used* the "Smart Tender" system (See **E-CARTEL-PRICE-FIXING**). The fact that Prestige still won with a rigged score proves that the "current regulations" cited as a defense are completely ineffective against sophisticated cartels.
+3.  **The "Smart Tender" Failure:** Wang Fuk *used* the "Smart Tender" system. The fact that Prestige still won with a rigged score proves that the "current regulations" cited as a defense are completely ineffective against sophisticated cartels.
 
 **📅 Timeline:**
 *   **2012-06-30:** MBIS implementation.
