@@ -547,6 +547,70 @@ The drastic drop in Press Freedom (Rank 18 to 148) correlates with the rise of u
 
 ---
 
+### 🆔 [E-CARTEL-2022-12-31-01] The "Zero-Risk" Business: 5 Years, 1 Conviction, and the License to Rig
+
+**🚨 Significance:**
+
+Official statistics reveal that Hong Kong has effectively become a "Safe Haven" for bid-rigging cartels. Between 2018 and 2022, despite numerous complaints, the ICAC secured only **one (1)** conviction related to building maintenance bid-rigging.
+
+**1. The "Zero" Deterrence:**
+*   **2019 - 2022:** For four consecutive years, there were **Zero Prosecutions** and **Zero Convictions**.
+*   *The Signal:* This statistical void sends a clear message to cartels: "The Sheriff is asleep." The risk of legal consequences for bid-rigging has mathematically approached zero.
+
+**2. The "Small Potato" Scapegoat:**
+The solitary conviction in 2018 (Tsang Hin-kit) was a remnant of the 2013 Garden Vista case, only possible because of whistleblower Yau Shu-tin.
+*   *The Scale:* Tsang accepted **HK$200,000** in a project worth **HK$262 Million**. He was a maintenance manager, not a mastermind.
+*   *The Reality:* The system only catches the minnows (who take 0.07%), while the sharks (who take the 17% cut) swim free.
+
+**3. The Correlation with Chaos:**
+The period of "Zero Convictions" (2019-2022) coincides with the dismantling of [civil society monitoring groups](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2022-06-10-01-the-death-of-data-why-the-evidence-that-convicted-the-cartel-can-never-be-gathered-again). Without external pressure, the enforcement machinery ground to a halt, paving the way for the brazen operations seen at Wang Fuk Court in 2024.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Abysmal Statistics**
+> *Source: Development Bureau (LegCo Reply) / 2023-02-08*
+>
+> | Year | Prosecutions | Convictions |
+> | :--- | :---: | :---: |
+> | 2018 | 1 | 1 |
+> | 2019 | **0** | **0** |
+> | 2020 | **0** | **0** |
+> | 2021 | **0** | **0** |
+> | 2022 | **0** | **0** |
+
+> **Evidence [B]: The Sole Convict (Garden Vista Remnant)**
+> *Source: Oriental Daily / 2018-05-11*
+>
+> "翠湖花園... 前保養經理... 涉收受... **20萬港元**賄款... 判入獄6個月。"
+>
+> *Translation:*
+> "Garden Vista... former maintenance manager... accepted **HK$200,000** bribe... sentenced to 6 months jail."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"Bid-rigging is notoriously difficult to prove as it involves secretive verbal agreements. The low prosecution rate reflects our strict adherence to the high burden of proof required by the courts, not a lack of effort. We focus on prevention and education ('Don't Bribe' campaigns) which are more effective than prosecution."
+
+**The Logical Trap:**
+1.  **Difficulty vs. Impunity:** If a crime is "hard to prove," the response should be to **strengthen laws** or **lower thresholds**, not to give up. A 0% success rate for 4 years means the current strategy has failed completely.
+2.  **Prevention Failed:** If "Prevention and Education" were effective, the Wang Fuk disaster (fake nets, rigged votes, bribery allegations) wouldn't have happened. The cartels clearly weren't "educated" into honesty; they were emboldened by impunity.
+3.  **Selective Difficulty:** The government seems to have no difficulty prosecuting "Sedition" based on Facebook posts (where intent is subjective), but finds it impossible to prosecute Bid-Rigging where statistical anomalies (1.6% price match) and physical evidence (fake certificates) abound. This suggests a disparity in **will**, not difficulty.
+
+**¶ Statutory Basis:**
+*   **Context:** Prevention of Bribery Ordinance (Enforcement Efficacy).
+
+**📅 Timeline:**
+*   **Nov 2013:** Garden Vista scandal breaks.
+*   **2018-05-11:** The last successful conviction (Tsang).
+*   **2019-2022:** The "Golden Age" for Cartels (Zero Convictions).
+*   **2023-2024:** Wang Fuk Cartel operates in this low risk environment.
+
+**🔗 Links:**
+*   [LegCo Question & Reply](https://www.info.gov.hk/gia/general/202302/08/P2023020800291.htm)
+*   [Oriental Daily Report](https://hk.on.cc/hk/bkn/cnt/news/20180511/bkn-20180511150642740-0511_00822_001.html)
+
+---
+
 ### 🆔 [E-CARTEL-2023-03-24-01] Headcount over Brains: How 16 Clerks Outranked a Structural Engineer
 
 **🚨 Significance:**
