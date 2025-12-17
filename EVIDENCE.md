@@ -475,6 +475,83 @@ The study found that after MBIS was introduced, Prestige's bids became **signifi
 
 ---
 
+### 🆔 [E-CARTEL-2022-06-10-01] The Death of Data: Why the Evidence that convicted the Cartel can never be gathered again
+
+**🚨 Significance:**
+
+The 2022 academic paper that statistically proved [Prestige's bid-rigging](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2022-05-05-01-the-mathematical-fingerprint-academic-proof-of-prestiges-bid-rigging) relied entirely on a database constructed by **FactWire** and the **Property Owners' Anti-Bid Rigging Alliance**. With the forced closure of independent media and the imprisonment of alliance leaders, the ecosystem capable of exposing such crimes has been dismantled.
+
+**1. The "Lost" Infrastructure of Truth:**
+The academic study explicitly cites FactWire as its data source for 141 projects. FactWire, in turn, sourced data from the Anti-Bid Rigging Alliance.
+*   *The Collapse:* FactWire disbanded in June 2022 due to the political climate. The Alliance's key leaders (Lam Cheuk-ting, Andrew Wan, Wu Chi-wai) are in jail.
+*   *The Consequence:* Today, no entity collects or publishes this data. Without this open database, scholars cannot run regressions to prove collusion. The "Mathematical Proof" of crime has become impossible to generate.
+
+**2. The Vacuum of Oversight:**
+Chiu Yan-loy, the remaining spokesman for the Alliance, admits that with most members jailed, they lack the resources to fight "highly professional criminal groups" (bid-riggers).
+*   *The Implication:* The crackdown on political figures whose career depend on votes and public reputation has removed the only effective check on construction cartels. The "Safety Guards" of the city's building stock were decimated. 
+
+**3. From Watchdog to Lapdog:**
+The drastic drop in Press Freedom (Rank 18 to 148) correlates with the rise of unchecked bid-rigging. With investigative journalism moribund, cartels operate in a low risk environment. Wang Fuk Court is the first major casualty of this **"Unmonitored Era."**
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Data Source (Now Extinct)**
+> *Source: The Singapore Economic Review: Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)*
+>
+> "We obtain data on 141 building renovation projects from **FactWire**, an investigative news agency... These data include... bid amounts..."
+
+> **Evidence [B]: The Closure of the Eyes**
+> *Source: FactWire Statement / 2022-06-10*
+>
+> "近年傳媒行業巨變... 傳真社於即日起... 停止運作"
+>
+> *Translation:*
+> "Recent drastic changes in the media industry... FactWire ceases operation effective immediately..."
+
+> **Evidence [C]: The Primary Source**
+> *Source: FactWire Database / 2017-07-11*
+>
+> "資料來源：全港業主反貪腐反圍標大聯盟、顧問公司、法團、市民報料及中原地產"
+>
+> *Translation:*
+> "Source (of data): Hong Kong Property Owners' Anti-Bid Rigging Alliance, consultant firms, Incorporated Owners, citizens, and Centaline Property"
+
+> **Evidence [D]: The Jailing of the Watchdogs**
+> *Source: The Collective HK / 2025-12-14*
+>
+> "趙恩來...說反圍標大聯盟的大部分成員均在獄中，包括林卓廷、尹兆堅... 涉及政治案入獄... 圍標集團... 是一個高度專業化的一個犯罪集團..."
+>
+> *Translation:*
+> "Chiu Yan-loy... said most Alliance members are **in jail**, including Lam Cheuk-ting, Andrew Wan... Bid-rigging syndicates... are highly professional criminal groups..."
+
+> **Evidence [E]: The Free Fall of Freedom**
+> *Source: RSF Index*
+>
+> "RSF Ranking: 2002 (**18**) -> 2022 (**148**)"
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"The closure of individual media outlets was their own autonomous decision; the SAR Government did not intervene. Residents enjoy freedoms guaranteed by the Basic Law, but these are not absolute. Journalists must abide by the law like everyone else. Law enforcement actions are strictly based on evidence and law, unrelated to the background of individuals or press freedom."
+
+**The Logical Trap:**
+(*Note: Silence due to fear of "inciting hatred against the government"*)
+
+
+**📅 Timeline:**
+*   **2015-2019:** FactWire & Alliance active; Bid-rigging exposed.
+*   **2020-2022:** Crackdown. Media closed, Activists jailed.
+*   **2024-01-28:** Wang Fuk Tender (No independent oversight).
+*   **2025-11-26:** Wang Fuk Fire (160 Dead).
+
+**🔗 Links:**
+*   [FactWire Closure Statement](https://www.factwire.org/傳真社停止運作聲明/)
+*   [FactWire Database Archive](https://docs.google.com/spreadsheets/d/1O7FjXTBtbsbiWdxN43ujyuu6Cgh-I9wvdGZQq6rQEvA/edit?gid=746443571#gid=746443571)
+*   [The Collective HK Interview](https://thecollectivehk.com/採訪手記宏福苑圍標之禍給妹妹的信/)
+*   [HK's ranking in RSF's World Press Freedom Index](https://en.wikipedia.org/wiki/Freedom_of_the_press_in_Hong_Kong)
+
+---
+
 ### 🆔 [E-CARTEL-2023-03-24-01] Headcount over Brains: How 16 Clerks Outranked a Structural Engineer
 
 **🚨 Significance:**
