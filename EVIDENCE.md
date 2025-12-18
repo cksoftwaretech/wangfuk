@@ -81,7 +81,7 @@ The value of these "Optional Works" ($5.64M) is **18 times** the Consultant's ow
 
 **🔗 Links:**
 *   [Minutes 21 (Questionnaire Results)](http://www.wangfuk.org/html/meeting/05/第21次全體委員會議記錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2023-11-23%20第十一屆第二十一次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2024-01-28-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
-*   [EGM Minutes (The Vote)](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md#2023-11-23-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   [EGM Minutes (The Vote)](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2023-11-23-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 *   [Yahoo News Report (The Consultant Fee)](https://hk.news.yahoo.com/share/3119434a-75b5-41c1-81ce-55682068dfb6)
 *   [Herman Yiu's Post (A primary source of the Consultant Fee)](https://www.facebook.com/share/p/1ASPMmAqdt/)
 
@@ -128,7 +128,7 @@ Official minutes show that on 29 Sep 2025, the MC unanimously approved a fire-sa
 **🔗 Links:**
 *   [Minutes 12 (The Error)](http://www.wangfuk.org/html/meeting/12/2025-10-27%20%E7%AC%AC12%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-09-29%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
 *   [Minutes 13 (The Correction)](http://www.wangfuk.org/html/meeting/12/2025-11-7%20%E7%AC%AC13%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-11-07%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E4%B8%89%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
-*   [Full Archive](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md)
+*   [Full Archive](MINUTES_MARKDOWN.md)
 
 ---
 
@@ -166,7 +166,7 @@ On December 4, 2025, MC Chairman Tsui Moon-kam (徐滿柑) admitted to the press
 
 **🔗 Links:**
 *   [Now News Report](https://news.now.com/home/local/player?newsId=628390)
-*   [Minutes 12](http://www.wangfuk.org/html/meeting/12/2025-10-27%20%E7%AC%AC12%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-09-29%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf) | [Markdown](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md)
+*   [Minutes 12](http://www.wangfuk.org/html/meeting/12/2025-10-27%20%E7%AC%AC12%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-09-29%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf) | [Markdown](MINUTES_MARKDOWN.md)
 
 ---
 
@@ -756,7 +756,7 @@ The failure to declare these close business ties constitutes a fraudulent misrep
 
 **🔗 Links:**
 *   [Green Bean Investigation](https://greenbean.media/綠豆調查：大維修關係網（上）｜宏福苑數間投標/)
-*   [EGM Minutes](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md#2023-11-23-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   [EGM Minutes](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2023-11-23-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 
 ---
 
@@ -2238,7 +2238,7 @@ At the end of 2024, faced with major repair works at Wang Fuk Court, nine of Hon
 
 **📅 Date:** 2024-11-15
 
-**🔗 Links:** [Minutes 7](http://www.wangfuk.org/html/meeting/12/第7次全體委員會議記錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-11-15%20第十二屆第七次會議紀錄.pdf) | [Markdown](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md)
+**🔗 Links:** [Minutes 7](http://www.wangfuk.org/html/meeting/12/第7次全體委員會議記錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-11-15%20第十二屆第七次會議紀錄.pdf) | [Markdown](MINUTES_MARKDOWN.md)
 
 ---
 
@@ -2451,7 +2451,7 @@ The COW, Mr. Wong Chin Hang, is theoretically the residents' eyes and ears. Howe
 *   [Minutes 9](http://www.wangfuk.org/html/meeting/12/2025-03-01%20%E7%AC%AC9%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-03-01%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E4%B9%9D%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
 *   [Minutes 10 (Arrival)](http://www.wangfuk.org/html/meeting/12/2025-05-21%20%E7%AC%AC10%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-05-21%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
 *   [Minutes Annual No. 20](http://www.wangfuk.org/html/meeting/03/第25次全體業主大會(周年大會)會議記錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-09-13%20第十二屆管理委員會第二十五次全體業主周年大會會議紀錄.pdf)
-*   [Full Archive](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md)
+*   [Full Archive](MINUTES_MARKDOWN.md)
 
 ---
 
@@ -2795,7 +2795,7 @@ The decision to replace these valves was finalized on **November 7, 2025**. The 
 *   **Valve Replacement Decision:** 2025-11-07
 *   **The Fire:** 2025-11-26
 
-**🔗 Links:** [Official Minutes Directory](http://www.wangfuk.org/html/meeting/index.htm) | [Backup Repo](https://github.com/sparktsang/wangfuk) | [Combined Markdown Archive](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md)
+**🔗 Links:** [Official Minutes Directory](http://www.wangfuk.org/html/meeting/index.htm) | [Backup Repo](https://github.com/sparktsang/wangfuk) | [Combined Markdown Archive](MINUTES_MARKDOWN.md)
 
 ---
 
@@ -3322,7 +3322,7 @@ If FSD knew the system had defects (March) and parts were shut down (April), why
 
 **🔗 Links:**
 *   [Yahoo News Report](https://hk.news.yahoo.com/share/0760e461-7fdc-4f76-83c7-707e4667281f)
-*   [Minutes 12](http://www.wangfuk.org/html/meeting/12/2025-10-27%20第12次全體委員會議記錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-09-29%20第十二屆第十二次會議紀錄.pdf) | [Markdown](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md)
+*   [Minutes 12](http://www.wangfuk.org/html/meeting/12/2025-10-27%20第12次全體委員會議記錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-09-29%20第十二屆第十二次會議紀錄.pdf) | [Markdown](MINUTES_MARKDOWN.md)
 
 ---
 
