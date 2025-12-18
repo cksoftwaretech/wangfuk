@@ -1378,6 +1378,66 @@ Analysis suggests that while ~95% of *physically present* owners appeared to opp
 
 ---
 
+### 🆔 [E-CARTEL-2024-01-28-02] The "Harvest" of the Elderly: Political Machinery & The Proxy Factory
+
+**🚨 Significance:**
+
+Eyewitness testimonies identify the source of the suspicious "bulk votes" that secured Prestige's victory. Residents allege that the pro-establishment political machine, specifically **DAB District Councilor Peggy Wong (黃碧嬌)**, actively harvested proxy votes from elderly residents. This politicization of the tender process explains the ["Mystery Mouse"](#-e-cartel-2024-01-28-01-the-phantom-voters-how-a-mystery-mouse-swung-the-hk330m-contract) phenomenon.
+
+**1. The "Door-to-Door" Harvesting:**
+Resident "Kenny" testified that Peggy Wong brought a team to visit his elderly father (70-80 years old), soliciting a proxy form under the guise of "helping to submit it."
+*   *The Mechanism:* Instead of owners voting based on the their informed choice, political operatives collected blank or pre-filled authorizations. The witness described them dumping **"a whole stack"**) into the ballot box. This converts independent owners into a monolithic voting block for the Cartel.
+
+**2. The Forgery Allegation:**
+Resident "Leung" alleged that upon checking, many residents who did not attend and **did not write** an authorization still had votes cast in their name.
+*   *The Crime:* This implies **Forgery of Documents**. If true, the election was not just manipulated; it was criminal.
+
+**3. The Political Nexus:**
+The involvement of a DAB Councilor in securing votes for a specific contractor (Prestige) raises serious questions about **political-business collusion**. 
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Political Harvesting (DAB)**
+> *Source: The Collective HK / 2025-12-11*
+>
+> "Kenny：... **黃碧嬌**係帶埋佢成班，嗰啲**民建聯**嘅人上門，叫佢哋寫啲授權票... 落去個投票箱裏面**成疊咁樣擺入去**囉。"
+>
+> *Translation:*
+> "Kenny: ... **Peggy Wong** brought her whole **DAB** team door-to-door, asking them [elderly] to write proxy forms... then put **a whole stack** into the ballot box."
+
+> **Evidence [B]: The Forgery Allegation**
+> *Source: The Collective HK / 2025-12-11*
+>
+> "梁先生：...好多人冇去，但都寫咗授權票，**唔係佢哋本人寫嘅，假授權票**。"
+>
+> *Translation:*
+> "Mr. Leung: ...Many didn't go, but proxy votes were written. **They didn't write them themselves; [they were] fake proxy votes**."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"District Councilors have a duty to assist elderly residents with building management affairs. Collecting proxies is a standard community service to ensure a quorum is met so maintenance can proceed. We did not instruct them who to vote for; we only facilitated their participation. Allegations of forgery are slanderous without police proof."
+
+**The Logical Trap:**
+1.  **Service vs. Steering:** If the service was neutral, why did the "stack" of votes end up supporting **Prestige** and the most expensive option 3? "Assisting" an elderly person who cannot read complex tenders often amounts to **undue influence**. If the senior doesn't know the bidder, but the "helper" fills it in, that is manipulation, not assistance.
+2.  **The "Check" that Failed:** If forgery allegations were raised ("checked back later"), why didn't the Management Company (ISS) or the Consultant (Will Power) verify the signatures against the land registry? Their failure to investigate credible forgery claims makes them complicit.
+3.  **The "Mystery Mouse" Link:** This testimony corroborates the ["Mystery Mouse"](#-e-cartel-2024-01-28-01-the-phantom-voters-how-a-mystery-mouse-swung-the-hk330m-contract) sighting. The "stack" Kenny saw being dumped is likely the same "45 votes" the Mystery Mouse registered. The timeline and method align perfectly.
+
+**¶ Statutory Basis:**
+
+*   **Context:** Building Management Ordinance (Proxy validity).
+*   **Offence:** Forgery (Crimes Ordinance).
+
+**📅 Timeline:**
+*   **Pre-Jan 28:** DAB team visits elderly for proxies.
+*   **2024-01-28:** "Stacks" of proxies dumped in box; Prestige wins.
+*   **Post-Jan 28:** Residents discover potential forgeries.
+
+**🔗 Links:**
+*   [The Collective HK Video Report](https://thecollectivehk.com/影像紀錄宏福苑圍標之禍/)
+
+---
+
 ### 🆔 [E-SAFETY-2016-01-01-01] The "Mathematical Impossibility" & The Parasitic Business Model
 
 **🚨 Significance:**
