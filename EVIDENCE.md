@@ -212,7 +212,7 @@ Yau's testimony described a dinner where the **MC Chairman**, **Management Compa
 "You cannot use a 10-year-old case (Garden Vista) to accuse us. The industry has reformed. We used the URA's 'Smart Tender' system, which prevents this kind of collusion. There is no evidence of money changing hands in Wang Fuk Court. This is guilt by association."
 
 **The Logical Trap:**
-1.  **Smart Tender Failed:** The "Smart Tender" system relies on the Consultant to act as an honest broker. As shown in [fake scores](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2023-10-16-01-the-schizophrenic-scorecard-why-the-criticized-beat-the-praised) and [1.6% price match](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2023-07-04-01-the-magic-16-how-prestige-hit-the-bullseye-on-a-rigged-target), the Consultant *was* the manipulator. A lock is useless if the thief has the key.
+1.  **Smart Tender Failed:** The "Smart Tender" system relies on the Consultant to act as an honest broker. As shown in [fake scores](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2023-10-16-01-the-schizophrenic-scorecard-why-the-criticized-beat-the-praised) and [1.6% price match](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2023-07-04-02-the-magic-16-how-prestige-hit-the-bullseye-on-a-rigged-target), the Consultant *was* the manipulator. A lock is useless if the thief has the key.
 2.  **The "Same Script" pattern:** The pattern at Wang Fuk (inflated price, rigged voting, suppressed dissent) is functionally identical to Garden Vista. The only difference is the scale (Wang Fuk is even bigger).
 3.  **The "Missing Money":** If there was no bribery, why did the Consultant charge only HK$308k for a job worth millions in man-hours? And why did the Contractor save money so desperately including the [HK$589 per victim](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-safety-nets-2025-10-18-01-the-price-of-life-hk589-per-victim--the-5-decoy)? The numbers imply a massive diversion of funds. 
 
@@ -456,7 +456,7 @@ The study found that after MBIS was introduced, Prestige's bids became **signifi
 **The Logical Trap:**
 1.  **The "Residuals" Argument:** The study didn't just compare raw prices; it analyzed **"Bid Residuals"**. The authors *already controlled* for observable costs (building type, time trend, inflation). The correlation found was in the *unexplained* portion of the price. If the "unexplained" parts move together, it means hidden coordination is happening.
 2.  **The "Pre/Post" Contrast:** If it was just "market structure," the correlation should have existed *before* MBIS too. But Table 8 shows Prestige (Firm 1) had **zero** significant correlations before MBIS. The correlation only appeared *after* the government created a guaranteed market (Mandatory Inspection), which is the classic trigger for cartel formation.
-3.  **The "1.6%" Confirmation:** This academic proof explains the [1.6% price match](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2023-07-04-01-the-magic-16-how-prestige-hit-the-bullseye-on-a-rigged-target). That "magic accuracy" is the practical application of the statistical correlation found in this paper.
+3.  **The "1.6%" Confirmation:** This academic proof explains the [1.6% price match](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2023-07-04-02-the-magic-16-how-prestige-hit-the-bullseye-on-a-rigged-target). That "magic accuracy" is the practical application of the statistical correlation found in this paper.
 
 **📅 Timeline:**
 *   **2012-06-30:** MBIS launched; Cartel behavior spikes.
@@ -684,7 +684,83 @@ This specific weighting (High MPF points / Low Professional points) appears cust
 
 ---
 
-### 🆔 [E-CARTEL-2023-07-04-01] The "Magic" 1.6%: How Prestige Hit the Bullseye on a Rigged Target
+### 🆔 [E-CARTEL-2023-07-04-01] The "Prestige" Spiderweb: How Business Partners Posed as Competitors
+
+**🚨 Significance:**
+
+Investigative reporting exposes a web of cross-ownership linking the winning contractor, **Prestige (宏業)**, to at least four other "competitors" in the tender. Corporate registry filings prove that Prestige's owner, **Hau Wah-kin**, is a direct business partner or former co-director with the owners of these rival firms.
+
+**1. The "Partner" Competitors:**
+*   **Man Sing (民星營造):** Owned by **Tam Tsz-man**, who co-owns "Rich Surplus Develop Ltd" (利來拓展有限公司) with Prestige's Hau (50/50 split). They are literally business partners.
+*   **San Hoi Ming (新開明) & Sunarts (信豪):** Owned by **Li Chik-hoi** (李植開 )and **Choi Man-ming** (蔡文鳴) respectively. Both were co-directors with Hau in "Blazing Edge Ltd" (炬鋒有限公司).
+*   **Now Construction (現代建設):** Linked via the "Wellman Sports Association" (康仁體育會) nexus, where Tam (Man Sing) and Prestige associates hold key posts.
+
+**2. The "Dummy" Proof (Zero Votes):**
+In a genuine tender, every bidder tries to win. However, voting records show these linked companies received **zero or near-zero support**:
+*   **San Hoi Ming:** 0 votes.
+*   **Sunarts:** 0 votes.
+*   **Now Construction:** 0 votes.
+*   **Man Sing:** 14 votes (1 household).
+*   *The Conclusion:* These firms were **"Dummy Bidders"**. Their role was not to compete, but to flood the tender list (57 bidders), diluting legitimate competition and allowing the Consultant to manipulate the screening process to favor Prestige.
+
+**3. Undeclared Conflict of Interest:**
+The failure to declare these close business ties constitutes a fraudulent misrepresentation of independence. By pretending to be rivals, they rigged the market mechanism.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Corporate Links**
+> *Source: Green Bean Media / 2025-12-11*
+>
+> "宏業老闆侯華建跟...競爭的公司老闆，根本就是商業拍檔... 利來拓展...另一股東為**譚子文**，各持股一半，同時係另一投標承建商**民星營造**...大股東"
+> "李植開曾跟侯華建、蔡文鳴，在2014年登記成為一間叫炬鋒有限公司嘅董事...李植開現為新開明建築工程有限公司的董事兼股東"
+"蔡文鳴，則是信豪（集團）工程有限公司的董事"
+"康仁體育會贊助名單中，有有澳門晉誠物業和現代建設集團。網頁上譚子文個人簡介上，有寫著他曾以晉誠物業贊助籃球比賽。現代建設集團，則是蔡文彬任董事，蔡文彬同時是現代建設（亞洲）的董事"
+>
+> *Translation:*
+> "Prestige boss Hau Wah-kin and... rival bosses are business partners... **Tam Tsz-man** (50% shareholder of Rich Surplus with Hau) is the major shareholder of bidder **Man Sing**..."
+> "Li Chik-hoi once registered, with Hou and Choi Man-ming, as directors of Blazing Edge Limited in 2014... He is currently a director and shareholder of **San Hoi Ming**"
+>"...Choi Man-ming is a director of **Sunarts (Holdings)**"
+>"The Wellman Sports Association’s sponsor list includes Earnest Property Agency and Now Construction Holdings (H.K.) Limited. On Tam Tsz-man’s profile page it states that he once sponsored basketball competitions through Earnest. Now Construction lists Choi Man-ban as a director, who is also a director of **Now Construction (Asia)** Company Limited.
+
+> **Evidence [B]: The "Zero Vote" Outcome**
+> *Source: 11th MC EGM Minutes / 2024-01-28*
+>
+> | Bidder | Votes |
+> | :--- | :---: |
+> | **San Hoi Ming (新開明)** | **0** |
+> | **Man Sing (民星)** | **14 (0.2%)** |
+> | **Sunarts (信豪)** | **0** |
+> | **Now Construction (Asia) (現代建設(亞洲))** | **0** |
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"Hong Kong's construction industry is small; it is common for directors to know each other or have past investments. These are separate legal entities with independent finances. We submitted independent bids. The fact that they got zero votes proves there was no collusion to help them win."
+
+**The Logical Trap:**
+1.  **Direct Partnership vs. "Knowing Each Other":** Hau and Tam are not just acquaintances; they are **50/50 partners** in an active company (*Rich Surplus*). If Man Sing wins, Hau benefits. This is a direct financial conflict that must be declared. Hiding it is fraud.
+2.  **The Role of Losers:** In bid-rigging, the cartel decides the winner *before* the tender. The other cartel members are *supposed* to lose (Zero Votes). Their job is to submit higher prices or inferior proposals to make the designated winner (Prestige) look like the "Reasonable" choice. Their failure is proof of the scheme, not innocence.
+3.  **The "57 Bidders" Illusion:** The Consultant boasted about receiving 57 bids to prove competitiveness. If a significant chunk of these were "Prestige's Friends," the perceived market competition was an illusion manufactured to deceive the owners.
+
+**¶ Statutory Basis:**
+
+*   **Offence:** Bid-rigging (First Conduct Rule).
+*   **Ref:** Competition Ordinance (Cap. 619).
+
+**📅 Timeline:**
+*   **2014-2018:** Hau establishes joint ventures with Tam, Li, Choi.
+*   **2023-07-04:** Prestige and its "partners" submit separate bids for Wang Fuk.
+*   **2024-01-28:** Prestige wins; Partners get 0 votes.
+*   **2025-11-26:** Fire occurs.
+*   **2025-12-11:** Media investigation uncovers the corporate links.
+
+**🔗 Links:**
+*   [Green Bean Investigation](https://greenbean.media/綠豆調查：大維修關係網（上）｜宏福苑數間投標/)
+*   [EGM Minutes](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md#2023-11-23-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+
+---
+
+### 🆔 [E-CARTEL-2023-07-04-02] The "Magic" 1.6%: How Prestige Hit the Bullseye on a Rigged Target
 
 **🚨 Significance:**
 
@@ -3439,7 +3515,7 @@ As Jason Kong poignantly stated: *"We have to use so many lives to exchange for 
 **The Logical Trap:**
 1.  **"Covert" vs. "Rejected":** There is a difference between "We will look into it" and "We cannot open a file / No problem found." Telling a complainant that *no problem exists* actively discourages further evidence submission. If it was a secret probe, why claim "no problem" instead of "we have received your report"?
 2.  **The "Acceleration" Myth:** If they were already investigating long-term, why did the fire (which creates chaos and destroys evidence) suddenly make arrests possible in 3 days? High-profile arrests usually require rock-solid evidence. The speed suggests the evidence was *already there* (likely the same documents residents submitted), but the **will to arrest** was missing until the public outcry.
-3.  **The "Open Source" Reality:** The rigging wasn't subtle. The "[1.6% price match](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2023-07-04-01-the-magic-16-how-prestige-hit-the-bullseye-on-a-rigged-target)" and "[90 points for bad interview](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2023-10-16-01-the-schizophrenic-scorecard-why-the-criticized-beat-the-praised)" were visible in the documents residents provided. It didn't require Sherlock Holmes; it required a calculator. Ignoring such obvious red flags is negligence, not strategy.
+3.  **The "Open Source" Reality:** The rigging wasn't subtle. The "[1.6% price match](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2023-07-04-02-the-magic-16-how-prestige-hit-the-bullseye-on-a-rigged-target)" and "[90 points for bad interview](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-cartel-2023-10-16-01-the-schizophrenic-scorecard-why-the-criticized-beat-the-praised)" were visible in the documents residents provided. It didn't require Sherlock Holmes; it required a calculator. Ignoring such obvious red flags is negligence, not strategy.
 
 **¶ Statutory Basis:**
 
