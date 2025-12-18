@@ -80,8 +80,8 @@ The value of these "Optional Works" ($5.64M) is **18 times** the Consultant's ow
 *   **2024-01-28:** EGM passes the "Basket" with 90% vote (proxies).
 
 **🔗 Links:**
-*   [Minutes 21 (Questionnaire Results)](http://www.wangfuk.org/html/meeting/05/第21次全體委員會議記錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2023-11-23%20第十一屆第二十一次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2024-01-28-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
-*   [EGM Minutes (The Vote)](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2023-11-23-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   [Minutes 21 (Questionnaire Results)](http://www.wangfuk.org/html/meeting/05/第21次全體委員會議記錄.pdf) | [Backup](2023-11-23%20第十一屆第二十一次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2024-01-28-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   [EGM Minutes (The Vote)](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2023-11-23-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 *   [Yahoo News Report (The Consultant Fee)](https://hk.news.yahoo.com/share/3119434a-75b5-41c1-81ce-55682068dfb6)
 *   [Herman Yiu's Post (A primary source of the Consultant Fee)](https://www.facebook.com/share/p/1ASPMmAqdt/)
 
@@ -126,8 +126,8 @@ Official minutes show that on 29 Sep 2025, the MC unanimously approved a fire-sa
 **📅 Date:** 2025-09-29 (Error Committed) | 2025-11-07 (Error Admitted)
 
 **🔗 Links:**
-*   [Minutes 12 (The Error)](http://www.wangfuk.org/html/meeting/12/2025-10-27%20%E7%AC%AC12%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-09-29%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
-*   [Minutes 13 (The Correction)](http://www.wangfuk.org/html/meeting/12/2025-11-7%20%E7%AC%AC13%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-11-07%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E4%B8%89%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
+*   [Minutes 12 (The Error)](http://www.wangfuk.org/html/meeting/12/2025-10-27%20%E7%AC%AC12%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](2025-09-29%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
+*   [Minutes 13 (The Correction)](http://www.wangfuk.org/html/meeting/12/2025-11-7%20%E7%AC%AC13%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](2025-11-07%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E4%B8%89%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
 *   [Full Archive](MINUTES_MARKDOWN.md)
 
 ---
@@ -166,7 +166,7 @@ On December 4, 2025, MC Chairman Tsui Moon-kam (徐滿柑) admitted to the press
 
 **🔗 Links:**
 *   [Now News Report](https://news.now.com/home/local/player?newsId=628390)
-*   [Minutes 12](http://www.wangfuk.org/html/meeting/12/2025-10-27%20%E7%AC%AC12%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-09-29%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf) | [Markdown](MINUTES_MARKDOWN.md)
+*   [Minutes 12](http://www.wangfuk.org/html/meeting/12/2025-10-27%20%E7%AC%AC12%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](2025-09-29%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf) | [Markdown](MINUTES_MARKDOWN.md)
 
 ---
 
@@ -680,7 +680,7 @@ This specific weighting (High MPF points / Low Professional points) appears cust
 *   **2024-01-28:** Prestige wins.
 
 **🔗 Links:**
-*   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/強制驗樓驗窗計劃%2011.%20樓宇復修工程資料簡報小冊子.pdf)
+*   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf) | [Backup](強制驗樓驗窗計劃%2011.%20樓宇復修工程資料簡報小冊子.pdf)
 
 ---
 
@@ -756,7 +756,7 @@ The failure to declare these close business ties constitutes a fraudulent misrep
 
 **🔗 Links:**
 *   [Green Bean Investigation](https://greenbean.media/綠豆調查：大維修關係網（上）｜宏福苑數間投標/)
-*   [EGM Minutes](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2023-11-23-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   [EGM Minutes](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2023-11-23-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 
 ---
 
@@ -853,7 +853,7 @@ Out of 57 bidders, Prestige was the **only one** rated as "First Choice". This o
 *   **2024-01-28:** Prestige wins contract.
 
 **🔗 Links:**
-*   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/強制驗樓驗窗計劃%2011.%20樓宇復修工程資料簡報小冊子.pdf)
+*   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf) | [Backup](強制驗樓驗窗計劃%2011.%20樓宇復修工程資料簡報小冊子.pdf)
 *   [Smart Tender DIY Tool Kit](https://www.brplatform.org.hk/f/upload/13750/DIY_Tool_Kit.pdf)
 *   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link)
 *   [InMedia Report](https://www.inmediahk.net/政經/26億圍標案提堂-被告：97後全港都有圍標)
@@ -963,11 +963,11 @@ Will Power inserted a clause stating: *"Report is based on data submitted by ten
 *   **2024-01-28:** Prestige wins contract based on high score.
 
 **🔗 Links:**
-*   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/強制驗樓驗窗計劃%2011.%20樓宇復修工程資料簡報小冊子.pdf)
+*   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf) | [Backup](強制驗樓驗窗計劃%2011.%20樓宇復修工程資料簡報小冊子.pdf)
 *   LD Conviction Records:
-    *   [Oct 2016 - Sep 2018](https://www.labour.gov.hk/tc/osh/pdf/Conviction_record_Q4_2016_to_Q3_2018_tc.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/職安健定罪紀錄%20Oct%202016%20-%20Sep%202018.pdf)
-    *   [Jul 2019 - Jun 2021](https://www.labour.gov.hk/tc/osh/pdf/Conviction_record_tc.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/職安健定罪紀錄%20Jul%202019%20-%20Jun%202021.pdf)
-    *   [Oct 2023 - Sep 2025](https://www.labour.gov.hk/common/osh/pdf/Conviction_record_tc.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/職安健定罪紀錄%20Oct%202023%20-%20Sep%202025.pdf)
+    *   [Oct 2016 - Sep 2018](https://www.labour.gov.hk/tc/osh/pdf/Conviction_record_Q4_2016_to_Q3_2018_tc.pdf) | [Backup](職安健定罪紀錄%20Oct%202016%20-%20Sep%202018.pdf)
+    *   [Jul 2019 - Jun 2021](https://www.labour.gov.hk/tc/osh/pdf/Conviction_record_tc.pdf) | [Backup](職安健定罪紀錄%20Jul%202019%20-%20Jun%202021.pdf)
+    *   [Oct 2023 - Sep 2025](https://www.labour.gov.hk/common/osh/pdf/Conviction_record_tc.pdf) | [Backup](職安健定罪紀錄%20Oct%202023%20-%20Sep%202025.pdf)
 *   [*LDBM189/2012*](https://legalref.judiciary.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=88034&QS=%24%28%E5%AE%8F%E6%A5%AD%E5%BB%BA%E7%AF%89%E5%B7%A5%E7%A8%8B%29&TP=JU)
 
 ---
@@ -1063,7 +1063,7 @@ Will Power inserted a disclaimer stating they "**bear no responsibility for the 
 *   **2024-01-28:** Contract awarded based on unverified scores.
 
 **🔗 Links:**
-*   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/強制驗樓驗窗計劃%2011.%20樓宇復修工程資料簡報小冊子.pdf)
+*   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf) | [Backup](強制驗樓驗窗計劃%2011.%20樓宇復修工程資料簡報小冊子.pdf)
 *   EPD ISO Directory: [[1]](https://www.epd.gov.hk/epd/sites/default/files/epd/iso14k.pdf) [[2]](https://www.epd.gov.hk/epd/sites/default/files/epd/iso14k_others.pdf) [[3]](https://www.epd.gov.hk/epd/sites/default/files/epd/english/how_help/tools_ems/files/2023_iso14k_t.pdf)
 
 ---
@@ -1132,7 +1132,7 @@ This disconnect proves that the "Scoring System" was a sham. The scores were not
 *   **2023-12-29:** Will Power presents glowing comments for Shusum but gives 88 marks.
 
 **🔗 Links:**
-*   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/強制驗樓驗窗計劃%2011.%20樓宇復修工程資料簡報小冊子.pdf)
+*   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf) | [Backup](強制驗樓驗窗計劃%2011.%20樓宇復修工程資料簡報小冊子.pdf)
 
 ---
 
@@ -1214,7 +1214,7 @@ The "Final Recommendation List" of 5 contractors aligns **perfectly** with Will 
 *   **2024-01-28:** Prestige wins.
 
 **🔗 Links:**
-*   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/強制驗樓驗窗計劃%2011.%20樓宇復修工程資料簡報小冊子.pdf)
+*   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf) | [Backup](強制驗樓驗窗計劃%2011.%20樓宇復修工程資料簡報小冊子.pdf)
 
 ---
 
@@ -1299,9 +1299,9 @@ During the vote (Jan 28, 2024), the ballot did not clearly distinguish that Opti
 *   **2024-09-01:** Jason Poon exposes the technical fallacy of Option 3.
 
 **🔗 Links:**
-*   [Newsletter Attachment](http://www.wangfuk.org/html/comm/02/第32期宏福通訊%20-附件.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/宏福通訊%20第11屆管理委員會-第32期附件.pdf)
-*   [EGM Minutes 2023-03-04](http://www.wangfuk.org/html/meeting/03/2023年3月4日特別業主大會會議紀錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2023-03-04%20第十一屆管理委員會特別業主大會會議紀錄.pdf)
-*   [EGM Minutes 2024-01-28](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf)
+*   [Newsletter Attachment](http://www.wangfuk.org/html/comm/02/第32期宏福通訊%20-附件.pdf) | [Backup](宏福通訊%20第11屆管理委員會-第32期附件.pdf)
+*   [EGM Minutes 2023-03-04](http://www.wangfuk.org/html/meeting/03/2023年3月4日特別業主大會會議紀錄.pdf) | [Backup](2023-03-04%20第十一屆管理委員會特別業主大會會議紀錄.pdf)
+*   [EGM Minutes 2024-01-28](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf)
 *   [Jason Poon FB Analysis](https://www.facebook.com/share/v/1BadVNs6xp/)
 
 ---
@@ -1374,7 +1374,7 @@ Analysis suggests that while ~95% of *physically present* owners appeared to opp
 
 **🔗 Links:**
 *   [Yu Ho's Account](https://www.facebook.com/share/p/1CgRcgyGrw/)
-*   [EGM Minutes](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf)
+*   [EGM Minutes](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf)
 
 ---
 
@@ -1464,7 +1464,7 @@ Instead of convening the meeting as required by law, the MC conducted its own "o
 > **Evidence [A]: The Signitures**  
 > *Source: 11th MC Meeting Minutes (No. 23) / 2024-02-26*  
 >  
-> "鄧主席報告於 2024 年 2 月 15 日...接收...林景東遞交的兩份簽名文件：...第二份...要求召開特別業主大會議決提出重選現屆管理委員會... 推翻 2024 年 1 月 28 日業主大會的所有議決"  
+> "5.1 鄧主席報告於 2024 年 2 月 15 日...接收...林景東遞交的兩份簽名文件：...第二份...要求召開特別業主大會議決提出重選現屆管理委員會... 推翻 2024 年 1 月 28 日業主大會的所有議決"  
 >  
 > *Translation:*  
 > "Chairman Tang reported that on 15 February 2024 he received at the management office two documents of signitures submitted by...Lam King-tung...the second requested a EGM to vote on re‑electing the current MC... and overturning all resolutions on 28 January 2024"
@@ -1472,7 +1472,7 @@ Instead of convening the meeting as required by law, the MC conducted its own "o
 > **Evidence [B]: The Legal Intimidation**
 > *Source: 11th MC Meeting Minutes (No. 24) / 2024-04-22*
 >
-> "主席透過律師於 3 月 22 日向召集人發出律師信... 並保留法律追究權利及向大埔警署備案。"
+> "5.1 主席透過律師於 3 月 22 日向召集人發出律師信... 並保留法律追究權利及向大埔警署備案。"
 >
 > *Translation:*
 > "The Chairman issued a lawyer's letter... reserving rights to pursue legal action and filing a report with Tai Po Police Station."
@@ -1811,8 +1811,8 @@ Minutes from Nov 15, 2024 record an additional HK$297,600 spent to upgrade frame
 
 **🔗 Links:**
 *   [The Collective Report](https://thecollectivehk.com/宏福苑五級火直擊走火樓梯漏洞密封窗疑變開窿)
-*   [Minutes EGM (Fire Rated Windows)](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf)
-*   [Minutes 7 (Steel Frame)](http://www.wangfuk.org/html/meeting/12/第7次全體委員會議記錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-11-15%20第十二屆第七次會議紀錄.pdf)
+*   [Minutes EGM (Fire Rated Windows)](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf)
+*   [Minutes 7 (Steel Frame)](http://www.wangfuk.org/html/meeting/12/第7次全體委員會議記錄.pdf) | [Backup](2024-11-15%20第十二屆第七次會議紀錄.pdf)
 *   Deaths in Wang Tai House: [[1]](https://news.tvb.com/tc/local/69300a52ada134dbdf40370d/港澳-宏福苑五級火｜增至159死-絕大部分來自宏昌宏泰閣) [[2]](https://thecollectivehk.com/宏福苑五級火｜完成七廈搜索159-死-31失聯　宏泰、宏/) [[3]](https://www.hk01.com/突發/60300234/宏福苑大火災-159人死最細1歲-各廈死亡人數一文看清) [[4]](https://zh-yue.wikipedia.org/wiki/宏福苑大火) [[5]](https://www.ettoday.net/news/20251205/3078839.htm) [[6]](https://orientaldaily.on.cc/content/要聞港聞/odn-20251204-1204_00176_023/災廈完成搜索--宏昌宏泰最多人罹難) [[7]](https://hk.news.yahoo.com/share/69333abe-0f92-4c35-9745-938c8ac333a7) [[8]](https://www.stheadline.com/breaking-news/3523579/大埔宏福苑五級火死者分佈一覽-宏昌宏泰閣最嚴重-周一鳴部份單位發現骨頭仍有待檢驗) 
 
 ---
@@ -1872,9 +1872,9 @@ Instead of verifying the "out of production" claim (which is their job), Will Po
 *   **2024-10-05:** Owners vote 54.59% to **Reject** the switch and keep Mosaic.
 
 **🔗 Links:**
-*   [Minute 2](http://www.wangfuk.org/html/meeting/12/第2次全體委員會議紀錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-06-27%20第十二屆第二次會議紀錄.pdf)
-*   [EGM Minutes (The Offer)](http://www.wangfuk.org/html/meeting/03/特別業主大會會議記錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-10-05%20第十二屆管理委員會特別業主大會會議紀錄.pdf)
-*   [Comparison Chart](http://www.wangfuk.org/html/home/doc/2024-09-27%20紙皮石與磚瓦比較%20(鴻毅).pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/大維修相關資訊%204.%202024-09-27%20紙皮石與磚瓦比較%20(鴻毅).pdf)
+*   [Minute 2](http://www.wangfuk.org/html/meeting/12/第2次全體委員會議紀錄.pdf) | [Backup](2024-06-27%20第十二屆第二次會議紀錄.pdf)
+*   [EGM Minutes (The Offer)](http://www.wangfuk.org/html/meeting/03/特別業主大會會議記錄.pdf) | [Backup](2024-10-05%20第十二屆管理委員會特別業主大會會議紀錄.pdf)
+*   [Comparison Chart](http://www.wangfuk.org/html/home/doc/2024-09-27%20紙皮石與磚瓦比較%20(鴻毅).pdf) | [Backup](大維修相關資訊%204.%202024-09-27%20紙皮石與磚瓦比較%20(鴻毅).pdf)
 
 ---
 
@@ -1953,7 +1953,7 @@ This method was documented in **File PC-24-WFC-L-46**. The Consultant (**Will Po
 *   [Green Bean Report](https://greenbean.media/宏福苑五級火｜總承建商涉另外11項私樓工程｜上年/)
 *   [HK01 Report](https://www.hk01.com/社會新聞/60298146)
 *   [Yahoo News Report](https://hk.news.yahoo.com/share/41f5c996-1e2f-42c0-973c-a82f18dc8e58)
-*   [Prestige Method Statement](http://www.wangfuk.org/html/home/doc/2024-10-02%20L46-外牆施工(保護措施及打鑿)流程(A-H塵).pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/工程承建商通告%2051%202024-10-2%20L46-外牆施工(保護措施及打鑿)流程(A-H塵).pdf)
+*   [Prestige Method Statement](http://www.wangfuk.org/html/home/doc/2024-10-02%20L46-外牆施工(保護措施及打鑿)流程(A-H塵).pdf) | [Backup](工程承建商通告%2051%202024-10-2%20L46-外牆施工(保護措施及打鑿)流程(A-H塵).pdf)
 *   [Presentation Slides](http://www.wangfuk.org/html/home/doc/工程解說會簡報(宏業及鴻毅).pdf) | [Backup](https://mega.nz/folder/M5cHHAYa#W0VxI6dDM1b6fpf4K9Ma1w)
 *   [Presentation Video](http://223.197.186.25:8080/wangfuk/工程解說會VDO.mp4)
 
@@ -2337,7 +2337,7 @@ At the end of 2024, faced with major repair works at Wang Fuk Court, nine of Hon
 
 **📅 Date:** 2024-11-15
 
-**🔗 Links:** [Minutes 7](http://www.wangfuk.org/html/meeting/12/第7次全體委員會議記錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-11-15%20第十二屆第七次會議紀錄.pdf) | [Markdown](MINUTES_MARKDOWN.md)
+**🔗 Links:** [Minutes 7](http://www.wangfuk.org/html/meeting/12/第7次全體委員會議記錄.pdf) | [Backup](2024-11-15%20第十二屆第七次會議紀錄.pdf) | [Markdown](MINUTES_MARKDOWN.md)
 
 ---
 
@@ -2391,13 +2391,13 @@ Allowing a contractor to define a schedule as "Until Done" is a failure of the *
 *   **2025-11-26:** Fire occurs.
 
 **🔗 Links:**
-*   [Wang Cheong Notice](http://www.wangfuk.org/html/home/doc/2025-03-20%20N91F%20-更換逃生樓梯公眾窗及設備房百葉窗工程%20(F座).pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/工程承建商通告%20144%202025-3-20%20-%20N91F%20-%20更換逃生樓梯公眾窗及設備房百葉窗工程%20(F座).pdf)
-*   [Wang Tai Notice](http://www.wangfuk.org/html/home/doc/2025-04-08%20N107%20-更換逃生樓梯公眾窗及設備房百葉窗工程%20(E座).pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/工程承建商通告%20160%202025-4-8%20-%20N107%20-更換逃生樓梯公眾窗及設備房百葉窗工程%20(E座).pdf)
-*   [Wang Chi Notice](http://www.wangfuk.org/html/home/doc/2025-01-10%20N64%20-更換逃生樓梯公眾窗及設備房百葉窗工程%20(H座).pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/工程承建商通告%20111%202025-1-10%20-%20N64%20-更換逃生樓梯公眾窗及設備房百葉窗工程%20(H座).pdf)
-*   [Wang Kin Notice](http://www.wangfuk.org/html/home/doc/2025-04-08%20N106%20-更換逃生樓梯公眾窗及設備房百葉窗工程%20(D座).pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/工程承建商通告%20159%202025-4-8%20-%20N106%20-更換逃生樓梯公眾窗及設備房百葉窗工程%20(D座).pdf)
-*   [Wang Shing Notice](http://www.wangfuk.org/html/home/doc/2025-02-10%20N83%20-更換逃生樓梯公眾窗及設備房百葉窗工程%20(G座).pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/工程承建商通告%20133%202025-2-10%20-%20N83%20-更換逃生樓梯公眾窗及設備房百葉窗工程%20(G座).pdf)
-*   [Wang Sun Notice](http://www.wangfuk.org/html/home/doc/2025-05-16%20N146C%20-更換逃生樓梯公眾窗及設備房百葉窗工程%20(C座).pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/工程承建商通告%20205%202025-5-16%20-%20%20N146C更換逃生樓梯公眾窗及設備房百葉窗工程%20(C座).pdf)
-*   [Wang Tao Notice](http://www.wangfuk.org/html/home/doc/2025-05-29%20N151B-更換逃生樓梯公眾窗及設備房百葉窗工程%20(B座).pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/工程承建商通告%20210%202025-5-29%20-%20%20N151B-更換逃生樓梯公眾窗及設備房百葉窗工程%20(B座).pdf)
+*   [Wang Cheong Notice](http://www.wangfuk.org/html/home/doc/2025-03-20%20N91F%20-更換逃生樓梯公眾窗及設備房百葉窗工程%20(F座).pdf) | [Backup](工程承建商通告%20144%202025-3-20%20-%20N91F%20-%20更換逃生樓梯公眾窗及設備房百葉窗工程%20(F座).pdf)
+*   [Wang Tai Notice](http://www.wangfuk.org/html/home/doc/2025-04-08%20N107%20-更換逃生樓梯公眾窗及設備房百葉窗工程%20(E座).pdf) | [Backup](工程承建商通告%20160%202025-4-8%20-%20N107%20-更換逃生樓梯公眾窗及設備房百葉窗工程%20(E座).pdf)
+*   [Wang Chi Notice](http://www.wangfuk.org/html/home/doc/2025-01-10%20N64%20-更換逃生樓梯公眾窗及設備房百葉窗工程%20(H座).pdf) | [Backup](工程承建商通告%20111%202025-1-10%20-%20N64%20-更換逃生樓梯公眾窗及設備房百葉窗工程%20(H座).pdf)
+*   [Wang Kin Notice](http://www.wangfuk.org/html/home/doc/2025-04-08%20N106%20-更換逃生樓梯公眾窗及設備房百葉窗工程%20(D座).pdf) | [Backup](工程承建商通告%20159%202025-4-8%20-%20N106%20-更換逃生樓梯公眾窗及設備房百葉窗工程%20(D座).pdf)
+*   [Wang Shing Notice](http://www.wangfuk.org/html/home/doc/2025-02-10%20N83%20-更換逃生樓梯公眾窗及設備房百葉窗工程%20(G座).pdf) | [Backup](工程承建商通告%20133%202025-2-10%20-%20N83%20-更換逃生樓梯公眾窗及設備房百葉窗工程%20(G座).pdf)
+*   [Wang Sun Notice](http://www.wangfuk.org/html/home/doc/2025-05-16%20N146C%20-更換逃生樓梯公眾窗及設備房百葉窗工程%20(C座).pdf) | [Backup](工程承建商通告%20205%202025-5-16%20-%20%20N146C更換逃生樓梯公眾窗及設備房百葉窗工程%20(C座).pdf)
+*   [Wang Tao Notice](http://www.wangfuk.org/html/home/doc/2025-05-29%20N151B-更換逃生樓梯公眾窗及設備房百葉窗工程%20(B座).pdf) | [Backup](工程承建商通告%20210%202025-5-29%20-%20%20N151B-更換逃生樓梯公眾窗及設備房百葉窗工程%20(B座).pdf)
 
 ---
 
@@ -2544,12 +2544,12 @@ The COW, Mr. Wong Chin Hang, is theoretically the residents' eyes and ears. Howe
 *   **2025-05-21:** COW arrives (10 months late).
 
 **🔗 Links:**
-*   [Maintence Budget Table (Start Date)](http://www.wangfuk.org/html/home/doc/2024-06-11%20宏福苑工程預算總表R3.2.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/工程承建商通告%202%202024-06-11%20宏福苑工程預算總表R3.2.pdf)
-*   [Minutes 2 (Start Date)](http://www.wangfuk.org/html/meeting/12/%E7%AC%AC2%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-06-27%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
-*   [Minutes 6](http://www.wangfuk.org/html/meeting/12/%E7%AC%AC6%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-10-21%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%85%AD%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
-*   [Minutes 9](http://www.wangfuk.org/html/meeting/12/2025-03-01%20%E7%AC%AC9%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-03-01%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E4%B9%9D%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
-*   [Minutes 10 (Arrival)](http://www.wangfuk.org/html/meeting/12/2025-05-21%20%E7%AC%AC10%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-05-21%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
-*   [Minutes Annual No. 20](http://www.wangfuk.org/html/meeting/03/第25次全體業主大會(周年大會)會議記錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-09-13%20第十二屆管理委員會第二十五次全體業主周年大會會議紀錄.pdf)
+*   [Maintence Budget Table (Start Date)](http://www.wangfuk.org/html/home/doc/2024-06-11%20宏福苑工程預算總表R3.2.pdf) | [Backup](工程承建商通告%202%202024-06-11%20宏福苑工程預算總表R3.2.pdf)
+*   [Minutes 2 (Start Date)](http://www.wangfuk.org/html/meeting/12/%E7%AC%AC2%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf) | [Backup](2024-06-27%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
+*   [Minutes 6](http://www.wangfuk.org/html/meeting/12/%E7%AC%AC6%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](2024-10-21%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%85%AD%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
+*   [Minutes 9](http://www.wangfuk.org/html/meeting/12/2025-03-01%20%E7%AC%AC9%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](2025-03-01%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E4%B9%9D%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
+*   [Minutes 10 (Arrival)](http://www.wangfuk.org/html/meeting/12/2025-05-21%20%E7%AC%AC10%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](2025-05-21%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf)
+*   [Minutes Annual No. 20](http://www.wangfuk.org/html/meeting/03/第25次全體業主大會(周年大會)會議記錄.pdf) | [Backup](2025-09-13%20第十二屆管理委員會第二十五次全體業主周年大會會議紀錄.pdf)
 *   [Full Archive](MINUTES_MARKDOWN.md)
 
 ---
@@ -2621,7 +2621,7 @@ Resident testimony indicates the wooden boards were installed "a few weeks after
 **🔗 Links:**
 *   [HK01 Report](https://www.hk01.com/突發/60300960)
 *   [The Collective Report](https://thecollectivehk.com/宏福苑五級火直擊走火樓梯漏洞密封窗疑變開窿/)
-*   [Wang Sun Notice](http://www.wangfuk.org/html/home/doc/2025-05-16%20N146C%20-更換逃生樓梯公眾窗及設備房百葉窗工程%20(C座).pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/%E5%B7%A5%E7%A8%8B%E6%89%BF%E5%BB%BA%E5%95%86%E9%80%9A%E5%91%8A%20205%202025-5-16%20-%20%20N146C%E6%9B%B4%E6%8F%9B%E9%80%83%E7%94%9F%E6%A8%93%E6%A2%AF%E5%85%AC%E7%9C%BE%E7%AA%97%E5%8F%8A%E8%A8%AD%E5%82%99%E6%88%BF%E7%99%BE%E8%91%89%E7%AA%97%E5%B7%A5%E7%A8%8B%20(C%E5%BA%A7).pdf)
+*   [Wang Sun Notice](http://www.wangfuk.org/html/home/doc/2025-05-16%20N146C%20-更換逃生樓梯公眾窗及設備房百葉窗工程%20(C座).pdf) | [Backup](%E5%B7%A5%E7%A8%8B%E6%89%BF%E5%BB%BA%E5%95%86%E9%80%9A%E5%91%8A%20205%202025-5-16%20-%20%20N146C%E6%9B%B4%E6%8F%9B%E9%80%83%E7%94%9F%E6%A8%93%E6%A2%AF%E5%85%AC%E7%9C%BE%E7%AA%97%E5%8F%8A%E8%A8%AD%E5%82%99%E6%88%BF%E7%99%BE%E8%91%89%E7%AA%97%E5%B7%A5%E7%A8%8B%20(C%E5%BA%A7).pdf)
 
 ---
 
@@ -2688,7 +2688,7 @@ Residents were forced to live in sealed, air-conditioner-less units (due to remo
 
 **🔗 Links:**
 *   [Residents' FB Post: Prestige's On-Site Schedules](https://www.facebook.com/share/p/1AggjWpq1M/)
-*   Backup: [2025-01-18 Schedule](https://github.com/sparktsang/wangfuk/blob/main/宏福苑工程預算總表第二期%202025-01-18.jpg) | [2025-07-17 Schedule](https://github.com/sparktsang/wangfuk/blob/main/宏業%20工程步驟%202025-07-17.jpg)
+*   Backup: [2025-01-18 Schedule](宏福苑工程預算總表第二期%202025-01-18.jpg) | [2025-07-17 Schedule](宏業%20工程步驟%202025-07-17.jpg)
 *   [EGM Minutes (Payment)](http://www.wangfuk.org/html/meeting/03/2024年9月6日特別業主大會會議記錄.pdf)
 
 ---
@@ -2816,7 +2816,7 @@ The warning demanded "proper storage of flammables." Sticking Styrofoam boards o
 *   **2025-11-26:** Wang Fuk Court Fire (The Realization).
 
 **🔗 Links:**
-*   [CIC Safety Message PDF](https://www.cic.hk/files/page/52/防火安全：加強建築工地的防火安全%20-%20安全訊息%20第02425號（2025年10月）.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/建造業議會%20-%20防火安全：加強建築工地的防火安全%20-%20安全訊息%20第02425號（2025年10月）.pdf)
+*   [CIC Safety Message PDF](https://www.cic.hk/files/page/52/防火安全：加強建築工地的防火安全%20-%20安全訊息%20第02425號（2025年10月）.pdf) | [Backup](建造業議會%20-%20防火安全：加強建築工地的防火安全%20-%20安全訊息%20第02425號（2025年10月）.pdf)
 
 ---
 
@@ -3145,7 +3145,7 @@ We will call each household to arrange a time. 1–30 Nov 2024: temporary remova
 **🔗 Links:**
 *   [The Collective HK Video Report](https://thecollectivehk.com/影像紀錄宏福苑圍標之禍/)
 *   [Wang Tai Court Air-conditioner removel notice](http://www.wangfuk.org/html/home/doc/2024-10-17%20N13R2%20-%20私人冷氣機安排(C-E座).pdf) | [Backup](
-https://github.com/sparktsang/wangfuk/blob/main/工程承建商通告%2061%202024-10-17%20-%20N13R2%20-%20私人冷氣機安排(C-E座).pdf)
+工程承建商通告%2061%202024-10-17%20-%20N13R2%20-%20私人冷氣機安排(C-E座).pdf)
 
 ---
 
@@ -3421,7 +3421,7 @@ If FSD knew the system had defects (March) and parts were shut down (April), why
 
 **🔗 Links:**
 *   [Yahoo News Report](https://hk.news.yahoo.com/share/0760e461-7fdc-4f76-83c7-707e4667281f)
-*   [Minutes 12](http://www.wangfuk.org/html/meeting/12/2025-10-27%20第12次全體委員會議記錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-09-29%20第十二屆第十二次會議紀錄.pdf) | [Markdown](MINUTES_MARKDOWN.md)
+*   [Minutes 12](http://www.wangfuk.org/html/meeting/12/2025-10-27%20第12次全體委員會議記錄.pdf) | [Backup](2025-09-29%20第十二屆第十二次會議紀錄.pdf) | [Markdown](MINUTES_MARKDOWN.md)
 
 ---
 
