@@ -1731,10 +1731,10 @@ When residents attempted to organize on July 23, Security guards (managed by **I
 > **Evidence [D]: Police Called on Residents**
 > *Source: Yahoo News / 2024-07-24*
 >
-> "逾 200 名居民周二晚（23 日）開會後... 將有關通告放入住戶信箱，但隨即有**保安報警**..."
+> "逾 200 名居民周二晚（23 日）開會後... 將有關通告放入住戶信箱，但隨即有**保安報警**...有業主指，本月派發 3 次通告，有 2 次都遭管理處報警阻止。"
 >
 > *Translation:*
-> "Over 200 residents met on Tuesday (23rd)... put notices in mailboxes, but **security immediately called the police**..."
+> "Over 200 residents met on Tuesday (23rd)... put notices in mailboxes, but **security immediately called the police**...A resident says three notices were issued this month, and **on two occasions** the management office called the police to stop them."
 
 **🛡️ Pre-emptive Rebuttal:**
 
