@@ -3537,6 +3537,72 @@ The tragedy of Jack's family (4 dead: Father, Grandmother, Infant, Helper) provi
 
 ---
 
+### 🆔 [E-VICTIM-2025-11-26-02] The Empty Staircase: How the "Information Blockade" Left the Elderly to Die in Their Sleep
+
+**🚨 Significance:**
+
+Testimony from survivors Mr. and Mrs. Wong (Wang Sun House) reveals a terrifying phenomenon: **The "Empty Staircase."** Despite fleeing down over 10 floors an hour into the fire, they encountered only **one other family**. This confirms that the combination of **Silent Alarms** and **Opaque Windows** successfully created a total information blockade, leaving the majority of residents—especially the elderly napping in the afternoon—completely unaware of their impending death.
+
+**1. The "Zero-Warning" Bubble:**
+*   **The Mechanism:** No alarm, no management knocking, windows sealed.
+*   **The Result:** Mr. Wong worked from home in total ignorance for **over an hour**. He was saved not by the building's safety systems, but by a random phone call from a friend.
+*   **The Inference:** The neighbors who didn't get a phone call, or the elderly without smartphones, simply stayed in their units until the smoke killed them. The "Empty Staircase" is proof that the evacuation signal never reached the population.
+
+**2. The Irony of Investment:**
+The couple spent **HK$100,000** on the renovation levy—the very money used to install the Styrofoam and fake nets that burned down their home. They literally **paid for their own destruction**.
+
+**3. The "Administrative Refugee" Crisis:**
+The fire destroyed their **"Address"**—the key to their child's education.
+*   **The Dilemma:** Losing their Tai Po address jeopardizes their child's primary school allocation (School Net). Without a permanent home, they are trapped in bureaucratic limbo ("Don't know what to do"), transforming a stable middle-class family into displaced persons facing long-term social regression.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Information Blockade**
+> *Source: MP Weekly / 2025-12-07*
+>
+> "既**聽不到警鐘**，也沒有管理員上門... 窗戶... 已被**發泡膠封死**... 直到聞到濃烈煙味... 已過了**一個多小時**。"
+>
+> *Translation:*
+> "Heard **no alarm**, no management knocked... Windows **sealed by Styrofoam**... Until smelling strong smoke... **over an hour** had passed."
+
+> **Evidence [B]: The Empty Staircase**
+> *Source: MP Weekly / 2025-12-07*
+>
+> "逃生跑了十幾層樓梯，竟然**只遇到另一戶**倉皇逃生的鄰居。... 屋苑住了很多老人家，他們很有可能都**在睡午覺**，錯過逃生機會..."
+>
+> *Translation:*
+> "Ran down over 10 floors, surprisingly **only met one other family** fleeing... Many elderly live here, likely **napping**, missing the chance to escape..."
+
+> **Evidence [C]: The Loss of Future (School Net)**
+> *Source: MP Weekly / 2025-12-07*
+>
+> "失去家園、失去地址，究竟**校網該如何劃分**？... 只能望着前方，不斷嘆氣。「真的不知道怎麼辦……」"
+>
+> *Translation:*
+> "Lost home, lost address, how will the **School Net** be assigned? ... Can only sigh... 'Really don't know what to do...'"
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"The Education Bureau has mechanisms to handle displacement. We will exercise discretion for affected families to ensure children's education is not disrupted. Residents should focus on safety first; administrative issues like school nets can be resolved later."
+
+**The Logical Trap:**
+1.  **Discretion vs. Right:** A "School Net" is a property right in Hong Kong. Replacing a guaranteed right with "bureaucratic discretion" (begging for a slot) is a degradation of status. The government cannot simply "resolve" the loss of a 40-year community network and stability.
+2.  **The "Afternoon Nap" Factor:** The defense that "residents should be alert" fails when the system is designed to kill those who are resting. A fire safety system must protect the sleeping (the most vulnerable). If it only saves those who receive external phone calls, it is not a safety system; it is a lottery.
+3.  **The "Paid" Suicide:** The Wongs paid the levy. The Cartel took the money, disabled the alarm, and sealed the windows. To frame this as a "natural disaster" where government aid is "benevolence" ignores the fact that the **government-regulated renovation process** was the active cause of their homelessness.
+
+**📅 Timeline:**
+*   **2020:** Family buys unit + renovates (HK$100k).
+*   **2024-2025:** Family pays repair levy (HK$125k+, 5/6 installments paid).
+*   **2025-11-26 (14:51):** Fire starts.
+*   **2025-11-26 (16:00):** Family escapes empty staircase (1 hour late).
+*   **2025-12:** Family homeless, facing school net crisis.
+
+**🔗 Links:**
+*   [MP Weekly Report](https://www.mpweekly.com/culture/社會/宏福苑五級火-宏福苑災民-大埔-261264)
+
+---
+
 ### 🆔 [E-VICTIM-2025-11-28-01] The Destruction of a Village: "I lost 10 friends in one night"
 
 **🚨 Significance:**
