@@ -788,7 +788,7 @@ The drastic drop in Press Freedom (Rank 18 to 148) correlates with the rise of u
 **🔗 Links:**
 *   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/Leung,%20T.%20C.,%20Tsang,%20K.%20P.,%20&%20Tsui,%20K.%20K.%20(2022).pdf)
 *   [FactWire Closure Statement](https://www.factwire.org/傳真社停止運作聲明/)
-*   [FactWire Database Archive](https://docs.google.com/spreadsheets/d/1O7FjXTBtbsbiWdxN43ujyuu6Cgh-I9wvdGZQq6rQEvA/edit?gid=746443571#gid=746443571)
+*   [FactWire Database Archive](https://docs.google.com/spreadsheets/d/1O7FjXTBtbsbiWdxN43ujyuu6Cgh-I9wvdGZQq6rQEvA/edit?gid=746443571#gid=746443571) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/傳真社製首個樓宇維修公開資料庫.xlsx)
 *   [The Collective HK Interview](https://thecollectivehk.com/採訪手記宏福苑圍標之禍給妹妹的信/)
 *   [HK's ranking in RSF's World Press Freedom Index](https://en.wikipedia.org/wiki/Freedom_of_the_press_in_Hong_Kong)
 
