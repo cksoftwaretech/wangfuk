@@ -3601,6 +3601,71 @@ Mr. Chan lost 4 cats (1 his, 3 son's). In disaster sociology, the loss of compan
 
 ---
 
+### 🆔 [E-VICTIM-2025-11-28-02] The Milk Tea Bottle: When Survival is Luck and Loss is Irreplaceable
+
+**🚨 Significance:**
+
+Testimony from Mrs. Tsang (70s) and her son reveals that survival in Wang Fuk Court was a matter of sheer luck, not safety design. Despite living on the **1st Floor**, Mrs. Tsang received no systemic warning. Her story highlights the profound psychological devastation inflicted on the elderly, where the loss of sentimental objects outweighs financial value.
+
+**1. Survival by "Coincidence":**
+Mrs. Tsang **"heard absolutely no fire alarm"** and **"could not see outside."** She only realized the danger because she **"coincidentally"** opened the window and saw fire trucks.
+*   *The Implication:* If a 1st-floor resident—closest to the street—was oblivious to the fire due to the sensory blockade (Silent Alarm + Styrofoam), residents on higher floors had zero chance of receiving passive warnings. Her survival was an accident; the system failed her completely.
+
+**2. The Destruction of "Life's Work":**
+Like many, she bought the unit first-hand in 1983 with "hard-earned savings." The fire destroyed what she called the fruit of her late husband's lifelong labor.
+*   *The Trauma:* Already suffering from depression and grieving her husband's death 2 years ago, this "double blow" forces a vulnerable elderly person into a state of acute mental health crisis, necessitating emergency psychiatric medication.
+
+**3. The Uncompensable Loss:**
+Her son's primary grief is not the flat, but a **"Milk Tea Aluminum Bottle"**—the last object his late father used.
+*   *The Symbol:* "No amount of money can buy it back." This debunks the narrative that the "HK$3.8 Billion Fund" can "rebuild homes." The fund can rebuild walls, but it cannot restore the erased memories that anchored these families.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Failure of Warning (1st Floor)**
+> *Source: MP Weekly / 2025-12-07*
+>
+> "她完全**聽不到火警鐘**... 也**看不見窗外**... 也是**事有湊巧**，她偶然打開窗，才看見有消防車..."
+>
+> *Translation:*
+> "She heard **absolutely no fire alarm**... could **not see outside**... It was by **coincidence** she opened the window and saw fire trucks..."
+
+> **Evidence [B]: The Irreplaceable Object**
+> *Source: MP Weekly / 2025-12-07*
+>
+> "他念念不忘的... 是亡父的遺物——一個不值錢卻包含特別意義的**奶茶鋁樽**...「無咗，幾多錢都買唔番！」"
+>
+> *Translation:*
+> "What he couldn't forget... was his late father's **aluminum milk tea bottle**... 'It's gone, no amount of money can buy it back!'"
+
+> **Evidence [C]: The Mental Toll**
+> *Source: MP Weekly / 2025-12-07*
+>
+> "手持一包藥物... 亦有**抗抑鬱藥**，全是她剛剛... 臨時急配的。"
+>
+> *Translation:*
+> "Holding a bag of medicine... including **anti-depressants**, all prescribed urgently just now..."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"We have activated the 'One Social Worker per Family' scheme to provide counseling. Emergency funds and housing are provided to settle them. While sentimental loss is regrettable, our priority is physical needs. The fact that 1st floor residents evacuated shows that awareness was possible."
+
+**The Logical Trap:**
+1.  **Luck is not a System:** Citing Mrs. Tsang's evacuation as proof of "awareness" is dishonest. She evacuated because she *randomly* opened a window, not because the system warned her. A safety system that relies on residents getting lucky is a failed system.
+2.  **Trauma is Permanent:** Giving an elderly depression patient a hotel room does not solve the trauma of seeing her "husband's legacy" burn. The renovation project—approved by regulators—caused this trauma. The "Social Worker" is cleaning up the mess made by the "Building Consultant."
+3.  **The Price of Negligence:** The loss of the "Milk Tea Bottle" is a direct result of the **Cartel's Greed** (Styrofoam). The contractors saved money on materials, but the victims paid with their memories. This "Exchange Rate" is morally bankrupt.
+
+**📅 Timeline:**
+*   **1983:** Family moves in.
+*   **2023:** Husband passes away; Mrs. Tsang diagnosed with depression.
+*   **2025-11-26:** Fire destroys unit and husband's mementos.
+*   **2025-11-28:** Mrs. Tsang requires emergency psychiatric meds.
+
+**🔗 Links:**
+*   [MP Weekly Report](https://www.mpweekly.com/culture/社會/宏福苑五級火-宏福苑災民-大埔-261264)
+
+---
+
 ### 🆔 [E-GOV-NETS-2015-12-31-01] The "Standard" Trap: Why "Compliant" Nets Can Still Burn Down a Building
 
 **🚨 Significance:**
