@@ -174,7 +174,7 @@ On December 4, 2025, MC Chairman Tsui Moon-kam (徐滿柑) admitted to the press
 
 **🚨 Significance:**
 
-A landmark court case and subsequent academic analysis reveal the "Business Model" of Hong Kong's bid-rigging cartels. The conviction of **Yau Sui-tin** (丘瑞田) in the Garden Vista case proved that bribes to key figures (MC Chairman, Management Company) constituted **17%** of the total contract value.
+A landmark court case and subsequent academic analysis reveal the "Business Model" of Hong Kong's bid-rigging cartels. The conviction of **Yau Shui-tin** (丘瑞田) in the Garden Vista case proved that bribes to key figures (MC Chairman, Management Company) constituted **17%** of the total contract value.
 
 **1. The "17%" Benchmark:**
 *   **The Garden Vista Formula:** 10% to MC Chairman + 6% to Management Co. Executive + 1% to Property Manager = **17% Kickback**.
@@ -218,17 +218,17 @@ Yau's testimony described a dinner where the **MC Chairman**, **Management Compa
 
 **¶ Statutory Basis:**
 
-*   **Case Law:** HKSAR v Yau Sui Tin ([DCCC 552/2015](https://legalref.judiciary.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=106355&QS=%2B&TP=RS)).
+*   **Case Law:** HKSAR v Yau Shui Tin ([DCCC 552/2015](https://legalref.judiciary.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=106355&QS=%2B&TP=RS)).
 *   **Offence:** Conspiracy to offer advantages to agents (POBO), [Cap 201 Section 9](https://www.elegislation.gov.hk/hk/cap201!en/s9?_lang=en).
 
 **📅 Timeline:**
 *   **Late 2010:** Garden Vista bid-rigging (17% bribe).
-*   **2016-09-29:** Yau Sui-tin convicted; exposes the "Syndicate Model."
+*   **2016-09-29:** Yau Shui-tin convicted; exposes the "Syndicate Model."
 *   **2022-05-05:** Academic paper confirms bid-rigging increased *after* regulations.
 *   **2024-01-28:** Wang Fuk tender exhibits identical statistical anomalies.
 
 **🔗 Links:**
-*   [InMediaHK Report on Yau Sui Tin](https://www.inmediahk.net/政經/26億圍標案提堂-被告：97後全港都有圍標)
+*   [InMediaHK Report on Yau Shui Tin](https://www.inmediahk.net/政經/26億圍標案提堂-被告：97後全港都有圍標)
 *   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link)
 
 ---
@@ -329,11 +329,95 @@ The study finds that price increases are *more pronounced* in districts with hig
 
 ---
 
+### 🆔 [E-CARTEL-2016-12-31-01] The "Ever-Victorious" Monster: How a Resource-Poor Firm Hoarded 28 Projects
+
+**🚨 Significance:**
+
+**Prestige** (宏業) is identified not just as a rogue contractor, but as a dominant market predator. Academic data and government actions reveal that Prestige captured a massive share of the renovation market (28 active projects) despite lacking the professional capacity to manage them safely. This dominance was allegedly maintained through intimidation, driving out quality competitors.
+
+**1. The "Scale vs. Capacity" Paradox:**
+*   **The Scale:** On Nov 29, the Buildings Department suspended **28 active projects** run by Prestige.
+*   **The Capacity:** Tender documents showed Prestige had only ~25 core staff and minimal professional accreditations.
+*   **The Math:** Managing 28 complex high-rise renovations with such a skeleton crew is operationally impossible without cutting corners. This "Over-trading" explains the reliance on **subcontracting chains** and **universal shortcuts** (like the Styrofoam SOP) to cope with the workload.
+
+**2. The "Ever-Victorious" Cartel:**
+Industry insiders describe Prestige as the "Ever-Victorious General". This success is attributed not to quality, but to a toxic ecosystem where:
+*   **Intimidation:** Competitors are "warned off", forcing quality firms to exit.
+*   **Collusion:** As proven by Leung et al. (2022), Prestige (Firm 1) frequently bid against the same "partners," creating a statistically rigged market.
+
+**3. The Historical Dominance:**
+Data from FactWire (up to 2016) shows Prestige was already one of the top 4 most active bidders, participating in over 60 out of 141 tenders. This suggests a **decade-long monopoly** allowed to fester by regulators, culminating in the 2025 disaster.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Scale of Operations**
+> *Source: Buildings Department Press Release / 2025-11-29*
+>
+> "要求由宏業... 作為註冊承建商的 **28個私人樓宇工程項目** 立即暫時停工。"
+>
+> *Translation:*
+> "Ordered immediate suspension of **28 private building projects** where Prestige... is the registered contractor."
+
+> **Evidence [B]: Prestige's Staff**  
+> *Source: Renovation Booklet p.52*  
+>  
+> "公司有25人，可提供MPF記錄"  
+>
+> *Translation:*  
+> "The company has 25 staff who can provide MPF records."  
+
+> **Evidence [C]: The Industry "Secret" (Intimidation)**
+> *Source: Ta Kung Pao / 2025-11-28*
+>
+> "宏業... 是業內有名的競標「**常勝將軍**」... 甚至有工程公司負責人參與競標後立即被人**惡言警告**... 導致有水準的公司越來越少..."
+>
+> *Translation:*
+> "Prestige... is the industry's famous '**Ever-Victorious General**'... some company heads were **verbally warned** immediately after bidding... causing fewer quality companies [to participate]..."
+
+> **Evidence [D]: The Academic Track Record**
+> *Source: The Singapore Economic Review: Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)*
+>
+> ""the four most active firms [Firm 1-4] (each of which had submitted a bid in at least **60 out of 141 tenders** in the data) regularly “bid against” each other.""
+
+> **Evidence [E]: The Identification of "Firm 1"**
+> *Source: The Points Media / 2025-12-02*
+>
+> "梁天卓確認，圖表中的 Firm 1 是**宏業建築工程有限公司**"
+>
+> *Translation:*
+> "Leung Tin-cheuk confirmed that 'Firm 1' in the chart is **Prestige Construction & Engineering Co., Ltd.**"
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"Our high volume of work reflects client trust and our competitive pricing. We utilize a robust network of subcontractors to manage workload, which is standard industry practice. Allegations of intimidation are hearsay and libelous without police reports. We are being punished for our success."
+
+**The Logical Trap:**
+1.  **Subcontracting without Supervision:** "Standard practice" requires the Main Contractor to supervise subcontractors. If you have 28 sites and only ~25 staff, **supervision is mathematically impossible**. You are not "managing" subcontractors; you are **abandoning** the sites to them. The result is Wang Fuk (fake nets, no alarms).
+2.  **The "Success" is the Crime:** In a market proven to be rigged (40% cartel premium), "Success" is evidence of **Collusion**, not merit. Being "Ever-Victorious" in a game known for bid-rigging is like being the "Ever-Winning" gambler in a casino you own.
+3.  **Resource Mismatch:** Industry experts explicitly questioned: "Where do they get the resources?. The answer is: They don't. They use **Fake Resources** (Fake Certs, Fake Nets, Cheap Foam). The 28 projects were built on a foundation of fraud.
+
+**📅 Timeline:**
+*   **2006-2016:** Prestige establishes dominance (FactWire data).
+*   **2022-05-05:** Academic paper confirms Prestige's cartel behavior.
+*   **2023-10-16:** Will Power's interview reports: Prestige has 25 staff. 
+*   **2025-11-26:** Prestige juggles 28 concurrent projects; Wang Fuk collapses.
+
+**🔗 Links:**
+*   [BD Press Release](https://www.bd.gov.hk/tc/whats-new/press-releases/2025/1129-buildings-department-ordered-temporary-suspension-of-works-on-30-private-building-projects.html)
+*   [Ta Kung Pao Report](https://dw-media.tkww.hk/epaper/tkp/20251128/A7_Screen.pdf)
+*   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link)
+*   [FactWire Database Archive](https://docs.google.com/spreadsheets/d/1O7FjXTBtbsbiWdxN43ujyuu6Cgh-I9wvdGZQq6rQEvA/edit?gid=746443571#gid=746443571)
+*   [The Points Media Report](https://points-media.com/最新/香港-世紀大火-學者-強制驗樓-制度-圍標-議價-宏業/)
+*   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf) | [Backup](強制驗樓驗窗計劃%2011.%20樓宇復修工程資料簡報小冊子.pdf)
+
+---
+
 ### 🆔 [E-CARTEL-2018-06-30-01] The "Whistleblower Trap": Why Only the Snitch Went to Jail
 
 **🚨 Significance:**
 
-The landmark "Garden Vista" bid-rigging case, often cited as a victory against corruption, was in reality a **judicial failure** that emboldened future cartels. While the middleman turned whistleblower (**Yau Sui-tin/丘瑞田**) was jailed for 35 months, the masterminds he implicated—including the MC Chairman, Management Company Executive, Consultant, and Contractor—walked free due to "insufficient evidence."
+The landmark "Garden Vista" bid-rigging case, often cited as a victory against corruption, was in reality a **judicial failure** that emboldened future cartels. While the middleman turned whistleblower (**Yau Shui-tin/丘瑞田**) was jailed for 35 months, the masterminds he implicated—including the MC Chairman, Management Company Executive, Consultant, and Contractor—walked free due to "insufficient evidence."
 
 **1. The "Kill the Messenger" Outcome:**
 Yau provided detailed testimony of a dinner meeting where a **17% bribe** was agreed upon. However, only the confessed Yau was convicted. The Department of Justice (DOJ) dropped investigations against all other named conspirators in mid-2018.
@@ -504,7 +588,7 @@ The drastic drop in Press Freedom (Rank 18 to 148) correlates with the rise of u
 > "Recent drastic changes in the media industry... FactWire ceases operation effective immediately..."
 
 > **Evidence [C]: The Primary Source**
-> *Source: FactWire Database / 2017-07-11*
+> *Source: FactWire Database / 2017-04-11*
 >
 > "資料來源：全港業主反貪腐反圍標大聯盟、顧問公司、法團、市民報料及中原地產"
 >
@@ -653,7 +737,7 @@ This specific weighting (High MPF points / Low Professional points) appears cust
 > "公司有25人，可提供MPF記錄"  
 >
 > *Translation:*  
-> "The company has 25 staff and can provide MPF records."  
+> "The company has 25 staff who can provide MPF records."  
 > *(Analysis: This secures the 3 points. The remaining 1 point likely comes from the Safety Officer mentioned as 'AS' or similar, implying a lack of AP/RSE/Public Contracts.)*  
 
 > **Evidence [C]: Prestige's Score (Top Tier)**
@@ -3914,11 +3998,11 @@ HD's refusal to answer whether they *received complaints* or *inspected* the win
 
 ---
 
-### 🆔 [E-ENFORCE-2025-11-28-01] The Evidence Magicians: "No File" Before the Fire, 11 Arrests After the Bodies Piled Up
+### 🆔 [E-ENFORCE-2025-04-15-01] The Evidence Magicians: "No File" Before the Fire, 11 Arrests After the Bodies Piled Up
 
 **🚨 Significance:**
 
-Testimonies from Management Committee member Jason Kong (江祥發) and other residents reveal a shocking dereliction of duty by the Independent Commission Against Corruption (ICAC). Despite being presented with documented evidence of bid-rigging *before* the fire, the ICAC explicitly refused to open a case.
+Testimonies from Management Committee member Jason Kong (江祥發) and other residents reveal a shocking dereliction of duty by the Independent Commission Against Corruption (ICAC). Despite being presented with documented evidence of bid-rigging *before* the fire, the ICAC explicitly refused to open a case. Residents had already reported to the ICAC even before the signing of the contract.
 
 **1. The "No File" Rejection:**
 Jason Kong confirms that he and numerous residents submitted documents to the ICAC, addressing specific irregularities. The ICAC's response was: "**Cannot open a file**" and "**Do not see any problem currently.**" They officially closed the complaints.
@@ -3952,12 +4036,20 @@ As Jason Kong poignantly stated: *"We have to use so many lives to exchange for 
 > **Evidence [C]: More Prior Complaints**  
 > *Source: The Collective / 2025-11-29*  
 >  
-> "出事之後，我淨係想知道點解ICAC 可以即刻捉人，攞 file 去睇。因為你 ICAC 捉人之前一定係有証據先做。我哋去投訴之後到事發前一直無結果"  
+> "X先生：出事之後，我淨係想知道點解ICAC 可以即刻捉人，攞 file 去睇。因為你 ICAC 捉人之前一定係有証據先做。我哋去投訴之後到事發前一直無結果"  
 >  
 > *Translation:*  
-> "After the incident, I only want to know why the ICAC could immediately arrest people and seize files. They must have had evidence before making arrests. We filed complaints but nothing happened before the fire."
+> "Mr. X: After the incident, I only want to know why the ICAC could immediately arrest people and seize files. They must have had evidence before making arrests. We filed complaints but nothing happened before the fire."
+> 
+> **Evidence [D]: Another Prior Complaint**  
+> *Source: I Cable News Report / 2025-12-02*  
+>  
+> "陳先生指...簽訂維修合約前，已有街坊向廉署舉報，但對方只不斷問：你有沒有證據？...到現在出了事就說成立專責小組調查。」"  
+>  
+> *Translation:*  
+> "Mr. Chan said before the signing of the contract... residents had already reported to the ICAC, but were only asked, 'Do you have evidence?'... now that they say they set up a task force to investigate."
 
-> **Evidence [D]: The Sudden Arrests**  
+> **Evidence [E]: The Sudden Arrests**  
 > *Source: ICAC Press Release / 2025-11-28*  
 >  
 > "廉政公署...展開全面調查，今日...拘捕八名人士，包括工程顧問、棚架工程分判商及中間人"  
@@ -3965,7 +4057,7 @@ As Jason Kong poignantly stated: *"We have to use so many lives to exchange for 
 > *Translation:*  
 > "ICAC...launched a full investigation. Today arrests were made... with eight people detained, including engineering consultants, scaffolding subcontractors and intermediaries"
 
-> **Evidence [E]: Further Arrests**
+> **Evidence [F]: Further Arrests**
 > *Source: ICAC Press Release / 2025-11-29*
 >
 > "廉政公署... 繼昨日較早時拘捕八人... 再拘捕三名工程承建商負責人..."
@@ -3988,7 +4080,7 @@ As Jason Kong poignantly stated: *"We have to use so many lives to exchange for 
 *   **Duty:** Independent Commission Against Corruption Ordinance (Cap. 204), Section 12.
 
 **📅 Timeline:**
-*   **Pre-Fire:** Residents submit documents. ICAC says "No File."
+*   **Before 2024-04-16:** Residents submit documents. ICAC says "No File"/"No Evidence".
 *   **2025-11-26:** Fire kills 160.
 *   **2025-11-28:** ICAC arrests 8 suspects based on "corruption".
 *   **2025-11-29:** ICAC arrests 3 more.
@@ -3996,6 +4088,7 @@ As Jason Kong poignantly stated: *"We have to use so many lives to exchange for 
 **🔗 Links:**
 *   [Radio Interview Recording](https://www.am1470.com/data/program_archive_details/575_2763.mp3)
 *   [The Collective Report](https://thecollectivehk.com/宏福苑五級火｜居民：火災前已有多人向-icac-舉報大/)
+*   [The I Cable Report](https://www.i-cable.com/新聞資訊/415811/一線搜查-宏福苑大火背後-三疑點惹關注-居民)
 *   ICAC Press Release: [28 Nov](https://www.icac.org.hk/tc/p/press/index_id_2209.html) | [29 Nov](https://www.icac.org.hk/tc/p/press/index_id_2210.html)
 
 ---
