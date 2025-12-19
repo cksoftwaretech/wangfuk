@@ -3603,6 +3603,91 @@ The fire destroyed their **"Address"**—the key to their child's education.
 
 ---
 
+### 🆔 [E-VICTIM-IMPACT-2025-11-26-03] The Nullified Life: How the Cartel Burned 10 Years of "Sold Holidays"
+
+**🚨 Significance:**
+
+Testimony from Ms. Fan, a single mother and hospital worker, exposes the crushing economic violence inflicted by the renovation scam. Her story debunks the myth that property owners are wealthy enough to absorb the loss. It reveals that the **HK$180,000 renovation levy** was extorted from working-class citizens who sacrificed their health to pay it, only to have their investment incinerated by the very project they paid for.
+
+**1. The "Sunk Cost" of a Decade:**
+Ms. Fan spent 10 years working overtime and **on holidays** during flu peaks to save HK$1.7 million to redeem her flat for her son.
+*   *The Tragedy:* She completed the redemption in **June 2024** and paid the **HK$180k** levy. Five months later, the flat was destroyed. The Cartel didn't just burn a building; they burned 10 years of a frontline worker's life labor.
+
+**2. The Ripple Effect on Essential Services:**
+The Hospital Authority (HA) confirmed that **60 staff members** across various hospitals lost their homes, and one staff member died.
+*   *The Implication:* The systemic negligence at Wang Fuk Court destabilized the lives of dozens of essential workers, creating a secondary shockwave to the city's public health capacity.
+
+**3. The Suppression of Dissent (Revisited):**
+Ms. Fan expressed rage that residents "**tried to stop the renovation but failed.**"
+*   *The Connection:* The victims were not passive; they were actively overpowered by a rigged system. Their "failure" to stop the renovation was not due to lack of effort, but due to the overwhelming force of the Cartel's political and administrative machinery.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Price of the Flat (Blood & Sweat)**
+> *Source: MP Weekly / 2025-12-07*
+>
+> "冬季流感高峰期... 總會「**賣假**」... 賺取贖回單位的金錢。...維修費我差不多給了**十八萬**。...你依家燒埋我間屋，我可以做得啲咩呀？"
+>
+> *Translation:*
+> "During flu peaks... always **sold holidays**... to earn money to redeem the flat... I paid almost **HK$180,000** for renovation... Now you burn down my house, what can I do?"
+
+> **Evidence [B]: The Redemption**
+> *Source: MP Weekly (citing HA) / 2025-12-07*
+>
+> "去年六月，她終於以一百七十萬贖回當初聯名購入的單位樓契，完結一場十年的噩夢。"
+>
+> *Translation:*
+> "Last June she redeemed the jointly purchased unit title for **HK$1.7M**, ending a ten‑year nightmare."
+
+> **Evidence [C]: The Sectoral Damage (HA Staff)**
+> *Source: MP Weekly (citing HA) / 2025-12-07*
+>
+> "全港不同醫院合共約有**六十名同事**因為是次大火失去家園。"
+>
+> *Translation:*
+> "About **60 colleagues** across different hospitals lost their homes due to this fire."
+
+> **Evidence [D]: The Failure (HA Staff)**
+> *Source: MP Weekly (citing HA) / 2025-12-07*
+>
+> "范小姐最憤怒的是一眾住戶曾努力阻止大維修無果"
+>
+> *Translation:*
+> "Ms Fan is furious that residents' attempts to stop the major maintenance failed."
+
+> **Evidence [E]: The Child's Trauma**
+> *Source: MP Weekly / 2025-12-07*
+>
+> "當校巴駛過宏福苑時，他用**衣物包裹着自己的頭**，不想看到失去的家。"
+>
+> *Translation:*
+> "When the school bus passed Wang Fuk Court, he **wrapped his head in clothes**, not wanting to see the lost home."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"The renovation was a legal requirement under the Mandatory Building Inspection Scheme to ensure public safety. While the outcome was tragic, the decision to renovate was lawful and followed due process (passed by EGM). Financial aid is available to help victims rebuild. The loss of value is unfortunate but an inherent risk of property ownership."
+
+**The Logical Trap:**
+1.  **Mandate vs. Extortion:** MBIS requires *safety inspection*, not a HK$330M overhaul with fake materials. Ms. Fan paid HK$180k for **"Safety,"** but the Cartel delivered **"Danger."** This is not an "inherent risk of ownership"; it is **Consumer Fraud** on a massive scale.
+2.  **The "Due Process" Lie:** As Ms. Fan noted, they "tried to stop it." The fact that they couldn't (due to rigged votes/proxy harvesting) proves the "Due Process" was a sham designed to force residents to pay for their own execution.
+3.  **The Irreversible Time:** You can compensate the HK$1.7M, but you cannot compensate the **10 years of missed holidays** and time with her son. The Cartel stole her past (labor) and her future (stability).
+
+**¶ Statutory Basis:**
+
+*   **Context:** Socio-economic Cost of Regulatory Failure.
+
+**📅 Timeline:**
+*   **2014-2024:** Ms. Fan works overtime and on holidays.
+*   **2024-06:** Redeems flat ($1.7M) + Pays Levy ($180k).
+*   **2025-11-26:** Fire. Godparents die. Home lost.
+*   **2025-11-28:** HA confirms 60 staff affected.
+
+**🔗 Links:**
+*   [MP Weekly Report](https://www.mpweekly.com/culture/社會/宏福苑五級火-宏福苑災民-大埔-261264)
+
+---
+
 ### 🆔 [E-VICTIM-2025-11-28-01] The Destruction of a Village: "I lost 10 friends in one night"
 
 **🚨 Significance:**
