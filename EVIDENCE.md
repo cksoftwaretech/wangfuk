@@ -3537,6 +3537,70 @@ The tragedy of Jack's family (4 dead: Father, Grandmother, Infant, Helper) provi
 
 ---
 
+### 🆔 [E-VICTIM-2025-11-28-01] The Destruction of a Village: "I lost 10 friends in one night"
+
+**🚨 Significance:**
+
+Testimony from 72-year-old survivor Mr. Chan (an original owner since 1983) reveals that the fire caused a **sociological catastrophe**. Wang Fuk Court was not just a collection of units; it was a tight-knit, intergenerational community built over 40 years.
+
+**1. The "Village" Wipeout:**
+Mr. Chan personally knew **"at least a dozen"** who died.
+*   *The Context:* His wife belonged to a "Mother's Group" formed 40 years ago. They watched their neighbors' children grow up. Now, both the "old friends" and the "next generation" (who died alongside them) are gone.
+*   *The Implication:* The fire surgically removed a specific slice of Hong Kong's history—the "First Generation HOS" community. The trauma is collective, not just individual.
+
+**2. The Destruction of the "Forever Home":**
+Mr. Chan and his son lived on the same floor (Wang Cheong Court). For the elderly, this was their "Final Resting Place".
+*   *The Loss:* At 72, losing one's home is a terminal blow to stability. His plea—"Just give me back a home before I die"—highlights the cruelty of a renovation project that was supposed to *improve* their home but instead *incinerated* it.
+
+**3. The Uncounted Victims (Pets):**
+Mr. Chan lost 4 cats (1 his, 3 son's). In disaster sociology, the loss of companion animals significantly compounds PTSD for elderly survivors, removing their emotional support system precisely when they need it most.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Scale of Personal Loss**
+> *Source: MP Weekly / 2025-12-07*
+>
+> "自己所認識的老朋友，**最少十幾人**因為這場大火離開了世界。... 甚至有些人是我們**看着他長大的**，今次也一起走埋..."
+>
+> *Translation:*
+> "Among the old friends I knew, **at least a dozen people** left the world due to this fire... Some were people we **watched grow up**, and this time they left together..."
+
+> **Evidence [B]: The Intergenerational Trauma**
+> *Source: MP Weekly / 2025-12-07*
+>
+> "太太與同屋苑的太太早已組成育兒太太團... 感情非常深厚。... 兩仔爺各有一個單位，住在同一層... 一併燒毀。"
+>
+> *Translation:*
+> "Wife formed a 'parenting group' with other wives ages ago... deep bonds... Father and son had units on the same floor... all burned together."
+
+> **Evidence [C]: The Despair of the Elderly**
+> *Source: MP Weekly / 2025-12-07*
+>
+> "對我們這班老嘢來說，這個真的是我們**最後最後的家園**。... 希望有生之年能夠再次看見自己的家。"
+>
+> *Translation:*
+> "For us old folks, this really was our **very last home**... I just hope to see my home again in my remaining years."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"The government has raised billions in aid. We are arranging transitional housing and expediting insurance claims. The building structure is sound and will be repaired. We are providing counseling services. The community can be rebuilt."
+
+**The Logical Trap:**
+1.  **Money vs. Memory:** You can compensate for a burnt sofa, but you cannot compensate for a 40-year neighbor. The "Community" is dead, even if the "Concrete" is repaired. Treating this as a financial/logistical problem ignores the **irreversible social destruction**.
+2.  **The "Repair" Fallacy:** Asking a 72-year-old to wait years for a "repair" (while living in temporary camps) is cruel. For the elderly, "Time" is the most scarce resource. The renovation project stole their final peaceful years.
+3.  **The Cause of the Loss:** This "Village" wasn't destroyed by an act of God. It was destroyed by **Greed** (Cartel) and **Negligence** (Govt). The "Aid" is not charity; it is **blood money** paid by the system that failed them.
+
+**📅 Timeline:**
+*   **1983:** Chan moves in (Foundation of community).
+*   **2025-11-26:** Fire destroys Wang Cheong Court.
+*   **2025-11-28:** Chan stands with luggage, homeless at 72.
+
+**🔗 Links:**
+*   [MP Weekly Report](https://www.mpweekly.com/culture/社會/宏福苑五級火-宏福苑災民-大埔-261264)
+
+---
+
 ### 🆔 [E-GOV-NETS-2015-12-31-01] The "Standard" Trap: Why "Compliant" Nets Can Still Burn Down a Building
 
 **🚨 Significance:**
