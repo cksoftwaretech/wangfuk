@@ -569,7 +569,7 @@ Data from FactWire (up to 2016) shows Prestige was already one of the top 4 most
 **🔗 Links:**
 *   [BD Press Release](https://www.bd.gov.hk/tc/whats-new/press-releases/2025/1129-buildings-department-ordered-temporary-suspension-of-works-on-30-private-building-projects.html)
 *   [Ta Kung Pao Report](https://dw-media.tkww.hk/epaper/tkp/20251128/A7_Screen.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/大公報%202025-11-28%20A7%20揭開維修棚架背後重重黑幕%20(已下架).pdf)
-*   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link) | [Backup] (https://github.com/sparktsang/wangfuk/blob/main/Leung,%20T.%20C.,%20Tsang,%20K.%20P.,%20&%20Tsui,%20K.%20K.%20(2022).pdf)
+*   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/Leung,%20T.%20C.,%20Tsang,%20K.%20P.,%20&%20Tsui,%20K.%20K.%20(2022).pdf)
 *   [FactWire Database Archive](https://docs.google.com/spreadsheets/d/1O7FjXTBtbsbiWdxN43ujyuu6Cgh-I9wvdGZQq6rQEvA/edit?gid=746443571#gid=746443571) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/傳真社製首個樓宇維修公開資料庫.xlsx)
 *   [The Points Media Report](https://points-media.com/最新/香港-世紀大火-學者-強制驗樓-制度-圍標-議價-宏業/)
 *   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf) | [Backup](強制驗樓驗窗計劃%2011.%20樓宇復修工程資料簡報小冊子.pdf)
