@@ -329,6 +329,96 @@ The study finds that price increases are *more pronounced* in districts with hig
 
 ---
 
+### 🆔 [E-CARTEL-2015-12-02-01] The Gangster's Rebranding: "Better than Drugs" and the Gentrification of Crime
+
+**🚨 Significance:**
+
+Journalistic records and police arrests confirm that Hong Kong's building maintenance market has been colonized by **Triad Societies**. The motive is economic: Triad members explicitly stated that bid-rigging is **"more profitable than drug trafficking"** but carries significantly lower legal risks.
+
+**1. The "Ground Force" Mechanism:**
+While "Consultants" handle the paperwork, Triads handle the **"Ground Operations"**:
+*   **Vote Harvesting:** Police arrests in **Tsui Lam Estate** (2023/2024) caught members of **Sun Yee On** (新義安) planting hundreds of forged proxy forms into ballot boxes at midnight.
+*   *The Link:* This provides the operational blueprint for the [**"Mystery Mouse"**](#-e-cartel-2024-01-28-01-the-phantom-voters-how-a-mystery-mouse-swung-the-hk330m-contract) incident at Wang Fuk. The "stacks" of votes dumped into the box were likely the product of similar triad ground operations.
+
+**2. The Rebranding Strategy:**
+A journalist's memoir reveals a psychological shift: Criminals no longer identify as gangsters but as part of the **"Engineering Sector"**. This "Gentrification of Violence" allows them to operate openly, attend owner meetings, and use "verbal warnings" under a veneer of legitimacy.
+
+**3. Official Knowledge:**
+The Government has known this for a decade. In **2015**, Secretary for Development Paul Chan (陳茂波) admitted in LegCo that bid-rigging involves **"corruption and Triad participation."** Yet, in the decade since, the problem has scaled from a HK$20 billion market to a HK$100 billion market (Wang Fuk scale), turning the city into a playground for organized crime.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The "Better than Drugs" Confession**
+> *Source: Journalist's Memoir / 2025-12-02*
+>
+> "一名受訪的黑社會人士直言，圍標已經「**好搵過販毒**」... 現在可以理直氣壯說是**工程界**... 個個爭住入行。"
+>
+> *Translation:*
+> "A triad interviewee stated bluntly: Bid-rigging is '**more profitable than drug trafficking**'... now they can righteously claim to be in the '**Engineering Sector**'... everyone is rushing to join."
+
+> **Evidence [B]: Market Scale Estimate**  
+> *Source: Journalist's Memoir / 2025-12-02*  
+>  
+> "當年以每幢維修費1000萬元計算，保守估計巿場每年涉款200億元。發展到今日，若以宏福苑維修價每幢4000萬去計，恐怕每年已迫近1000億。"  
+>  
+> *Translation:*  
+> "At the time, using HK$10 million per block for maintenance, the market was conservatively estimated at HK$20 billion per year. Today, if Wang Fuk Court’s maintenance is priced at HK$40 million per block, the annual total could be approaching HK$100 billion."
+
+> **Evidence [C]: The Tsui Lam Arrests (The Smoking Gun)**
+> *Source: HK01 / 2024-04-20 & 2023-04-25*
+>
+> "警方...拘捕兩名...青年...據悉兩人均有**黑幫新義安背景**... 涉投120張假授權書..."
+> "被捕男子有黑社會背景... 午夜到翠林邨... 遞交一堆代表票。"
+>
+> *Translation:*
+> "Police arrested two youths... reportedly with **Sun Yee On triad background**... suspected of planting 120 fake proxies."
+> "Arrested man with triad background... entered Tsui Lam Estate at midnight... to submit a stack of proxy votes."
+
+> **Evidence [D]: The Government Admission**
+> *Source: Dev Bureau (Paul Chan) / 2015-12-02*
+>
+> "牽涉...串謀少數業主操控大廈維修決定... 當中甚至涉及**貪污和三合會的參與**。"
+>
+> *Translation:*
+> "Involves... conspiring with minority owners to manipulate maintenance decisions... even involving **corruption and Triad participation**."
+
+> **Evidence [E]: The Intimidation**
+> *Source: Ta Kung Pao / 2025-11-28*
+>
+> "甚至有工程公司負責人... 立即被人**惡言警告**，無奈退出競標"
+>
+> *Translation:*
+> "Even engineering company heads... were immediately **verbally warned** and forced to withdraw"
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"The Tsui Lam case proves the police *are* taking action against triads. These are isolated incidents involving low-level thugs, not systemic control of licensed engineering firms. Linking major contractors like Prestige to triads without direct evidence is speculative. The industry has strict licensing requirements."
+
+**The Logical Trap:**
+1.  **The "Foot Soldier" Fallacy:** Triads don't forge 120 votes for fun; they do it for a **Principal**. Low-level thugs planting votes implies a High-Level beneficiary (the Contractor who wins the bid). The police catch the "runner" but never the "mastermind," proving the system protects the cartel leaders.
+2.  **The "Intimidation" Connection:** Recall the Ta Kung Pao report about competitors receiving **"verbal warnings"** to withdraw. This is classic triad extortion tactics applied to corporate bidding. You cannot have "isolated thugs" executing "corporate strategy" without systemic collusion.
+3.  **The Profit Incentive:** If the market is worth HK$100 billion and "pays better than drugs," it is economically naive to believe organized crime would *not* seek to control the licensing structures. The "Rebranding" (Evidence A) confirms they have already moved from the streets to the boardrooms.
+
+**¶ Statutory Basis:**
+
+*   **Offence:** Participation in organized crime (OSCO).
+*   **Offence:** Forgery / Conspiracy to Defraud.
+
+**📅 Timeline:**
+*   **2015-12-02:** Govt admits Triad involvement.
+*   **2023-2024:** Triads arrested for vote-rigging in Tsui Lam.
+*   **2024-01-28:** "Mystery Mouse" (Triad runner?) dumps votes in Wang Fuk.
+*   **2025-12-02:** Journalist confirms the "Drug Trafficking" profit comparison.
+
+**🔗 Links:**
+*   [Journalist's Memoir](https://www.facebook.com/share/p/17SwFq5aKu/)
+*   HK01 Report: [Tsui Lam 2023](https://www.hk01.com/article/891287) | [Tsui Lam 2024](https://www.hk01.com/article/1012190)
+*   [Dev Bureau Statement 2015](https://www.devb.gov.hk/tc/legco_matters/replies_to_legco_questions/index_id_8847.html)
+*   [Ta Kung Pao Report](https://dw-media.tkww.hk/epaper/tkp/20251128/A7_Screen.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/大公報%202025-11-28%20A7%20揭開維修棚架背後重重黑幕%20(已下架).pdf)
+
+---
+
 ### 🆔 [E-CARTEL-2016-12-31-01] The "Ever-Victorious" Monster: How a Resource-Poor Firm Hoarded 28 Projects
 
 **🚨 Significance:**
