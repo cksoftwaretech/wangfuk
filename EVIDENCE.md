@@ -2749,7 +2749,7 @@ The combination of **Silent Alarms** + **Blinded Windows** meant that for many, 
 
 **🚨 Significance:**
 
-On July 19, 2024, facing a statutory petition from >5% of owners to convene an EGM to overthrow the MC, Chairman **Tang Kwok-kuen** (鄧國權) issued a "Survey" (Annex 3). Analysis reveals this document was not a tool for verification, but a **precision-engineered instrument of intimidation**.
+On July 22, 2024, facing a statutory petition from >5% of owners to convene an EGM to overthrow the MC, Chairman **Tang Kwok-kuen** (鄧國權) issued a "Survey". Analysis reveals this document was not a tool for verification, but a **precision-engineered instrument of intimidation**.
 
 **1. The "Guilt Trap" (Question C):**
 The survey forced owners to accept a false premise: that exercising their rights would incur legal costs.
@@ -2786,6 +2786,14 @@ The threat that *"names and unit details will be publicly displayed"* exploits t
 > *Translation:*
 > "**d)** ... ☐ I do not require an EGM and withdraw my signature (**If withdrawn, no need to bear legal liability arising from signing**)."
 
+> **Evidence [C]: The Statutory Breach (Dates)**
+> *Source: 12th MC Meeting Minutes (No. 3) / 2024-08-05*
+>
+> "鄧主席報告在 2024 年 **7 月 5 日**收到... 5%... 簽名文件... 鄧主席於 **7 月 22 日**向... 簽名人士發出確認信件。"
+>
+> *Translation:*
+> "Chairman Tang received the 5% petition on **July 5**. Chairman sent confirmation letters on **July 22**."
+
 **🛡️ Pre-emptive Rebuttal:**
 
 **Anticipated Defense:**
@@ -2807,6 +2815,7 @@ The threat that *"names and unit details will be publicly displayed"* exploits t
 
 **🔗 Links:**
 *   [Yahoo News Report](https://hk.news.yahoo.com/share/df240eb8-e83c-409e-b055-8e6df39dGZQq6rQEvA)
+*   [Minute 3](http://www.wangfuk.org/html/meeting/12/第3次全體委員會議紀錄v1.pdf) | [Backup](2024-08-05%20第十二屆第三次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2024-08-05-%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%B8%89%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 
 ---
 
@@ -2891,7 +2900,7 @@ When residents attempted to organize on July 23, Security guards (managed by **I
 
 **🔗 Links:**
 *   [Yahoo News Report](https://hk.news.yahoo.com/share/df240eb8-e83c-409e-b055-8e6df39d6ff3)
-*   [Minute 3](http://www.wangfuk.org/html/meeting/12/第3次全體委員會議紀錄v1.pdf)
+*   [Minute 3](http://www.wangfuk.org/html/meeting/12/第3次全體委員會議紀錄v1.pdf) | [Backup](2024-08-05%20第十二屆第三次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2024-08-05-%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%B8%89%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 
 ---
 
@@ -3762,7 +3771,7 @@ The decision to replace these valves was finalized on **November 7, 2025**. The 
 *   **Valve Replacement Decision:** 2025-11-07
 *   **The Fire:** 2025-11-26
 
-**🔗 Links:** [Official Minutes Directory](http://www.wangfuk.org/html/meeting/index.htm) | [Backup Repo](https://github.com/sparktsang/wangfuk) | [Combined Markdown Archive](MINUTES_MARKDOWN.md)
+**🔗 Links:** [Official Minutes Directory](http://www.wangfuk.org/html/meeting/index.htm) | [Backup Repo](https://github.com/sparktsang/wangfuk) | [Archive](MINUTES_MARKDOWN.md)
 
 ---
 
@@ -3916,7 +3925,7 @@ On December 4, 2025, MC Chairman Tsui Moon-kam (徐滿柑) admitted to the press
 
 **🔗 Links:**
 *   [Now News Report](https://news.now.com/home/local/player?newsId=628390)
-*   [Minutes 12](http://www.wangfuk.org/html/meeting/12/2025-10-27%20%E7%AC%AC12%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](2025-09-29%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf) | [Markdown](MINUTES_MARKDOWN.md)
+*   [Minutes 12](http://www.wangfuk.org/html/meeting/12/2025-10-27%20%E7%AC%AC12%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](2025-09-29%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84.pdf) | [Archive](MINUTES_MARKDOWN.md)
 
 ---
 
@@ -4607,7 +4616,7 @@ If FSD knew the system had defects (March) and parts were shut down (April), why
 
 **🔗 Links:**
 *   [Yahoo News Report](https://hk.news.yahoo.com/share/0760e461-7fdc-4f76-83c7-707e4667281f)
-*   [Minutes 12](http://www.wangfuk.org/html/meeting/12/2025-10-27%20第12次全體委員會議記錄.pdf) | [Backup](2025-09-29%20第十二屆第十二次會議紀錄.pdf) | [Markdown](MINUTES_MARKDOWN.md)
+*   [Minutes 12](http://www.wangfuk.org/html/meeting/12/2025-10-27%20第12次全體委員會議記錄.pdf) | [Backup](2025-09-29%20第十二屆第十二次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md)
 
 ---
 
