@@ -713,6 +713,93 @@ The termination of the Garden Vista investigation, despite "knowing the facts" (
 
 ---
 
+### 🆔 [E-CARTEL-2018-09-26-01] The "14% Price" Entry Ticket: Buying the Right to Rig the Game
+
+**🚨 Significance:**
+
+Records reveal that the Consultant (**Will Power/鴻毅**) infiltrated the estate years before the renovation began by winning the "Mandatory Building Inspection" contract with a predatory bid. This "Loss Leader" strategy allowed them to define the scope of works, setting the stage for the HK$330M renovation upsell.
+
+**1. The "Impossible" Price:**
+*   **Will Power's Bid:** **HK$220,000** for 8 towers. (HK$27,500 per tower).
+*   **Market Benchmark:** HK Institute of Surveyors (2012) estimates **HK$200,000+** *per tower* for buildings of this size.
+*   *The Math:* Will Power charged **~14%** of the market rate. This amount is insufficient to cover basic equipment rental (e.g., infrared cameras, drainage CCTV), let alone professional labor.
+*   *The Verdict:* This was a **Strategic Loss**. By paying to get in, they gained the power to write the renovation tender.
+
+**2. The Long Con (HK$805/month/tower):**  
+Combining the Inspection Fee ($220k) and the Supervision Fee ($308k), Will Power charged a total of **HK$528,000** for service spanning **82 months** (Jan 2019 - Nov 2025).
+*   *The Absurdity:* This averages to **HK$6,439 per month** for a team of professionals managing 8 towers (HK$805 per month per tower). This is below the minimum wage for a single unskilled worker. It proves their revenue model relied entirely on illicit kickbacks from the main contract.
+
+**3. The "Usual Suspects":**  
+The 2019 tender list included **Paul Kong** (江明), **A Ferrari** (快利達), and **HK International** (香港國際). These are the same firms flagged for corruption, abandonment, and incompetence in the [2020 tender](#-e-cartel-2020-01-20-02-the-race-to-the-bottom-why-9-bidders-cheaper-than-will-power-might-be-even-worse). The cast of characters remained constant, simulating competition for years.
+
+**4. The Regulator's Silence:**
+When the Management Company asked the **Urban Renewal Authority (URA)** for price guidance, the URA representative refused to comment to "avoid interference." This hands-off approach allowed a clearly predatory bid to pass without official challenge.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Predatory Bid**  
+> *Source: 10th MC AGM Minutes / 2019-01-25*
+>
+> "通過揀選「鴻毅」進行... 訂明檢驗, 費用為 **$222,000**。"
+>
+> *Translation:*
+> "Approved selection of 'Will Power' for... prescribed inspection, fee **HK$222,000**."
+
+> **Evidence [B]: The Market Benchmark**  
+> *Source: Yahoo News (citing HKIS) / 2025-12-11*
+>
+> "學會當時估算... 每棟大廈勘察檢驗費用達 **20萬元以上**... 形容宏福苑每座約2.7萬元是「**虧蝕價**」。"
+>
+> *Translation:*
+> "Institute estimated... **HK$200,000+ per tower**... Described Wang Fuk's ~HK$27k/tower as a '**loss-making price**'."
+
+> **Evidence [C]: The "Usual Suspects" List**  
+> *Source: 10th MC AGM Minutes / 2019-01-25*
+>
+> "17. 江明... 23. 快利達... 7. 香港國際..."
+> *(Note: These same firms appeared in the 2020 Consultant Tender.)*
+
+> **Evidence [D]: The Final Settlement**  
+> *Source: 10th MC Meeting Minutes (No. 16) / 2019-12-27*
+>
+> "「鴻毅」呈交驗樓工作完工發票 **$220,000**"
+>
+> *Translation:*
+> "Will Power submitted final invoice for inspection work HK$220,000"
+
+> **Evidence [E]: URA's Approach**  
+> *Source: Yahoo News / 2025-12-11*  
+>  
+> "管理公司曾...查詢會否提供市場價格作參考，但市建局代表當時指，一般是做標書資料性分析，不會就價格提供意見，避免造成干預"  
+>  
+> *Translation:*  
+> "The management company asked whether they could provide market prices for reference; the URA replied they only do tender data analysis and will not advise on prices to avoid interference."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**  
+"Our low inspection fee was a marketing strategy to build a long-term relationship with the estate. We used efficient proprietary technology to lower costs. The inspection report was accepted by the Independent Checking Unit (ICU), proving it met statutory standards despite the low price. There is no law against offering a discount."
+
+**The Logical Trap:**
+1.  **Discount vs. Impossibility:** A 10-20% discount is marketing. A **87% discount** (27k vs 200k) is an anomaly that signals hidden motives. No technology can reduce the physical labor of hammering 8 towers by 87%.
+2.  **The "Loss Leader" Outcome:** Loss leaders are used to sell profitable items later. The "profitable item" here was the **HK$330M Renovation Contract** (specifically Option 3). The inspection was the "bait"; the renovation was the "hook."
+3.  **ICU Acceptance:** The ICU checks if the *report format* is correct and if *danger* is flagged. They do not audit whether every tile was hammered. A "pass" from ICU only means the paperwork was filed, not that the inspection was thorough or that the price was sustainable.
+
+**📅 Timeline:**
+*   **2018-09-26:** Tender deadline for Inspection — [source](http://www.wangfuk.org/html/meeting/05/第十屆-第7次全體委員會議記錄.pdf)
+*   **2018-09-27:** Tender opens — [source](http://www.wangfuk.org/html/meeting/05/第八次全體委員會議記錄.pdf)
+*   **2019-01-25:** Will Power wins with HK$222k.
+*   **2019-12-27:** Inspection complete; Will Power defines repair scope.
+*   **2021-12-11:** Will Power wins Consultant contract (HK$308k).
+*   **2024-01-28:** Renovation awarded to Prestige (HK$330M).
+
+**🔗 Links:**
+*   [2019 AGM Minutes](http://www.wangfuk.org/html/meeting/03/第21次全體業主大會(周年大會)會議記錄.pdf)
+*   [Minutes 16](http://www.wangfuk.org/html/meeting/05/第十屆-第16次全體委員會議記錄.pdf)
+*   [Yahoo News Analysis](https://hk.news.yahoo.com/share/3119434a-75b5-41c1-81ce-55682068dfb6)
+
+---
+
 ### 🆔 [E-CARTEL-2020-01-20-01] The "97% Discount": Why a HK$300k Fee for a HK$330M Job Proves Corruption
 
 **🚨 Significance:**
