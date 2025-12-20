@@ -856,6 +856,94 @@ When questioned by media about the unreasonably low fee, both the former Chairma
 
 ---
 
+### 🆔 [E-CARTEL-2020-01-20-02] The Race to the Bottom: Why 9 Bidders Cheaper than Will Power Might Be Even Worse
+
+**🚨 Significance:**
+
+A forensic check of the Consultant Tender reveals that **Will Power (鴻毅)** was not even the cheapest "Loss Leader." 9 firms bid even lower than HK$308k. An investigation into three of these ultra-low bidders reveals a landscape of fraud, corruption charges, and abandoned projects, proving that the entire low-end consultancy market is saturated with predatory actors.
+
+**1. The "Race to the Bottom":**
+*   **Will Power:** HK$308,000 (0.09%) - Selected.
+*   **A Ferrari** (快利達建築工程顧問): HK$280,000.
+*   **HK International** (香港國際建築顧問有限公司): HK$240,000.
+*   **Paul Kong** (江明工程顧問有限公司): **HK$78,750** (0.02%).
+*   *The Implication:* A fee of HK$78,750 for 4 years of work is HK$1,641/month. This is economically impossible unless the firm plans to extract millions through illicit means.
+
+**2. The Gallery of Rogues:**
+*   **A Ferrari:** In the Yee Kok Court case (2025), they admitted they "had no means to fact-check" fake certificates and blamed the government. This mirrors Will Power's "Disclaimer" tactic.
+*   **HK International:** Its director, Chan Yuen-ching (陳元正), is currently facing **ICAC charges** (DCCC 874/2025) for accepting HK$600,000 bribes to approve payments in another project. This confirms the "Low Fee, High Bribe" business model.
+*   **Paul Kong:** Linked to "Lee Cheong," a firm infamous for abandoning projects (e.g., Elegance Garden). Paul Kong's contract at Fu Ning Garden was terminated after years of stagnation.
+
+**3. The Illusion of Choice:**
+Owners likely avoided the cheapest options (like Paul Kong) thinking they were "too good to be true," and settled on Will Power as a "safe middle ground."
+*   *The Reality:* The "Middle Ground" was also a trap. In a rigged market, price signaling fails. Whether you pay HK$78k or HK$308k, you are buying into the same cartel ecosystem.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Ultra-Low Bids**  
+> *Source: Wang Fuk Tender Record via Herman Yiu's FB post / 2020-01-23**
+>
+> "快利達... HK$280,000... 香港國際... HK$240,000... 江明... **HK$78,750**"
+
+> **Evidence [B]: A Ferrari's Incompetence**  
+> *Source: Ming Pao / 2025-12-03*
+>
+> "怡閣苑正做大維修...「香港01」前日報道，質疑承建商提供的棚網檢驗報告懷疑造假。怡閣苑昨晚召開特別會議...快利達代表說「**沒條件factcheck（核實）**」，重申從未有官方代表指出屋苑棚網有問題。"
+>
+> *Translation:*
+> "Yee Kok Court is under major repairs...HK01 reported two days ago the contractor’s scaffold inspection report may be forged. The estate held a special meeting last night...A Ferrari rep said they had '**no means to fact-check**'... reiterated no official body flagged the nets."
+
+> **Evidence [C]: HK International's Corruption Charge**  
+> *Source: InMediaHK / 2025-10-28*
+>
+> "香港國際建築顧問公司董事... 陳元正... 被控一項「**串謀向代理人提供利益**」罪... 提供利益，即60萬元..."
+>
+> *Translation:*
+> "HK International Director... Chan Yuen-ching... charged with '**Conspiracy to offer advantage to agent**'... offering HK$600,000..."
+
+> **Evidence [D]: Lee Cheong's Abandoned Project**  
+> *Source: Chan Yiu-cho FB / 2025-12-12*
+>
+> "當年負責嘅顧問公司係「江明」... 利昌老闆就係江明老闆... 在雅閣花園維修工程中**爛尾**..."
+>
+> *Translation:*
+> "Consultant was 'Paul Kong'... owner also owned Lee Cheong　Construction... which **abandoned** the Arcadia project..."
+
+> **Evidence [E]: Paul Kong's Terminated Project**  
+> *Source: Fu Ning Garden Concern Group March 2016 Newsletter via Chan Yiu-cho FB / 2025-12-12* 
+>  
+> "2013年10月：業主大會通過以$350,000聘用「江明工程顧問有限公司」為大維修工程顧問，原定於2014年中開始工程招標。" 
+> "2016年2月：法團突然動議終止「江明」的顧問合約"  
+>  
+> *Translation:*  
+> "Oct 2013: Owners' meeting approved hiring Paul Kong Ltd. for HK$350,000 as the consultant; tendering was scheduled for mid‑2014."  
+> "Feb 2016: The incorporated owners suddenly moved to terminate Paul Kong Ltd.'s consultancy contract."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"The tendering process was open and competitive. We received 35 bids. We did not select the cheapest ones, showing that we considered quality. We cannot predict that a selected consultant might later be found negligent. The existence of bad actors in the market does not invalidate the entire tendering system."
+
+**The Logical Trap:**
+1.  **Systemic Rot:** If the "bad actors" constitute a significant portion of the low-bidder pool (as shown by the 9 firms cheaper than Will Power), the market is not "competitive"; it is **toxic**. The URA's "Smart Tender" platform failed to filter out firms with known corruption links or impossible pricing structures.
+2.  **Due Diligence Failure:** A simple check would have revealed Paul Kong's history of abandoned projects or the impossibility of A Ferrari's pricing. The fact that these firms were even allowed to bid suggests a **screening failure**.
+3.  **The "Safe Choice" Fallacy:** The MC picked Will Power because it seemed "safer" than the bottom-feeders. But Will Power used the same tactics (disclaimers, fake scores). The system offered owners a choice between "Open Corruption" (Paul Kong) and "Hidden Corruption" (Will Power). There was no honest option on the menu.
+
+**📅 Timeline:**
+*   **Feb 2016:** Paul Kong / Lee Cheong scandal (Abandoned projects).
+*   **2020-01-20:** Wang Fuk Tender. 35 bids received.
+*   **2021-12-11:** Will Power wins.
+*   **2025-10-28:** HK International charged by ICAC.
+*   **2025-12-02:** A Ferrari admits failing to check fake certs.
+
+**🔗 Links:**
+*   [Herman Yiu's Post (The Bidders)](https://www.facebook.com/share/p/1ASPMmAqdt/)
+*   [Ming Pao Report (A Ferrari)](https://news.mingpao.com/pns/要聞/article/20251203/s00001/1764698800721)
+*   [InMediaHK Report (HK International)](https://www.inmediahk.net/node/政經/23人涉屋苑維修工程項目賄賂-擬不認罪-分5案於2026至2028年開審)
+*   [Chan Yiu-cho's Post (Paul Kong)](https://www.facebook.com/share/p/1BseYKhmGA/)
+
+---
+
 ### 🆔 [E-SAFETY-NETS-2021-07-07-01] The "Click-to-Certify" Industry: Buying Safety for HK$55
 
 **🚨 Significance:**
