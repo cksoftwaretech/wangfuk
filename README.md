@@ -77,7 +77,7 @@ By around 11:50 p.m. on the same day, the homepage returned to normal functional
 
 ### Project description
 
-This is part of a [project](https://sparktsang.github.io/life/2025/12/04/status.html) which examines the [tragic fire](https://en.wikipedia.org/wiki/Wang_Fuk_Court_fire) at Wang Fuk Court on 26 November 2025 during renovation works, which resulted in over 150 deaths.
+This is part of a [project](https://sparktsang.github.io/life/2025/12/04/status.html) which examines the [tragic fire](https://en.wikipedia.org/wiki/Wang_Fuk_Court_fire) at Wang Fuk Court on 26 November 2025 during renovation works, which resulted in 161 deaths.
 
 ---
 
