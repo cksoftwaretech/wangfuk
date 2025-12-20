@@ -264,7 +264,7 @@ The turning point was the arrest of Alliance leaders like **Lam Cheuk-ting** (20
 *   **2009-05-07:** Operation Building Bright (The Bait) — [report](https://www.devb.gov.hk/tc/publications_and_press_releases/press/index_id_5376.html)
 *   **2011-06-29:** Mandatory Inspection becomes the law (The Hook) — [report](https://www.info.gov.hk/gia/general/201206/13/P201206130431.htm)
 *   **2013-10-12:** Garden Vista (The Awakening) — [archive](https://www.facebook.com/share/17WHQjNsY5/)
-*   **Nov 2013:** Grandway Garden (The Awakening) — [archive](https://www.e123.hk/zh-hant/news/234095)
+*   **Nov 2013:** Grandway Garden (The Awakening) — [report](https://www.mingpaocanada.com/TOR/htm/News/20140824/HK-gcb1_r.htm)
 *   **2014-03-10:** Anti-Bid Rigging Alliance formed — [archive](https://www.e123.hk/zh-hant/news/208021)
 *   **Jul 2016:** Sui Wo Court Victory — [report](https://www.inmediahk.net/node/1045703)
 *   **2017-04-11:** FactWire Database launched — [archive](https://www.factwire.org/investigation/傳真社製首個樓宇維修公開資料庫-數據分析顯示市/)
