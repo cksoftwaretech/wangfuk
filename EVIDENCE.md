@@ -170,6 +170,118 @@ On December 4, 2025, MC Chairman Tsui Moon-kam (徐滿柑) admitted to the press
 
 ---
 
+### 🆔 [E-CARTEL-2009-05-07-01] The timeline of Decay: From "Fat Meat" to Silence
+
+**🚨 Significance:**
+
+A chronological reconstruction reveals that the Wang Fuk Court disaster is the culimination of a 16-year devolution of Hong Kong's building maintenance sector. The ecosystem evolved from a "Gold Rush" for criminals (2009 - 2012) to a period of "Civic Resistance" (2013 - 2019), before entering the current "Era of Silence" (2020 - Present), where oversight has been systematically dismantled.
+
+**1. The "Fat Meat" Origins (2009 - 2012):**
+Government policies intended to improve safety—**Operation Building Bright (2009)** and the **Mandatory Building Inspection Scheme (2012)**—inadvertently created a ["HK$100 Billion" market]((#-e-cartel-2015-12-02-01-the-gangsters-rebranding-better-than-drugs-and-the-gentrification-of-crime)). Without adequate regulation, these subsidies and statutory orders turned old buildings into "Fat Meat" for cartels, attracting triads and fraudsters who saw it as ["better than drug trafficking"](#-e-cartel-2015-12-02-01-the-gangsters-rebranding-better-than-drugs-and-the-gentrification-of-crime).
+
+**2. The Era of Resistance (2013 - 2019):**
+Civil society fought back. The **Grandway Garden** case (2013) triggered the formation of the **Property Owners' Anti-Bid Rigging Alliance** (2014). Investigative outlet **FactWire** launched a public database (2017) to expose price-fixing. Residents in estates like **Sui Wo Court** (2016) successfully organized to overthrow corrupt MCs. During this period, the cartels faced friction from an active public and press.
+
+**3. The Era of Silence (2020 - Present):**
+The turning point was the arrest of Alliance leaders like **Lam Cheuk-ting** (2020) and the closure of **FactWire** (2022). With the "Antibodies" (activists, investigative journalists, opposition councilors) removed, the "Virus" (Cartel) spread unchecked.
+*   *The Result:* By the time Wang Fuk Court was targeted in 2024, there was no Alliance to advise them, no FactWire to investigate the bidders, and no opposition councilors to challenge the pro-establishment's "harvesting" of elderly votes. The residents were left defenseless in a vacuum.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Policy Origins (The "Fat Meat")**  
+> *Source: Ming Pao (Interview with W) / 2025-12-07*
+>
+> "2009年...推行「樓宇更新大行動」... 3年後屋宇署再推「強制驗樓計劃」... 令業主感到迫切。...不法分子更有機可乘。"
+>
+> *Translation:*
+> "2009... 'Operation Building Bright' launched... 3 years later 'Mandatory Building Inspection Scheme'... created urgency for owners... criminals took advantage."
+
+> **Evidence [B]: The Violence of the "Gold Rush"**  
+> *Source: Next Magazine / 2014-04-10*
+>
+> "造就千億維修工程這大「肥豬肉」... 上演多場武鬥... 甚至以鐵馬攔票箱。"
+>
+> *Translation:*
+> "Created a 'Fat Meat' (Cash Cow) of HK$100 billion... staged many fights... even barricading ballot boxes."
+
+> **Evidence [C]: The Awakening (Grandway Garden)**  
+> *Source: Chiu Yan-loy FB / 2016-06-11*
+>
+> "大圍富嘉花園... 事件促成「反圍標大聯盟」成立... 共同爭取政府修例..."
+>
+> *Translation:*
+> "Tai Wai Grandway Garden... event triggered the formation of the 'Anti-Bid Rigging Alliance'... to fight for legislative amendments..."
+
+> **Evidence [D]: The Awakening (Garden Vista)**  
+> *Source: Ming Pao (Interview with W) / 2025-12-07*  
+>  
+> "翠湖花園個案標誌「覺醒期」開端...這期間有過希望，除有反圍標大聯盟出現，民間亦紛紛提出新反圍標方法"  
+>  
+> *Translation:*  
+> "The Garden Vista case marked the start of an 'awakening'...There was hope: Anti-Bid Rigging Alliance emerged and civilians proposed new anti‑rigging methods."
+
+> **Evidence [E]: The Resistance (Sui Wo Court)**  
+> *Source: InMediaHK / 2016-11-08*
+>
+> "穗禾苑... 成功取代了牽涉逾億天價維修的舊法團，自己屋苑自己救。...邀請面對圍標的翠湖花園及富嘉花園業主來分享。"
+>
+> *Translation:*
+> "Sui Wo Court... successfully replaced the old MC involved in exorbitant renovation costs... saving their own estate... Invited owners from Garden Vista and Grandway Garden to share experiences."
+
+> **Evidence [F]: The Tools of Truth (FactWire)**  
+> *Source: FactWire / 2017-04-11*
+>
+> "傳真社製首個樓宇維修公開資料庫... 取得2百多個屋苑... 數據去分析巿場狀況"
+>
+> *Translation:*
+> "FactWire created the first public building maintenance database... obtained data from 200+ estates... to analyze market conditions."
+
+> **Evidence [G]: The Silencing (Arrests)**  
+> *Source: Stand News / 2020-08-26*
+>
+> "林卓廷... 等 16 人據報今日清晨被捕..."
+>
+> *Translation:*
+> "Lam Cheuk-ting... and 16 others reportedly arrested early this morning..."
+
+> **Evidence [G]: The Void (W's Observation)**
+> *Source: Ming Pao (Interview with W) / 2025-12-07*
+>
+> "近5年，「混亂期」漸漸沒入充滿無力感的沉寂階段——許多人努力過卻失敗，記者、市民都監察不了。"
+>
+> *Translation:*
+> "In the last 5 years... sank into a silence filled with powerlessness... Journalists and citizens can no longer monitor."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"The enforcement of the National Security Law has restored stability and rule of law, allowing society to focus on livelihood issues. The government remains committed to combating bid-rigging through the Competition Commission and the Police. Linking the arrest of politicians for unrelated crimes to building safety is a distortion. The system is robust and does not rely on any specific individuals or unauthorized groups."
+
+**The Logical Trap:**
+*(Note: Silence due to fear of "inciting hatred against the government")*
+
+**📅 Timeline:**
+*   **2009-05-07:** Operation Building Bright (The Bait) — [report](https://www.devb.gov.hk/tc/publications_and_press_releases/press/index_id_5376.html)
+*   **2011-06-29:** Mandatory Inspection becomes the law (The Hook) — [report](https://www.info.gov.hk/gia/general/201206/13/P201206130431.htm)
+*   **2013-10-12:** Garden Vista (The Awakening) — [archive](https://www.facebook.com/share/17WHQjNsY5/)
+*   **Nov 2013:** Grandway Garden (The Awakening) — [archive](https://www.e123.hk/zh-hant/news/234095)
+*   **2014-03-10:** Anti-Bid Rigging Alliance formed — [archive](https://www.e123.hk/zh-hant/news/208021)
+*   **Jul 2016:** Sui Wo Court Victory — [report](https://www.inmediahk.net/node/1045703)
+*   **2017-04-11:** FactWire Database launched — [archive](https://www.factwire.org/investigation/傳真社製首個樓宇維修公開資料庫-數據分析顯示市/)
+*   **2020-08-26:** Lam Cheuk-ting arrested — [archive](https://collection.news/thestandnews/articles/126133)
+*   **2022-06-10:** FactWire closes — [archive](https://www.factwire.org/傳真社停止運作聲明/)
+*   **2024-01-28:** Wang Fuk Court falls to the Cartel — [archive](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md#2024-01-28-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   **2025-11-26:** 161 Dead.
+
+**🔗 Links:**
+*   [Ming Pao Interview with W (The Chronology)](https://news.mingpao.com/pns/副刊/article/20251207/s00005/1765037580567)
+*   [Next Magazine Archive (The Violence)](https://wonderlandvillashk.wordpress.com/wp-content/uploads/2014/04/10e5a4a7e7b6ade4bfaee9bb91e79ba4-e8988be69e9ce5a3b9e980b1e5888a2014-4-10.pdf) | [Backup](/壹週刊%20小心10大維修黑盤%202014-04-10.pdf)
+*   [Chiu Yan-loy FB Article (The Alliance)](https://www.facebook.com/share/1R9NRKxyBP/)
+*   [InMedia Report (Sui Wo Court)](https://www.inmediahk.net/node/1045703)
+*   [Stand News Archive (The Arrest)](https://collection.news/thestandnews/articles/126133)
+
+---
+
 ### 🆔 [E-CARTEL-2010-12-31-01] The 17% Bribe: The Hidden "Tax" Behind the HK$330 Million Bill
 
 **🚨 Significance:**
