@@ -47,7 +47,7 @@
 45. [[E-SAFETY-WINDOWS-2025-06-21-01] The Paper Deadline: How a "Completed" Project Remained a Fire Trap for 5 More Months](#-e-safety-windows-2025-06-21-01-the-paper-deadline-how-a-completed-project-remained-a-fire-trap-for-5-more-months)  
 46. [[E-SAFETY-2025-07-17-01] The "Hostage" Strategy: How Payment Disputes Extended the Danger Zone](#-e-safety-2025-07-17-01-the-hostage-strategy-how-payment-disputes-extended-the-danger-zone)  
 47. [[E-ADMIN-2025-09-29-01] Documentary Failures: The 'Lift Contractor' Error & The $1.7M Mislabeling](#-e-admin-2025-09-29-01-documentary-failures-the-lift-contractor-error--the-17m-mislabeling)  
-48. [[E-SAFETY-NETS-2025-10-18-01] The Price of Life: HK$589 per Victim & The 5% Decoy](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk589-per-victim--the-5-decoy)  
+48. [[E-SAFETY-NETS-2025-10-18-01] The Price of Life: HK$586 per Victim & The 5% Decoy](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk589-per-victim--the-5-decoy)  
 49. [[E-SAFETY-2025-10-19-01] The Prophecy of Doom: How Wang Fuk Court Ticked Every Box on the "Death Checklist"](#-e-safety-2025-10-19-01-the-prophecy-of-doom-how-wang-fuk-court-ticked-every-box-on-the-death-checklist)  
 50. [[E-SAFETY-WATER-2025-11-07-01] The Paralyzed Water Network & The Fatal Maintenance](#-e-safety-water-2025-11-07-01-the-paralyzed-water-network--the-fatal-maintenance)  
 51. [[E-SAFETY-WINDOWS-2025-11-26-01] The Inverted Logic: Why Taking the Elevator Saved Lives and Stairs Killed](#-e-safety-windows-2025-11-26-01-the-inverted-logic-why-taking-the-elevator-saved-lives-and-stairs-killed)  
@@ -233,7 +233,7 @@ Yau's testimony described a dinner where the **MC Chairman**, **Management Compa
 **The Logical Trap:**
 1.  **Smart Tender Failed:** The "Smart Tender" system relies on the Consultant to act as an honest broker. As shown in [fake scores](#-e-cartel-2023-10-16-01-the-schizophrenic-scorecard-why-the-criticized-beat-the-praised) and [1.6% price match](#-e-cartel-2023-07-04-02-the-magic-16-how-prestige-hit-the-bullseye-on-a-rigged-target), the Consultant *was* the manipulator. A lock is useless if the thief has the key.
 2.  **The "Same Script" pattern:** The pattern at Wang Fuk (inflated price, rigged voting, suppressed dissent) is functionally identical to Garden Vista. The only difference is the scale (Wang Fuk is even bigger).
-3.  **The "Missing Money":** If there was no bribery, why did the Consultant charge only HK$308k for a job worth millions in man-hours? And why did the Contractor save money so desperately including the [HK$589 per victim](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk589-per-victim--the-5-decoy)? The numbers imply a massive diversion of funds. 
+3.  **The "Missing Money":** If there was no bribery, why did the Consultant charge only HK$308k for a job worth millions in man-hours? And why did the Contractor save money so desperately including the [HK$586 per victim](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk589-per-victim--the-5-decoy)? The numbers imply a massive diversion of funds. 
 
 **¶ Statutory Basis:**
 
@@ -3718,7 +3718,7 @@ Official minutes show that on 29 Sep 2025, the MC unanimously approved a fire-sa
 
 ---
 
-### 🆔 [E-SAFETY-NETS-2025-10-18-01] The Price of Life: HK$589 per Victim & The 5% Decoy
+### 🆔 [E-SAFETY-NETS-2025-10-18-01] The Price of Life: HK$586 per Victim & The 5% Decoy
 
 **🚨 Significance:**
 
@@ -3732,7 +3732,7 @@ To deceive inspectors, contractors installed compliant nets (HK$100/roll) only a
 *   **Cost to cheat:** HK$135,700 (2,300 cheap rolls + 115 decoy rolls).
 *   **The Profit:** **HK$94,300**.
 *   **The Human Toll:** 161 deaths.
-*   **The Unit Price of Death:** The contractors effectively valued each human life at **HK$589**.
+*   **The Unit Price of Death:** The contractors effectively valued each human life at **HK$586**.
 
 **3. Premeditation:**
 This was not negligence; it was a calculated cover-up. Following a scaffolding fire in Central in late October, the suspects—fearing inspection—rushed to buy the 115 compliant rolls specifically to create the "safe zone" at ground level, proving they were fully aware of the fire risk but chose to hide it rather than fix it.
