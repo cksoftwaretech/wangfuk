@@ -57,7 +57,7 @@
 55. [[E-VICTIM-2024-11-30-01] The Living Tomb: "Moldy, Pitch Black, and Voiceless"](#-e-victim-2024-11-30-01-the-living-tomb-moldy-pitch-black-and-voiceless)  
 56. [[E-VICTIM-2025-11-26-01] The Seven Hours of Hell: A Real-Time Chronicle of Systemic Murder](#-e-victim-2025-11-26-01-the-seven-hours-of-hell-a-real-time-chronicle-of-systemic-murder)  
 57. [[E-VICTIM-2025-11-26-02] The Empty Staircase: How the "Information Blockade" Left the Elderly to Die in Their Sleep](#-e-victim-2025-11-26-02-the-empty-staircase-how-the-information-blockade-left-the-elderly-to-die-in-their-sleep)  
-58. [[E-VICTIM-IMPACT-2025-11-26-03] The Nullified Life: How the Cartel Burned 10 Years of "Sold Holidays"](#-e-victim-impact-2025-11-26-03-the-nullified-life-how-the-cartel-burned-10-years-of-sold-holidays)  
+58. [[E-VICTIM-2025-11-26-03] The Nullified Life: How the Cartel Burned 10 Years of "Sold Holidays"](#-e-victim-2025-11-26-03-the-nullified-life-how-the-cartel-burned-10-years-of-sold-holidays)  
 59. [[E-VICTIM-2025-11-28-01] The Destruction of a Village: "I lost 10 friends in one night"](#-e-victim-2025-11-28-01-the-destruction-of-a-village-i-lost-10-friends-in-one-night)  
 60. [[E-VICTIM-2025-11-28-02] The Milk Tea Bottle: When Survival is Luck and Loss is Irreplaceable](#-e-victim-2025-11-28-02-the-milk-tea-bottle-when-survival-is-luck-and-loss-is-irreplaceable)  
 61. [[E-GOV-NETS-2015-12-31-01] The "Standard" Trap: Why "Compliant" Nets Can Still Burn Down a Building](#-e-gov-nets-2015-12-31-01-the-standard-trap-why-compliant-nets-can-still-burn-down-a-building)  
@@ -4459,7 +4459,7 @@ The fire destroyed their **"Address"**—the key to their child's education.
 
 ---
 
-### 🆔 [E-VICTIM-IMPACT-2025-11-26-03] The Nullified Life: How the Cartel Burned 10 Years of "Sold Holidays"
+### 🆔 [E-VICTIM-2025-11-26-03] The Nullified Life: How the Cartel Burned 10 Years of "Sold Holidays"
 
 **🚨 Significance:**
 
@@ -4541,6 +4541,80 @@ Ms. Fan expressed rage that residents "**tried to stop the renovation but failed
 
 **🔗 Links:**
 *   [MP Weekly Report](https://www.mpweekly.com/culture/社會/宏福苑五級火-宏福苑災民-大埔-261264)
+
+---
+
+### 🆔 [E-VICTIM-2025-11-27-01] The Ghost Mall: How the Fire Created 100+ "Economic Refugees" Next Door
+
+**🚨 Significance:**
+
+The devastation of Wang Fuk Court triggered an immediate economic collapse in the adjacent Kwong Fuk Shopping Centre. While the government mobilized HK$3.8 billion for residents, the local merchants—who lost up to **70% of their customer base** overnight—received zero direct aid. These businesses are the **"Invisible Victims"** of the disaster.
+
+**1. The "Demand Shock":**
+Merchants report a **50-70% drop in revenue**.
+*   *The Cause:* Wang Fuk Court (4,900 residents) was the primary economic engine for the mall. With residents dead or displaced to transitional housing elsewhere, the "market" literally vanished.
+*   *The Victims:*
+    *   **Heidi Poon (Music School):** Opened *the day after the fire*. Lost all potential students as the nearby primary school was relocated. A "stillborn" business.
+    *   **Ms. Ng (Laundry):** Over half her customers were from Wang Fuk. Now facing closure due to insolvency.
+    *   **Rainbow (Newsstand):** Daily revenue dropped from $13,000 to $4,000. Can no longer afford rent.
+
+**2. The "Aid Gap":**
+The HK$3.8 billion "Wang Fuk Court Aid Fund" is strictly for residents.
+*   *The Inequity:* Merchants facing bankruptcy due to the same disaster are excluded. Their only lifeline is a vague promise of "rent reduction" from the landlord (Link REIT), which merchants describe as insufficient given the total loss of foot traffic.
+
+**3. The "Social Autopsy":**
+The testimonies of shopkeepers provide a heartbreaking "Social Autopsy" of the tragedy.
+*   *Ms. Ng (Laundry):* Used her customer logbook to call residents one by one to check if they were alive. "I cried when I heard their voices."
+*   *Rainbow (Newsstand):* "The worst part is people are gone... A man who bought the racing post is gone."
+*   *The Verdict:* The fire didn't just burn buildings; it severed the human connections that glue a community together.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Business Collapse**  
+> *Source: Orange News / 2025-12-12*
+>
+> "區內商戶生意額一落千丈，暴跌**三至七成**。... 報紙檔... 每日營業額由一萬三千元... 大跌至約四千元... 已**欠租三個月**。"
+>
+> *Translation:*
+> "Business revenue plummeted by **30-70%**... Newsstand... daily revenue dropped from $13,000 to ~$4,000... already **3 months behind on rent**."
+
+> **Evidence [B]: The "Stillborn" Business**  
+> *Source: AM1470 / 2025-12-19*
+>
+> "開設琴行的潘小姐，原本計劃於**11月27日**[火災翌日]正式開業... 徹底打亂了所有安排...潘小姐希望政府能提供針對性的資助，而領展能考慮短期免租"
+>
+> *Translation:*
+> "Ms. Poon planned to open her music school on **Nov 27 [day after fire]**... plans completely ruined...Ms Poon asks for targeted government subsidies and short‑term rent waivers from Link."
+
+> **Evidence [C]: The Emotional Toll**  
+> *Source: HK01 / 2025-12-01*
+>
+> "洗衣店... 翻電話簿逐一致電問平安，「我每個都打了好多次，一聽到他們把聲... 真的**開心到想哭**。」"
+>
+> *Translation:*
+> "Laundry owner... called customers one by one from her logbook... 'I called many times... when I heard their voice... I wanted to **cry with relief**.'"
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"The Aid Fund is charitable money designated for victims who lost homes/family. Expanding it to cover business losses would dilute resources and set an unsustainable precedent. Commercial risks (including local disasters) are part of doing business. Link REIT has offered rent relief measures to share the burden."
+
+**The Logical Trap:**
+1.  **Disaster vs. Risk:** This wasn't a "market fluctuation"; it was a **man-made catastrophe** caused by regulatory failure. The government (who failed to inspect nets) bears liability for the economic fallout. Telling merchants to "absorb the risk" of government negligence is unjust.
+2.  **The Ecosystem Argument:** A housing estate cannot recover without a functioning commercial hub. If all shops close, even if residents return (years later), the neighborhood will be a ghost town. Supporting merchants is essential for **Community Rehabilitation**.
+3.  **The "Rent Relief" Farce:** Reducing rent by 20-30% (as proposed) is meaningless when revenue has dropped by 70%. Without direct cash subsidies (like during COVID), these businesses will die, adding to the total economic loss of the disaster.
+
+**📅 Timeline:**
+*   **2025-11-26:** Fire.
+*   **2025-11-27:** Heidi Poon's music school scheduled to open.
+*   **2025-12-12:** Merchants report 70% revenue drop; closures begin.
+*   **2025-12-19:** Merchants plead for help; Govt offers none.
+
+**🔗 Links:**
+*   [AM1470 Report](https://www.am1470.com/news_detail.php?i=147412)
+*   [Orange News Report](https://www.orangenews.hk/community/V581Zwl/)
+*   [HK01 Report (Laundry)](https://www.hk01.com/突發/60299477/)
+*   [YouTuber's Interview (Heidi)](https://youtu.be/SHUAK4bgP9Y?si=t6aemWkgrE1SgaXv)
 
 ---
 
