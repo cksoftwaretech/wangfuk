@@ -1562,8 +1562,9 @@ Out of 57 bidders, Prestige was the **only one** rated as "First Choice". This o
 Investigative reporting into the confidential "Tender Analysis Report" reveals that the bidding process was compromised by **"Price Cloning."** Among the 5 lowest bidders—which the MC is mandatorily required to interview under URA rules—3 firms submitted suspiciously similar bids.
 
 **1. The "Copy-Paste" Fingerprint:**
-*   **Identical Line Items:** Two of the firms had **identical prices for 8 out of 22 items** (e.g., concrete tank repair, metal louvers).
+*   **Identical Line Items:** Two of the firms, Yick Hing (益興) and Kin Shing (堅城), had **identical prices for 8 out of 22 items**.
 *   **The "HK$2" Difference:** On a major item like AC drainage pipes (valued at >HK$5 million), the difference between two bidders was exactly **HK$2**.
+*   **A Similar Pattern:** According to the reconstructed table based on the video, another pair of the firms, SinKee (昇基) and Wah Sung (華生), had identical prices for 3 items.
 *   *The Verdict:* This mathematical anomaly is the fingerprint of a single entity filling out multiple tender books. It suggests **Laziness in Fraud**—they didn't even bother to randomize the numbers convincingly.
 
 **2. Blocking the Entrance:**
@@ -1592,6 +1593,39 @@ Anti-Bid Rigging Alliance spokesman Chiu Yan-loy (趙恩來) confirms that exact
 > *Translation:*
 > "This is very likely **filled out by the same person**... matching such odd numbers... the mathematical probability is extremely low."
 
+> **Evidence [C]: The Reconstructed Table**  
+> *Source: The Collective HK (Video Report) / 2025-12-11*  
+> Ref: Renovation Booklet p.33 for project items
+>
+>| 工程項目 | 昇基 | 好運泰 | 華生 | 益興 | 堅城 |
+>| :--- | :--- | :--- | :--- | :--- | :--- |
+>| **地盤展開及預備項目** | 26,100,000 | 25,931,320 | 26,358,800 | 29,388,989 | 29,453,408 |
+>| **鋼筋混凝土及批盪修葺工程** | 25,862,000 | 16,138,150 | 19,983,340 | 15,408,000 | 15,603,968 |
+>| **外牆粉飾工程 (方案一)** | 8,422,000 | 17,070,430 | 21,957,780 | 18,621,456 | 18,755,912 |
+>| **室內公眾地方粉飾工程** | 4,200,000 | 4,915,440 | 3,545,120 | 3,887,440 | 3,558,344 |
+>| **更換天台防煙門及門框** | 144,000 | 145,600 | 128,000 | **193,536 (相同)** | **193,536 (相同)** |
+>| **更換現有逃生樓梯內爆裂玻璃磚** | 180,000 | 39,000 | 150,000 | **64,512 (相同)** | **64,512 (相同)** |
+>| **更換外部公用排水管工程** | 10,684,000 | 5,012,800 | 16,566,000 | 5,132,160 | 5,129,600 |
+>| **更換廚房/公用排水/沖廁水喉** | 480,000 | 892,800 | 100,000 | 1,333,248 | 1,300,000 |
+>| **更換地下管道工程** | 5,614,000 | 7,014,034 | 5,742,700 | 7,412,920 | 7,410,611.2 |
+>| **修葺公用鐵圍欄、扶手膠邊及鐵技工程** | 36,000 | 549,120 | 40,000 | **638,400 (相同)** | **638,400 (相同)** |
+>| **石屎水缸修葺工程** | 2,550,000 | 2,059,200 | 2,455,500 | **2,150,400 (相同)** | **2,150,400 (相同)** |
+>| **維修逃生樓梯窗戶工程** | 40,000 | 225,680 | 40,000 | 99,944 | 100,192 |
+>| **維修大堂走廊窗戶工程** | 10,000 | 29,120 | 10,000 | **21,504 (相同)** | **21,504 (相同)** |
+>| **維修其他公用範圍內的窗** | 288,000 | 327,600 | 192,000 | **451,584 (相同)** | **451,584 (相同)** |
+>| **更換各類水缸蓋工程** | 496,000 | 257,920 | 396,800 | 266,600 | 266,848 |
+>| **維修防火門及公用設施房門** | 1,240,000 | 815,360 | 416,000 | 842,800 | 843,584 |
+>| **檢查外牆違例構築物** | 396,800 | 694,400 | 396,800 | 799,552 | 801,536 |
+>| **更換天台升降機房窗及玻璃鐵支架** | 120,000 | 156,000 | 96,000 | **107,520 (相同)** | **107,520 (相同)** |
+>| **更換垃圾房及電錶房金屬百葉窗** | 992,000 | 149,760 | 892,800 | **161,280 (相同)** | **161,280 (相同)** |
+>| **冷氣機排水喉工程**| 1,800,000 | 3,421,600 | 1,550,000 | **5,249,126 (極接近)** | **5,249,128 (極接近)** |
+>| **修葺外牆建築裝飾條 (石屎窗眉)** | 1,208,000 | 1,552,200 | 1,640,500 | 1,037,880 | 1,048,770 |
+>| **外牆支承冷氣機石屎版修葺工程** | 1,244,000 | 8,941,400 | 1,221,500 | 11,239,149 | 11,244,910 |
+>
+> Note:  
+> 1. Yick Hing (益興) and Kin Shing (Leung's) (堅城) had identical prices for 8 out of 22 items, and extremely close prices for an additional item.
+> 2. SinKee Engineering and Wah Sung Construction (華生) had identical prices for 3 items.
+
 **🛡️ Pre-emptive Rebuttal:**
 
 **Anticipated Defense:**
@@ -1609,6 +1643,7 @@ Anti-Bid Rigging Alliance spokesman Chiu Yan-loy (趙恩來) confirms that exact
 
 **🔗 Links:**
 *   [The Collective HK Video Report](https://thecollectivehk.com/影像紀錄宏福苑圍標之禍/)
+*   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf) | [Backup](強制驗樓驗窗計劃%2011.%20樓宇復修工程資料簡報小冊子.pdf)
 
 ---
 
