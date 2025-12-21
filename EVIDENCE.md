@@ -1647,6 +1647,91 @@ Anti-Bid Rigging Alliance spokesman Chiu Yan-loy (趙恩來) confirms that exact
 
 ---
 
+### 🆔 [E-CARTEL-2023-07-04-04] The Gallery of Rogues: Violent Fixers and Wage Dodgers in the "Lowest 5"
+
+**🚨 Significance:**
+
+A background check on the "Dummy Bidders" who occupied the mandatory "Lowest 5" interview slots reveals they were not harmless extras, but apparently dangerous operators involved in **violence, fraud, and financial collapse**. Their presence seemed to serve a strategic purpose: to act as "Poison Pills," ensuring the winning bid of Prestige.
+
+**1. The "Clone" Fingerprint Verified:**  
+[Reconstructed tender data](#-e-cartel-2023-07-04-03-the-clone-army-how-copy-paste-bids-blocked-the-lowest-5-slots) confirms:
+*   **Yick Hing (益興) & Kin Shing (堅城):** Identical prices on **8 items**.
+*   **SinKee (昇基) & Wah Sung (華生):** Identical prices on **3 items**.
+*   *The Verdict:* These were likely coordinated bids designed to capture the bottom of the price table.
+
+**2. Yick Hing (The Financial Time Bomb):**  
+Yick Hing submitted one of the lowest bids. However, records show:
+*   **Mar 2025:** 40 workers protested for **HK$1.5M in unpaid wages**.
+*   **June 2025:** Disciplined by the Buildings Department for **"serious deviation from plans"** (building illegal underground structures).
+*   *The Trap:* If owners had chosen Yick Hing for its low price, the project might collapse due to insolvency or fraud.
+
+**3. SinKee (The Violent Enforcer):**  
+SinKee (another low bidder) was raided by the **Competition Commission** in Aug 2025.
+*   *The Charge:* **"Violent suppression of bidding"** (以暴力手段抑制投標) in a Ho Man Tin luxury project ($1.4M per household repair bill).
+*   *The Link:* This suggests the presence of **Triad/Coercive elements** within the specific pool of bidders at Wang Fuk. They are the "muscle" that ensures the Cartel's dominance.
+
+**4. The "Blockade" Strategy:**
+By filling the mandatory interview slots with these firms, the Cartel ensured the low bidders would be rejected, leaving **Prestige** (despite its own fake safety record) as a "safe" option.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Cloning**  
+> *Source: Reconstructed Table via The Collective Video Report / 2025-12-11*
+>
+> "Yick Hing (益興) & Kin Shing (堅城): **8 identical items**."
+> "SinKee (昇基) & Wah Sung (華生): **3 identical items**."
+
+> **Evidence [B]: Yick Hing's Collapse**  
+> *Source: HK01 / 2025-03-05 & Commercial Radio / 2025-06-20*
+>
+> "40名工人...遭拖欠...**共$150萬糧**"
+> "益興建築...嚴重偏離批准圖則... **被譴責及罰款**。"
+>
+> *Translation:*
+> "40 workers... owed **HK$1.5M** wages."
+> "Yick Hing... seriously deviated from approved plans... **censured and fined**."
+
+> **Evidence [C]: SinKee's Violence**  
+> *Source: Competition Commission / 2025-08-05*  
+>  
+> "競爭事務委員會...展開執法行動...搜查四個處所...早前...發現有顧問公司夥同工程承辦商，意圖**操控投標結果，並以暴力手段抑制投標**，阻撓其他有意投標的承辦商遞交標書"  
+>  
+> *Translation:*  
+> "The Competition Commission carried out enforcement action...searching four premises...Earlier it found that a consultancy firm colluded with contractors to manipulate tender outcomes and used violence to suppress bidding, preventing other contractors from submitting tenders."
+
+> **Evidence [D]: The Identification**  
+> *Source: Chiu Yan‑loi FB Post / 2025-08-05*  
+>  
+> "競委會行動搜查對象包括工程顧問「創建坊建築及測量顧問有限公司」，以及工程承建商「昇基工程有限公司」"  
+>  
+> *Translation:*  
+> "The Competition Commission's search targets included consultancy "Amax Architects & Surveyors Ltd" and contractor "SinKee". 
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"The tender process worked. We screened these companies, identified their weaknesses during interviews (giving them lower scores), and correctly advised the MC not to select them. Their subsequent legal troubles prove our evaluation system was effective in filtering out bad contractors."
+
+**The Logical Trap:**
+1.  **The "Selection" Bias:** You didn't "filter them out" of the tender list; you invited them in. A robust pre-qualification process should have flagged firms with such volatile backgrounds (or organized crime links) *before* they could bid. Allowing them to fill the "Lowest 5" slots blocked legitimate, honest low-bidders from being considered.
+2.  **The "Prestige" Double Standard:** You filtered out Yick Hing for being "bad," but you gave **Prestige** (with 20+ safety convictions and fake litigation records) a perfect score. You didn't filter out "bad contractors"; you filtered out **"non-Prestige"** contractors.
+3.  **The "Birds of a Feather" Risk:** If Prestige is [statistically correlated](#-e-cartel-2022-05-05-01-the-mathematical-fingerprint-academic-proof-of-prestiges-bid-rigging) with this pool of bidders, they are likely part of the same syndicate. Protecting the "King" (Prestige) while sacrificing the "Pawns" is a classic cartel survival tactic.
+
+**📅 Timeline:**
+*   **2023-07-04:** Yick Hing & SinKee submit "Cloned Bids" for Wang Fuk — [report](https://thecollectivehk.com/影像紀錄宏福苑圍標之禍/)
+*   **2024-01-28:** They "lose" the bid to Prestige — [archive](MINUTES_MARKDOWN.md#2024-01-28-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   **2025-03-05:** Yick Hing wage scandal — [report](https://www.hk01.com/突發/60216585/)
+*   **2025-06-20:** Yick Hing condemned — [report](https://www.881903.com/news2/local/2583568/)
+*   **2025-08-05:** SinKee raided for violence — [source](https://www.facebook.com/share/p/16UaVJ7ASp/)
+
+**🔗 Links:**
+*   [HK01 Report (Wage Arrears)](https://www.hk01.com/突發/60216585/)
+*   [Commercial Radio Report](https://www.881903.com/news2/local/2583568/)
+*   [Competition Commission Press Release](https://www.compcomm.hk/tc/media/press/files/building_maintenance_search_PR_TC.pdf)
+*   [The Collective HK Video Report](https://thecollectivehk.com/影像紀錄宏福苑圍標之禍/)
+
+---
+
 ### 🆔 [E-CARTEL-2023-08-31-01] The "Perfect Score" Scam: How a Safety Violator was Rated "Clean"
 
 **🚨 Significance:**
