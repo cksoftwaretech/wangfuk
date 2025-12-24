@@ -1355,6 +1355,134 @@ The survey was drafted by the "Publicity & PR Group," led by Chairman Tang himse
 
 ---
 
+### 🆔 [E-CARTEL-2021-12-11-01] The Day Democracy Died: How a DAB Councilor and "532 Proxies" Sealed the Estate's Fate
+
+**🚨 Significance:**
+
+Eyewitness accounts and meeting records from the Special EGM on Dec 11, 2021, reveal that the cartel's takeover was secured through a massive political mobilization led by DAB District Councilor **Peggy Wong Pik-kiu** (黃碧嬌). This meeting was the "Point of No Return": it defeated a resident attempt to overthrow the MC and successfully appointed **Will Power (鴻毅)** as the renovation consultant.
+
+**1. The "532 Proxies" Anomaly:**
+Before the meeting started, residents discovered **532 proxy votes** (representing ~27% of all households) had already been collected.
+*   *The Harvest:* Residents reported Wong's volunteer team visiting elderlies door-to-door, asking for signatures. Some residents found themselves "authorized" to strangers without their knowledge, leading to police reports.
+*   *The Result:* These ironclad proxies crushed the live vote. The motion to remove the MC was defeated by **61.4%**, and Will Power was elected with **56.69%**. The numbers match the proxy block perfectly.
+
+**2. The "Advisor" with a Temper:**
+Meeting minutes list Wong as an official **"Advisor"** to the MC.
+*   *The Conflict:* A video shows Wong losing her temper at opposition Councilor Herman Yiu (姚鈞豪), shouting "What authority do I have?", while reportedly physically dominating the registration desk. Her behavior, described by residents as acting like the "Host", confirms her deep integration into the estate's power structure. She wasn't just a guest; she was the **Political Enforcer**.
+
+**3. The "DQ" Tactic:**
+While the DAB machine harvested votes, the opposition "Concern Group" saw **~50 of their 120 proxies disqualified (DQ)** by the Management Office (ISS) without clear explanation.
+*   *The Asymmetry:* Pro-establishment proxies (even dubious ones signed by elderly who "didn't know") were accepted en masse, while opposition proxies were scrutinized and purged. This rigged the playing field before the first ballot was cast.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Proxy Harvest (532 Votes)**  
+> *Source: Herman Yiu FB Post / 2021-12-10*
+>
+> "尋日截止收特別大會嘅授權票後...授權票有成 **532張**... 呢幾日有某前議員義工團隊上門希望授權畀佢哋，甚至經過眼鏡橋嘅時候畀佢哋問「係咪宏福苑居民」"
+>
+> *Translation:*
+> "After the proxy deadline yesterday... proxy votes reached **532**... plus an ex-Councilor's volunteer team going door-to-door for proxies and asking people near Glasses Bridge  'Are you a resident?'"
+
+> **Evidence [B]: The Political Enforcer**  
+> *Source: InMediaHK / 2021-12-11*  
+>  
+> "何小姐稱，今日原打算親自出席大會投票，卻在入場時被告知，她的名字「被授權」了一名不認識的姓林女子...與該女子對質時，黃碧嬌現身護著女子，並稱認識她。何之後報警...她之後得悉，黃碧嬌的義工曾接觸她的母親，著她在授權書上簽名，何母曾表明自己不是業主，對方仍著她簽名。"
+> "同「被授權」的麥先生亦稱，黃碧嬌早前曾上門...著他母親在授權書上簽名。麥先生質疑，法團收授權票的手法不公義：「對住一個男人嘅名，你叫個阿婆簽？」"  
+>  
+> *Translation:*  
+> "Ms Ho said she intended to vote in person but was told at entry that her name had been authorised to an unknown woman surnamed Lam... When Ho confronted the woman, Peggy Wong defended her and claimed to know her. Ho reported to police... She later learned Wong’s volunteers had approached her mother and asked her to sign a proxy despite her saying she was not an owner."
+> "Mr Mak, whose name was also allegedly authorised, said Wong earlier visited his 70‑plus mother... had her sign a proxy. Mak called the estate’s proxy collection unfair, noting an elderly woman was asked to sign for a man."
+
+> **Evidence [C]: Another Harvest**  
+> *Source: Peter Chu FB Post / 2021-12-07*  
+>  
+> "今日有人拍我門，話自己係黃碧嬌樂群義工團，叫我呀媽簽授權俾佢，有無搞錯？？點解保安可以放佢地上黎？投訴保安都無用"  
+>  
+> *Translation:*  
+> "Someone knocked on my door today claiming to be from Wong’s volunteer team and asked my mother to sign a proxy. Are you kidding? Why did security let them in? Complaining to security was useless."
+
+> **Evidence [D]: The "Advisor" Title**  
+> *Source: 11th MC EGM Minutes / 2021-12-11*
+>
+> "第十一屆管理委員會顧問... **黃碧嬌女士**"
+>
+> *Translation:*
+> "11th MC Advisor... **Ms. Peggy Wong Bik-kiu**"
+
+> **Evidence [E]: The Shout**  
+> *Source: Ma Choyin FB Video Post and Comments / 2025-12-14*  
+>  
+> **Video excerpt:**  
+> 黃碧嬌大呼：「我點會 [inaudible]...，我點會有決定呀？」  
+> 男子：「咁你就唔好講嘢啦，咁你就去返管理處處理啦，好唔好呀。」  
+> 黃碧嬌叉起雙手，睥住男子。  
+> 男子雙手合十：「唔該，阿黃碧嬌太平紳士，唔該晒。」  
+> 黃碧嬌：「你講乜嘢呀依家，姚鈞豪。」  
+> 男子重覆：「黃碧嬌太平紳士，唔該晒。」  
+>  
+> **Comments:**  
+> "佢權力最大呀 😂 又帶人黎攞假授權票！佢掂呀"  
+> "都唔係好似架喇，佢當日似主人家多過宏福居民啦！發爛渣咪發爛渣😁"  
+> "注意！ 野PIG 姐出沒，小心好似阿蛇咁比佢咬傷。"  
+> "乜而家啲太平紳士咁唔好老脾嘅🤣"  
+> "宏福苑特別業主大會嗰日，佢企係拎授權票張枱度好似做迎賓噉，直頭好似拎授權票嘅佢都識"  
+> "宏福苑嘅嘢 關佢咩事呢"  
+> "權力大晒咩？發脾氣都無用？她這樣無人喜歡她"  
+> "好似個法團一直同「忠誠廢物」都有啦能。係咪有背後利益關係存在，冇人知。"  
+> "佢有乜權力？唔好係度癲嗽,似青山走犯"  
+> "黃碧豬激動到仲末爆血管"  
+> "真係唔明佢點解咁嬲，佢到底嬲啲咩？"  
+>  
+> *Translation:*  
+> **Video excerpt:**  
+> Wong shouted: "How would I… [inaudible] What authority do I have?"  
+> Man: "Then don't speak; go back to the management office and handle it, okay?"  
+> Wong folds her arms and glares at the man.  
+> Man clasps his hands and says: "Thanks, Justice of the Peace Wong Bik‑kiu, thank you."  
+> Wong: "What are you saying now, Yiu Kwan‑ho [Herman Yiu]?"  
+> Man repeats: "Justice of the Peace Wong Bik‑kiu, thank you."  
+>  
+> **Selected comments (paraphrased):**  
+> Claims she has the most power and brought people to collect fake proxy votes; says she acted like the host; warns she is aggressive; mocks her as a Justice of the Peace; alleges she stood at the proxy table like a greeter and knew proxy holders; questions her authority and possible hidden interests; insults and derides her behaviour and temperament.
+
+> **Evidence [F]: The DQ of Opposition**  
+> *Source: InMediaHK / 2021-12-11*
+>
+> "關注組原收到121張授權票，卻有數十張被DQ，只70多張被指有效。"
+>
+> *Translation:*
+> "Concern Group received 121 proxies, but dozens were DQ'ed, leaving only 70+ valid."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**  
+"Ms. Wong served as an unpaid Advisor to share her community experience. Her team assists elderly residents with form-filling as a community service, ensuring their voices are heard. We strictly follow the BMO regarding proxy validity; any disqualified forms were due to technical errors (e.g., wrong signature, incomplete ID). The election result reflects the silent majority's trust in the MC."
+
+**The Logical Trap:**
+1.  **Service vs. Fraud:** "Assisting" an elderly person to sign a form for a unit they don't own (as witnessed by the male owner whose mother was coerced) is **Fraud**, not service. The sheer volume of complaints about "unauthorized authorization" suggests systematic manipulation, not helpfulness.
+2.  **The "DQ" Black Box:** If 40% of the opposition's votes were "technically wrong," but the establishment votes were "perfect," the statistical probability is near zero unless the **scrutiny applied was unequal**. The Management Office (ISS) acted as a partisan referee.
+3.  **The "Silent Majority" were Silenced:** The majority of *attendees* were angry (as seen in video comments), but they were outvoted by a stack of papers. This wasn't the "Silent Majority"; it was the **"Paper Majority"**.
+
+**¶ Statutory Basis:**
+
+*   **Context:** Building Management Ordinance (Proxy Abuse).
+
+**📅 Timeline:**
+*   **2021-12-07:** Wong's team starts door-to-door harvest.
+*   **2021-12-09:** Deadline of submitting proxies.
+*   **2021-12-11:** EGM. 532 proxies deployed. Will Power wins.
+*   **2021-12-14:** Video of Wong shouting at Herman Yiu posted.
+
+**🔗 Links:**
+*   [Herman Yiu FB Post](https://www.facebook.com/share/p/181mivh31E/)
+*   [InMediaHK Report](https://www.inmediahk.net/node/社區/宏福苑大會-民建聯黃碧嬌上門攞長者授權：家訪有咩咁奇怪)
+*   [Peter Chu FB Post (Proxy Harvest)](https://www.facebook.com/share/p/1NeXwmevNb/)
+*   [EGM Minutes](http://www.wangfuk.org/html/meeting/03/特別業主大會會議紀錄.pdf) | [Backup](2021-12-11%20第十一屆管理委員會特別業主大會會議紀錄.pdf)
+*   [Ma Choyin Video FB Post (The Video)](https://www.facebook.com/share/v/1Bwb43B6HF/)
+
+---
+
 ### 🆔 [E-CARTEL-2022-05-05-01] The Mathematical Fingerprint: Academic Proof of Prestige's Bid-Rigging
 
 **🚨 Significance:**
