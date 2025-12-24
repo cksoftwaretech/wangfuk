@@ -3111,6 +3111,94 @@ The new MC reported the case to the police as "Using False Instruments." Over 80
 
 ---
 
+### 🆔 [E-ADMIN-2024-06-05-01] The $7,000 Lawyer: Cheap Fees, Critical Errors, and the Role of the "Legal Thug"
+
+**🚨 Significance:**
+
+Official records reveal that the estate's Legal Consultant, **C.W. Chan & Co.** (陳俊華律師事務所), charged a suspiciously low annual retainer of **HK$7,000** but committed amateur errors in critical documents. Despite this, they were repeatedly reappointed by both the old and new MCs, suggesting their value lay not in professional competence, but in their willingness to act as a tool for intimidation and debt collection.
+
+**1. The "Typo" in the Bill:**
+On June 5, 2024, residents received renovation levy notices with incorrect amounts (HK$23,448 instead of HK$25,448 for installments 4-6).
+*   *The Implication:* For a HK$330 million project, the lawyer couldn't even copy-paste the payment schedule correctly. This basic clerical error caused confusion and required a mass retraction/apology, exposing the low quality of the "professional" service.
+
+**2. The "Loss Leader" Fee Structure:**
+*   **Annual Retainer:** **HK$7,000** (HK$583/month).
+*   **Project Fee:** **HK$69,000** (for handling the renovation levy).
+*   *The Strategy:* Like the Engineering Consultant, the Legal Consultant charged a below-market retainer to secure the position. The real money was in the "extras" (levy handling) and potentially in the volume of "free lawyer letters" (24 per year) used to [suppress dissent](#-e-admin-2024-04-16-01-the-done-deal-strategy-how-the-mc-crushed-dissent-before-signing-the-hk330m-contract).
+
+**3. The "Unshakeable" Appointment:**
+Despite the error in June 2024, the new MC under Tsui Man-kam reappointed C.W. Chan in Sept 2025, citing "current performance" and price.
+*   *The Verdict:* The MC prioritized "Cheapness" over "Accuracy." By retaining a lawyer who had already failed in a critical task, the MC demonstrated a disregard for professional standards, mirroring their handling of the [engineering contracts](#-e-admin-2025-09-29-01-documentary-failures-the-lift-contractor-error--the-17m-mislabeling).
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Pricing Anomaly**  
+> *Source: 11th MC Meeting Minutes (No. 19) / 2023-07-14*
+>
+> "陳俊華律師事務所... 首年收費：**$7,000/年**... 免費律師信: 每年 24 封"
+>
+> *Translation:*
+> "Chan Chun Wah & Co... First Year Fee: **HK$7,000/year**... Free Lawyer Letters: 24 per year."
+
+> **Evidence [B]: The Clerical Error**  
+> *Source: 12th MC Meeting Minutes (No. 1) / 2024-06-14*
+>
+> "因律師樓員工手文之誤，將上述單位第 4, 5, 6 期的集資金額打錯... 發出更正通知及致歉。"
+>
+> *Translation:*
+> "Due to a clerical error by the law firm staff, the levy amounts for installments 4, 5, 6 were wrong... issued correction notice and apology."
+
+> **Evidence [C]: Resident's Complaint**  
+> *Source: Tang Tang FB Post / 2024-06-05*  
+>  
+> "究竟咩律師樓可以在繳款通知書上的銀碼都錯？"  
+>  
+> *Translation:*  
+> "Which kind of law firm could possibly get the amount on a payment notice wrong?"
+
+> **Evidence [D]: The "Extra" Charge**  
+> *Source: 11th MC Meeting Minutes (No. 24) / 2024-04-22*
+>
+> "由「陳俊華律師事務所」提供進行大維修集資的相關法律服務... **$69,000**"
+>
+> *Translation:*
+> "Appoint Chan Chun Wah & Co to provide legal services for renovation fund collection... **HK$69,000**."
+
+> **Evidence [E]: The Reappointment**  
+> *Source: 12th MC Meeting Minutes (No. 12) / 2025-09-29*  
+>  
+> "8.6 ...考慮到現時律師服務表現及報價費用，現時大維修亦有一次性的催繳款項律師信，徐主席動議由「陳俊華律師事務所」提供屋苑常年法律顧問服務兩年，1 位委員棄權，8 位委員一致贊成通過。"  
+>  
+> *Translation:*  
+> "8.6 ...considering current lawyer performance and fees, and a one‑off demand letter related to the major works, Chairman Tsui moved that C.W. Chan & Co. provide the estate’s annual legal advisory service for two years; 1 committee member abstained and 8 voted unanimously in favour."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**  
+"The error was a minor administrative slip by a junior clerk, which was promptly rectified without financial loss to the estate. The low retainer reflects a long-term relationship discount. Reappointment was based on familiarity with the estate's complex legal history, including handling unauthorized structures and arrears, which is cost-effective for owners."
+
+**The Logical Trap:**
+1.  **Error Magnitude:** In a legal demand note for payment, the *amount* is the most critical data point. Getting the number wrong invalidates the demand. A law firm that cannot proofread a demand note for hundreds of households is functionally incompetent.
+2.  **The "Thug" Function:** The retainer included "24 free lawyer letters." As seen in the suppression of Lam King-tung, these letters were used to intimidate owners exercising their rights. The "Value" provided was not legal protection for the estate, but **political protection for the Chairman**.
+3.  **The "Cheap" Trap:** Paying $7,000 a year gets you $7,000 worth of attention. The lack of rigorous legal oversight on the main contract (which allowed open-ended schedules and vague specs) likely cost the owners millions in the long run. Cheap legal advice is the most expensive thing you can buy.
+
+**📅 Timeline:**
+*   **2023-07-14:** C.W. Chan & Co. reappointed ($7k/yr) — [minutes](http://www.wangfuk.org/html/meeting/05/第19次全體委員會議記錄.pdf)
+*   **2024-03-22:** Issues threat letter to Lam King-tung — [minutes](http://www.wangfuk.org/html/meeting/05/第24次全體委員會議記錄.pdf)
+*   **2024-04-22:** Awarded levy handling contract ($69k) — [minutes](http://www.wangfuk.org/html/meeting/05/第24次全體委員會議記錄.pdf)
+*   **2024-06-05:** Issues incorrect payment notices — [source](https://www.facebook.com/share/p/1ZfaZf9Jtb/)
+*   **2024-06-14:** Mass retraction — [minutes](http://www.wangfuk.org/html/meeting/12/第1次全體委員會議記錄.pdf)
+*   **2025-09-29:** Reappointed by new MC despite errors — [minutes](http://www.wangfuk.org/html/meeting/12/2025-10-27%20第12次全體委員會議記錄.pdf)
+
+**🔗 Links:**
+*   [11th MC Minutes 19](http://www.wangfuk.org/html/meeting/05/第19次全體委員會議記錄.pdf) | [Backup](2023-07-14%20第十一屆第十九次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2023-07-14-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E5%8D%81%E4%B9%9D%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   [11th MC Minutes 24](http://www.wangfuk.org/html/meeting/05/第24次全體委員會議記錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-04-22%20第十一屆第二十四次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2024-04-22-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   [Resident FB Complaint](https://www.facebook.com/share/p/1ZfaZf9Jtb/)
+*   [12 MC Minutes 1](http://www.wangfuk.org/html/meeting/12/第1次全體委員會議記錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-06-14%20第十二屆第一次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2024-06-14-%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   [12 MC Minutes 12](http://www.wangfuk.org/html/meeting/12/2025-10-27%20第12次全體委員會議記錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-09-29%20第十二屆第十二次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2025-09-29-%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+
+---
+
 ### 🆔 [E-CARTEL-2024-06-27-01] The "Rashomon" of Tiles: Lies, Finger-Pointing, and the "Free Upgrade" Trap
 
 **🚨 Significance:**
