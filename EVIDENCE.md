@@ -590,6 +590,7 @@ Chan fled HK in 2001 just as the ICAC arrested his brother. Prosecution revealed
 *   **Jul 2021:** Drafts the survey as a Publicity & PR Group member of MC — [minutes](http://www.wangfuk.org/html/meeting/05/第5次全體委員會議記錄.pdf)
 *   **2021-07-18:** Survey issued with specific "<400k" option while Will Power's bid being $308k — [minutes](http://www.wangfuk.org/html/meeting/05/第5次全體委員會議記錄.pdf)
 *   **2021-12-11:** Will Power wins Consultant contract (HK$308k); Chan participates in the meeting — [minutes](http://www.wangfuk.org/html/meeting/03/特別業主大會會議紀錄.pdf)
+*   **2023-03-04:** Coordinates in the EGM; reportedly silences questions and pushes the vote; passes the tender document — [ref](#-e-admin-2023-03-04-01-the-shut-up-and-vote-how-the-advisor-silenced-questions-to-force-through-the-tender)
 *   **2024-01-28:** Prestige wins the contract (HK$330M); Chan participates in the meeting — [minutes](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf)
 *   **2024-07-19:** Participates in renovation presentation where flammable foam is presented — [source](http://www.wangfuk.org/html/incorp/index.htm)
 *   **2024-09-06:** MC members re-election; ceases as the Incorporated Owners' consultant — [report](https://hk.news.yahoo.com/share/c9787bd5-d1a8-482a-a57c-ce46fc0d9fdb)
@@ -1655,7 +1656,7 @@ The meeting was attended by a roster of pro-establishment figures (Yu Chi-wing, 
 *   **2023-03-05 to 03-06:** Eyewitnesses document the process.
 
 **🔗 Links:**
-*   [Minute EGM](http://www.wangfuk.org/html/meeting/03/2023年3月4日特別業主大會會議紀錄.pdf)
+*   [Minutes EGM](http://www.wangfuk.org/html/meeting/03/2023年3月4日特別業主大會會議紀錄.pdf) | [Backup](2023-03-04%20第十一屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md#2023-03-04-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 *   [Resident Ma Choyin Post](https://www.facebook.com/share/p/1aEfi4nV8j/)
 *   [Resident Karl Cow Post](https://www.facebook.com/share/p/1DSVThpQ1w/)
 
