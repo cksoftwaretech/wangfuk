@@ -4075,6 +4075,73 @@ When residents attempted to organize on July 23, Security guards (managed by **I
 
 ---
 
+### 🆔 [E-ADMIN-2024-08-05-01] The 76% Mirage: How a Rigged Survey Blinded the MC to Its Own Demise
+
+**🚨 Significance:**
+
+A statistical comparison between the MC's "Opinion Survey" (July 2024) and the actual EGM Vote (Sept 2024) reveals a massive discrepancy that cannot be explained by natural opinion shifts. The survey claimed a **76% mandate** to keep the MC, yet one month later, owners voted **56.54% to fire them**. This proves the survey was a tool of **disinformation** designed to create a false sense of legitimacy.
+
+**1. The "Data Inversion":**
+*   **July 19 Survey:** Claimed **76%** of owners opposed the recall motion.
+*   **Sept 6 Vote:** **56.54%** of owners voted FOR the recall.
+*   **The Swing:** A net swing of **~32.5%** against the MC in just 40 days, without any major external scandal occurring in that window.
+*   *The Verdict:* The survey data was either **biased** (sampling error) or **fabricated**. It represented the "echo chamber" of the MC's supporters, not the estate's reality.
+
+**2. The Weather Test:**
+The EGM on Sept 6 was held under **Typhoon Signal No. 3** and **Amber Rainstorm** warnings.
+*   *The Turnout:* Despite the hostile weather, **1,246 owners** (62.8% of households) attended or proxied.
+*   *The Meaning:* This high turnout under adverse conditions signifies **extreme anger**. The "76% support" found in the survey evaporated when real people showed up to vote. The survey failed to capture the silent fury of the majority.
+
+**3. The Strategic Blunder:**
+The MC likely believed their own fake data (76% support). This false confidence may have led them to proceed with the meeting rather than using more aggressive stalling tactics (like cancelling due to the typhoon). They walked into an ambush of their own making.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Fake Mandate (July)**
+> *Source: 12th MC Meeting Minutes (No. 3) / 2024-08-05*
+>
+> "6. 7 月 19 日發出問卷調查... 回應率為 24.1%... **76% 反對** 5%以上業主要求罷免管委會"
+>
+> *Translation:*
+> "6. Survey on 19 July... 24.1% response rate... **76% Opposed** the request to recall the MC."
+
+> **Evidence [B]: The Real Mandate (Sept)**
+> *Source: 12th MC EGM Minutes / 2024-09-06*
+>
+> "出席人數為 **1,246 人** (62.8%)... **贊成罷免 8,717 (56.54%)**"
+>
+> *Translation:*
+> "Attendance **1,246** (62.8%)... **In Favor of Recall 8,717 (56.54%)**"
+
+> **Evidence [C]: The Conditions**
+> *Source: 12th MC EGM Minutes*
+>
+> "...在 3 號颱風訊號及黃色暴雨警告期間仍然出席大會。"
+>
+> *Translation:*
+> "...attended despite **Typhoon Signal No. 3 and Amber Rainstorm Warning**."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**  
+"The survey reflected the views of those who responded at the time. Opinions can change. The EGM result was skewed by the opposition's aggressive proxy harvesting and mobilization tactics, which did not represent the 'silent majority' who stayed home due to the typhoon. The survey was an honest attempt to gauge sentiment."
+
+**The Logical Trap:**
+1.  **Turnout Truth:** The EGM turnout (62.8%) was significantly *higher* than the survey response rate (24.1%). Mathematically, the EGM is a **more accurate** representation of the "majority" than the survey. The "Silent Majority" *did* speak—they voted you out.
+2.  **The "Change" Fallacy:** Public opinion rarely swings 32% in a month without a triggering event. The only "event" was the MC's continued obstruction (delaying the meeting). If anything, the MC's behavior *created* the opposition.
+3.  **Proxy vs. Proxy:** The MC also harvested proxies (getting 43% of the vote). The fact that they still lost proves that even with their machine, they could not overcome the organic anger of the residents.
+
+**📅 Timeline:**
+*   **2024-07-19:** MC issues survey.
+*   **2024-08-05:** MC announces "76% Support."
+*   **2024-09-06:** Owners vote "56% Against" under typhoon conditions.
+
+**🔗 Links:**
+*   [Minutes 3](http://www.wangfuk.org/html/meeting/12/第3次全體委員會議紀錄v1.pdf) | [Backup](2024-08-05%20第十二屆第三次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2024-08-05-%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%B8%89%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   [EGM Minutes](http://www.wangfuk.org/html/meeting/03/2024年9月6日特別業主大會會議記錄.pdf) | [Backup](2024-09-06%20第十二屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2024-09-06-%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+
+---
+
 ### 🆔 [E-SAFETY-FOAM-2024-09-16-01] The "TAPEER" Fraud: Counterfeit Brands & Rigged Safety Demos
 
 **🚨 Significance:**
