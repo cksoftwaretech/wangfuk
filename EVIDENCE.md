@@ -3638,6 +3638,91 @@ Prestige's notice ended with an ultimatum: "If not decided by Oct 7, we will sti
 
 ---
 
+### 🆔 [E-CARTEL-2024-07-19-01] The "Endorsement" Myth: How URA Subsidies Were Used to Whitewash Corruption
+
+**🚨 Significance:**
+
+The Consultant (**Will Power/鴻毅**) actively used the Urban Renewal Authority's (URA) funding approval as a "Proof of Innocence" to silence resident doubts. Director **Wong Hap-yin** (黃俠然) claimed that obtaining the subsidy proved the process was legal. Forensic analysis of URA guidelines reveals this claim is a lie: URA approval is based on a paperwork checklist, not a forensic audit. It does not certify the integrity of the tender, only its procedural completion.
+
+**1. The Circular Logic:**
+*   **Wong's Claim:** "If the procedure was illegal or problematic, we wouldn't get this massive public funding."
+*   *The Trap:* The Consultant rigs the documents (scores, criteria), submits them to URA, gets approval based on the rigged docs, and then uses the approval to prove the docs weren't rigged. It is a self-validating loop of fraud.
+
+**2. "Smart Tender" is Not a Watchdog:**
+The "Smart Tender" system is marketed as an anti-bid-rigging tool, but its actual function is merely **administrative**.
+*   **No Veto Power:** The independent advisor gives an estimate but cannot stop the MC from choosing a contractor 50% above that estimate (as happened in Neptune Terrace).
+*   **No Forensic Power:** URA does not check if the "ISO Certificate" is real or if the "Litigation Record" is accurate. It relies entirely on the Consultant's professional integrity—the very thing that was missing.
+*   **The "Post-Hoc" Criteria:** URA allowed the MC to finalize scoring criteria [*after* the EGM vote](#-e-cartel-2023-03-17-01-the-blank-cheque-tender-how-critical-scoring-rules-were-added-after-the-vote), proving its oversight was flexible to the point of negligence.
+
+**3. The Liability Vacuum:**
+*   **URA:** "Independent advisor cannot replace the role and responsibility of the project consultant."
+*   **Consultant:** "We bear no responsibility for the authenticity of data submitted by tenderers."
+*   *The Result:* Everyone has a disclaimer. When the building burns down due to fake materials selected through a rigged tender, every "authority" points to someone else.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Consultant's "White-Wash"**
+> *Source: Presentation Video (47:22 - 47:52) / 2024-07-19*
+>
+> "黃俠然：「市建局其實喺今次嘅工程呢，有一個非常非常重要嘅角色嘅...今次市建局支援我哋每戶大約四至五萬，其實係一筆非常龐大嘅公帑嚟嘅...如果程序係唔合法或者有一啲問題呢，其實我哋今日冇可能攞到呢一個資助。」"
+>
+> *Translation:*
+> "Wong Hap-yin: The URA plays a crucial role...Its support of HK$40–50k per household is a large public fund...if the procedures are illegal or flawed, we actually wouldn't be able to get this subsidy today."
+
+> **Evidence [B]: The "Paper-Check" Criteria**  
+> *Source: OBB 2.0 Notes to Owners / Paragraph 3.3*  
+>  
+> "申請人須於申請限期前遞交以下文件至市建局：  
+> (a)填妥及已簽署...申請表...  
+> (b)(v)參加市建局「招標妥」...  
+> (c) 業主立案法團註冊證明書...  
+> (e)(i) 工程顧問合約  
+> (e)(ii) 維修工程合約"  
+>  
+> *Translation:*  
+> "Applicants must submit to the URA before the deadline: (a) completed, signed...application form; (b)(v) participation in URA tender; (c) Incorporated Owners' registration certificate; (e)(i) consultant contract; (e)(ii) maintenance contract"
+>
+> *(Analysis: The requirement is "Submission of Contracts," not "Proof of Honesty.")*
+
+> **Evidence [C]: The Compliance Requirement**  
+> *Source: Smart Tender DIY Kit / Para 2.1.1 i)d)*  
+>  
+> "工程顧問須對維修工程回標公司進行標書分析及呈交報告"  
+>  
+> *Translation:*  
+> "The consultant must analyze repair contractors’ bids and submit a report."
+
+> **Evidence [D]: The URA's Disclaimer**  
+> *Source: Smart Tender DIY Kit / Para 1.3*
+>
+> "獨立專業人士**並不能取代**大廈工程顧問的角色及責任。"
+>
+> *Translation:*
+> "Independent professionals **cannot replace** the role and responsibility of the building engineering consultant."
+
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**  
+"The URA subsidy vetting process is rigorous. We check for compliance with the BMO and ensure the tender process follows the 'Smart Tender' workflow. While we don't investigate criminal intent (which is the ICAC's job), our approval signifies that the *visible* procedural steps were followed correctly. Wong's statement was a simplification for laymen, not a legal argument."
+
+**The Logical Trap:**
+1.  **Process vs. Substance:** A rigged election can follow all "visible procedures" (ballot boxes, counting) while being fundamentally fraudulent (fake voters). Similarly, a rigged tender can have all the right forms. Citing "Procedural Compliance" as proof of "Substantive Integrity" is the core deception of the bid-rigging industry.
+2.  **The "Simplification" Lie:** Telling owners "Funding = Legality" is not a simplification; it is **Disinformation**. It implies the URA has audited the project's soul, when it has only checked its attire. This statement was designed to disarm critical owners who were raising valid red flags.
+3.  **The Ultimate Proof:** The project *did* get the funding. And the project *did* use fake nets, fake foam, and rigged votes. The fact that a project riddled with fraud could pass URA vetting proves the URA's approval is **worthless as a safety guarantee**.
+
+**📅 Timeline:**
+*   **2023-03-04:** MC passes "Final Tender" (Criteria missing) — [ref](#-e-cartel-2023-03-17-01-the-blank-cheque-tender-how-critical-scoring-rules-were-added-after-the-vote)
+*   **2024-07-19:** Consultant uses URA's funding to silence critics.
+*   **2025-11-26:** Fire reveals the project was a fraud from day one.
+
+**🔗 Links:**
+*   [URA OBB 2.0 Notes](https://www.brplatform.org.hk/f/page/10460/11713/OBB%202.0%20notes.pdf)
+*   [Smart Tender DIY Kit](https://www.brplatform.org.hk/f/upload/13750/DIY_Tool_Kit.pdf)
+*   [Presentation Video](http://223.197.186.25:8080/wangfuk/工程解說會VDO.mp4)
+
+---
+
 ### 🆔 [E-SAFETY-FOAM-2024-07-19-01] The SOP Death Trap: Use of Flammable Foam
 
 **🚨 Significance:**
