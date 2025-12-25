@@ -1854,8 +1854,141 @@ The Urban Renewal Authority (URA) reviewed the criteria on March 15 and offered 
 *   **2023-03-17:** MC finalizes rigged scoring criteria (MPF > Professional) in private.
 
 **🔗 Links:**
-*   [Minutes 17 PDF](http://www.wangfuk.org/html/meeting/05/第17次全體委員會議記錄.pdf) | [Backup](2023-03-17%20第十一屆第十七次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2023-03-17-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E5%8D%81%E4%B8%83%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   [Minutes 17](http://www.wangfuk.org/html/meeting/05/第17次全體委員會議記錄.pdf) | [Backup](2023-03-17%20第十一屆第十七次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2023-03-17-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E5%8D%81%E4%B8%83%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 *   [Minutes EGM (Mar 4)](http://www.wangfuk.org/html/meeting/03/2023年3月4日特別業主大會會議紀錄.pdf) | [Backup](2023-03-04%20第十一屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2023-03-04-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+
+---
+
+### 🆔 [E-CARTEL-2023-03-17-02] The Zero-Sum Game: How 100% of Bidders Failed the "Experience" Test
+
+**🚨 Significance:**
+
+A statistical audit of the tender scores reveals that the Consultant (**Will Power/鴻毅**) designed a scoring criterion so unrealistic that **not a single one of the 57 bidders** scored a point. This "Zero-Score Strategy" effectively neutralized the advantage of genuinely experienced large firms, allowing **Prestige (宏業)** to compete on equal footing despite its own lack of credentials.
+
+**1. The 100% Failure Rate:**
+*   **Criterion:** "Past 10 years, similar large estates (min. 4 towers / 800 units), at least 2 projects."
+*   **Result:** **0 out of 57** bidders received any points. Everyone got **0**.
+*   *The Tactic:* By setting the bar impossibly high (or interpreting it strictly to exclude valid experience), the Consultant ensured that top-tier contractors couldn't pull ahead of Prestige in this category. It was a "leveling" mechanism to protect the chosen winner.
+
+**2. The "Rotten" Pool:**
+The scores reveal the abysmal quality of the tender pool attracted by the Consultant:
+*   **Financial Proof:** **80.7%** scored 0 (failed to show healthy finances).
+*   **Litigation Record:** **63.2%** scored 0 (had recent litigation).
+*   **Recommendation Letters:** **57.9%** scored 0 (few or no happy clients).
+*   *The Conclusion:* The tender didn't attract the "best of the best"; it attracted the "worst of the worst." Prestige didn't need to be good; it just needed to be slightly less terrible (on paper) than the army of zombies surrounding it.
+
+**3. The Manager's Lie:**
+When MC members asked if the criteria were reasonable, the Property Manager (**ISS**) replied: "**Most contractors can meet the relevant requirements.**"
+*   *The Reality:* **0%** met the experience requirement. **19%** met the financial requirement. The Manager's statement was factually false and misled the MC into approving a flawed tender process.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Sea of Zeros**
+> *Source: Renovation Booklet p.28-29*
+>
+> | 編號 | 投標者名稱 | ISO 14001 | ISO 45001 | 推薦信 | **同型工程 (Exp)** | 公司背景 | 財務證明 | 無訴訟 | 訴訟記錄 | 牌照屆滿 | 持牌年資 | **總分** |
+> | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+> | 1 | 美華建築公司 | 0 | 0 | 0 | **0** | 0 | 0 | 0 | 3 | 1 | 2 | 6 |
+> | 2 | 百力營造工程有限公司 | 1 | 1 | 2 | **0** | 1 | 0 | 3 | 3 | 1 | 1 | 13 |
+> | 3 | 超明工程有限公司 | 1 | 1 | 1 | **0** | 0 | 0 | 3 | 0 | 1 | 2 | 9 |
+> | 4 | 弘裕建築工程有限公司 | 1 | 1 | 0 | **0** | 1 | 3 | 3 | 0 | 1 | 2 | 12 |
+> | 5 | 榮利建造工程有限公司 | 1 | 1 | 0 | **0** | 0 | 0 | 0 | 0 | 1 | 2 | 5 |
+> | 6 | 城市建業集團有限公司 | 0 | 0 | 0 | **0** | 1 | 0 | 3 | 0 | 1 | 1 | 6 |
+> | 7 | 源發建築工程有限公司 | 1 | 0 | 2 | **0** | 0 | 0 | 3 | 0 | 1 | 2 | 9 |
+> | 8 | 寶盛建設工程有限公司 | 1 | 1 | 0 | **0** | 1 | 0 | 3 | 0 | 1 | 1 | 8 |
+> | 9 | 好運泰工程有限公司 | 1 | 1 | 0 | **0** | 0 | 0 | 3 | 0 | 1 | 1 | 7 |
+> | 10 | 中鐵建設集團有限公司 | 0 | 0 | 0 | **0** | 0 | 0 | 0 | 3 | 1 | 0 | 4 |
+> | 11 | 威鴻建築工程有限公司 | 1 | 1 | 0 | **0** | 1 | 0 | 3 | 3 | 1 | 2 | 12 |
+> | 12 | 萬昇建築工程有限公司 | 0 | 1 | 2 | **0** | 2 | 0 | 3 | 0 | 1 | 2 | 11 |
+> | 13 | 景峰建築工程有限公司 | 1 | 1 | 3 | **0** | 4 | 0 | 3 | 3 | 1 | 2 | 18 |
+> | 14 | 顯達工程公司 | 1 | 0 | 0 | **0** | 1 | 0 | 3 | 3 | 1 | 2 | 11 |
+> | 15 | 新開明建築工程有限公司 | 1 | 1 | 1 | **0** | 2 | 0 | 3 | 0 | 1 | 2 | 11 |
+> | 16 | 富創建築工程有限公司 | 1 | 1 | 0 | **0** | 1 | 3 | 3 | 3 | 0 | 1 | 13 |
+> | 17 | 祥利建築公司 | 0 | 0 | 2 | **0** | 1 | 0 | 3 | 0 | 1 | 2 | 9 |
+> | 18 | 俊豪建築工程有限公司 | 1 | 1 | 1 | **0** | 1 | 3 | 3 | 3 | 1 | 2 | 16 |
+> | 19 | 寶發建築工程有限公司 | 0 | 0 | 1 | **0** | 0 | 0 | 3 | 0 | 1 | 2 | 7 |
+> | 20 | 文源建築工程有限公司 | 1 | 1 | 0 | **0** | 0 | 0 | 3 | 0 | 1 | 2 | 8 |
+> | 21 | 聯力建築有限公司 | 1 | 1 | 0 | **0** | 0 | 0 | 0 | 0 | 0 | 2 | 4 |
+> | 22 | **宏業建築工程有限公司** | 1 | 1 | 2 | **0** | 4 | 3 | 3 | 3 | 1 | 2 | **20** |
+> | 23 | 益興建築有限公司 | 1 | 1 | 0 | **0** | 0 | 0 | 0 | 0 | 1 | 2 | 5 |
+> | 24 | 信誠營造工程有限公司 | 1 | 1 | 0 | **0** | 0 | 0 | 3 | 0 | 1 | 2 | 8 |
+> | 25 | 萬嘉建築工程有限公司 | 1 | 1 | 2 | **0** | 3 | 0 | 3 | 3 | 1 | 2 | 16 |
+> | 26 | 新貴建業工程有限公司 | 1 | 1 | 0 | **0** | 2 | 0 | 3 | 3 | 1 | 2 | 13 |
+> | 27 | 樹深建築有限公司 | 1 | 1 | 3 | **0** | 2 | 3 | 3 | 3 | 1 | 1 | 18 |
+> | 28 | 民星營造有限公司 | 0 | 0 | 3 | **0** | 2 | 3 | 3 | 3 | 0 | 2 | 16 |
+> | 29 | 順程建築有限公司 | 1 | 1 | 0 | **0** | 2 | 0 | 3 | 0 | 1 | 0 | 8 |
+> | 30 | 英昌建築公司 | 0 | 0 | 2 | **0** | 0 | 0 | 3 | 3 | 1 | 2 | 11 |
+> | 31 | 創業建築有限公司 | 1 | 1 | 0 | **0** | 0 | 0 | 0 | 0 | 1 | 2 | 5 |
+> | 32 | 華生建築打樁有限公司 | 1 | 1 | 0 | **0** | 1 | 0 | 3 | 0 | 1 | 2 | 9 |
+> | 33 | 海得志發展集團有限公司 | 1 | 1 | 1 | **0** | 3 | 3 | 3 | 3 | 1 | 2 | 18 |
+> | 34 | 全達建築有限公司 | 1 | 1 | 0 | **0** | 2 | 0 | 3 | 0 | 0 | 2 | 9 |
+> | 35 | 達興建築有限公司 | 1 | 1 | 0 | **0** | 2 | 0 | 3 | 0 | 0 | 2 | 9 |
+> | 36 | 信豪(集團)工程有限公司 | 1 | 1 | 0 | **0** | 1 | 0 | 3 | 0 | 1 | 2 | 9 |
+> | 37 | 宏溢營造工程有限公司 | 1 | 1 | 0 | **0** | 4 | 0 | 3 | 3 | 1 | 2 | 15 |
+> | 38 | 美博工程服務有限公司 | 1 | 1 | 0 | **0** | 0 | 0 | 3 | 0 | 0 | 1 | 6 |
+> | 39 | 志富建築(集團)有限公司 | 1 | 1 | 1 | **0** | 1 | 0 | 3 | 3 | 1 | 2 | 13 |
+> | 40 | 德昌(文記)建築工程有限公司 | 1 | 1 | 1 | **0** | 1 | 0 | 3 | 0 | 1 | 2 | 10 |
+> | 41 | 業晟維修有限公司 | 1 | 1 | 0 | **0** | 2 | 0 | 0 | 0 | 1 | 2 | 7 |
+> | 42 | 浩成建築工程有限公司 | 1 | 1 | 2 | **0** | 1 | 0 | 3 | 0 | 1 | 1 | 10 |
+> | 43 | 新港建築工程有限公司 | 0 | 0 | 0 | **0** | 3 | 0 | 0 | 0 | 1 | 2 | 6 |
+> | 44 | 盈信建築有限公司 | 1 | 1 | 0 | **0** | 0 | 0 | 3 | 0 | 1 | 2 | 8 |
+> | 45 | 堅城(室氏)建築有限公司 | 1 | 1 | 0 | **0** | 0 | 0 | 3 | 0 | 1 | 2 | 8 |
+> | 46 | 雄圖建築有限公司 | 0 | 0 | 0 | **0** | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
+> | 47 | 華盛建築工程有限公司 | 0 | 0 | 0 | **0** | 1 | 0 | 3 | 3 | 1 | 2 | 10 |
+> | 48 | 昇基工程有限公司 | 1 | 0 | 2 | **0** | 1 | 0 | 3 | 0 | 1 | 1 | 9 |
+> | 49 | 現代建設(亞洲)有限公司 | 1 | 1 | 2 | **0** | 1 | 0 | 3 | 0 | 1 | 2 | 11 |
+> | 50 | 寰宇建築工程有限公司 | 1 | 1 | 2 | **0** | 2 | 3 | 3 | 0 | 1 | 1 | 14 |
+> | 51 | 藝林建築工程有限公司 | 0 | 0 | 2 | **0** | 1 | 0 | 3 | 0 | 1 | 1 | 8 |
+> | 52 | 永豐工程發展有限公司 | 1 | 1 | 1 | **0** | 1 | 3 | 3 | 3 | 1 | 2 | 16 |
+> | 53 | 棠記工程有限公司 | 1 | 1 | 0 | **0** | 0 | 0 | 0 | 0 | 1 | 2 | 5 |
+> | 54 | 秋茂工程公司 | 0 | 0 | 0 | **0** | 0 | 0 | 3 | 0 | 1 | 2 | 6 |
+> | 55 | 瑋業發展建築有限公司 | 0 | 0 | 0 | **0** | 2 | 3 | 3 | 3 | 1 | 2 | 14 |
+> | 56 | 偉利建築工程有限公司 | 1 | 0 | 2 | **0** | 3 | 3 | 3 | 3 | 1 | 2 | 18 |
+> | 57 | 竣鴻工程有限公司 | 1 | 1 | 0 | **0** | 1 | 0 | 3 | 0 | 0 | 1 | 7 |
+>
+> (*Note: Scores for Similar Project Experience being **All 0***)
+
+> **Evidence [B]: Failure Statistics**
+>
+> | 評分項目 <br> Criteria | 獲得零分的公司數量 (共 57 間) <br> Bidders who score 0 (57 tenders) | 佔比 (%) <br> Percentage (%) |
+> | :--- | :---: | :---: |
+> | **同類型工程記錄 (Experience)** | **57** | **100.0%** |
+> | 財務證明 (Financial Proof) | 46 | 80.7% |
+> | 過往 8 年訴訟記錄 (Litigation) | 36 | 63.2% |
+> | 推薦信 (Recommendation) | 33 | 57.9% |
+> | 公司背景 (Background) | 19 | 33.3% |
+
+> **Evidence [C]: The Manager's False Assurance**  
+> *Source: 11th MC Meeting Minutes (No. 17) / 2023-03-17*
+>
+> "委員...查詢評標準則的要求是否合理？「置邦」工程部鄭經理回應**一般承建商大部分能符合相關要求**。"
+>
+> *Translation:*
+> "Member asked if criteria were reasonable... ISS Manager Cheng replied that **most contractors can meet the relevant requirements**."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"The criteria were ambitious to attract top-tier firms, but the market response was weaker than expected. The fact that everyone scored zero proves the system was fair and unbiased—no one got special treatment. The Manager's comment referred to general licensing requirements, not specific scoring tiers. Prestige winning despite the zero shows they excelled in other areas."
+
+**The Logical Trap:**
+1.  **Fairness vs. Manipulation:** "Fairly" giving everyone zero defeats the purpose of scoring. If the criteria don't differentiate between a firm with 1 similar project and a firm with 0, the criteria are useless. The "Zero Score" effectively deleted "Experience" from the evaluation, shifting the weight to manipulatable categories like "Interview" (where Prestige got 90) and "Company Background" (where Prestige got fake full marks).
+2.  **The "Market Response" Excuse:** If 80% of bidders fail the financial check and 100% fail the experience check, a responsible Consultant should declare a **Failed Tender** and re-tender with adjusted criteria or a better invitation list. Proceeding with a pool of "unqualified" bidders proves the goal was to pick a winner, not to find competence.
+3.  **The Manager's Liability:** A Manager advising a client must be accurate. Saying "most can meet" when "none can meet" is **Negligent Misstatement**. It lulled the MC into a false sense of security.
+
+**¶ Statutory Basis:**
+
+*   **Context:** Professional Negligence / Misrepresentation.
+
+**📅 Timeline:**
+*   **2023-03-17:** ISS Manager claims "most can meet requirements."
+*   **2023-07-04:** Bids received. 100% fail experience criteria.
+*   **2023-08-31:** Consultant scores everyone 0 on experience, but gives Prestige high marks elsewhere.
+*   **2024-01-28:** Prestige wins.
+
+**🔗 Links:**
+*   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf) | [Backup](強制驗樓驗窗計劃%2011.%20樓宇復修工程資料簡報小冊子.pdf)
+*   [Minutes 17](http://www.wangfuk.org/html/meeting/05/第17次全體委員會議記錄.pdf) | [Backup](2023-03-17%20第十一屆第十七次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2023-03-17-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E5%8D%81%E4%B8%83%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 
 ---
 
