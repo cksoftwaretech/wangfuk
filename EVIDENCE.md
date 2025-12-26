@@ -596,6 +596,7 @@ Chan fled HK in 2001 just as the ICAC arrested his brother. Prosecution revealed
 *   **2021-06-28:** Suggests surveying residents concerning the Consultancy contract — [minutes](http://www.wangfuk.org/html/meeting/05/第5次全體委員會議記錄.pdf)
 *   **Jul 2021:** Drafts the survey as a Publicity & PR Group member of MC — [minutes](http://www.wangfuk.org/html/meeting/05/第5次全體委員會議記錄.pdf)
 *   **2021-07-18:** Survey issued with specific "<400k" option while Will Power's bid being $308k — [minutes](http://www.wangfuk.org/html/meeting/05/第5次全體委員會議記錄.pdf)
+*   **2021-10-04:** To suppress opposition, Chan states that residents who engage in estate affairs discussion have to verify identities — [minutes](http://www.wangfuk.org/html/meeting/05/第8次全體委員會議記錄.pdf) | [ref](#-e-admin-2021-08-16-01-the-estate-under-martial-law-surveillance-doxxing-and-propaganda)
 *   **2021-12-11:** Will Power wins Consultant contract (HK$308k); Chan participates in the meeting — [minutes](http://www.wangfuk.org/html/meeting/03/特別業主大會會議紀錄.pdf)
 *   **2023-03-04:** Coordinates in the EGM; reportedly silences questions and pushes the vote; passes the tender document — [ref](#-e-admin-2023-03-04-01-the-shut-up-and-vote-how-the-advisor-silenced-questions-to-force-through-the-tender)
 *   **2024-01-28:** Prestige wins the contract (HK$330M); Chan participates in the meeting — [minutes](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf)
@@ -1369,7 +1370,7 @@ The survey was drafted by the "Publicity & PR Group," led by Chairman Tang himse
 Official records and resident testimonies confirm that in 2021, the MC Chairman **Tang Kwok-kuen** (鄧國權), advised by **Chan Kau-keung** (陳球強), implemented a "Micro-Totalitarian" regime to suppress the emerging opposition. The estate's resources were weaponized against its own owners through surveillance, public shaming, and restriction of civil liberties within the private property.
 
 **1. The "Security" Crackdown:**
-The MC hired **extra security guards** two weeks before the EGM, ostensibly to "prevent disturbance."
+The MC hired **extra security guards** before the EGM, ostensibly to "prevent disturbance."
 *   *The Reality:* Residents reported these guards were "strangers" in white shirts with no nametags, whose sole job was to sit and **watch residents** distributing leaflets. This transformed the security force into a **Political Police** unit monitoring dissent.
 
 **2. The "Permit" Regime:**
