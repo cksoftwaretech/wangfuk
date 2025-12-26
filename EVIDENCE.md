@@ -1362,6 +1362,150 @@ The survey was drafted by the "Publicity & PR Group," led by Chairman Tang himse
 
 ---
 
+### 🆔 [E-ADMIN-2021-08-16-01] The Estate under Martial Law: Surveillance, Doxxing, and Propaganda
+
+**🚨 Significance:**
+
+Official records and resident testimonies confirm that in 2021, the MC Chairman **Tang Kwok-kuen** (鄧國權), advised by **Chan Kau-keung** (陳球強), implemented a "Micro-Totalitarian" regime to suppress the emerging opposition. The estate's resources were weaponized against its own owners through surveillance, public shaming, and restriction of civil liberties within the private property.
+
+**1. The "Security" Crackdown:**
+The MC hired **extra security guards** two weeks before the EGM, ostensibly to "prevent disturbance."
+*   *The Reality:* Residents reported these guards were "strangers" in white shirts with no nametags, whose sole job was to sit and **watch residents** distributing leaflets. This transformed the security force into a **Political Police** unit monitoring dissent.
+
+**2. The "Permit" Regime:**
+The MC passed a resolution requiring owners to **register and apply** before communicating in public areas.
+*   *The Control:* Chairman Tang claimed "lawyers said" the MC has the right to approve any activity. This effectively abolished freedom of assembly within the estate, ensuring only pro-MC messages could be heard.
+
+**3. State-Sponsored Doxxing:**
+When resident Mrs. Li (Yip Bik-yi) submitted the 5% petition, the MC posted a letter containing her **full name and address** in public lobbies.
+*   *The Malice:* This was a calculated act of **Doxxing** to intimidate the convenor. The address was only redacted after complaints, proving the initial exposure was intentional.
+
+**4. The Propaganda War:**
+Using estate funds, the MC printed a "Special Issue" (宏福特刊) unprecedented in the entire estate history, and hung giant banners attacking the opposition.
+*   *The Rhetoric:* The opposition were labeled "**Swindlers**" (騙子) and accused of "**Ulterior Motives**" (居心叵測). The MC framed itself as "Loyal Volunteers" being bullied. This dehumanizing language mirrors authoritarian propaganda designed to delegitimize critics as "Enemies of the State."
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Security Crackdown**  
+> *Source: 11th MC Meeting Minutes (No. 7) / 2021-08-30*
+>
+> "4.5 委員要求... 於大會前兩星期起**特別增聘保安員**巡邏屋苑，以防止本苑業戶被滋擾。"
+>
+> *Translation:*
+> "4.5 Members requested... starting two weeks before the meeting, **specially hire additional security guards** to patrol the estate, to prevent residents from being disturbed."
+
+> **Evidence [B]: The "Stranger" Guards**  
+> *Source: Resident FB Post / 2021-09-13*
+>
+> "法團最近請咗啲生面口嘅人做保安，街坊問佢哋係乜水做乜坐喺度，佢哋話自己係保安，唔需要向街坊交待工作。名牌上面又冇寫姓名，着件白恤衫黑褲...如果真係保安，點解**坐喺度唔做嘢**業主啲錢咁好呃嗎？"
+>
+> *Translation:*
+> "The MC recently hired strangers as guards... they said they are guards and don't need to explain their work to residents. No names on badges; in white shirts and black pants... If real guards, why do they just **sit there doing nothing**? Are owners’ funds being misused? "
+
+> **Evidence [C]: The Surveilance**  
+> *Source: Mrs. Li FB Post / 2021-09-19*
+>
+> "法團...特別請了多個保安...實測(質)**監視和影擺街站業主**的相。"
+>
+> *Translation:*
+> "The MC hired extra security...to monitor and photographed owners."
+
+> **Evidence [D]: The "Permit" Regime**  
+> *Source: 11th MC Meeting Minutes (No. 8) / 2021-10-04*
+>
+> "5.1 鄧主席表示... 派發傳單、擺設枱椅... 這種不負責任而漠視管理秩序是不容許的...  
+5.2 陳顧問[陳球強]表示如屬業主公開交流屋苑事務，應有負責人登記以證明其身分  
+5.3 ...律師指出管委會有權批核任何在屋苑公眾範圍內發生的活動... 業主亦**不能以私人物品佔用公眾地方**。"
+>
+> *Translation:*
+> "5.1 Chairman Tang stated... distributing leaflets, setting up tables... such irresponsible disregard for order is not allowed...  
+5.2 Consultant Chan [Chan Kau-keung] said public owner discussions should have a registered responsible person to verify identity.  
+5.3 ...Lawyer pointed out the MC has the right to approve any activity in public areas... owners also **cannot occupy public space with private items**."
+
+> **Evidence [E]: The "Confirmation Requests"**  
+> *Source: 11th MC Meeting Minutes (No. 6) / 2021-08-09*
+>
+> "7.3 鄧主席報告... 認為有責任向所有簽名人士發出簽名確認信件... 8 月 3 日發出"
+>
+> *Translation:*
+> "7.3 Chairman Tang reported... believed it was a responsibility to send confirmation letters to all signatories... sent on Aug 3."
+
+> **Evidence [F]: Doxxing the Dissident**  
+> *Source: InMediaHK / 2021-12-08*
+>
+> "法團... 將有關信件貼於屋苑公共範圍... 信上有李太的**全名和住址**... 投訴後，法團才用筆塗去住址。"
+>
+> *Translation:*
+> "The MC... posted the letter in public areas... containing Mrs. Li's **full name and address**... only redacted after complaint."
+
+> **Evidence [G]: The "Swindler" Propaganda**  
+> *Source: Wang Fuk Special Issue / 2021-07-18*
+>
+> "有「心」人仕出現啦！？... 眉飛色舞的**騙子**總令人心動; 老實忠誠的義工總被人欺凌"
+>
+> *Translation:*
+> "People with 'ulterior motives' have appeared!? ... Dancing **swindlers** are always appealing; Honest, loyal volunteers are always bullied."
+
+> **Evidence [H]: The Giant Banners**  
+> *Source: Estate Photos (FB Group) / 2021-09-15*
+>
+> "[Huge Banner 1]: **抹黑法團 居心叵測**"  
+> "[Huge Banner 2]: **撤換法團 有利業主嗎？**"
+>
+> *Translation:*  
+> "[Huge Banner 1]: **Smearing the MC, Ulterior Motives**"  
+> "[Huge Banner 2]: **Is Replacing the MC Beneficial to Owners?**"
+
+> **Evidence [I]: The "Opinion Survey" Weapon**  
+> *Source: 11th MC Meeting Minutes (No. 9) / 2021-11-17*
+>
+> "法團於 2021 年 10 月 30 日向各業主發出問卷調查...
+> 2. 您是否支持現屆法團管委會繼續履行職責？ **支持 (65.1%)**
+> 3. 您認為業主...進行公開宣傳活動，是否需要登記申請？ **需要 (69.7%)**"
+>
+> *Translation:*
+> "MC issued survey on Oct 30, 2021...
+> 2. Do you support the current MC continuing? **Support (65.1%)**
+> 3. Do you think owners... need to apply for registration for public activities? **Need (69.7%)**"
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**  
+"We have a duty to maintain order and protect residents' privacy from harassment by political groups. Unauthorized gatherings block passageways and create nuisance. The extra security was for crowd control, not surveillance. The banners and newsletters were necessary to clarify the truth against malicious rumors. Posting the letter was standard administrative procedure to contact the convenor."
+
+**The Logical Trap:**
+1.  **Harassment vs. Communication:** Residents handing out leaflets about *their own money* is not harassment; it is **democratic participation**. Sending "nameless guards" to stare at them is harassment.
+2.  **The "Standard Procedure" Lie:** Standard procedure does not involve posting a resident's *private address* on a public notice board for 1,984 households to see. That is a violation of the **Privacy Ordinance**. If it was just to "contact" her, a letter in her mailbox would suffice. The public posting was for **Shaming**, not contacting.
+3.  **Asymmetric Warfare:** The MC used **public funds** to print banners attacking the owners who paid those fees. Using the owners' money to insult the owners ("Swindlers") is a misappropriation of resources for political survival.
+
+**¶ Statutory Basis:**
+
+*   **Context:** Personal Data (Privacy) Ordinance / Freedom of Expression in Private Estates.
+
+**📅 Timeline:**
+*   **2021-07-18:** MC issues "Special Issue" propaganda — [source](http://www.wangfuk.org/html/comm/02/宏福特刊.pdf)
+*   **2021-08-03:** MC sends intimidating confirmation requests to signitories — [minutes](http://www.wangfuk.org/html/meeting/05/第6次全體委員會議記錄v2.pdf) | [ref](#-e-admin-2024-07-22-01-the-questionnaire-trap-admit-liability-or-withdraw)
+*   **2021-08-16:** MC hires extra security to watch residents — [minutes](http://www.wangfuk.org/html/meeting/05/第7次全體委員會議記錄.pdf)
+*   **2021-09-15:** Huge banners accusing smear — [source](https://www.facebook.com/share/p/1B16JRc2Jh/)
+*   **2021-09-17:** MC doxxes Mrs. Li's address — [report](https://www.inmediahk.net/node/社區/廿年冇轉過管理公司-宏福苑業主不滿「被」否決標書-召開大會望撤換法團)
+*   **2021-10-04:** MC bans unauthorized communication — [minutes](http://www.wangfuk.org/html/meeting/05/第8次全體委員會議記錄.pdf)
+*   **2021-10-30:** MC issues surveys — [minutes](http://www.wangfuk.org/html/meeting/05/第9次全體委員會議記錄.pdf)
+*   **2021-11-17:** MC claims surveys support them — [minutes](http://www.wangfuk.org/html/meeting/05/第9次全體委員會議記錄.pdf)
+*   **2021-12-11:** Opposition defeated; Cartel continues to rule — [minutes](http://www.wangfuk.org/html/meeting/03/特別業主大會會議紀錄.pdf)
+
+**🔗 Links:**
+*   [Minutes 6](http://www.wangfuk.org/html/meeting/05/第6次全體委員會議記錄v2.pdf) | [Backup](2021-08-09%20第十一屆第六次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2021-08-09-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E5%85%AD%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   [Minutes 7](http://www.wangfuk.org/html/meeting/05/第7次全體委員會議記錄.pdf) | [Backup](2021-08-30%20第十一屆第七次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2021-08-30-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%B8%83%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   [Minutes 8](http://www.wangfuk.org/html/meeting/05/第8次全體委員會議記錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2021-10-04%20第十一屆第八次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2021-10-04-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E5%85%AB%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   [Minutes 9](http://www.wangfuk.org/html/meeting/05/第9次全體委員會議記錄.pdf) | [Backup](2021-11-17%20第十一屆第九次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2021-11-17-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%B9%9D%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   [InMediaHK Report](https://www.inmediahk.net/node/社區/廿年冇轉過管理公司-宏福苑業主不滿「被」否決標書-召開大會望撤換法團)
+*   [Wang Fuk Special Issue](http://www.wangfuk.org/html/comm/02/宏福特刊.pdf)
+*   [MC Banner Photo](https://www.facebook.com/share/p/1B16JRc2Jh/)
+*   [Resident FB Post (Securities)](https://www.facebook.com/share/v/17Cqh1pVk7/)
+*   [Yip Pik-yi Post (Securities)](https://www.facebook.com/share/p/1KpFc4zdyd/)
+
+---
+
 ### 🆔 [E-CARTEL-2021-12-09-01] The Day Democracy Died: How a DAB Councilor and "532 Proxies" Sealed the Estate's Fate
 
 **🚨 Significance:**
