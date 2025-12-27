@@ -257,7 +257,7 @@ The turning point was the arrest of Alliance leaders like **Lam Cheuk-ting** (20
 *   **2017-04-11:** FactWire Database launched — [archive](https://www.factwire.org/investigation/傳真社製首個樓宇維修公開資料庫-數據分析顯示市/)
 *   **2020-08-26:** Lam Cheuk-ting arrested — [archive](https://collection.news/thestandnews/articles/126133)
 *   **2022-06-10:** FactWire closes — [archive](https://www.factwire.org/傳真社停止運作聲明/)
-*   **2024-01-28:** Wang Fuk Court falls to the Cartel — [archive](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md#2024-01-28-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   **2024-01-28:** Wang Fuk Court falls to the Cartel — [archive](MINUTES_MARKDOWN.md#2024-01-28-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 *   **2025-11-26:** 161 Dead.
 
 **🔗 Links:**
@@ -328,7 +328,7 @@ Yau's testimony described a dinner where the **MC Chairman**, **Management Compa
 
 **🔗 Links:**
 *   [InMediaHK Report on Yau Shui Tin](https://www.inmediahk.net/政經/26億圍標案提堂-被告：97後全港都有圍標)
-*   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/Leung,%20T.%20C.,%20Tsang,%20K.%20P.,%20&%20Tsui,%20K.%20K.%20(2022).pdf)
+*   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link) | [Backup](Leung,%20T.%20C.,%20Tsang,%20K.%20P.,%20&%20Tsui,%20K.%20K.%20(2022).pdf)
 
 ---
 
@@ -424,7 +424,7 @@ The study finds that price increases are *more pronounced* in districts with hig
 *   **2024-10-02:** Wang Fuk pays the "Cartel Premium" — [minutes](MINUTES_MARKDOWN.md#2024-09-21-%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%94%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 
 **🔗 Links:**
-*   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/Leung,%20T.%20C.,%20Tsang,%20K.%20P.,%20&%20Tsui,%20K.%20K.%20(2022).pdf)
+*   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link) | [Backup](Leung,%20T.%20C.,%20Tsang,%20K.%20P.,%20&%20Tsui,%20K.%20K.%20(2022).pdf)
 
 ---
 
@@ -818,7 +818,7 @@ The Government has known this for a decade. In **2015**, Secretary for Developme
 *   [Journalist's Memoir](https://www.facebook.com/share/p/17SwFq5aKu/)
 *   HK01 Report: [Tsui Lam 2023](https://www.hk01.com/article/891287) | [Tsui Lam 2024](https://www.hk01.com/article/1012190)
 *   [Dev Bureau Statement 2015](https://www.devb.gov.hk/tc/legco_matters/replies_to_legco_questions/index_id_8847.html)
-*   [Ta Kung Pao Report](https://dw-media.tkww.hk/epaper/tkp/20251128/A7_Screen.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/大公報%202025-11-28%20A7%20揭開維修棚架背後重重黑幕%20(已下架).pdf)
+*   [Ta Kung Pao Report](https://dw-media.tkww.hk/epaper/tkp/20251128/A7_Screen.pdf) | [Backup](大公報%202025-11-28%20A7%20揭開維修棚架背後重重黑幕%20(已下架).pdf)
 
 ---
 
@@ -970,11 +970,80 @@ Data from FactWire (up to 2016) shows Prestige was already one of the top 4 most
 
 **🔗 Links:**
 *   [BD Press Release](https://www.bd.gov.hk/tc/whats-new/press-releases/2025/1129-buildings-department-ordered-temporary-suspension-of-works-on-30-private-building-projects.html)
-*   [Ta Kung Pao Report](https://dw-media.tkww.hk/epaper/tkp/20251128/A7_Screen.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/大公報%202025-11-28%20A7%20揭開維修棚架背後重重黑幕%20(已下架).pdf)
-*   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/Leung,%20T.%20C.,%20Tsang,%20K.%20P.,%20&%20Tsui,%20K.%20K.%20(2022).pdf)
-*   [FactWire Database Archive](https://docs.google.com/spreadsheets/d/1O7FjXTBtbsbiWdxN43ujyuu6Cgh-I9wvdGZQq6rQEvA/edit?gid=746443571#gid=746443571) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/傳真社製首個樓宇維修公開資料庫.xlsx)
+*   [Ta Kung Pao Report](https://dw-media.tkww.hk/epaper/tkp/20251128/A7_Screen.pdf) | [Backup](大公報%202025-11-28%20A7%20揭開維修棚架背後重重黑幕%20(已下架).pdf)
+*   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link) | [Backup](Leung,%20T.%20C.,%20Tsang,%20K.%20P.,%20&%20Tsui,%20K.%20K.%20(2022).pdf)
+*   [FactWire Database Archive](https://docs.google.com/spreadsheets/d/1O7FjXTBtbsbiWdxN43ujyuu6Cgh-I9wvdGZQq6rQEvA/edit?gid=746443571#gid=746443571) | [Backup](傳真社製首個樓宇維修公開資料庫.xlsx)
 *   [The Points Media Report](https://points-media.com/最新/香港-世紀大火-學者-強制驗樓-制度-圍標-議價-宏業/)
 *   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf) | [Backup](強制驗樓驗窗計劃%2011.%20樓宇復修工程資料簡報小冊子.pdf)
+
+---
+
+### 🆔 [E-CARTEL-2017-12-31-01] The Apex Predator: The "White Power" Boss Who Controls the Triads
+
+**🚨 Significance:**
+
+Investigative reporting uncovers the ultimate hierarchy of the bid-rigging ecosystem. Industry insiders reveal that since **2017**, a new power structure has emerged above the traditional Triad gangs. A mysterious figure known as **"The Boss"** now coordinates profit distribution and work allocation. The description of this "Boss"—someone whom even Triad leaders must defer to—points directly to **state or regulatory officials** ("White Power"/白勢力), suggesting the cartel has been fully integrated into the establishment.
+
+**1. The "White Power" (白勢力):**
+*   **The Structure:** Insiders state the market is dominated by "Influential Figures," including both "Black Power" (Triads) and "White Power" (Government insiders).
+*   **The Evolution:** Pre-2017, gangs fought for turf. Post-2017, "The Boss" allocates turf, creating a stable, monopolistic  network where everyone gets a slice of the pie.
+*   **The Implications:** This explains the disappearance of violence (knifings) and the rise of administrative coercion (lawyer letters). The cartel has moved from "Street Warfare" to "Statecraft."
+
+**2. The Triad's Master:**
+An insider recounted a Triad leader pausing a profit-sharing discussion to "ask The Boss first."
+*   **The Question:** "What can Triads not handle that they can? What can Triads not decide?"
+*   **The Answer:** "**Officials and Monitoring Departments.**" Only those with the power to *legalize* the fraud (via licenses, funding approvals, inspection passes) can command the underworld. The Triads provide the muscle; the "Boss" provides the **Impunity**.
+
+**3. The "Unseeable" Problem:**
+Anti-Bid Rigging Alliance spokesman Winfield Chong (莊榮輝) confirms that for over a decade, authorities have "deliberately avoided the problem", treating bid-rigging as an "urban legend" despite overwhelming evidence. This **wilful blindness** is the hallmark of state complicity.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The "White Power" Revelation**  
+> *Source: Journalist W's Report / 2025-12-26*  
+> "有業內人士直言...「巿場一直由有勢力人士主導，黑勢力又有，**白勢力(政府內部)又有**... 街外錢齊齊搵... 即使一幫人明顯有聯繫，執法部門都難以搜證，無佢符。」"  
+> *Translation:*  
+> "An industry insider: 'The market has always been dominated by influential figures, including Black Power and **White Power (Government Insiders)**... making money from outsiders together... even if the connection is obvious, law enforcement finds it hard to gather evidence, helpless against them.'"  
+
+> **Evidence [B]: The "Boss" Hierarchy**  
+> *Source: Journalist W's Report / 2025-12-26*  
+> "另一名業內人士指...感覺在黑社會之上還有另一股勢力... 多了一個『**老闆**』的角色，負責分錢和安排工作... 只有叔父輩的大佬才知道『老闆』身份，他們都會聽『老闆』指示。"  
+> *Translation:*  
+> "Another insider says... Feel there is another force above the Triads... a '**Boss**' role added, responsible for distributing money and arranging work... Only the senior Triad uncles know the 'Boss's' identity; they all listen to the 'Boss's' instructions."  
+
+> **Evidence [C]: The Deductive Conclusion**  
+> *Source: Journalist W's Report / 2025-12-26*  
+> "有甚麼黑社會處理不到，但他們處理到？我想到只有**官員及監察部門**吧，我不會覺得出奇，條數那麼大，沒有甚麼人收買不了。"  
+> *Translation:*  
+> "[Insider:] What can Triads not handle that they can? I can only think of **officials and monitoring departments**... I wouldn't be surprised; with such huge sums, there is no one who cannot be bought."  
+
+> **Evidence [D]: The Avoidance**  
+> *Source: Journalist W's Report / 2025-12-26*  
+>  
+> "對於維修業界之間明顯有組織網絡，並存在龐大勢力，他[莊榮輝]認同，如果只有商界圍標，無可能可以操作多年，當中一定有有勢力人士，甚至受權人士才令成個制度配合，「在今次宏福苑事件之前，還有人說圍標不知道是否真的存在，彷如都巿傳說，我們反圍標都十多年，對問題視而不見，其實這是刻意迴避問題。」"  
+>  
+> *Translation:*  
+> "[Winfield Chong] agreed the repair market has an organized, powerful network; collusion couldn't run for years without powerful or authorized figures coordinating. Before the Wang Fuk case some called bid‑rigging a rumor; we've fought it 10+ years—they have been deliberately avoiding the problem."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**  
+"These are baseless conspiracy theories based on anonymous hearsay. The government maintains a zero-tolerance policy towards corruption within the civil service. The ICAC and Police operate independently and rigorously. Alleging a 'state-sponsored cartel' without specific proof undermines the rule of law and public trust in institutions."
+
+**The Logical Trap:**
+1.  **The "Zero-Tolerance" Myth:** If "zero tolerance" is real, why did the [**16 Labour Dept inspections**](#-e-gov-nets-2025-11-20-01-the-paper-shield-how-16-inspections-missed-the-fire-trap) fail to find the [fake nets](#-e-enforce-nets-2025-12-01-02-the-95-vs-35-paradox-a-statistical-miracle)? Why did the **Fire Services Dept** approve a system with [broken valves](#-e-gov-water-2025-03-24-01-official-endorsement-of-failure-how-fsd-labelled-broken-valves-as-compliant)? Why did the [**URA** fund](#-e-cartel-willpower-2024-07-19-01-the-endorsement-myth-how-ura-subsidies-were-used-to-whitewash-corruption) a rigged tender? The "Zero Tolerance" policy produced **Zero Results** (and [Zero Convictions 2019-2022](#-e-cartel-2022-12-31-01-the-zero-risk-business-5-years-1-conviction-and-the-license-to-rig)). 
+2. **The Triad's Master:** Insider said a Triad leader paused profit talks to "ask The Boss".  This can mean a network of intermediaries — senior gang figures, influential contractors, or corrupt officials — who coordinate access and approvals. Large‑scale coordination likely needs administrative facilitation (permits, contracts, inspections). The claim suggests regulatory capture or collusion, not definitive state sponsorship.
+3.  **The Missing Evidence:** The government complains about "lack of proof," yet it was the government that crushed down the [civil society](#-e-cartel-prestige-2022-06-10-01-the-death-of-data-why-the-evidence-that-convicted-the-cartel-can-never-be-gathered-again) that was gathering that proof. You cannot blindfold the witness and then complain they didn't see anything.
+
+**📅 Timeline:**
+*   **2017:** The "Boss" system reportedly consolidates power (Coincides with leadership changes).
+*   **2019-2022:** Zero convictions for bid-rigging (The Era of Impunity).
+*   **2024-01-28:** Wang Fuk tender executes the "Boss's" playbook.
+*   **2025-11-26:** 161 Dead.
+
+**🔗 Links:**
+*   [Journalist W's Report](https://www.facebook.com/share/p/19YbQWsXBe/)  
+*   [Hive Diagram based on the report](鴻毅與業界關係圖.png)
 
 ---
 
@@ -1265,7 +1334,7 @@ When questioned by media about the unreasonably low fee, both the former Chairma
 **📅 Timeline:**
 *   **2020-01-20:** Tender for Consultant. 35 firms bid — [source](https://www.facebook.com/share/p/1ASPMmAqdt/)
 *   **2021-12-11:** Will Power wins with HK$308k bid — [minutes](http://www.wangfuk.org/html/meeting/03/特別業主大會會議紀錄.pdf)
-*   **2024-01-28:** Will Power helps Prestige win HK$330M contract — [archive](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md#2024-01-28-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   **2024-01-28:** Will Power helps Prestige win HK$330M contract — [archive](MINUTES_MARKDOWN.md#2024-01-28-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 *   **2025-12-11:** Experts confirm fee is <3.33% of market rate.
 
 **🔗 Links:**
@@ -1638,7 +1707,7 @@ Using estate funds, the MC printed a "Special Issue" (宏福特刊) unprecedente
 **🔗 Links:**
 *   [Minutes 6](http://www.wangfuk.org/html/meeting/05/第6次全體委員會議記錄v2.pdf) | [Backup](2021-08-09%20第十一屆第六次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2021-08-09-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E5%85%AD%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 *   [Minutes 7](http://www.wangfuk.org/html/meeting/05/第7次全體委員會議記錄.pdf) | [Backup](2021-08-30%20第十一屆第七次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2021-08-30-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%B8%83%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
-*   [Minutes 8](http://www.wangfuk.org/html/meeting/05/第8次全體委員會議記錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2021-10-04%20第十一屆第八次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2021-10-04-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E5%85%AB%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   [Minutes 8](http://www.wangfuk.org/html/meeting/05/第8次全體委員會議記錄.pdf) | [Backup](2021-10-04%20第十一屆第八次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2021-10-04-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E5%85%AB%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 *   [Minutes 9](http://www.wangfuk.org/html/meeting/05/第9次全體委員會議記錄.pdf) | [Backup](2021-11-17%20第十一屆第九次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2021-11-17-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%B9%9D%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 *   [InMediaHK Report](https://www.inmediahk.net/node/社區/廿年冇轉過管理公司-宏福苑業主不滿「被」否決標書-召開大會望撤換法團)
 *   [Wang Fuk Special Issue](http://www.wangfuk.org/html/comm/02/宏福特刊.pdf)
@@ -1841,7 +1910,7 @@ The study found that after MBIS was introduced, Prestige's bids became **signifi
 *   **2025-12-02:** Author confirms Firm 1 identity.
 
 **🔗 Links:**
-*   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/Leung,%20T.%20C.,%20Tsang,%20K.%20P.,%20&%20Tsui,%20K.%20K.%20(2022).pdf)
+*   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link) | [Backup](Leung,%20T.%20C.,%20Tsang,%20K.%20P.,%20&%20Tsui,%20K.%20K.%20(2022).pdf)
 *   [The Points Media Report](https://points-media.com/最新/香港-世紀大火-學者-強制驗樓-制度-圍標-議價-宏業/)
 
 ---
@@ -1915,9 +1984,9 @@ The drastic drop in Press Freedom (Rank 18 to 148) correlates with the rise of u
 *   **2025-11-26:** Wang Fuk Fire (161 Dead).
 
 **🔗 Links:**
-*   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/Leung,%20T.%20C.,%20Tsang,%20K.%20P.,%20&%20Tsui,%20K.%20K.%20(2022).pdf)
+*   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link) | [Backup](Leung,%20T.%20C.,%20Tsang,%20K.%20P.,%20&%20Tsui,%20K.%20K.%20(2022).pdf)
 *   [FactWire Closure Statement](https://www.factwire.org/傳真社停止運作聲明/)
-*   [FactWire Database Archive](https://docs.google.com/spreadsheets/d/1O7FjXTBtbsbiWdxN43ujyuu6Cgh-I9wvdGZQq6rQEvA/edit?gid=746443571#gid=746443571) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/傳真社製首個樓宇維修公開資料庫.xlsx)
+*   [FactWire Database Archive](https://docs.google.com/spreadsheets/d/1O7FjXTBtbsbiWdxN43ujyuu6Cgh-I9wvdGZQq6rQEvA/edit?gid=746443571#gid=746443571) | [Backup](傳真社製首個樓宇維修公開資料庫.xlsx)
 *   [The Collective HK Interview](https://thecollectivehk.com/採訪手記宏福苑圍標之禍給妹妹的信/)
 *   [HK's ranking in RSF's World Press Freedom Index](https://en.wikipedia.org/wiki/Freedom_of_the_press_in_Hong_Kong)
 
@@ -2077,7 +2146,7 @@ The meeting was attended by a roster of pro-establishment figures (Yu Chi-wing, 
 *   **2023-03-05 to 03-06:** Eyewitnesses document the process.
 
 **🔗 Links:**
-*   [Minutes EGM](http://www.wangfuk.org/html/meeting/03/2023年3月4日特別業主大會會議紀錄.pdf) | [Backup](2023-03-04%20第十一屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md#2023-03-04-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   [Minutes EGM](http://www.wangfuk.org/html/meeting/03/2023年3月4日特別業主大會會議紀錄.pdf) | [Backup](2023-03-04%20第十一屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2023-03-04-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 *   [Resident Ma Choyin Post](https://www.facebook.com/share/p/1aEfi4nV8j/)
 *   [Resident Karl Cow Post](https://www.facebook.com/share/p/1DSVThpQ1w/)
 
@@ -2527,7 +2596,7 @@ Out of 57 bidders, Prestige was the **only one** rated as "First Choice". This o
 **🔗 Links:**
 *   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf) | [Backup](強制驗樓驗窗計劃%2011.%20樓宇復修工程資料簡報小冊子.pdf)
 *   [Smart Tender DIY Tool Kit](https://www.brplatform.org.hk/f/upload/13750/DIY_Tool_Kit.pdf)
-*   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/Leung,%20T.%20C.,%20Tsang,%20K.%20P.,%20&%20Tsui,%20K.%20K.%20(2022).pdf)
+*   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link) | [Backup](Leung,%20T.%20C.,%20Tsang,%20K.%20P.,%20&%20Tsui,%20K.%20K.%20(2022).pdf)
 *   [InMedia Report](https://www.inmediahk.net/政經/26億圍標案提堂-被告：97後全港都有圍標)
 
 ---
@@ -3813,10 +3882,10 @@ Despite the error in June 2024, the new MC under Tsui Man-kam reappointed C.W. C
 
 **🔗 Links:**
 *   [11th MC Minutes 19](http://www.wangfuk.org/html/meeting/05/第19次全體委員會議記錄.pdf) | [Backup](2023-07-14%20第十一屆第十九次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2023-07-14-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E5%8D%81%E4%B9%9D%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
-*   [11th MC Minutes 24](http://www.wangfuk.org/html/meeting/05/第24次全體委員會議記錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-04-22%20第十一屆第二十四次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2024-04-22-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   [11th MC Minutes 24](http://www.wangfuk.org/html/meeting/05/第24次全體委員會議記錄.pdf) | [Backup](2024-04-22%20第十一屆第二十四次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2024-04-22-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 *   [Resident FB Complaint](https://www.facebook.com/share/p/1ZfaZf9Jtb/)
-*   [12 MC Minutes 1](http://www.wangfuk.org/html/meeting/12/第1次全體委員會議記錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2024-06-14%20第十二屆第一次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2024-06-14-%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
-*   [12 MC Minutes 12](http://www.wangfuk.org/html/meeting/12/2025-10-27%20第12次全體委員會議記錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2025-09-29%20第十二屆第十二次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2025-09-29-%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   [12 MC Minutes 1](http://www.wangfuk.org/html/meeting/12/第1次全體委員會議記錄.pdf) | [Backup](2024-06-14%20第十二屆第一次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2024-06-14-%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   [12 MC Minutes 12](http://www.wangfuk.org/html/meeting/12/2025-10-27%20第12次全體委員會議記錄.pdf) | [Backup](2025-09-29%20第十二屆第十二次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2025-09-29-%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 
 ---
 
@@ -3920,11 +3989,11 @@ Prestige's notice ended with an ultimatum: "If not decided by Oct 7, we will sti
 
 **🔗 Links:**
 
-*   [Minute 2](http://www.wangfuk.org/html/meeting/12/第2次全體委員會議紀錄.pdf) | [Backup](2024-06-27%20第十二屆第二次會議紀錄.pdf) | [Archive](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md#2024-06-27-%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
-*   [Prestige Notice](http://www.wangfuk.org/html/home/doc/2024-07-27%20L027有關：更換外牆飾面物料澄清事宜.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/工程承建商通告%2021%202024-07-27%20L027有關：更換外牆飾面物料澄清事宜(A-H信箱).pdf)
+*   [Minute 2](http://www.wangfuk.org/html/meeting/12/第2次全體委員會議紀錄.pdf) | [Backup](2024-06-27%20第十二屆第二次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2024-06-27-%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   [Prestige Notice](http://www.wangfuk.org/html/home/doc/2024-07-27%20L027有關：更換外牆飾面物料澄清事宜.pdf) | [Backup](工程承建商通告%2021%202024-07-27%20L027有關：更換外牆飾面物料澄清事宜(A-H信箱).pdf)
 *   [Resident FB Reaction](https://www.facebook.com/share/p/1ah5ELGchv/)
 *   [Comparison Chart](http://www.wangfuk.org/html/home/doc/2024-09-27%20紙皮石與磚瓦比較%20(鴻毅).pdf) | [Backup](大維修相關資訊%204.%202024-09-27%20紙皮石與磚瓦比較%20(鴻毅).pdf)
-*   [EGM Minutes (The Offer)](http://www.wangfuk.org/html/meeting/03/特別業主大會會議記錄.pdf) | [Backup](2024-10-05%20第十二屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](https://github.com/sparktsang/wangfuk/blob/main/MINUTES_MARKDOWN.md#2024-10-05-%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   [EGM Minutes (The Offer)](http://www.wangfuk.org/html/meeting/03/特別業主大會會議記錄.pdf) | [Backup](2024-10-05%20第十二屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2024-10-05-%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 
 ---
 
@@ -7013,7 +7082,7 @@ The censorship was executed clumsily. The digital paper index jumps from **Page 
 
 **🔗 Links:**
 *   [CNA Report on Deletion](https://www.cna.com.tw/news/acn/202512010203.aspx)
-*   [TKP 2025-11-28 A7 (Archived)](https://dw-media.tkww.hk/epaper/tkp/20251128/A7_Screen.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/大公報%202025-11-28%20A7%20揭開維修棚架背後重重黑幕%20(已下架).pdf)
+*   [TKP 2025-11-28 A7 (Archived)](https://dw-media.tkww.hk/epaper/tkp/20251128/A7_Screen.pdf) | [Backup](大公報%202025-11-28%20A7%20揭開維修棚架背後重重黑幕%20(已下架).pdf)
 *   [OSNS Official Statement](https://www.osns.gov.cn/20251129/30f5281544b14568a781169a65e5f55f/c.html)
 
 ---
