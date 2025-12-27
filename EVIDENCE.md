@@ -97,7 +97,7 @@ Corporate records and court judgments reveal that the renovation consultant for 
 
 **1. The "Century" Connection:**
 Will Power was co-founded in 2006 by **William Shum (沈鉅忠)**. Shum was previously a director and shareholder of **Century Architects Limited (世紀建築師樓有限公司)** from 2001 to 2005.  
-*   *The Legacy:* Century was a key conspirator in the **Garden Vista (濱景花園)** bid-rigging case (DCCC 552/2015), alongside **Global Housing (環球屋宇)**.
+*   *The Legacy:* Century was a key conspirator in the **Garden Vista (濱景花園)** bid-rigging case (DCCC 552/2015), alongside **Universal Housing (環球屋宇)**.
 
 **2. The Rebranding Strategy:**
 Shortly after Century was embroiled in corruption scandals (including a 2002 bribery conviction of its sales manager), the company ceased operations.  
@@ -112,7 +112,7 @@ The fact that Wang Fuk Court's consultant was born from the ashes of a proven bi
 > *Source: Journalist W's Report / 2025-12-26*  
 > "沈鉅忠是鴻毅創辦人之一... 2001年至2005年間曾持有另一間公司世紀建築師樓有限公司，這公司涉及一宗沙田濱景花園的案件... 案中自首的判頭丘瑞田在庭上指出... 協助聯繫「世紀」... 令「環球屋宇」取得顧問合約"  
 > *Translation:*  
-> "Shum cofounded Will Power... Between 2001 and 2005, he held another company, Century Architects Limited, which was involved in the Shatin Garden Vista case... The self-surrendered subcontractor Yau Shui-tin stated in court... he assisted in contacting 'Century'... enabling 'Universial Housing' to win the consultancy contract."  
+> "Shum cofounded Will Power... Between 2001 and 2005, he held another company, Century Architects Limited, which was involved in the Shatin Garden Vista case... The self-surrendered subcontractor Yau Shui-tin stated in court... he assisted in contacting 'Century'... enabling 'Universal Housing' to win the consultancy contract."  
 
 > **Evidence [B]: The "Signboard Change"**  
 > *Source: Journalist W's Report / 2025-12-26*  
