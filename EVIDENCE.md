@@ -891,7 +891,7 @@ Bidding activities record stem from 2009-2016 FactWire database*)
 
 **🔗 Links:**
 *   [Journalist W's Report](https://www.facebook.com/share/p/19YbQWsXBe/)
-*   [Hive Diagram based on the report](鴻毅與業界關係圖.png)
+*   [Hive Diagram based on the report](鴻毅與業界關係圖.png) | [Documentation to rebuild the Hive Diagram](鴻毅與業界關係圖代碼.md)
 
 **📊 Diagram:**  
   
