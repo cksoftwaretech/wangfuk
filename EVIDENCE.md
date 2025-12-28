@@ -2008,7 +2008,7 @@ Official statistics reveal that Hong Kong has effectively become a "Safe Haven" 
 *   *The Signal:* This statistical void sends a clear message to cartels: "The Sheriff is asleep." The risk of legal consequences for bid-rigging has mathematically approached zero.
 
 **2. The "Small Potato" Scapegoat:**
-The solitary conviction in 2018 (Tsang Hin-kit) was a remnant of the 2013 Garden Vista case, only possible because of whistleblower Yau Shu-tin.
+The solitary conviction in 2018 (Tsang Hin-kit/曾憲傑) was a remnant of the 2013 Garden Vista case, only possible because of whistleblower Yau Shu-tin.
 *   *The Scale:* Tsang accepted **HK$200,000** in a project worth **HK$262 Million**. He was a maintenance manager, not a mastermind.
 *   *The Reality:* The system only catches the minnows (who take 0.07%), while the sharks (who take the 17% cut) swim free.
 
@@ -2050,9 +2050,9 @@ The period of "Zero Convictions" (2019-2022) coincides with the dismantling of [
 *   **Context:** Prevention of Bribery Ordinance (Enforcement Efficacy).
 
 **📅 Timeline:**
-*   **Nov 2013:** Garden Vista scandal breaks.
-*   **2018-05-11:** The last successful conviction (Tsang).
-*   **2019-2022:** The "Golden Age" for Cartels (Zero Convictions).
+*   **2013-10-12:** Garden Vista scandal breaks — [archive](https://www.facebook.com/share/17WHQjNsY5/)
+*   **2018-05-11:** The last successful conviction (Tsang) — [report](https://hk.on.cc/hk/bkn/cnt/news/20180511/bkn-20180511150642740-0511_00822_001.html)
+*   **2019-2022:** The "Golden Age" for Cartels (Zero Convictions) — [source]((https://www.info.gov.hk/gia/general/202302/08/P2023020800291.htm))
 *   **2023-2024:** Wang Fuk Cartel operates in this low risk environment.
 
 **🔗 Links:**
