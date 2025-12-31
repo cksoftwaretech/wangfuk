@@ -1515,6 +1515,96 @@ Owners likely avoided the cheapest options (like Paul Kong) thinking they were "
 
 ---
 
+### 🆔 [E-ADMIN-2021-03-06-01] The "3-Month" Loop: How the MC Renewed the Management Contract 7 Times to Bypass Owners
+
+**🚨 Significance:**
+
+Official records expose how the MC, led by Chairman **Tang Kwok-kuen** (鄧國權), utilized a tactic of "Administrative Attrition" to keep the Property Manager (**ISS EastPoint**) in power without a proper mandate. After a rigged tender process caused a riot at the March 2021 EGM, the MC bypassed the need for a vote by repeatedly renewing ISS's contract on a "temporary" 3-month basis—**seven consecutive times** over 21 months—until they could engineer a landslide victory.
+
+**1. The Rigged "Sole Candidate" (March 2021):**
+In the 2021 tender, the MC disqualified **3 out of 4 bidders** (Synergis, Kai Shing, Goodwill) for failing "qualification checks," leaving **ISS** as the *only* valid candidate.
+*   *The Backlash:* Owners were so outraged by this "North Korean-style" election that they shouted down the meeting, forcing the cancellation of the agenda.
+*   *The Lesson:* The MC realized they couldn't force a vote amidst high anger, so they switched to a war of attrition.
+
+**2. The "3-Month" Loophole:**
+Instead of re-tendering immediately, the MC used its delegated power to approve short-term extensions.
+*   *The Timeline:* Mar 2021 -> Jun 2021 -> Sep 2021 -> Dec 2021 -> Mar 2022 -> Sep 2022 -> Dec 2022.
+*   *The Strategy:* By breaking a 2-year contract into 3-month chunks, the MC bypassed the need for an EGM vote, effectively granting ISS a **2-year contract without owner consent**.
+
+**3. The Quid Pro Quo:**
+This "protection" of ISS explains why the management company later acted as the MC's enforcer. They owed their survival entirely to the Chairman's maneuvers.
+
+**📜 Original Record:**
+
+>**Evidence [A]: The Tailor-made Qualifications**  
+>*Source: 11th MC EGM Minutes / 2021-03-06*
+>
+> 管理合約服務資歷要求如下：  
+> 1. 不少於1000萬資產值銀行證明；2. 15年物業管理經驗及香港物業管理公司協會會員；3. 管理1500個單位以上及私人物業10個；4. 最少2名董事及10名全職經理級成員具房屋管理專業資格；5. 最少聘請3名工程經理或工程師全職專業資格；6. 持有最少3項ISO品質證書；7. 專業責任保險保額不少於港幣2000萬。  
+> 是次管理合約服務共收到4份標書：  
+> 「置佳物業服務有限公司」...2個項目不符合資歷要求，故標書無效；  
+> 「昇捷管理服務有限公司」...1個項目不符合資歷要求，故標書無效；  
+> 「九源物業管理公司」...4個項目不符合資歷要求，故標書無效；  
+> 「置邦興業有限公司」全部符合以上資歷，屬有效標書。
+>
+>**Translation:**  
+>**Eligibility:** bank proof ≥ HK$10M; 15 years PM experience; HKPMCA member; manage ≥1,500 units & 10 private properties; ≥2 directors & 10 full‑time managers with housing‑management qualifications; ≥3 full‑time engineering managers/engineers; ≥3 ISO certificates; professional indemnity ≥ HK$20M.  
+>**Tenders:** 4 bids received; three firms failed eligibility (2, 1, 4 items) and were invalidated; **ISS** met all criteria and was accepted.
+
+> **Evidence [B]: The Riot**  
+> *Source: 11th MC EGM Minutes / 2021-03-06*  
+>  
+> "...十多名情緒較激動的人仕齊起哄、質疑議程...鄧主席嘗試委派秘書、事務顧問及律師解述相關事宜，惟發言亦被中斷、拒絕或無視，最終會議仍未能有序地進行，故徵詢律師意見後將是項議程取消。"  
+>  
+> *Translation:*  
+> "Over ten agitated attendees heckled, questioned the agenda... Chair Tang’s attempts to have the secretary, consultant and lawyer explain were interrupted or ignored; the meeting remained disorderly, and after legal advice the agenda item was cancelled."
+
+> **Evidence [C]: The Endless Extensions**  
+> *Source: Various MC Meeting Minutes (2021-2022)*
+>
+> *   **Mar 29, 2021:** "延續合約三個月" (Extend 3 months)
+> *   **Jun 28, 2021:** "延續合約三個月" (Extend 3 months)
+> *   **Aug 30, 2021:** "延續合約三個月" (Extend 3 months)
+> *   **Dec 22, 2021:** "延續合約 3 個月" (Extend 3 months)
+> *   **May 13, 2022:** "延續合約至 2022 年 9 月 30 日" (Extend to Sep)
+> *   **Aug 29, 2022:** "延續合約至 2022 年 12 月 31 日" (Extend to Dec)
+
+> **Evidence [D]: The Final Victory**
+> *Source: 11th MC AGM Minutes / 2022-12-17*
+>
+> "置邦興業有限公司 **3514 (88.6%)**"
+>
+> *Translation:*
+> "ISS EastPoint **3,514 (88.6%)**"
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"The extensions were necessary to ensure continuity of essential services (security, cleaning) while we prepared a new, robust tender process. The pandemic caused administrative delays. We could not leave the estate unmanaged. The final vote in Dec 2022 was open to 4 candidates, and ISS won by a landslide, proving owner satisfaction."
+
+**The Logical Trap:**
+1.  **Delay vs. Intent:** Re-tendering does not take 21 months. The tender documents were already ready in Jan 2021. The "Pandemic" excuse wears thin when other estates managed to hold meetings. The delay was tactical—waiting for the opposition's anger to fade.
+2.  **The "Open" Tender Illusion:** By Dec 2022, the opposition had been crushed by the ["Martial Law" tactics](#-e-admin-2021-08-16-01-the-estate-under-martial-law-surveillance-doxxing-and-propaganda) implemented during the extension period. The 88.6% vote reflects the success of the **Proxy Machine**, not genuine satisfaction.
+3.  **Conflict of Interest:** A Management Company existing on "3-month life support" is totally beholden to the MC Chairman. They cannot act as a neutral check and balance. This dependency corrupted the entire management structure, leading directly to the safety failures that caused the fire.
+
+**¶ Statutory Basis:**
+
+*   **Context:** Building Management Ordinance (Procurement of Supplies, Goods & Services).
+
+**📅 Timeline:**
+*   **2021-03-06:** ISS sole candidacy sparks riot; vote cancelled — [minutes]((http://www.wangfuk.org/html/meeting/03/第十一屆特別業主大會會議紀錄.pdf))
+*   **2021-2022:** MC extends ISS contract 7 times (21 months).
+*   **2021-08-16:** MC hires extra security to suppress residents (during ISS extension) — [ref](#-e-admin-2021-08-16-01-the-estate-under-martial-law-surveillance-doxxing-and-propaganda)
+*   **2022-12-17:** ISS wins "landslide" vote — [minutes](http://www.wangfuk.org/html/meeting/03/第23次全體業主大會(周年大會)會議記錄.pdf)
+*   **2025-11-26:** ISS staff disable fire alarms; 161 die.
+
+**🔗 Links:**
+*   [EGM Minutes (Mar 2021)](http://www.wangfuk.org/html/meeting/03/第十一屆特別業主大會會議紀錄.pdf)
+*   Minutes (Extentions): [2021-03-29](http://www.wangfuk.org/html/meeting/05/第十一屆-第3次全體委員會議記錄.pdf) | [2021-06-28](http://www.wangfuk.org/html/meeting/05/第5次全體委員會議記錄.pdf) | [2021-08-30](http://www.wangfuk.org/html/meeting/05/第7次全體委員會議記錄.pdf) | [2021-12-22](http://www.wangfuk.org/html/meeting/05/第10次全體委員會議記錄.pdf) | [2022-05-13](http://www.wangfuk.org/html/meeting/05/第11次全體委員會議記錄.pdf) | [2022-08-29](http://www.wangfuk.org/html/meeting/05/第12次全體委員會議記錄.pdf)
+*   [AGM Minutes (Dec 2022)](http://www.wangfuk.org/html/meeting/03/第23次全體業主大會(周年大會)會議記錄.pdf)
+
+---
+
 ### 🆔 [E-SAFETY-NETS-2021-07-07-01] The "Click-to-Certify" Industry: Buying Safety for HK$55
 
 **🚨 Significance:**
