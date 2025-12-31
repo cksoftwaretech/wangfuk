@@ -1587,7 +1587,7 @@ The MC pushed for ISS despite a proven safety failure.
 
 **🚨 Significance:**
 
-Official records expose how the MC, led by Chairman **Tang Kwok-kuen** (鄧國權), utilized a tactic of "Administrative Attrition" to keep the Property Manager (**ISS EastPoint**) in power without a proper mandate. After a rigged tender process caused a riot at the March 2021 EGM, the MC bypassed the need for a vote by repeatedly renewing ISS's contract on a "temporary" 3-month basis—**seven consecutive times** over 21 months—until they could engineer a landslide victory.
+Official records expose how the MC, led by Chairman **Tang Kwok-kuen** (鄧國權), utilized a tactic of "Administrative Attrition" to keep the Property Manager (**ISS EastPoint**) in power without a proper mandate. After a rigged tender process caused a disruption at the March 2021 EGM, the MC bypassed the need for a vote by repeatedly renewing ISS's contract on a "temporary" 3-month basis—**seven consecutive times** over 21 months—until they could engineer a landslide victory.
 
 **1. The Rigged "Sole Candidate" (March 2021):**
 In the 2021 tender, the MC disqualified **3 out of 4 bidders** (Synergis, Kai Shing, Goodwill) for failing "qualification checks," leaving **ISS** as the *only* valid candidate.
@@ -1619,7 +1619,7 @@ This "protection" of ISS explains why the management company later acted as the 
 >**Eligibility:** bank proof ≥ HK$10M; 15 years PM experience; HKPMCA member; manage ≥1,500 units & 10 private properties; ≥2 directors & 10 full‑time managers with housing‑management qualifications; ≥3 full‑time engineering managers/engineers; ≥3 ISO certificates; professional indemnity ≥ HK$20M.  
 >**Tenders:** 4 bids received; three firms failed eligibility (2, 1, 4 items) and were invalidated; **ISS** met all criteria and was accepted.
 
-> **Evidence [B]: The Riot**  
+> **Evidence [B]: The "Riot"**  
 > *Source: 11th MC EGM Minutes / 2021-03-06*  
 >  
 > "...十多名情緒較激動的人仕齊起哄、質疑議程...鄧主席嘗試委派秘書、事務顧問及律師解述相關事宜，惟發言亦被中斷、拒絕或無視，最終會議仍未能有序地進行，故徵詢律師意見後將是項議程取消。"  
@@ -1660,7 +1660,7 @@ This "protection" of ISS explains why the management company later acted as the 
 *   **Context:** Building Management Ordinance (Procurement of Supplies, Goods & Services).
 
 **📅 Timeline:**
-*   **2021-03-06:** ISS sole candidacy sparks riot; vote cancelled — [minutes](http://www.wangfuk.org/html/meeting/03/第十一屆特別業主大會會議紀錄.pdf)
+*   **2021-03-06:** ISS sole candidacy sparks disruption; vote cancelled — [minutes](http://www.wangfuk.org/html/meeting/03/第十一屆特別業主大會會議紀錄.pdf)
 *   **2021-2022:** MC extends ISS contract 6 times (21 months).
 *   **2021-08-16:** MC hires extra security to suppress residents (during ISS extension) — [ref](#-e-admin-2021-08-16-01-the-estate-under-martial-law-surveillance-doxxing-and-propaganda)
 *   **2022-12-17:** ISS wins "landslide" vote — [minutes](http://www.wangfuk.org/html/meeting/03/第23次全體業主大會(周年大會)會議記錄.pdf)
