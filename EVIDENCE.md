@@ -1673,6 +1673,73 @@ This "protection" of ISS explains why the management company later acted as the 
 
 ---
 
+### 🆔 [E-ADMIN-2021-03-15-01] The "Silenced" Secretary: How the MC Rewrote the History of a Riot
+
+**🚨 Significance:**
+
+A comparison between the MC's official "Briefing" and resident testimonies regarding the aborted EGM on March 6, 2021, reveals a systematic falsification of history. The MC used official channels to paint residents as "rioters" who "silenced" the Secretary, justifying future crackdowns, while erasing the Chairman's on-site promise to hold a consultation session.
+
+**1. The "Silenced" Myth:**
+*   **MC Version:** Claimed residents caused "chaos" and the Secretary was "**silenced**".
+*   **The Reality:** The Management Company ISS controlled the microphones and PA system. Residents assert the "silence" was actually the MC and Lawyer being **"speechless"** (口啞啞) when unable to answer valid questions about the rigged tender.
+*   *The Tactic:* Transforming "inability to answer" into "being silenced" plays the victim card, delegitimizing the residents' questions as "disruption."
+
+**2. The Vanished Promise:**
+*   **Witness Testimony:** Residents cited witnesses and confirmed that Chairman Tang **promised on-site** to hold a consultation session regarding the management contract.
+*   **The Erasure:** The official briefing and subsequent minutes **completely omitted** this promise. Instead, the MC moved straight to "renewing the contract" without consultation.
+*   *The Verdict:* The official record was sanitized to remove the MC's concessions, allowing them to renege on their word without a paper trail.
+
+**3. The Threat of Force:**
+The briefing concluded with a threat to **"expel malicious disruptors"** and **"call the police"** in future meetings.
+*   *The Escalation:* By labeling questioners as "malicious disruptors," the MC set the stage for the "Martial Law" tactics (extra security, police reports) [deployed later](#-e-admin-2021-08-16-01-the-estate-under-martial-law-surveillance-doxxing-and-propaganda) in the year.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Official "Victim" Narrative**  
+> *Source: MC Secretary Briefing Video / 2021-03-15*
+>
+> "現場多位人仕在場內起哄，導致會場失控，主席被指責，秘書被**禁言**... 為了保證延會能夠順利進行...不排除**驅趕惡意破壞大會秩序人仕**，甚至**報警求助**..."
+>
+> *Translation:*
+> "Heckling caused chaos; chairman blamed, secretary **silenced**...   To ensure the adjourned meeting proceeds...we Will not rule out **expelling malicious disruptors** or even **calling the police**..."
+
+> **Evidence [B]: The "Mic Control" Rebuttal**  
+> *Source: Resident Testimony / 2021-03-21*
+>
+> "事實係... 秘書同主席被問到口啞啞... 律師被街坊問又答唔到... 咪和擴音器都是由他們控制，大家如何把秘書禁言... "
+>
+> *Translation:*
+> "The fact is... Secretary and Chairman were **speechless**... Lawyer couldn't answer either... They controlled the mics and PA system, how could we silence the Secretary?"
+
+> **Evidence [C]: The Broken Promise**  
+> *Source: Resident Testimony / 2021-03-21*
+>
+> "當時主席亦有即場**承諾會舉行諮詢會**... [但隨後] 又話唔使開... 當無講過"
+>
+> *Translation:*
+> "Chairman **promised on-site to hold a consultation**... [later] said no need... acted like he never said it."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**  
+"The meeting descended into chaos due to unruly behavior. The 'promise' was a misunderstanding amidst the noise; the Chairman merely agreed to 'consider' views. The official minutes reflect the actionable decisions, not every verbal exchange in a chaotic environment. Protecting the dignity of the meeting required a firm stance on order."
+
+**The Logical Trap:**
+1.  **Selective Memory:** If the minutes can record the "chaos" in detail to blame residents, they could certainly record the "promise" to consult. Omitting the *solution* (consultation) while highlighting the *problem* (chaos) is editorial bias, not record-keeping.
+2.  **The "Speechless" Proof:** If the answers were solid, why not record them? The fact that the lawyer (paid by owners) couldn't justify the disqualification of 3 bidders suggests the process was indeed indefensible. "Chaos" was the result of **evasion**, not the cause of it.
+3.  **The "Safety" Pretext:** Framing questions as "security threats" requiring police intervention is the hallmarks of an authoritarian regime. It treats accountability as an assault.
+
+**📅 Timeline:**
+*   **2021-03-06:** EGM. MC Lawyer stumped; Chairman promises consultation — [source](https://www.facebook.com/share/p/19psN7bF7bFNi/)
+*   **2021-03-15:** MC releases briefing: "We were silenced," "Will call police." No mention of consultation. [source](http://www.wangfuk.org/html/incorp/02/2021.03.15.mp4)
+*   **2021-03-29:** MC renews ISS contract without consultation — [minutes](http://www.wangfuk.org/html/meeting/05/第十一屆-第3次全體委員會議記錄.pdf)
+
+**🔗 Links:**
+*   [MC Briefing Video](http://www.wangfuk.org/html/incorp/02/2021.03.15.mp4)
+*   Resident Testimony: [[1]](https://www.facebook.com/share/p/19psN7bF7bFNi/) [[2]](https://www.facebook.com/share/p/1DKf9CVDpe/)
+
+---
+
 ### 🆔 [E-SAFETY-NETS-2021-07-07-01] The "Click-to-Certify" Industry: Buying Safety for HK$55
 
 **🚨 Significance:**
