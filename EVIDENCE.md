@@ -1583,7 +1583,7 @@ The MC pushed for ISS despite a proven safety failure.
 
 ---
 
-### 🆔 [E-ADMIN-2021-03-06-01] The "3-Month" Loop: How the MC Renewed the Management Contract 7 Times to Bypass Owners
+### 🆔 [E-ADMIN-2021-03-06-01] The "3-Month" Loop: How the MC Renewed the Management Contract 21 months Without Owners' Approval
 
 **🚨 Significance:**
 
@@ -1661,7 +1661,7 @@ This "protection" of ISS explains why the management company later acted as the 
 
 **📅 Timeline:**
 *   **2021-03-06:** ISS sole candidacy sparks riot; vote cancelled — [minutes](http://www.wangfuk.org/html/meeting/03/第十一屆特別業主大會會議紀錄.pdf)
-*   **2021-2022:** MC extends ISS contract 7 times (21 months).
+*   **2021-2022:** MC extends ISS contract 6 times (21 months).
 *   **2021-08-16:** MC hires extra security to suppress residents (during ISS extension) — [ref](#-e-admin-2021-08-16-01-the-estate-under-martial-law-surveillance-doxxing-and-propaganda)
 *   **2022-12-17:** ISS wins "landslide" vote — [minutes](http://www.wangfuk.org/html/meeting/03/第23次全體業主大會(周年大會)會議記錄.pdf)
 *   **2025-11-26:** ISS staff disable fire alarms; 161 die.
