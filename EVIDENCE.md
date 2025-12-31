@@ -1515,6 +1515,74 @@ Owners likely avoided the cheapest options (like Paul Kong) thinking they were "
 
 ---
 
+### 🆔 [E-ADMIN-2021-03-02-01] The "Election Agents": Why the MC Campaigned for the Management Company
+
+**🚨 Significance:**
+
+Resident testimonies reveal a disturbing inversion of the Client-Contractor relationship. Instead of supervising the Property Manager (**ISS EastPoint/置邦**), the Management Committee (MC) actively acted as its **"Campaign Team."** Before the March 6, 2021 EGM, the MC Chairman and Vice-Chairman were observed going door-to-door to harvest proxy votes specifically to ensure ISS's re-appointment.
+
+**1. The "Employer" serving the "Employee":**
+Residents reported seeing the MC Chairman and Vice-Chairman collecting **250-300 proxy votes** to support ISS.
+*   *The Anomaly:* In a normal estate, the MC (Employer) evaluates the Manager (Employee). For the MC to aggressively campaign *for* the Manager implies a hidden alignment of interests. The MC wasn't choosing the best service for owners; they were protecting their partner.
+
+**2. The "Eternal" Reign:**
+ISS (formerly Colliers Jardine) has managed Wang Fuk Court since the MC's formation in **1997**.
+*   *The Monopoly:* 28 years of unbroken rule (1997-2025) is statistically improbable in a competitive market without systemic bias. This longevity allowed ISS to entrench itself, controlling data and logistics to facilitate the Cartel's later entry.
+
+**3. Ignoring Safety Convictions:**
+The MC pushed for ISS despite a proven safety failure.
+*   *The Record:* In 2018, ISS was convicted and fined for a **fatal accident** (worker death) in Ma On Shan.
+*   *The Betrayal:* Despite knowing ISS had a record of fatal negligence, the MC manipulated the tender (DQ'ing 3 rivals) and harvested votes to keep them. This prioritization of a specific contractor over safety foreshadowed the deadly negligence of 2025.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Door-to-Door Harvesting**   
+> *Source: Resident FB Post / 2021-03-02*
+>
+> "宏福苑法團主席、副主席... 已拿取 **250-300張授權票**，逐家逐戶拍門... 收授權書！未投票已經知道必勝...像2017年時一樣，會選置邦興業管理公司"
+>
+> *Translation:*
+> "MC Chairman, Vice-Chairman... collected **250-300 proxy votes**, knocking on doors... collecting proxies! Winner known before voting—like 2017, they'll pick ISS"
+
+> **Evidence [B]: The "Eternal" Manager**  
+> *Source: Wang Fuk Newsletter No. 21 / 2022-10-20*
+>
+> "1997年... 選出「怡高」... 2002年原公司轉名為「置邦」**一直管理至今**"
+>
+> *Translation:*
+> "1997... selected 'Colliers Jardine'... 2002 renamed to 'ISS EastPoint', **managing continuously until now**."
+
+> **Evidence [C]: The Safety Conviction**  
+> *Source: Govt Press Release / 2018-01-19*
+>
+> "置邦興業有限公司因違反《職業安全及健康條例》... 被判罰款二萬元。... 涉及... **致命意外**。"
+>
+> *Translation:*
+> "ISS EastPoint... convicted of violating OSH Ordinance... fined HK$20,000... involving a **fatal accident**."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**  
+"The MC members visited residents to encourage participation in the EGM, not to rig the vote. Proxy collection is legal. ISS has served the estate for decades, ensuring stability and familiarity with the complex infrastructure. The 2016 accident was an isolated incident in another estate and does not reflect ISS's overall safety record. Long-term partnership benefits the estate."
+
+**The Logical Trap:**
+1.  **"Participation" vs. "Direction":** If the goal was participation, why [disqualify all other bidders](#-e-admin-2021-03-06-01-the-3-month-loop-how-the-mc-renewed-the-management-contract-7-times-to-bypass-owners)? Collecting proxies while ensuring only *one* valid candidate exists is not democracy; it is a **coronation**.
+2.  **Stability vs. Stagnation:** 28 years of "stability" resulted in a management culture so complacent that they [disabled fire alarms](#-e-safety-alarm-2025-05-14-01-the-silent-switch-how-management-disabled-the-alarm-to-save-trouble) to "save trouble". Long-term incumbency breeds corruption, not quality.
+3.  **The Pattern of Death:** Dismissing a fatal accident as "isolated" is dangerous. The mindset that allowed a worker to die in 2016 (lack of supervision) is the same mindset that allowed 161 residents to die in 2025 (lack of supervision on alarms/nets). It proves a **corporate culture of negligence**.
+
+**📅 Timeline:**
+*   **1997:** ISS Eastpoint (Colliers Jardine) begins managing Wang Fuk — [source](http://www.wangfuk.org/html/comm/02/第21期%202022.10.20.pdf)
+*   **2018-01-19:** ISS convicted for fatal accident — [source](https://www.info.gov.hk/gia/general/201801/19/P2018011900731.htm)
+*   **2021-03-02:** MC Chairman harvests votes to keep ISS — [source](https://www.facebook.com/share/p/1K2bV5DECU/)
+*   **2025-11-26:** ISS manages the estate during the deadly fire.
+
+**🔗 Links:**
+*   Resident Testimonies: [[1]](https://www.facebook.com/share/p/1K2bV5DECU/) [[2]](https://www.facebook.com/share/p/14VVrW3GjYU/) [[3]](https://www.facebook.com/share/p/1FECEo8And/)
+*   [Govt Press Release (Conviction)](https://www.info.gov.hk/gia/general/201801/19/P2018011900731.htm)
+*   [Wang Fuk Newsletter 21](http://www.wangfuk.org/html/comm/02/第21期%202022.10.20.pdf)
+
+---
+
 ### 🆔 [E-ADMIN-2021-03-06-01] The "3-Month" Loop: How the MC Renewed the Management Contract 7 Times to Bypass Owners
 
 **🚨 Significance:**
