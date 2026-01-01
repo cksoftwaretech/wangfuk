@@ -1665,7 +1665,7 @@ This "protection" of ISS explains why the management company later acted as the 
 *   **2021-2022:** MC extends ISS contract 6 times (21 months).
 *   **2021-08-16:** MC hires extra security to suppress residents (during ISS extension) — [ref](#-e-admin-2021-08-16-01-the-estate-under-martial-law-surveillance-doxxing-and-propaganda)
 *   **2022-12-17:** ISS wins "landslide" vote — [minutes](http://www.wangfuk.org/html/meeting/03/第23次全體業主大會(周年大會)會議記錄.pdf)
-*   **2025-11-26:** ISS staff disable fire alarms; 161 die.
+*   **2025-11-26:** ISS staff disable fire alarms; 161 die — [ref](#-e-safety-alarm-2025-05-14-01-the-silent-switch-how-management-disabled-the-alarm-to-save-trouble)
 
 **🔗 Links:**
 *   [EGM Minutes (Mar 2021)](http://www.wangfuk.org/html/meeting/03/第十一屆特別業主大會會議紀錄.pdf)
@@ -1820,7 +1820,7 @@ During counting **he scoffed at requests for the promised consultation**—unfit
 
 **¶ Statutory Basis:**
 
-*   **Offence:** Common Assault ([Cap 212 Section 40](https://www.elegislation.gov.hk/hk/cap212!en/s40?_lang=en))
+*   **Offence:** Common Assault, [Cap 212 Section 40](https://www.elegislation.gov.hk/hk/cap212!en/s40?_lang=en)
 
 **📅 Timeline:**
 *   **2021-03-06:** Original EGM aborted due to rain.
@@ -1896,6 +1896,118 @@ State media (**People's Daily**) exposed this exact "No Sample" industry back in
 **🔗 Links:**
 *   [The Collective Report](https://thecollectivehk.com/內地檢測放蛇無需送樣付千元兩小時獲合格報告/)
 *   [People's Daily 2021 Report](http://finance.people.com.cn/BIG5/n1/2021/0707/c1004-32151237.html)
+
+---
+
+### 🆔 [E-ADMIN-2021-07-18-01] The "Mirror" Survey: How the MC Manufactured Consent for a Rigged Tender
+
+**🚨 Significance:**
+
+Following the [riotous failure](https://github.com/sparktsang/wangfuk/blob/main/EVIDENCE.md#-e-admin-2021-03-06-01-the-3-month-loop-how-the-mc-renewed-the-management-contract-21-months-without-owners-approval) to install **ISS EastPoint** as the sole candidate in March 2021, the MC launched a "Survey" in July 2021 to legitimize their disqualification criteria. A forensic comparison reveals that the survey questions were simply a copy-paste of the exact criteria used to disqualify ISS's rivals months earlier.
+
+**1. The "Tailor-Made" Questions:**
+The survey asked owners if they agreed with specific criteria, such as "Managing over 20,000 residential units" and "Having 10 manager-level staff with professional qualifications."
+*   *The Match:* These were the precise criteria used to DQ three competitors in March.
+*   *The Tactic:* By getting owners to tick "Agree" to these high barriers, the MC manufactured a retroactive mandate to exclude smaller competitors, ensuring only a giant like ISS could qualify.
+
+**2. The Omission of Reality:**
+The survey focused entirely on "Corporate Scale" and "Certificates," conspicuously omitting questions about **Performance**, **Complaint History**, or **Resident Satisfaction**.
+*   *The Blind Spot:* It did not ask: "Should a company whose staff [choke residents](#-e-admin-2021-03-27-01-the-police-state-meeting-chokeholds-bans-and-the-fake-fall) be re-appointed?". By framing "Qualification" purely as "Size," the MC erased ISS's record of abuse from the decision-making process.
+
+**3. The Strategic Delay:**
+Despite the survey showing 77.6% support for disqualifying non-compliant bids, the MC did not immediately re-tender.
+*   *The Deduction:* The MC likely feared that even with this "manufactured mandate," the 30.6% of owners who wanted *more choices* (Question 7) could still disrupt a meeting. Thus, they chose the "Attrition Strategy" (21-month extension) to wear down opposition before the final vote in Dec 2022.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The "Copy-Paste" Criteria**  
+> *Source: 11th MC Meeting Minutes (No. 6) / 2021-08-09*  
+>  
+> | | 同意 | 不同意 | 無意見 |
+> | :--- | :---: | :---: | :---: |
+> | 1. 您認為屋苑是否需要聘請管理公司？ | 91.4% | 3.9% | 4.7% |
+> | 2. 您是否同意採用公開招標的形式處理管理合約？ | 95.6% | 0.9% | 3.5% |
+> | 3. 您認為管理公司需否具備一定的資歷？ | 97.4% | 0.9% | 1.7% |
+> | a) 財政穩健 | 97.4% | 0.0% | 2.6% |
+> | b) 同類型物業管理經驗及屬專業協會成員 | 91.5% | 3.1% | 5.4% |
+> | c) 現於香港管理合共 20,000 個以上的住宅單位 | 73.9% | 8.7% | 17.4% |
+> | d) 公司 2 名董事級及 10 名經理級成員俱備房屋管理相關專業資格 | 75.4% | 10.5% | 14.1% |
+> | e) 公司最少有 3 名工程經理持有相關工程專業資格 | 77.7% | 8.7% | 13.6% |
+> | f) 持有最少三項 ISO 證書 ISO9001/ ISO14001/ ISO45001/ ISO10002 | 81.2% | 5.2% | 13.6% |
+> | g) 公司持有保額不少於港幣 2 仟萬專業責任保險 | 89.7% | 1.6% | 8.7% |
+> | 4. 上述 3. (a-g)項的管理公司資歷要求合理嗎？ | 77.5% | 7.2% | 15.3% |
+> | 5. 根據上述的要求圈出(a-g)那一項您認為是不合理？ | a:1.2%,<br>c:10.6%,<br>e:8.5%,<br>g:2.8% | b:4.6%,<br>d:12%,<br>f:6.5%, | 53.8% |
+>  
+> *Translation:*  
+>  
+> | | **Agree** | **Disagree** | **No opinion** |
+> | :--- | :---: | :---: | :---: |
+> | 1. Do you think the estate needs to hire a management company? | 91.4% | 3.9% | 4.7% |
+> | 2. Do you agree to use open tendering for the management contract? | 95.6% | 0.9% | 3.5% |
+> | 3. Should the management company have certain qualifications? | 97.4% | 0.9% | 1.7% |
+> | a) Financially sound | 97.4% | 0.0% | 2.6% |
+> | b) Experience with similar properties; member of professional association | 91.5% | 3.1% | 5.4% |
+> | c) Currently manages over 20,000 residential units in Hong Kong | 73.9% | 8.7% | 17.4% |
+> | d) At least 2 director-level and 10 manager-level staff with housing management qualifications | 75.4% | 10.5% | 14.1% |
+> | e) At least 3 engineering managers with relevant engineering qualifications | 77.7% | 8.7% | 13.6% |
+> | f) Holds at least three ISO certificates (ISO9001; ISO14001; ISO45001; ISO10002) | 81.2% | 5.2% | 13.6% |
+> | g) Professional indemnity insurance coverage of at least HK$20 million | 89.7% | 1.6% | 8.7% |
+> | 4. Are the qualification requirements in 3.(a–g) reasonable? | 77.5% | 7.2% | 15.3% |
+> | 5. Which of (a–g) do you consider unreasonable? | **a: 1.2%; c: 10.6%; e: 8.5%; g: 2.8%** | **b: 4.6%; d: 12%; f: 6.5%** | **53.8%**
+
+> **Evidence [B]: The "DQ" Mandate**  
+> *Source: 11th MC Meeting Minutes (No. 6) / 2021-08-09*  
+>  
+> | | 同意 | 不同意 | 無意見 |
+> | :--- | :---: | :---: | :---: |
+> | 6. 法團將未有符合投標條件的標書列作無效？ | 77.6% | 9.7% | 12.7% |
+> | 7. 法團應否接納不符合資歷的標書並給居民選擇？ | 30.6% | 56.5% | 12.9% |
+>  
+> *Translation:*  
+>  
+> | | **Agree** | **Disagree** | **No opinion** |
+> | :--- | :---: | :---: | :---: |
+> | 6. Should the Incorporated Owners invalidate bids that do not meet tender requirements? | 77.6% | 9.7% | 12.7% |
+> | 7. Should the Incorporated Owners accept bids that do not meet qualifications and let residents choose? | 30.6% | 56.5% | 12.9% |
+
+>**Evidence [C]: The Original Rigging**  
+>*Source: 11th MC EGM Minutes / 2021-03-06*
+>
+> 管理合約服務資歷要求如下：  
+> 1. 不少於1000萬資產值銀行證明；2. 15年物業管理經驗及香港物業管理公司協會會員；3. 管理1500個單位以上及私人物業10個；4. 最少2名董事及10名全職經理級成員具房屋管理專業資格；5. 最少聘請3名工程經理或工程師全職專業資格；6. 持有最少3項ISO品質證書；7. 專業責任保險保額不少於港幣2000萬。  
+> 是次管理合約服務共收到4份標書：  
+> 「置佳物業服務有限公司」...2個項目不符合資歷要求，故標書無效；  
+> 「昇捷管理服務有限公司」...1個項目不符合資歷要求，故標書無效；  
+> 「九源物業管理公司」...4個項目不符合資歷要求，故標書無效；  
+> 「置邦興業有限公司」全部符合以上資歷，屬有效標書。
+>
+>**Translation:**  
+>**Eligibility:** bank proof ≥ HK$10M; 15 years PM experience; HKPMCA member; manage ≥1,500 units & 10 private properties; ≥2 directors & 10 full‑time managers with housing‑management qualifications; ≥3 full‑time engineering managers/engineers; ≥3 ISO certificates; professional indemnity ≥ HK$20M.  
+>**Tenders:** 4 bids received; three firms failed eligibility (2, 1, 4 items) and were invalidated; **ISS** met all criteria and was accepted.
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**  
+"The criteria (20,000 units, 10 managers) ensure that the management company has sufficient scale and backup resources to handle a large estate like Wang Fuk. We surveyed owners to confirm they value these quality indicators. It is responsible governance to set high standards. The survey results prove owners support strict qualification checks over 'cheap but unqualified' options."
+
+**The Logical Trap:**
+1.  **Scale ≠ Quality:** Having 20,000 units elsewhere doesn't mean the team *at Wang Fuk* is competent. In fact, ISS's team at Wang Fuk was caught [disabling fire alarms](#-e-safety-alarm-2025-05-14-01-the-silent-switch-how-management-disabled-the-alarm-to-save-trouble) and [assaulting residents](#-e-admin-2021-03-27-01-the-police-state-meeting-chokeholds-bans-and-the-fake-fall). High entry barriers protected a *negligent incumbent*, not quality.
+2.  **The "Choice" Fallacy:** If the criteria are set so high that only *one* company in the tender list qualifies, it's not a "Standard"; it's a **Monopoly Grant**. Owners voted for "Quality," not for "No Choice." The MC twisted their desire for quality into a mandate for ISS.
+3.  **The "Leading" Question:** Asking "Do you think the manager should have qualifications?" is a truism. Everyone says yes. But if asked "Do you agree to criteria that disqualify everyone except the current manager?", the answer would be very different. The survey was designed to elicit a "Yes" to abstract principles, which was then used to justify a specific, rigged outcome.
+
+**¶ Statutory Basis:**
+
+*   **Context:** Fiduciary Duty (Acting in Good Faith).
+
+**📅 Timeline:**
+*   **2021-03-06:** MC uses strict criteria to DQ rivals; Agenda aborted.
+*   **2021-07-18:** MC issues survey asking owners to endorse those exact criteria.
+*   **2021-08-09:** MC claims 77% mandate for strict DQ rules.
+*   **2021-2022:** MC delays tender for 16 months, renewing ISS repeatedly.
+
+**🔗 Links:**
+*   [Minutes 6 (Survey)](http://www.wangfuk.org/html/meeting/05/第6次全體委員會議記錄v2.pdf)
+*   [Minutes EGM (Mar 6)](http://www.wangfuk.org/html/meeting/03/第十一屆特別業主大會會議紀錄.pdf)
 
 ---
 
