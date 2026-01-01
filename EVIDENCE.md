@@ -744,8 +744,8 @@ Chan fled HK in 2001 just as the ICAC arrested his brother. Prosecution revealed
 *   **2015-06-25:** Starts participating in MC as advisor — [minutes](http://www.wangfuk.org/html/meeting/04/第一次全體委員會議記錄.pdf)
 *   **2019-01-25:** Will Power wins inspection contract (HK$222k); Chan participates in the meeting — [minutes](http://www.wangfuk.org/html/meeting/03/第21次全體業主大會(周年大會)會議記錄.pdf)
 *   **2020-01-20:** Tender Opening for Consultancy; Chan knows Will Power's bid HK$308k — [source](https://www.facebook.com/share/p/1ASPMmAqdt/)
-*   **2021-03-27:** Coordinates the adjourned AGM banning all questions; security assaults an elderly — [ref]
-*   **2021-06-28:** Suggests surveying residents concerning the Consultancy contract — [minutes](http://www.wangfuk.org/html/meeting/05/第5次全體委員會議記錄.pdf)
+*   **2021-03-27:** Coordinates the adjourned AGM banning all questions; security assaults an elderly — [ref](#-e-admin-2021-03-27-01-the-police-state-meeting-chokeholds-bans-and-the-fake-fall)
+*   **2021-06-28:** Suggests surveying residents upon the Consultancy contract — [minutes](http://www.wangfuk.org/html/meeting/05/第5次全體委員會議記錄.pdf)
 *   **Jul 2021:** Drafts the survey as a Publicity & PR Group member of MC — [minutes](http://www.wangfuk.org/html/meeting/05/第5次全體委員會議記錄.pdf)
 *   **2021-07-18:** Survey issued with specific "<400k" option while Will Power's bid being $308k — [minutes](http://www.wangfuk.org/html/meeting/05/第5次全體委員會議記錄.pdf)
 *   **2021-10-04:** To suppress opposition, Chan states that residents who discuss estate affairs have to verify identities — [minutes](http://www.wangfuk.org/html/meeting/05/第8次全體委員會議記錄.pdf) | [ref](#-e-admin-2021-08-16-01-the-estate-under-martial-law-surveillance-doxxing-and-propaganda)
