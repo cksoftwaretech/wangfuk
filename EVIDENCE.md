@@ -744,6 +744,7 @@ Chan fled HK in 2001 just as the ICAC arrested his brother. Prosecution revealed
 *   **2015-06-25:** Starts participating in MC as advisor — [minutes](http://www.wangfuk.org/html/meeting/04/第一次全體委員會議記錄.pdf)
 *   **2019-01-25:** Will Power wins inspection contract (HK$222k); Chan participates in the meeting — [minutes](http://www.wangfuk.org/html/meeting/03/第21次全體業主大會(周年大會)會議記錄.pdf)
 *   **2020-01-20:** Tender Opening for Consultancy; Chan knows Will Power's bid HK$308k — [source](https://www.facebook.com/share/p/1ASPMmAqdt/)
+*   **2021-03-27:** Coordinates the adjourned AGM banning all questions; security assaults an elderly — [ref]
 *   **2021-06-28:** Suggests surveying residents concerning the Consultancy contract — [minutes](http://www.wangfuk.org/html/meeting/05/第5次全體委員會議記錄.pdf)
 *   **Jul 2021:** Drafts the survey as a Publicity & PR Group member of MC — [minutes](http://www.wangfuk.org/html/meeting/05/第5次全體委員會議記錄.pdf)
 *   **2021-07-18:** Survey issued with specific "<400k" option while Will Power's bid being $308k — [minutes](http://www.wangfuk.org/html/meeting/05/第5次全體委員會議記錄.pdf)
@@ -1737,6 +1738,101 @@ The briefing concluded with a threat to **"expel malicious disruptors"** and **"
 **🔗 Links:**
 *   [MC Briefing Video](http://www.wangfuk.org/html/incorp/02/2021.03.15.mp4)
 *   Resident Testimony: [[1]](https://www.facebook.com/share/p/19psN7bF7bFNi/) [[2]](https://www.facebook.com/share/p/1DKf9CVDpe/)
+
+---
+
+### 🆔 [E-ADMIN-2021-03-27-01] The "Police State" Meeting: Chokeholds, Bans, and the Fake Fall
+
+**🚨 Significance:**
+
+Video evidence and eyewitness accounts from the March 27, 2021 Adjourned EGM reveal that the MC, under Chairman **Tang Kwok-kuen** (鄧國權) and Advisor **Chan Kau-keung** (陳球強), adopted authoritarian tactics to suppress dissent. The meeting was characterized by a total ban on questions, the use of physical force by security guards against elderly owners, and the staging of "victimhood" by MC members.
+
+**1. The "No Questions" Dictate:**
+Chairman Tang declared that since the meeting was an "adjournment" (延會), the voting process had "already started," thus **banning all questions**.
+*   *The Malice:* This procedural trick stripped owners of their right to query the agenda. When residents protested, Tang issued "warnings" and ordered security to expel them, treating legitimate inquiries as disorder.
+
+**2. The Chokehold Incident:**
+Video footage captures a black-suited security guard (without a name tag) physically assaulting an elderly owner.
+*   *The Violence:* The guard shadowed the elderly man closely, then grabbed his arm and put him in a **chokehold**. The MC minutes completely omitted this assault, euphemistically describing it as "order confusion" requiring police intervention.
+
+**3. The Secretary's "Performance":**
+Secretary Chan Man-cheung (陳萬祥) claimed he was "silenced by the Chairman" (confirming the internal gag order). Later, as he left the stage, he allegedly **feigned a fall** after a confrontation with residents.
+*   *The Narrative:* The official minutes recorded this as "suspected pushing and pulling," framing the residents as violent mobs to justify the heavy-handed security presence.
+
+**4. The Shadow Ruler:**
+Residents noted that "only the Chairman and Advisor **Chan Kau-keung** spoke." Chan's dominance confirmed his role as the de facto ruler, directing the suppression while the Chairman acted as the figurehead.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Rage**  
+> *Source: Resident's Full Video of Meeting / 2021-03-27*
+>
+> Video: no formal Q&A, owners repeatedly shouted; many left seats. A man accused the management of mocking owners (「耍我哋業主); someone loudly asked when the **"consultation meeting"** would be held (「諮詢會幾時搞」)(\~16:20). Stage ignored residents; Chairman Tang only asked "anyone not voted?" (「有冇人未投票」) (\~16:40). **Residents said Tang scoffed at the consultation question. Protests grew**; proxy votes were challenged. Female MC Chow Wing-sze (鄒穎詩) told a man to stop shouting (「唔好意思呀先生，請你唔好喧嘩」)(\~17:00), prompting dozens to shout back. Tang said voting continued (\~17:20), **ignoring questions about the consultation** (「投票上次已係進行中，今次繼續做」) (\~17:40). Stage stayed silent; Tang later warned "two minutes to close" (「距離截止投票時間只有兩分鐘」) (\~18:05). Some said voting wasn't needed (「其實你唔使投票都得啦」); others cited proxy votes (「因為佢揸住啲授權票吖嘛」). Someone counted down. Residents **reminded stage of the promised consultation** (「你哋應承過（諮詢會）嘅」); Tang called this an adjournment and said **procedures may change** (「今日呢一次係一次延續嘅會議……程序係會變嘅」) (\~21:31). Tang gave a "second warning" (「第二次警告」) and ordered a resident to put away his phone, which led many to raise phones and jeer. Chow **asked security to remove the man** in white (「唔該請現場保安同事幫忙，係請呢位白色衫嘅業戶出去吖唔該」) (\~23:36). A black‑suited guard **told him to leave** (「唔該你出返去吖唔該」) but was surrounded by owners; residents said security had no right to eject (「你冇權趕人走喎」). Chaos ensued; stage unmoved; surrounding residents grew more agitated and swore (\~24:58).
+
+> **Evidence [B]: The Chokehold**  
+> *Source: Resident Video of Confrontation / 2021-03-29*
+>
+> Video: Owners stood. Chow shouted "sit down, keep order" (0:00). The black‑suited guard (surrounded) also told people to sit (0:13). An elderly man in blue shirt argued (0:33); the guard moved behind him (0:49), shoulder nearly against his left shoulder as if marking him. When the man tried to move (0:54), the guard grabbed his left hand with his left hand (0:56) and **choked his neck with his right hand (0:59)**. The elderly did not retaliate. Crowd surrounded the guard (1:04); a black‑clad woman, likely another guard, intervened (1:24) and residents argued with her. The guard fled (1:32); people kept pointing at the woman. 
+
+> **Evidence [C]: The Testimony**  
+> *Source: Mrs. Lee Testimony / 2021-03-29*
+>
+> "大會司儀說了一大堆自訂規則...不能粗言穢語，不能錄音、不能使用所有影音器材，否則保安有權請你離場...會議不是公平、公開，公正嗎？...根據那條法例不能錄音及錄影呢？  
+...大會主席-鄧國權說因為這個會議是延會，**不準(准)任何業主發問**。業主們認為開業主大會而不讓業主發言是無法理解及接受，唯有齊聲問道「點解會無得問？」奈何業主有業主詢問，而主席則莫(漠)視業主意見，開始倒數截止投票。本人知悉延會是由於上次會議舉行時，在大雨情況下中止...既然當日所有票作為廢票...重新開始討論，理應有發問、有答題...主席的做法...濫用主席權力不讓業主發言。  
+...在點票期間，由於主席在上一次會議中曾承諾業主會開諮詢會，但今次再詢問時，**主席明明聽到題(提)問但有不屑回答**。本人敢問主席漠視業主權利，輕視業主行為是否稱職？  
+...會場內...有一位保安向一位業主作出身體碰撞，其後亦報警處理。另一方面，由於開大會前，於屋苑資訊台（980）中，曾註明陳秘書被禁言，因此業主要了解情況。**陳秘書在台上解釋是「主席叫我唔好出聲。」**後來陳秘書落台後...邊走邊推開業主，最後跌到在近門口位置，在**有業主錄影情況下才清楚看到是陳秘書自己跌倒**。沒多久，會議結束。整個會議只有主席和顧問-陳球強發言，因此本人不明白主席權力是否大於人權...幸好有業主錄影現場情況，否則保安推撞及陳秘書跌倒的真相將會被活埋，公義不能彰顯！"
+>
+> *Translation:*
+> "MC banned profanity, recording, and AV; security may eject. Is this meeting fair and open? What law bans recording?  
+**Chair Tang barred owners from speaking**, calling it an adjourned meeting. Owners protested; he ignored them and rushed the vote. Last meeting was halted by rain and votes voided, so this should restart with Q&A. I allege the chair abused power.  
+During counting **he scoffed at requests for the promised consultation**—unfit for office? A guard shoved an owner; police were called. A notice said Secretary Chan was silenced; **Chan said "the chair told me not to speak."** After leaving the stage Chan was pushed and fell near the door; **video shows he fell on his own**. Meeting ended; **only Chair Tang and advisor Chan kau-keung spoke**. Does the chair's authority trump human rights? Luckily an owner filmed; otherwise the shove and fall would be buried and justice denied!"
+
+> **Evidence [D]: Advisor Chan's Role**  
+> *Source: Resident Testimony / 2021-03-28*
+>
+> "我昨晚出席大會，**唔講以為呢位陳生 [陳球強] 是主席，態度好差，唔俾業主發問**，到俾業主發問，佢又唔答🙏似是為開而開的大會，業主完全冇得參與當中"
+>
+> *Translation:*
+> "Attended last night. **Mr Chan [Chan Kau-keung according to context] (acting chair) was rude, blocked owners from speaking and ignored questions**. The meeting felt perfunctory; owners had no participation."
+
+> **Evidence [E]: Secretary Chan's "Fall"**  
+> *Source: Resident Picture / 2021-03-29*
+>
+> Image: Secretary Chan appears to have fallen, lying face‑down and motionless.
+
+> **Evidence [F]: The Official Whitewash**  
+> *Source: 11th MC EGM Minutes (Mar 27, 2021)*
+>
+> "有部份較激動的業主及被授權人士無視會議規則，不斷高聲質疑程序並用手機進行拍攝及在場內遊走。大會在多次勸喻無效後請其離場時，出現秩序混亂，至警方到場後才能平息使大會繼續進行。大會結束後，法團秘書被要求澄清...被禁言一事...下台離開會堂時，疑被圍拉推撞後跌倒，由警方處理事件。"
+>
+> *Translation:*
+> "Some agitated owners/proxies ignored rules, shouted, filmed, and moved about; warnings repeated failed, ejections caused disorder, and police restored order so the meeting could continue. After the meeting the secretary was asked to clarify being silenced...when leaving the stage he was allegedly surrounded, shoved, and fell; police handled the incident."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**  
+"The meeting was an adjournment solely for voting. Re-opening Q&A would violate procedural rules. Security guards acted in self-defense and to protect the MC members from aggressive residents who were shouting and rushing the stage. The Secretary was injured in the chaos caused by the mob. Police were called to restore order, proving the residents were out of control."
+
+**The Logical Trap:**  
+1.  **Provocation vs. Protection:** A security guard putting an elderly man in a **chokehold** is not "crowd control"; it is assault. The video shows the guard initiating physical contact. The MC's failure to condemn this violence proves the guards were acting on instructions to intimidate.
+2.  **The "Adjournment" Excuse:** An adjournment due to rain does not erase the owners' right to information. Refusing to answer questions about a multi-year contract because of a technicality reveals an intent to evade accountability.
+3.  **The "Mob" Narrative:** The "mob" consisted of elderly owners asking questions. They only became agitated *after* being told "no questions allowed" and seeing a guard choke a neighbor. The chaos was **manufactured** by the MC's refusal to engage in civilized dialogue.
+
+**¶ Statutory Basis:**
+
+*   **Offence:** Common Assault ([Cap 212 Section 40](https://www.elegislation.gov.hk/hk/cap212!en/s40?_lang=en))
+
+**📅 Timeline:**
+*   **2021-03-06:** Original EGM aborted due to rain.
+*   **2021-03-27:** Adjourned EGM. Chairman bans questions.
+*   **2021-03-27:** Guard chokes resident. Secretary feigns fall. Police called.
+
+**🔗 Links:**
+*   [Full Meeting Video](https://www.facebook.com/reel/941721319912148)
+*   [Chokehold Clip](https://www.facebook.com/share/v/17ivQr4rjX/)
+*   [Mrs. Lee Testimony](https://www.facebook.com/share/p/14S2KcSZaBB/)
+*   [Resident Testimony](https://www.facebook.com/share/p/1CEwYZqYF8/)
+*   [Secretary Chan's "Fall"](https://www.facebook.com/share/p/1D1tL4mqN2/)
 
 ---
 
