@@ -1224,7 +1224,7 @@ Combining the Inspection Fee ($220k) and the Supervision Fee ($308k), Will Power
 *   *The Absurdity:* This averages to **HK$6,439 per month** for a team of professionals managing 8 towers (HK$805 per month per tower). This is below the minimum wage for a single unskilled worker. It proves their revenue model relied entirely on illicit kickbacks from the main contract.
 
 **3. The "Usual Suspects":**  
-The 2019 tender list included **Paul Kong** (江明), **A Ferrari** (快利達), and **HK International** (香港國際). These are the same firms flagged for corruption, abandonment, and incompetence in the [2020 tender](#-e-cartel-2020-01-20-02-the-race-to-the-bottom-why-9-bidders-cheaper-than-will-power-might-be-even-worse). The cast of characters remained constant, simulating competition for years.
+The 2019 tender list included **Paul Kong** (江明), **A Ferrari** (快利達), and **HK International** (香港國際). These are the same firms flagged for corruption, abandonment, and incompetence in the [2020 tender](#-e-cartel-willpower-2020-01-20-02-the-race-to-the-bottom-why-9-bidders-cheaper-than-will-power-might-be-even-worse). The cast of characters remained constant, simulating competition for years.
 
 **4. The Regulator's Silence:**
 When the Management Company asked the **Urban Renewal Authority (URA)** for price guidance, the URA representative refused to comment to "avoid interference." This hands-off approach allowed a clearly predatory bid to pass without official challenge.
