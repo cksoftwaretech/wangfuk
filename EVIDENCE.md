@@ -1865,6 +1865,83 @@ During counting **he scoffed at requests for the promised consultation**—unfit
 
 ---
 
+### 🆔 [E-GOV-2021-03-31-01] The 100/100 Score: How the URA Awarded "Perfect Marks" to the Cartel
+
+**🚨 Significance:**
+
+Before the fire exposed their criminal negligence, both the Contractor (**Prestige/宏業**) and the Consultant (**Will Power/鴻毅**) were rated **100/100 (Full Marks)** in the Urban Renewal Authority's (URA) "Building Rehabilitation Company Database." This official endorsement provided a "Quality Seal" that deceived owners, while the URA's hasty deletion of these records post-fire reveals a desperate attempt to erase its complicity.
+
+**1. The "Perfect" Score for Failure:**
+*   **Prestige:** Scored full marks in "Material Submission Approval."
+    *   *Reality:* Used [fake nets](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk586-per-victim--the-5-decoy) and [flammable Styrofoam](#-e-safety-foam-2024-07-19-01-the-sop-death-trap-use-of-flammable-foam).
+*   **Will Power:** Scored full marks in "Complaint Handling."
+    *   *Reality:* Ignored resident complaints about fire risks and threatened them with [compensation claims](#-e-safety-foam-2024-09-30-01-the-ransom-of-safety-pay-compensation-or-keep-the-fire-hazard).
+*   *The Verdict:* A rating system that awards perfection to companies engaged in active fraud is functionally broken. It validates corruption rather than exposing it.
+
+**2. The "Existence over Quality" Loophole:**
+The URA admitted that the assessment only checks for the **"existence of a mechanism,"** not its **"quality."**
+*   *The Absurdity:* This means a company can have a "Complaint Mechanism" that consists of a paper shredder, and still score 100 points for "having a system." This bureaucratic formalism renders the entire database meaningless.
+
+**3. The Cover-Up (Deletion):**
+On Dec 3, after media exposed the 100-point anomaly, the URA **deleted** Prestige and Will Power from the database.
+*   *The Inference:* Instead of explaining *why* their vetting failed, they chose to hide the evidence of their endorsement. This suggests the URA prioritizes protecting its own reputation over public accountability.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Perfect Scores and the Deletion**  
+> *Source: Oriental Daily / 2025-12-03*
+>
+> "宏業...及...鴻毅...在市建局「樓宇復修公司登記計劃」中，「項目管理評分」獲評核100分滿分...今日再查閱登記計劃網頁時，宏業建築及鴻毅均已被刪去，無法搜索。"
+>
+> *Translation:*
+> "Prestige and Will Power scored 100/100 in URA’s Building Rehabilitation “Project Management”... but have been removed from the registry and are now unsearchable."
+
+> **Evidence [B]: The "Mechanism" Excuse**  
+> *Source: Ming Pao (citing URA) / 2025-12-04*
+>
+> "評核只包括**機制或系統的存在性**，而並不涵蓋該機制或系統本身的**質量**..."
+>
+> *Translation:*
+> "Assessment only covers the **existence of mechanisms or systems**, not the **quality** of the mechanism or system itself..."
+
+> **Evidence [C]: The Areas**  
+> *Source: Ming Pao (citing URA) / 2025-12-04*
+>
+> "市建局解釋，「項目管理評分」涵蓋8個範疇，包括實際參與維修工程的專業人員、會被遮擋或掩蓋的工程部分的施工管理、材料呈報審批、工程缺陷的修補和審批、工程變更審批、發放最後一期的工程費用、投訴處理，以及分判商的管理"
+>
+> *Translation:*
+> "URA says the "project management" score covers eight areas: on‑site professionals; supervision of concealed works; material approval; defect rectification and approval; change approval; final payment release; complaint handling; subcontractor management."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**  
+"The database is a voluntary listing scheme based on HKQAA audits of specific sample projects. It reflects the company's capability to manage projects, not a guarantee of future performance. The deletion was in accordance with the user manual's protocol for companies involved in negative reports or investigations. We are reviewing the criteria to include safety convictions."
+
+**The Logical Trap:**  
+1.  **Audit Failure:** If the HKQAA audit checks "sample projects," how did Prestige pass? A company that relies on fake nets and styrofoam SOPs likely uses them on *all* sites (as evidenced by the 28 suspended projects). If the audit missed this systemic practice, the audit methodology is flawed.
+2.  **The "Safety" Blindspot:** The URA admitted the criteria "did not cover safety convictions." How can a "Building Rehabilitation" database ignore safety records? A contractor who kills workers (Prestige had 20+ convictions) but files paperwork correctly gets 100 points? This proves the URA values **Bureaucracy over Life**.
+3.  **Endorsement Effect:** Ordinary owners trust the URA as a statutory body. Publishing a "100 Point" score is an active endorsement. Claiming it's just "capability reference" ignores the real-world impact: owners voted for Prestige partly because of this official seal of approval.
+
+**¶ Statutory Basis:**
+
+*   **Context:** Urban Renewal Authority Ordinance / Misrepresentation.
+
+**📅 Timeline:**
+*   **2021-03-31:** Database launched. Prestige/Will Power rated 100/100 — [ref](https://brcrs.brplatform.org.hk/home/pdf/Leaflet_EOI_chi.pdf)
+*   **2024-09-13:** Prestige uses dangerous foam despite its perfect score — [ref](#-e-safety-foam-2024-09-16-01-the-tapeer-fraud-counterfeit-brands--rigged-safety-demos)
+*   **Sep 2024:** Will Power threatens residents despite its perfect score — [ref](#-e-safety-foam-2024-09-16-01-the-tapeer-fraud-counterfeit-brands--rigged-safety-demos)
+*   **2025-07-20:** Prestige buys flammable nets despite its perfect score — [ref](#-e-safety-foam-2024-09-30-01-the-ransom-of-safety-pay-compensation-or-keep-the-fire-hazard)
+*   **2025-11-26:** Fire exposes gross negligence.
+*   **2025-12-02:** The 100-point scores exposed — [source](https://x-income.com/rgbc/)
+*   **2025-12-03:** URA deletes records to hide the embarrassment — [report](https://hk.on.cc/hk/bkn/cnt/news/20251203/bkn-20251203090255508-1203_00822_001.html)
+
+**🔗 Links:**
+*   [X-Income Analysis](https://x-income.com/rgbc/)
+*   [Ming Pao Report](https://news.mingpao.com/pns/要聞/article/20251204/s00001/1764787420177)
+*   [Oriental Daily Report](https://hk.on.cc/hk/bkn/cnt/news/20251203/bkn-20251203090255508-1203_00822_001.html)
+
+---
+
 ### 🆔 [E-SAFETY-NETS-2021-07-07-01] The "Click-to-Certify" Industry: Buying Safety for HK$55
 
 **🚨 Significance:**
@@ -2381,11 +2458,11 @@ While the DAB machine harvested votes, the opposition "Concern Group" saw **~50 
 *   **2021-12-14:** Video of Wong shouting at Herman Yiu posted.
 
 **🔗 Links:**
-*   [Herman Yiu FB Post](https://www.facebook.com/share/p/181mivh31E/)
+*   [Herman Yiu Post](https://www.facebook.com/share/p/181mivh31E/)
 *   [InMediaHK Report](https://www.inmediahk.net/node/社區/宏福苑大會-民建聯黃碧嬌上門攞長者授權：家訪有咩咁奇怪)
-*   [Peter Chu FB Post (Proxy Harvest)](https://www.facebook.com/share/p/1NeXwmevNb/)
+*   [Peter Chu Post (Proxy Harvest)](https://www.facebook.com/share/p/1NeXwmevNb/)
 *   [EGM Minutes](http://www.wangfuk.org/html/meeting/03/特別業主大會會議紀錄.pdf) | [Backup](2021-12-11%20第十一屆管理委員會特別業主大會會議紀錄.pdf)
-*   [Ma Choyin Video FB Post (The Video)](https://www.facebook.com/share/v/1Bwb43B6HF/)
+*   [Ma Choyin Video Post (The Video)](https://www.facebook.com/share/v/1Bwb43B6HF/)
 
 ---
 
