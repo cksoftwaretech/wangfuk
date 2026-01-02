@@ -3658,7 +3658,7 @@ The Consultant (**Will Power**) filtered out 48 other bidders to select these sp
 > **Evidence [D]: The Recommended Contractors**
 > *Source: Renovation Booklet p.42*
 >
->| **面試投標商名稱** | **招標受強制面試名單** | **通過分析報告的建議面試名單 (Recommended Contractors for interview)** | **背景評級** | **報價評級** |
+>| **面試投標商名稱** | **招標受強制面試名單** | **通過分析報告的建議面試名單 <br> (Recommended Contractors for interview)** | **背景評級** | **報價評級** |
 >|--------------------|------------------------|----------------------------------|--------------|--------------|
 >| 好運泰工程有限公司 | ✓ |  | E | E |
 >| 益興建築有限公司 | ✓ |  | E | D |
