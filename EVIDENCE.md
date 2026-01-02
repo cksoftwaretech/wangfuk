@@ -365,7 +365,7 @@ The Competition Commission analyzed 500 confidential tender records and confirme
 
 **4. The "Judicial Prophecy" (2016):**  
 In the landmark case **HKSAR v Yau Shui-tin (丘瑞田)**, the District Court explicitly connected bid-rigging to **structural danger**. The judgment did not just concern money; it warned that riggers specifically "lower engineering quality" to cover kickback costs.
-*   **The Warning:** Judge Lam Wai-kuen (林偉權) ruled that due to lack of genuine supervision, corrupt contractors **"lower the quality of works"** to maximize illicit profits, leaving owners with buildings that "do not receive the proper repair."
+*   **The Warning:** Judge Josiah Lam (林偉權) ruled that due to lack of genuine supervision, corrupt contractors **"lower the quality of works"** to maximize illicit profits, leaving owners with buildings that "do not receive the proper repair."
 *   *The Connection:* This is the "Smoking Gun" for Wang Fuk. The court told the government in 2016 that bid-rigging results in substandard safety measures. The government ignored this judicial warning, allowing the sub-standard fire-retardant mesh (the cause of the fire) to be installed 9 years later.
 
 **5. The Scorecard of Failure:**  
