@@ -1707,7 +1707,7 @@ This "protection" of ISS explains why the management company later acted as the 
 
 **🚨 Significance:**
 
-A comparison between the MC's official "Briefing" and resident testimonies regarding the aborted EGM on March 6, 2021, reveals a systematic falsification of history. The MC used official channels to paint residents as "rioters" who "silenced" the Secretary, justifying future crackdowns, while erasing the Chairman's on-site promise to hold a consultation session.
+A comparison between the MC's official "Briefing" and resident testimonies regarding the aborted EGM on March 6, 2021, reveals a systematic falsification of history. The MC used official channels to paint residents as "rioters" who "silenced" the Secretary Chan Man-cheung (陳萬祥), justifying future crackdowns, while erasing the Chairman's on-site promise to hold a consultation session.
 
 **1. The "Silenced" Myth:**
 *   **MC Version:** Claimed residents caused "chaos" and the Secretary was "**silenced**".
@@ -1715,7 +1715,7 @@ A comparison between the MC's official "Briefing" and resident testimonies regar
 *   *The Tactic:* Transforming "inability to answer" into "being silenced" plays the victim card, delegitimizing the residents' questions as "disruption."
 
 **2. The Vanished Promise:**
-*   **Witness Testimony:** Residents cited witnesses and confirmed that Chairman Tang **promised on-site** to hold a consultation session regarding the management contract.
+*   **Witness Testimony:** Residents cited witnesses and confirmed that Chairman Tang Kwok-kuen (鄧國權) **promised on-site** to hold a consultation session regarding the management contract.
 *   **The Erasure:** The official briefing and subsequent minutes **completely omitted** this promise. Instead, the MC moved straight to "renewing the contract" without consultation.
 *   *The Verdict:* The official record was sanitized to remove the MC's concessions, allowing them to renege on their word without a paper trail.
 
