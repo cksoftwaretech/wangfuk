@@ -6399,6 +6399,93 @@ On December 4, 2025, MC Chairman Tsui Moon-kam (徐滿柑) admitted to the press
 
 ---
 
+### 🆔 [E-CARTEL-PRESTIGE-2025-12-22-01] The Last Stand: The Missing Bond, The Crocodile Tears, and The Final Vanishing Act
+
+**🚨 Significance:**
+
+In the aftermath of the disaster, Prestige (宏業) Director **Hau Wah-kin (侯華建)**, despite being arrested for manslaughter, attempted to salvage his empire by appearing at **Elegance Gardens (怡樂花園)** to reassure owners. His appearance exposed the final stage of the cartel's collapse: the disappearance of a **HK$7 million Performance Bond**, conflicting claims about work suspension, and a final broken promise that signaled the company's insolvency.
+
+**1. The "Missing" HK$7 Million Bond:**
+Elegance Gardens owners discovered the original Performance Bond (worth HK$7M) was missing.
+*   *The Excuse:* Hau claimed the document was seized by police during the Wang Fuk investigation.
+*   *The Lie:* Hau promised to obtain a "Certified True Copy" from the bank by Dec 23 to prove the money was safe. He missed the deadline and vanished.
+*   *The Verdict:* The disappearance of the bond document suggests the money may never have been secured or was misappropriated, leaving owners with zero protection against the impending project abandonment.
+
+**2. The "Business as Usual" Charade:**
+While the Buildings Department (BD) had already suspended 28 Prestige projects on Nov 29, Hau claimed on Dec 22 that "operations had returned to normal" and "we did not stop work."
+*   *The Reality Check:* BD confirmed on Jan 1, 2026, that all 28 projects remained suspended and Prestige had failed to submit safety audits. Hau's claim of "normality" was a desperate lie to prevent other estates from terminating contracts and calling in bonds.
+
+**3. The "Shadow Contractor" Reveal:**
+BD records show the registered contractor for Elegance Gardens was actually **"Fusion Construction" (富山建築發展)**, with Prestige only handling minor works.
+*   *The Confusion:* Yet, Hau appeared as the boss handling the whole project. This suggests the rampant practice of **"License Borrowing"**, where Prestige operated projects under other names to bypass capacity limits or regulatory scrutiny.
+
+**4. The Crocodile Tears:**
+Hau claimed he "couldn't sleep" and felt "heavy hearted" about the 161 deaths.
+*   *The Contrast:* His sympathy for the dead did not extend to admitting liability or compensating victims. His focus remained entirely on keeping his other revenue streams alive.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Missing Bond & Broken Promise**  
+> *Source: HKET / 2025-12-23*
+>
+> "大批業主早前因應與...宏業...簽訂的履約保證書正本不翼而飛，擔心無法取回700萬元保證金，而到警署報案"
+> "宏業...承諾...今日到銀行辦理[履約保證書]經核證的副本... 至今未收到任何回覆... 宏業爽約了。"
+>
+> *Translation:*
+> "Many owners reported to police after the original performance bond with Prestige went missing, fearing loss of HK$7M deposit."
+> "Prestige... promised... to get a certified true copy [of the Performance Bond] from the bank today... no reply received so far... **Prestige broke the appointment**."
+
+> **Evidence [B]: The "Normal Operation" Lie**  
+> *Source: HK01 / 2025-12-22*
+>
+> "侯華建...稱公司運作已回復正常...「我哋冇停到工」。"
+>
+> *Translation:*
+> "Hau Wah-kin... claimed company operations returned to normal... 'We did not stop work'."
+
+> **Evidence [C]: The "Shadow" Registration**  
+> *Source: Ming Pao (citing BD) / 2026-01-01*
+>
+> "負責工程的訂明註冊承建商為「**富山建築發展**」，宏業負責小型工程..."
+>
+> *Translation:*
+> "The registered contractor responsible was '**Fusion Construction**', Prestige only handled minor works..."
+
+> **Evidence [D]: The Operational Reality**  
+> *Source: Ming Pao (citing BD) / 2026-01-01*
+>
+> "屋宇署又稱，12月10日再去信提醒宏業提交資料，及後發現宏業一個工程項目的委任已被撤回，截至本周一仍未接獲宏業提交其餘27個項目的安全審核結果及改善方案"
+>
+> *Translation:*
+> "BD said it reminded Prestige on Dec 10; one project appointment was withdrawn, and by Monday [Dec 29] it had received no safety audits or remediation plans for the other 27 projects."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**    
+"The missing document is a result of police seizure chaos, not fraud. The bank process takes time. Regarding suspension, we were referring to internal readiness to resume, pending BD approval. Using partners like Fu Shan is standard joint-venture practice. I am a victim of circumstances trying to save the company and jobs."
+
+**The Logical Trap:**  
+1.  **Bank Speed:** Getting a certified copy of a financial instrument takes hours, not days. Failing to produce it by a deadline set to save his own contract proves the document (or the money) likely doesn't exist.
+2.  **Suspension Reality:** BD stated Prestige failed to submit safety audits for 27 projects. This isn't "pending approval"; it's **non-compliance**. Claiming "normal operation" when the regulator has issued a Stop Work Order is delusional or deceptive.
+3.  **The "Victim" Card:** The victims are the 161 dead and the owners of Elegance Gardens who lost HK$7M in protection. The perpetrator is the man who ran a company on fake nets and missing bonds.
+
+**¶ Statutory Basis:**
+
+*   **Context:** Contractual Default / Fraud.
+
+**📅 Timeline:**
+*   **2025-11-29:** BD suspends 28 Prestige projects — [ref](#-e-cartel-prestige-2016-12-31-01-the-ever-victorious-monster-how-a-resource-poor-firm-hoarded-28-projects)
+*   **2025-12-22:** Hau appears at Elegance Gardens; claims "Normal Ops," promises Bond copy.
+*   **2025-12-23:** Hau misses deadline; Owners move to terminate.
+*   **2026-01-01:** BD confirms Prestige projects still suspended; no safety plans submitted.
+
+**🔗 Links:**
+*   [HKET Report](https://news.hket.com/article/4058438/)
+*   [HK01 Report](https://www.hk01.com/突發/60305994/)
+*   [Ming Pao Report (Jan 1)](https://news.mingpao.com/pns/港聞/article/20260101/s00002/17672045855)
+
+---
+
 ### 🆔 [E-SAFETY-NETS-2025-12-05-01] The Laundering of Risk: "We Just Trusted Them"
 
 **🚨 Significance:**
