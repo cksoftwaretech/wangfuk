@@ -3607,6 +3607,103 @@ Will Power inserted a disclaimer stating they "**bear no responsibility for the 
 
 ---
 
+### 🆔 [E-CARTEL-PRESTIGE-2023-09-12-01] The "Prestige" Family Reunion: 4 out of 9 Finalists Linked to One Boss
+
+**🚨 Significance:**
+
+Investigative reporting by *Pulse HK (追光者)* uncovers the ultimate rigging mechanism: The "Shortlist" of 9 contractors recommended for interview was populated by companies intimately linked to **Hau Wah-kin (侯華建)**, the boss of **Prestige (宏業)**.
+
+**1. The "Family" in the Final 9:**
+Out of the 9 firms selected by the Consultant (**Will Power/鴻毅**) for the final interview, **4 were directly linked** to Hau Wah-kin or his wife, **Cheung Yin-kam (張燕琴)**.
+*   **Mega Praise (萬嘉):** Formerly named "Prestige Construction (International)". Its registered office was owned by Hau's wife. Its director's address was also owned by Hau's wife. It is effectively a **"Clone"** of Prestige.
+*   **Widely (偉利):** Its director, **Leung Bing-yiu (梁炳耀)**, served as a Director of Prestige for 9 years (2005-2014).
+*   **Man Sing (民星營造):** Its majority shareholder, **Tam Tsz-man (譚子文)**, is a 50/50 business partner with Hau in another company "Rich Surplus" (利來拓展), which shares the same address with Man Sing. Another shareholder is a partner of Hau's wife in "Fullmax Creation" (澤豐創建).
+
+**2. The Illusion of Competition:**
+*   *The Tactic:* By occupying **44%** of the interview slots (4 out of 9) with friendly forces, the Cartel statistically ensured that even if Prestige was rejected, the contract would likely fall to a proxy.
+*   *The "Dummy" Behavior:* Mega Praise (Score 50) and Man Sing (Score 68) performed poorly in interviews (See **E-CARTEL-SCORE-VS-COMMENT**), acting as "foils" to make Prestige (Score 90) look superior.
+
+**3. The Consultant's Gatekeeping:**
+The Consultant (**Will Power**) filtered out 48 other bidders to select these specific 9.
+*   *The Implication:* Selecting a shortlist where nearly half the candidates are secret partners of the "Preferred Choice" is impossible by chance. It proves Will Power curating the list to favor the Hau family syndicate.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The "Mega Praise" Clone**
+> *Source: Pulse HK / 2025-12-31*
+>
+> "萬嘉...曾...以「**宏業建築工程（國際）有限公司**」名義營運... 辦公室...由福來置業(**張燕琴**[侯妻]全資持有)...購入"
+> "林祖新[萬嘉董事]...兩個住址...前者登記在張燕琴名下...後者由...福來置業...購入"
+>
+> *Translation:*
+> "Mega Praise... operated as '**Prestige Construction (International)**'... Office owned by Best Luck (which is in turn wholly-owned by**Cheung Yin-kam** [Hau's wife])"
+> "Mega Praise's director Lam Cho-sun's two addresses are owned by Cheung and Best Luck respectively."
+
+> **Evidence [B]: The "Widely" Colleague**
+> *Source: Pulse HK / 2025-12-31*
+>
+> "偉利董事...**梁炳耀**...曾於2005年4月起出任**宏業董事**... 直至2014年6月方才離任"
+>
+> *Translation:*
+> "Widely Director **Leung Bing-yiu**... served as **Prestige Director** from April 2005... until June 2014."
+
+> **Evidence [C]: The "Man Sing" Partner**
+> *Source: Pulse HK / 2025-12-31*
+>
+> "民星...由**譚子文**持有... 與侯華建成立利來拓展有限公司，兩人各持一半股份...民星營造和利來拓展的申報地址一致"
+>
+> *Translation:*
+> "Man Sing... owned by **Tam Tsz-man**... who formed Rich Surplus Ltd with Hau Wah-kin, holding 50/50 shares. Rich Surplus shares the same address with Man Sing."
+
+> **Evidence [D]: The Recommended Contractors**
+> *Source: Renovation Booklet p.42*
+>
+>| **面試投標商名稱** | **招標受強制面試名單** | **通過分析報告的建議面試名單 (Recommended Contractors for interview)** | **背景評級** | **報價評級** |
+>|--------------------|------------------------|----------------------------------|--------------|--------------|
+>| 好運泰工程有限公司 | ✓ |  | E | E |
+>| 益興建築有限公司 | ✓ |  | E | D |
+>| 華生建築打樁有限公司 | ✓ |  | E | D |
+>| 昇基工程有限公司 | ✓ |  | E | D |
+>| 堅城(梁氏)建築有限公司 | ✓ |  | E | D |
+>| **偉利建築工程有限公司 (Widely)** |  | ✓ | C | C |
+>| 宏溢營造工程有限公司 |  | ✓ | C | B |
+>| 海得志發展集團有限公司 |  | ✓ | C | B |
+>| **萬嘉建築工程有限公司 (Mega Praise)** |  | ✓ | C | C |
+>| 景峰建築工程有限公司 |  | ✓ | C | C |
+>| **民星營造有限公司 (Man Sing)** |  | ✓ | C | C |
+>| 俊豪建築工程有限公司 |  | ✓ | C | A |
+>| 樹深建築有限公司 |  | ✓ | C | A |
+>| **宏業建築有限公司 (Prestige)** |  | ✓ | B | A |
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**  
+"Hong Kong is a small market. It is common for industry veterans to have past working relationships or joint ventures in other projects. These companies have separate legal identities, finances, and management teams. Cross-directorships in the past do not imply collusion in the present tender. We competed fairly."
+
+**The Logical Trap:**  
+1.  **Past vs. Present:** Owning a property *now* (Hau's wife owning Mega Praise's director's home) or having an *active* joint venture (Hau and Tam in Rich Surplus) is a **current financial link**, not a "past relationship." This creates a conflict of interest where one bidder benefits if the other wins. Hiding this is fraud.
+2.  **The "Clone" Smoking Gun:** When a competitor (Mega Praise) used to be named "Prestige (International)" and operates out of the boss's wife's property, it is not a "separate entity"; it is a **shell**. Pretending it is a rival is a direct lie to the owners.
+3.  **The Probability Factor:** Out of 57 bidders, what are the odds that the Consultant "randomly" picked 4 firms linked to one man for the final 9? This concentration proves the selection process was **reverse-engineered** to encircle the MC with the Cartel's options.
+
+**¶ Statutory Basis:**
+
+*   **Offence:** Bid-rigging (Competition Ordinance).
+*   **Offence:** Fraud (Theft Ordinance).
+
+**📅 Timeline:**
+*   **2004-06-09:** Prestige founded.
+*   **Apr 2005 - Jun 2014:** Leung (Widely) co-directs Prestige.
+*   **2013-2015:** Mega Praise operates as "Prestige (International)."
+*   **2018-09-06:** Hau (Prestige) & Tam (Man Sing) form joint venture which shares address with Man Sing.
+*   **2023-09-12:** Will Power selects Prestige, Mega Praise, Widely, Man Sing for final interview.
+*   **2024-01-28:** Prestige wins.
+
+**🔗 Links:**
+*   [Pulse HK Report](https://pulsehknews.com/20251231investigation/)
+*   [Renovation Booklet (Shortlist)](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf)
+
+---
+
 ### 🆔 [E-CARTEL-WILLPOWER-2023-10-16-01] The Schizophrenic Scorecard: Why the "Criticized" Beat the "Praised"
 
 **🚨 Significance:**
