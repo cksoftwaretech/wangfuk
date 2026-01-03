@@ -3736,7 +3736,7 @@ Out of the 9 firms selected by the Consultant (**Will Power/鴻毅**) for the fi
 
 **2. The Illusion of Competition:**
 *   *The Tactic:* By occupying **44%** of the interview slots (4 out of 9) with friendly forces, the Cartel statistically ensured that even if Prestige was rejected, the contract would likely fall to a proxy.
-*   *The "Dummy" Behavior:* Mega Praise (Score 50) and Man Sing (Score 68) performed poorly in interviews (See **E-CARTEL-SCORE-VS-COMMENT**), acting as "foils" to make Prestige (Score 90) look superior.
+*   *The "Dummy" Behavior:* Mega Praise (Score 50) and Man Sing (Score 68) performed poorly in interviews, acting as "foils" to make Prestige ([Score 90](#-e-cartel-willpower-2023-10-16-01-the-schizophrenic-scorecard-why-the-criticized-beat-the-praised)) look superior.
 
 **3. The Consultant's Gatekeeping:**
 The Consultant (**Will Power**) filtered out 48 other bidders to select these specific 9.
