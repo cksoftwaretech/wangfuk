@@ -2680,6 +2680,118 @@ The period of "Zero Convictions" (2019-2022) coincides with the dismantling of [
 
 ---
 
+### 🆔 [E-GOV-2023-02-17-01] The Triple Agent: How a Housing Department Surveyor Moonlighted for the Cartel
+
+**🚨 Significance:**
+
+Investigation reveals that **Steve Wong Chung-kee (黃忠基)**, the Authorized Signatory (AS) for **Prestige (宏業)** arrested for manslaughter, was simultaneously employed by the **Housing Department (HD)** as a Building Maintenance Surveyor. This "Triple Hat" role (Govt, Contractor, Consultant) exposes a massive conflict of interest and regulatory blindness.
+
+**1. The "110k" Public Servant:**
+Wong was hired via an outsourcing agency but interviewed and selected by HD staff. He received the top-tier salary of **HK$112,000/month**.
+*   *The Conflict:* While paid by taxpayers to maintain public housing, he was secretly serving as the AP for a private contractor (Prestige), signing off on the very projects that eventually killed 161 people.
+*   *The Suspicion:* Industry insiders suspect Prestige's ability to hoard 28 projects was facilitated by Wong's dual status and insider knowledge of government protocols.
+
+**2. The "Immediate" Firing:**
+Wong was fired by his agency on **Nov 28**, just two days after the fire.
+*   *The Guilt:* If his dual employment was declared and compliant, there would be no grounds for summary dismissal. The swift sacking suggests the HD knew the arrangement was indefensible once exposed to light.
+
+**3. The Background:**
+Wong was charged by the ICAC in 2004 for **"Agent using document with intent to deceive principal."**
+*   *The Screening Failure:* How did a person with a corruption-related prosecution record pass the vetting for a high-level government role and become a registered AP? This points to a systemic failure in background checks.
+
+**4. The Political Irony:**
+In Aug 2023, DAB Councilor **Frankie Ngan Man-yu** (顏汶羽) wrote a commendation letter praising Wong's team for "professionalism."
+*   *The Verdict:* The political establishment praised the very man who was simultaneously enabling the cartel. This highlights the superficiality of political oversight.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Dual Role**
+> *Source: InMediaHK / 2025-12-11*
+>
+> "黃忠基... 原來受聘於房屋署... 同時... 為宏業建築工程擔任授權簽署人。"
+> "房署承認，黃忠基的招聘確是由署方人員負責面試和甄選"
+> "在房屋署的網頁可見， 黃忠基在2023年2月17日及8月18日，分別獲得嘉許"
+> "署方是以非公務員合約聘請，亦因為他的年資（現年68歲），房署若要聘請他，必須以該職位的頂薪（11.2萬元）招攬。"
+> "在11月28日，即大火發生後的兩日，黃已已被有關專業服務供應商終止其僱員身分"
+>
+> *Translation:*
+> "Wong... employed by Housing Dept... simultaneously... served as Authorized Signatory for Prestige."
+> "Housing Department admitted it interviewed and selected Wong."
+> "Housing Department website shows Wong was commended on 17 Feb 2023 and 18 Aug 2023."
+> "Hired on a non‑civil‑service contract; at 68 with his experience the Housing Dept would have to hire him at top salary HK$112,000."
+> "On Nov 28, two days after the fire, Wong was terminated by the hiring agency."
+
+> **Evidence [B]: The Industry Suspicion**
+> *Source: InMediaHK / 2025-12-11*
+>
+> "有在業界工作多年的人士向《獨媒》表示，以「宏業建築」的公司規模，難明為何這間公司可以承接28個私樓工程... 懷疑與黃忠基在房署的職務有關。"
+>
+> *Translation:*
+> "Industry veteran: it's unclear how Prestige could secure 28 projects with its scale; suspected link to Wong's position in the Housing Dept."
+
+> **Evidence [C]: The Political Praise**
+> *Source: Housing Authority Website / 2023-08-18*
+>
+> "獲讚賞同事: 黃忠基... 顏汶羽立法會議員: 團隊專業認真，提升邨內的物業管理和環境衛生，令居民安居樂業"
+>
+> *Translation:*
+> "Commended Staff: Wong Chung-kee... LegCo Member Ngan Man-yu: Professional, improving estate management and hygiene, ensuring residents live safely and peacefully."
+
+> **Evidence [D]: The Criminal Record**
+> *Source: HK01 / 2025-12-11*
+>
+> "黃忠基於2004年被控...「代理人意圖欺騙其主事人而使用文件」..."
+>
+> *Translation:*
+> "Wong was charged in 2004... with 'Agent using document with intent to deceive principal'..."
+
+> **Evidence [E]: The Third Role**
+> *Source: Yahoo News / 2025-12-13*
+>
+> "「天嵐建築及測量顧問有限公司」... 回覆稱，黃忠基是公司的測量諮詢顧問"
+>
+> *Translation:*
+> "Sky Arashi Architects & Surveyors Consulting Co. Ltd. replied that Steve Wong Chung-kee is their surveying consultant "
+
+> **Evidence [F]: Prestige's Authorized Signatory**
+> *Source: Renovation booklet p.52*
+>
+> "宏業...專業人員及架構：AS=黃忠基"
+>
+> *Translation:*
+> "Prestige... Professional staff: AS=Steve Wong Chung-kee"
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**  
+"Mr. Wong was an employee of an outsourced service provider, not a civil servant. His contract required him to declare outside work. The HD was not aware of his role at Prestige. His HD duties (Public Housing) were separate from his private work (HOS/Private Buildings). We acted immediately upon learning of his arrest. We cannot check every contractor's staff list against our outsourced personnel."
+
+**The Logical Trap:**  
+1.  **The "Outsourcing" Shield:** Outsourcing does not absolve the government of vetting responsibility, especially for high-level professional roles (Surveyor). If the HD interviewed him, they owned the choice. Hiding behind the "Service Provider" label is a cowardly evasion of accountability.
+2.  **The Declaration System Failed:** If he didn't declare, the system failed. If he did declare and was approved, the approver was negligent. Either way, the internal control mechanism was broken.
+3.  **Cross-Database Failure:** The government maintains a register of "Authorized Persons" (AP). It also maintains a payroll list. A simple database cross-check would have revealed that "Wong Chung-kee (AP)" was the same person as "Wong Chung-kee (HD Surveyor)." The failure to catch this suggests **digital incompetence** or **willful blindness**.
+
+**¶ Statutory Basis:**
+
+*   **Context:** Civil Service Code (Conflict of Interest) / Prevention of Bribery Ordinance.
+
+**📅 Timeline:**
+*   **2004:** Wong charged by ICAC — [report](https://www.hk01.com/社會新聞/60301704/)
+*   **2023-02-17:** Commended on HD website as a Building Maintenance Surveyor — [source](https://www.housingauthority.gov.hk/tc/about-us/publications-and-statistics/housing-dimensions/article/20230217/commendation.html)
+*   **2023-07-04:** Wong listed as Prestige AP in Wang Fuk tender — [source](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf)
+*   **2023-08-18:** Commended on HD website by DAB Councilor Frankie Ngan — [source](https://www.housingauthority.gov.hk/tc/about-us/publications-and-statistics/housing-dimensions/article/20230818/commendation.html)
+*   **2025-11-26:** Wang Fuk Fire.
+*   **2025-11-28:** Wong fired by HD contractor — [report](https://www.inmediahk.net/node/政經/【宏福苑五級火】宏業被捕授權簽署人同為政府合約測量師-大火後即炒-房署不答潛在利益衝突)
+
+**🔗 Links:**
+*   [InMediaHK Report](https://www.inmediahk.net/node/政經/【宏福苑五級火】宏業被捕授權簽署人同為政府合約測量師-大火後即炒-房署不答潛在利益衝突)
+*   [Housing Authority Commendation](https://www.housingauthority.gov.hk/tc/about-us/publications-and-statistics/housing-dimensions/article/20230818/commendation.html)
+*   [HK01 Report](https://www.hk01.com/社會新聞/60301704/)
+*   [Yahoo News Report](https://hk.news.yahoo.com/share/3bd28dcc-d6cc-4d0a-a172-a9a6eda797cf)
+*   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf) | [Backup](強制驗樓驗窗計劃%2011.%20樓宇復修工程資料簡報小冊子.pdf)
+
+---
+
 ### 🆔 [E-ADMIN-2023-03-04-01] The "Shut Up and Vote": How the Advisor Silenced Questions to Force Through the Tender
 
 **🚨 Significance:**
