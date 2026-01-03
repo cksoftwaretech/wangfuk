@@ -6485,7 +6485,7 @@ Hau claimed he "couldn't sleep" and felt "heavy hearted" about the 161 deaths.
 **🔗 Links:**
 *   [HKET Report](https://news.hket.com/article/4058438/)
 *   [HK01 Report](https://www.hk01.com/突發/60305994/)
-*   [Ming Pao Report (Jan 1)](https://news.mingpao.com/pns/港聞/article/20260101/s00002/17672045855)
+*   [Ming Pao Report (Jan 1)](https://news.mingpao.com/pns/港聞/article/20260101/s00002/1767204585497)
 
 ---
 
