@@ -5633,6 +5633,111 @@ Allowing a contractor to define a schedule as "Until Done" is a failure of the *
 
 ---
 
+### 🆔 [E-GOV-2025-04-16-01] The Ignored Blueprint: How the Ombudsman Predicted the Disaster 7 Months Early
+
+**🚨 Significance:**
+
+In April 2025, the Office of The Ombudsman released a scathing investigation into the government's regulation of construction safety. The report identified specific systemic failures—fake certificates, superficial inspections, and weak enforcement—that mirror the causes of the Wang Fuk Court fire seven months later. The government's failure to act on these 40 recommendations transforms the tragedy from an accident into a **predicted outcome of administrative negligence**.
+
+**1. The "Future-Dated" Certificate Scandal:**
+The Ombudsman found it "absurd" that "Competent Persons" routinely signed safety forms (Form 5 / "Scaffolding Certs") **before the scaffolding was even built**, or pre-filled them with future dates.
+*   *The Link:* This explains how Prestige could operate with [fake nets](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk586-per-victim--the-5-decoy) and [obtain valid certificates](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk586-per-victim--the-5-decoy). The certification system was already known to be a "signing exercise" divorced from physical reality.
+
+**2. The "Walk-By" Inspections:**
+The report criticized LD inspections for lacking checklists and relying on inspectors' "professional judgment" without guidelines.
+*   *The Consequence:* Inspectors missed obvious hazards because they weren't looking for them. This systemic blindness explains why 16 inspections at Wang Fuk failed to spot the Styrofoam cladding or the two-colored nets. The Ombudsman explicitly warned that "current inspection records are too brief to provide an objective basis."
+
+**3. The "Paper Tiger" Enforcement:**
+The Ombudsman noted that issuing "Improvement Notices" (敦促改善通知書) had **no deterrent effect** on repeat offenders.
+*   *The Tragicomedy:* Despite this warning, the LD issued exactly such a notice to Prestige just [**6 days before the fire**](#-e-gov-nets-2025-11-20-01-the-paper-shield-how-16-inspections-missed-the-fire-trap). They used a tool they *knew* was broken to stop a disaster they *knew* was coming.
+
+**4. The Missing "Smart Safety":**
+The report urged the adoption of "Smart Site Safety Systems" (4S), including smoke/fire detectors.
+*   *The Reality:* Wang Fuk had no such system. The "Smart" revolution was just a slogan in a blog post, while residents died in a "Dumb" building wrapped in flammable foam.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Fake Certificates**  
+> *Source: Ombudsman Press Release / 2025-04-16*
+>
+> "公署發現... 棚架還未搭建完畢，「合資格人士」已經**事先簽署**了「棚紙」"
+>
+> *Translation:*
+> "Ombudsman found... 'Competent Persons' **pre-signed** 'Scaffolding Certs' before scaffolding was built"
+
+> **Evidence [B]: The Accusation**  
+> *Source: Yahoo News Report / 2025-04-16*
+>
+> "公署調查發現，有合資格人士竟然預先簽署「棚紙」...批評有關行為**「荒唐」**"
+>
+> *Translation:*
+> "Ombudsman found... 'Competent Persons' **pre-signed** 'Scaffolding Certs'... criticizing the act as '**absurd**'."
+
+> **Evidence [C]: The Inspection Failure**  
+> *Source: Ombudsman Report / 2025-04-16*
+>
+> "8. 勞工處就各類高風險作業...沒有提供「檢查清單」"  
+> "15. ...勞工處並無向職安主任提供工作指引..."  
+> "17. 巡查記錄過於簡略，難以提供客觀基礎..."
+>
+> *Translation:*  
+> "8. Labour Department provided no checklist for various high‑risk operations."  
+> "15. LD provided **no work guidelines** to officers...  "   
+> "17. inspection records were **too brief**, difficult to provide objective basis..."
+
+> **Evidence [D]: The "Paper Tiger" Notices**  
+> *Source: Ombudsman Report / 2025-04-16*
+>
+> "25. 承建商仍沒有汲取教訓... 勞工處除了發出「敦促改善通知書」... 亦應**加大執法力度**..."
+>
+> *Translation:*
+> "25. Contractor learned no lesson... apart from issuing 'Improvement Notices'... LD should **increase enforcement intensity**..."
+
+> **Evidence [E]: The Smart‑site Safety System**  
+> *Source: Ombudsman Report / 2025-04-16*
+>
+> "47. 應用**「安全智慧工地」系統**對提升工務工程的工地安全確實帶來正面作用...發展局應...加大力度鼓勵及支援私人建築地盤更廣泛應用系統"
+>
+> *Translation:*
+> "47. Smart‑site Safety System (4S) improves construction safety...Development Bureau should step up encouragement and support for wider private‑site adoption"
+
+> **Evidence [F]: 4S Descriptions**  
+> *Source: CIC Article / 2024-03-19*
+>
+> "4S安全智慧工地系統由三部分組成，包括智能安全設備、通訊網絡以及中央管理平台。智能安全系統結合了...煙霧和火災檢測器、溫度和濕度監測器、危險情況警報系統等。"
+>
+> *Translation:*
+> "4S includes smart safety devices; communications network; central management platform. Devices include smoke/fire detectors; temperature and humidity monitors; hazard alarm systems."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**  
+"We accepted all 40 recommendations and were in the process of implementing them. Systemic change takes time. The Wang Fuk project started before the new measures could be fully deployed. We have increased fines and prosecution efforts, but we cannot monitor every single site 24/7. The ultimate responsibility lies with the contractor who falsified documents."
+
+**The Logical Trap:**  
+1.  **Urgency vs. Bureaucracy:** If the Ombudsman calls a practice "absurd" and "life-threatening," the response should be immediate (e.g., emergency circulars), not a "gradual implementation." Seven months (April to Nov) is enough time to issue a checklist. The delay cost lives.
+2.  **The "Known Unknowns":** The report specifically highlighted that "Repair & Maintenance" (R&M) works account for **42% of fatal accidents** but are often under-reported. Knowing this high risk, the LD should have targeted estates like Wang Fuk with *enhanced* scrutiny, not standard "brief" inspections.
+3.  **The "Falsification" Defense:** Blaming the contractor for falsifying docs is valid only if the regulator *tries* to catch them. The Ombudsman proved the regulator *wasn't trying* (no checklists, no cross-checks). If the police stop patrolling because "thieves break the law anyway," they are complicit in the crime wave.
+
+**¶ Statutory Basis:**
+
+*   **Authority:** The Ombudsman Ordinance (Cap. 397).
+
+**📅 Timeline:**
+*   **2025-03-31:** Ombudsman writes report warning of fake certs and weak inspections — [source](https://www.ombudsman.hk/wp-content/uploads/2025/04/20250331_DI464_Full-Report_TC.pdf)
+*   **2025-04-16:** LD says it will "follow up" — [source](https://www.info.gov.hk/gia/general/202504/16/P2025041600222.htm)
+*   **2025-11-20:** LD issues "Improvement Notice" (The Paper Tiger) to Wang Fuk — [report](https://thewitnesshk.com/宏福苑五級火-勞工處證書顯示棚網阻燃符標準-曾巡/)
+*   **2025-11-26:** Fire.
+
+**🔗 Links:**
+*   [Ombudsman Full Report](https://www.ombudsman.hk/wp-content/uploads/2025/04/20250331_DI464_Full-Report_TC.pdf)
+*   [Ombudsman Press Release](https://www.info.gov.hk/gia/general/202504/16/P2025041600247.htm)
+*   [Yahoo News Report](https://hk.news.yahoo.com/share/efc8ec84-99ac-4890-b21d-537d60553381)
+*   [CIC Article on 4S](https://www.cic.hk/chi/main/aboutcic/leadership/EDBlog/blog-169.html)
+*   [LD Response](https://www.info.gov.hk/gia/general/202504/16/P2025041600222.htm)
+
+---
+
 ### 🆔 [E-SAFETY-ALARM-2025-05-14-01] The Silent Switch: How Management Disabled the Alarm to "Save Trouble"
 
 **🚨 Significance:**
