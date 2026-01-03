@@ -6489,6 +6489,77 @@ Hau claimed he "couldn't sleep" and felt "heavy hearted" about the 161 deaths.
 
 ---
 
+### 🆔 [E-GOV-2025-12-22-01] The "Ghost" Contractor: How BD Failed to Stop Prestige Because the Paperwork Said "Fusion"
+
+**🚨 Significance:**
+
+The confusion over Elegance Gardens exposes a fatal flaw in the Buildings Department's (BD) regulatory framework: it regulates **paperwork**, not **reality**. While the BD issued a "comprehensive" stop-work order against **Prestige (宏業)**, Prestige continued to operate at Elegance Gardens because, on paper, the project was registered under a different name, **"Fusion Construction" (富山建築發展)**.
+
+**1. The "Paper Reality" vs. "Physical Reality":**
+*   **The Paper:** BD records show the Main Contractor for Elegance Gardens is **Fusion**, with Prestige only handling "Minor Works." Thus, the project was exempt from the 28-site suspension order.
+*   **The Reality:** The Estate Management issued notices to terminate the contract with **Prestige**. Prestige's boss, **Hau Wah-kin** (侯華建), attended the MC meeting as the principal. Residents understood Prestige as the Main Contractor.
+*   *The Verdict:* BD's enforcement is blind to the common practice of **"License Borrowing"**. By hiding behind a proxy license (Fusion), Prestige effectively bypassed the government's crackdown.
+
+**2. The Bureaucratic Paralysis:**
+Even after media reports highlighted the discrepancy, BD simply reiterated what the file said ("Registered Contractor is Fusion") instead of investigating why a suspended contractor was leading a major renovation.
+*   *The Failure:* A simple phone call to the Management Office or a site visit would have confirmed Prestige's role. BD's refusal to look beyond the submitted form rendered its "Stop Work Order" partially toothless.
+
+**3. The "Two-Face" Contractor:**
+This incident confirms that the Cartel operates multiple entities to evade liability. If Prestige gets banned, they switch to Fusion. If Fusion gets banned, they switch to another shell. The regulator is playing Whac-A-Mole while the residents pay the price.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Management Notice (Reality)**  
+> *Source: Elegance Gardens Notice / 2025-12-23*
+>
+> "有關：考慮與「**宏業**」終止大維修合約... 若「**宏業**」於...未能提供文件..."
+>
+> *Translation:*
+> "Re: Considering terminating Major Renovation Contract with '**Prestige**'... If '**Prestige**' fails to provide documents..."
+
+> **Evidence [B]: The BD Response (Paperwork)**  
+> *Source: Ming Pao / 2026-01-01*
+>
+> "屋宇署表示... 負責工程的訂明註冊承建商為「**富山建築發展**」，宏業負責小型工程..."
+>
+> *Translation:*
+> "BD stated... the registered contractor responsible was '**Fusion Construction**', Prestige only handled minor works..."
+
+> **Evidence [C]: The Boss's Presence**  
+> *Source: HK01 / 2025-12-22*
+>
+> "宏業建築工程被捕董事**侯華建**... 出席怡樂花園業主大會..."
+>
+> *Translation:*
+> "Arrested Prestige Director **Hau Wah-kin**... attended Elegance Gardens Owners' Meeting..."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**  
+"We act strictly according to the Buildings Ordinance. Legal liability rests with the Registered General Building Contractor (RGBC) named on the commencement form (Form BA10). If Fusion is the RGBC, we regulate Fusion. Commercial arrangements between Fusion and Prestige (e.g., subcontracting) are outside our statutory purview, provided the RGBC maintains supervision. 
+
+**The Logical Trap:**  
+1.  **The "Subcontracting" Shield:** If Prestige (the subcontractor) is the one actually running the show—attending meetings, holding the bond, making decisions—then Fusion is a **"Shell"**. Allowing suspended criminals to run sites via shells makes the suspension order a joke.
+2.  **Regulatory Agility:** When a disaster kills 161 people, "Statutory Purview" should be interpreted proactively to protect public safety, not defensively to avoid work. Knowing Prestige was involved, BD had a duty to inspect *every* site they touched, regardless of whose name was on the BA10 form.
+3.  **The Result:** Because BD relied on paper, Prestige continued to operate and potentially move funds (the missing bond) days after the fire. This delay in freezing their operations caused further financial risk to other estates.
+
+**¶ Statutory Basis:**
+
+*   **Context:** Buildings Ordinance (Register of Contractors).
+
+**📅 Timeline:**
+*   **2025-11-29:** BD suspends 28 Prestige projects (Elegance Gardens not included) — [source](https://www.bd.gov.hk/tc/whats-new/press-releases/2025/1129-buildings-department-ordered-temporary-suspension-of-works-on-30-private-building-projects.html)
+*   **2025-12-22:** Hau (Prestige) runs Elegance Gardens meeting — [report](https://www.hk01.com/突發/60305994/)
+*   **2025-12-23:** Elegance Gardens considers terminating Prestige — [notice](https://static04.hket.com/res/v3/image/content/4055000/4058438/604345587_1395634012203180_5230028833664754909_n_1024.jpg)
+*   **2026-01-01:** BD states Fusion is the contractor — [report](https://news.mingpao.com/pns/港聞/article/20260101/s00002/1767204585497)
+
+**🔗 Links:**
+*   [Elegance Gardens Notice (via HKET report)](https://static04.hket.com/res/v3/image/content/4055000/4058438/604345587_1395634012203180_5230028833664754909_n_1024.jpg)
+*   [Ming Pao Report](https://news.mingpao.com/pns/港聞/article/20260101/s00002/1767204585497)
+*   [HK01 Report](https://www.hk01.com/突發/60305994/)
+
+---
+
 ### 🆔 [E-SAFETY-NETS-2025-12-05-01] The Laundering of Risk: "We Just Trusted Them"
 
 **🚨 Significance:**
