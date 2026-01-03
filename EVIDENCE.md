@@ -6264,9 +6264,9 @@ Fu Shin Estate (Sky Arashi project) and Wang Fuk Court (Will Power project) are 
 > *Translation:*
 > "William Shum was a Will Power founder, establishing the company in 2006 with **Ho Wai-keung** and Chan Ka-man."
 
-> **Evidence [E]: Prestige's Authorized Signatory**
+> **Evidence [E]: Prestige's Authorized Signatory**  
 > *Source: Renovation booklet p.52*
->http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf
+>
 > "宏業...專業人員及架構：AS=黃忠基"
 >
 > *Translation:*
