@@ -1004,6 +1004,34 @@ Bidding activities record stem from 2009-2016 FactWire database*)
 2.  **The Statistical Impossibility:** What are the odds that 10 different bidders for *one specific estate* (Wang Fuk) all originate from the *same* specific industrial center? This concentration exceeds any random distribution. It indicates a coordinated attack, or **"Swarming"**.
 3.  **The "Dummy" Behavior:** The companies from this hub (like Milton and Wai Yip) consistently *lost* the bid with low votes or high prices. If they were independent, they would try to win. Their consistent failure suggests their role is to **pad the tender list**, making the "Winner" look legitimate.
 
+**📅 Timeline:**
+
+*   **1994:** Sun Kong (Chan's family) founded — [ref](https://sourcing.hktdc.com/zh-Hant/Supplier-Store-Directory/新港建築工程有限公司/1X07EA24)
+*   **1994-12-06:** Wealthy Gate founded — [ref](https://www.tempb.com/companies/wealthy-gate-architects-and-associates-limited/)
+*   **1999-09-17:** Sky House founded — [ref](https://hkg.databasesets.com/zh-hant/gongsimingdan/number/0688634)
+*   **2002-04-10:** Lucky Bright (Wong's family) founded — [ref](https://www.tempb.com/companies/lucky-bright-construction-limited/)
+*   **2005-04-21:** Universal Housing Construction (Wong Siu-keung) founded — [ref](https://www.tempb.com/companies/universal-housing-construction-engineering-limited/)
+*   **2005-06-03:** Ho Hei (Wong Siu-cheung) founded — [ref](https://www.tempb.com/companies/ho-hei-architectural-engineering-consultants-limited/)
+*   **2005-07-20:** Wai Yip (Chan Heung-fat) founded — [ref](https://www.tempb.com/companies/wai-yip-development-construction-limited/)
+*   **2005:** Wealthy Gate involved in Garden Vista's case with Century (Shum) — [source](https://legalref.judiciary.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=106355&QS=%2B&TP=RS)
+*   **2006-01-11:** Will Power founded — [ref](https://www.ltddir.com/companies/will-power-architects-company-limited/)
+*   **2007-12-03:** IPS Consultants (Universal Housing's director) founded — [ref](https://www.tempb.com/companies/ips-consultants-limited/#google_vignette)
+*   **2009-01-05:** A Ferrari (Wong Siu-cheung) founded — [ref](https://www.tempb.com/companies/a-ferrari-architects-engineering-consultants-limited/)
+*   **2015-04-09:** Universal Housing Construction wins Wah Yu Court tender whose consultant is A Ferrari — ref:** [[1]](https://www.facebook.com/share/p/1DQ1oTr8gE/) [[2]](https://www.facebook.com/share/p/1PxYqQ616B/) [[3]](https://www.facebook.com/share/p/17qY85U4tJ/)
+*   **Nov 2015:** Tai Wo Estate hires Ho Hei for inspection which would develop into a renovation project of astronomical price  — [archive](https://collection.news/appledaily/articles/GIHVZBQVUZOECGMDHAMTNC4TR4)
+*   **Mar 2016:** Lucky Bright taking over its mother company's uncompleted project  — [report](https://www.hk01.com/社會新聞/15233)
+*   **2016-05-03:** A Ferrari, Universal Housing, Ho Hei, Wealthy Gate seen bidding together in a minor project  — [source](http://www.cynio.org/pdf/2017/Special-7.pdf)
+*   **2016-10-28:** Report says Ching Lai Court MC disqualified 30 tenders and hired Ho Hei as consultant — [source](https://www.facebook.com/share/1AL9AKyG4s/)
+*   **2017-03-11:** Greenvale Village fired Wealthy Gate — [source](https://www.facebook.com/share/p/186KEpPygD/)
+*   **2018-03-19:** Wealthy Gate sued Factwire — [report](https://www.hk01.com/社會新聞/169576)
+*   **2018-09-26:** Wang Fuk Inspection: Will Power, A Ferrari, IPS Consultants, Wealthy Gate, Ho Hei bid— [source](http://www.wangfuk.org/html/meeting/05/第十屆-第7次全體委員會議記錄.pdf)
+*   **2019-01-25:** Will Power wins with HK$222k — [minutes](http://www.wangfuk.org/html/meeting/03/第21次全體業主大會(周年大會)會議記錄.pdf)
+*   **2020-01-20:** Tender for Wank Fuk Consultant: Will Power, A Ferrari, IPS Consultants, Sky House bid — [source](https://www.facebook.com/share/p/1ASPMmAqdt/)
+*   **2021-12-03:** Wealthy Gate fined HK$65,000  — [report](https://news.hket.com/article/3123301)
+*   **2021-12-11:** Will Power wins Consultant contract (HK$308k) — [minutes](http://www.wangfuk.org/html/meeting/03/特別業主大會會議紀錄.pdf)
+*   **2023-07-04:** Tender for Wank Fuk Renovation: Prestige, Wai Yip, Sun Kong, Lucky Bright, Milton bid — [source](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf)
+*   **2024-01-28:** Will Power helps Prestige win HK$330M contract — [ref](#-e-cartel-willpower-2023-10-16-01-the-schizophrenic-scorecard-why-the-criticized-beat-the-praised)
+
 **🔗 Links:**
 *   [Journalist W's Report](https://www.facebook.com/share/p/19YbQWsXBe/)
 *   [Hive Diagram based on the report](鴻毅與業界關係圖.png) | [Documentation to rebuild the Hive Diagram](鴻毅與業界關係圖代碼.md)
