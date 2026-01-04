@@ -282,7 +282,7 @@ The turning point was the arrest of Alliance leaders like **Lam Cheuk-ting** (20
 **🔗 Links:**
 *   [Ming Pao Interview with W (The Chronology)](https://news.mingpao.com/pns/副刊/article/20251207/s00005/1765037580567)
 *   [Next Magazine Archive (The Violence)](https://wonderlandvillashk.wordpress.com/wp-content/uploads/2014/04/10e5a4a7e7b6ade4bfaee9bb91e79ba4-e8988be69e9ce5a3b9e980b1e5888a2014-4-10.pdf) | [Backup](/壹週刊%20小心10大維修黑盤%202014-04-10.pdf)
-*   [Chiu Yan-loy FB Article (The Alliance)](https://www.facebook.com/share/1R9NRKxyBP/)
+*   [Chiu Yan-loy Article (The Alliance)](https://www.facebook.com/share/1R9NRKxyBP/)
 *   [InMedia Report (Sui Wo Court)](https://www.inmediahk.net/node/1045703)
 *   [Stand News Archive (The Arrest)](https://collection.news/thestandnews/articles/126133)
 
@@ -3515,7 +3515,7 @@ By filling the mandatory interview slots with these firms, the Cartel ensured th
 > "The Competition Commission carried out enforcement action...searching four premises...Earlier it found that a consultancy firm colluded with contractors to manipulate tender outcomes and used violence to suppress bidding, preventing other contractors from submitting tenders."
 
 > **Evidence [D]: The Identification**  
-> *Source: Chiu Yan‑loi FB Post / 2025-08-05*  
+> *Source: Chiu Yan‑loi Post / 2025-08-05*  
 >  
 > "競委會行動搜查對象包括工程顧問「創建坊建築及測量顧問有限公司」，以及工程承建商「昇基工程有限公司」"  
 >  
