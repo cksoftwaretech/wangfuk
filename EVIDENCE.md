@@ -6330,6 +6330,78 @@ Fu Shin Estate (Sky Arashi project) and Wang Fuk Court (Will Power project) are 
 
 ---
 
+### 🆔 [E-CARTEL-PRESTIGE-2025-08-30-02] The "Schrödinger's AP": How Sky Arashi Faked its Credentials to Win Contracts
+
+**🚨 Significance:**
+
+The Consultant **Sky Arashi (天嵐建築及測量顧問有限公司)**, which serves as the crucial link between the Cartel's **Ho Wai-keung (何偉強)** and **Steve Wong Chung-kee (黃忠基)**, is caught in a web of lies regarding Wong's status. While Sky Arashi now claims Wong was merely a "friend" or "unpaid consultant," tender documents obtained by residents prove that Sky Arashi explicitly listed Wong as one of its two **Authorized Persons (AP)** to win the Fu Shin Estate contract.
+
+**1. The Tender Fraud:**
+*   **The Pitch:** In its presentation to Fu Shin Estate owners, Sky Arashi's slide stated: "**Authorized Persons: 2 persons**" and listed "**Mr. Wong Chung-kee (Registered Surveyor AP(S)69/89)**" alongside Ho Wai-keung.
+*   **The Denial:** Post-fire, Sky Arashi Director **Lam Chi-chiu (林志超)** claimed Wong was never an AP, blaming the estate management for "copy-pasting the name by mistake."
+*   *The Verdict:* This is a lie. The slide (visual evidence) was Sky Arashi's own marketing material. If Wong was not their AP, Sky Arashi committed **Fraud** by inflating their credentials to win the HK$820k contract. If he *was* their AP, Lam is now lying to cover up the link to a manslaughter suspect.
+
+**2. The "Friend" Defense:**
+Lam claimed he consulted Wong as a "friend" without pay.
+*   *The Implication:* A professional consultancy relying on "unpaid friends" for technical advice is a red flag for incompetence. Moreover, professionals do not lend their names and license numbers to be printed on tender slides as "AP" just for "friendship." The use of Wong's license number implies a formal, likely financial, arrangement.
+
+**3. The Confirmation of the Nexus:**
+Regardless of whether the AP title was real or fake, the slide confirms that **Ho Wai-keung** (Will Power Co-founder) and **Wong Chung-kee** (Prestige AP) were presented as a **Team** by Sky Arashi. This visual evidence solidifies the [missing link](#-e-cartel-prestige-2025-08-30-01-the-handshake-in-the-shadows-how-will-power-and-prestige-are-connected-via-sky-arashi): the Consultant and the Contractor of Wang Fuk Court were not strangers; they were partners in the same syndicate operating next door.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Tender Slide (Visual Proof)**
+> *Source: Fu Shin Estate Resident Group (FB Image)*
+>
+> "天嵐建築及測量顧問有限公司... 認可人士 兩名... 認可人士：**黃忠基先生**... 註冊編號：**AP(S)69/89**"
+>
+> *Translation:*
+> "Sky Arashi Architects... Authorized Persons: 2 persons... AP: **Mr. Wong Chung-kee**... Reg No: **AP(S)69/89**"
+
+> **Evidence [B]: The Denial**
+> *Source: Yahoo News / 2025-12-13*
+>
+> "天嵐書面解釋...稱天嵐在公司簡介時說明黃忠基是「測量諮詢顧問」，而**黃並非公司的認可人士**... 林志超強調... 認為是有人抄寫... 時... 誤將黃忠基資料寫落去"
+>
+> *Translation:*
+> "Sky Arashi claimed Wong was 'Surveying Consultant' and **not the company's AP**... Lam Chi-chiu...  blamed [property management company] for copying errors... mistakenly listing Wong."
+
+> **Evidence [C]: The "Friend" Claim**
+> *Source: Yahoo News / 2025-12-13*
+>
+> "以「**朋友角度**」諮詢他 [黃忠基]，亦不是每次諮詢都要支付報酬。"
+>
+> *Translation:*
+> "Consulted him [Wong] from a '**friend's perspective**', and did not pay for every consultation."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"The slide was a draft or misinterpretation. Mr. Wong agreed to be a consultant, and his qualifications were listed to show the depth of our advisory network, not as a full-time employee. The term 'Authorized Person' in the slide referred to the *availability* of APs, not necessarily employment status. We won the bid based on merit and price, not just headcount."
+
+**The Logical Trap:**
+1.  **AP is a Statutory Role:** "Authorized Person" is a legal status under the Buildings Ordinance. You cannot "loosely" claim someone is your AP. You either appointed them to the project or you didn't. Listing a name and license number under "Our Team: Authorized Persons" is a specific claim of capacity. If he wasn't appointed, it's **Misrepresentation**.
+2.  **The "Draft" Excuse:** This slide was presented to owners to solicit votes. Presenting "draft" or "inaccurate" info to influence a financial decision (HK$820k contract) is the definition of **Commercial Fraud**.
+3.  **The "Team" Reality:** Whether employee or consultant, the slide proves Wong and Ho were packaged together. This destroys the narrative that the connection between Will Power (Ho's firm) and Prestige (Wong's firm) was coincidental. They were selling themselves as a package deal in Tai Po.
+
+**¶ Statutory Basis:**
+
+*   **Context:** Trade Descriptions Ordinance (False Trade Description).
+*   **Context:** Theft Ordinance (Fraud).
+
+**📅 Timeline:**
+*   **Before/On 2025-8-30:** Sky Arashi presents tender to Fu Shin Estate, listing Wong & Ho as APs — [source](https://www.facebook.com/share/p/1C3f9aSkDy/)
+*   **2025-11-26:** Wang Fuk Fire.
+*   **2025-11-27:** Wong arrested — [report](https://news.mingpao.com/pns/要聞/article/20251212/s00001/1765475826213)
+*   **2025-11-28:** Wong fired by HD contractor — [report](https://www.inmediahk.net/node/政經/【宏福苑五級火】宏業被捕授權簽署人同為政府合約測量師-大火後即炒-房署不答潛在利益衝突)
+*   **2025-12-13:** Sky Arashi denies Wong was AP; claims "copying error."
+
+**🔗 Links:**
+*   [Yahoo News Report](https://hk.news.yahoo.com/share/3bd28dcc-d6cc-4d0a-a172-a9a6eda797cf)
+*   [Resident Post](https://www.facebook.com/share/p/1C3f9aSkDy/) | Backup: [[1]](https://github.com/sparktsang/wangfuk/blob/main/天嵐建築及測量顧問有限公司%20團隊%20(富善邨投標).jpg) [[2]](https://github.com/sparktsang/wangfuk/blob/main/天嵐建築及測量顧問有限公司%20認可人士%20(富善邨投標).jpg)
+
+---
+
 ### 🆔 [E-ADMIN-2025-09-29-01] Documentary Failures: The 'Lift Contractor' Error & The $1.7M Mislabeling
 
 **🚨 Significance:**
