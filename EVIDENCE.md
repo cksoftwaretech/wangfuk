@@ -3374,7 +3374,7 @@ Out of 57 bidders, Prestige was the **only one** rated as "First Choice". This o
 
 **🚨 Significance:**
 
-Investigative reporting into the confidential "Tender Analysis Report" reveals that the bidding process was compromised by **"Price Cloning."** Among the 5 lowest bidders—which the MC is mandatorily required to interview under URA rules—3 firms submitted suspiciously similar bids.
+Investigative reporting into the confidential "Tender Analysis Report" reveals that the bidding process was compromised by **"Price Cloning."** Among the 5 lowest bidders—which the MC is mandatorily required to interview under URA rules—4 firms submitted suspiciously similar bids.
 
 **1. The "Copy-Paste" Fingerprint:**
 *   **Identical Line Items:** Two of the firms, Yick Hing (益興) and Kin Shing (堅城), had **identical prices for 8 out of 22 items**.
@@ -3914,7 +3914,7 @@ Will Power's consistent selection of the same firms (despite their known flaws, 
 *   **Offence:** Bid-Rotation (Competition Ordinance).
 
 **📅 Timeline:**
-*   **2021:** Will Power wins On Kay Consultant.
+*   **2021:** Will Power wins On Kay Consultant (HK$360,000) — [ref](https://news.hket.com/article/4049570)
 *   **2021-12-11:** Will Power wins Wang Fuk Consultant.
 *   **2023-07-17:** Tender opens for On Kay Court. 
 *   **2023-09-18:** Tender deadline. 
