@@ -4165,6 +4165,149 @@ During the vote (Jan 28, 2024), the ballot did not clearly distinguish that Opti
 
 ---
 
+### 🆔 [E-CARTEL-WILLPOWER-2023-11-29-01] The "Magic Eraser": How a Contractor's Criminal Record Vanished in 3 Months
+
+**🚨 Significance:**
+
+A forensic comparison of two tender reports produced by the same Consultant (**Will Power**) for two different estates reveals undeniable evidence of data falsification. The conviction records of two contractors, **Bo Shing (寶盛建設工程)** and **San Hoi Ming (新開明建築工程)**, which were correctly flagged in the **Wang Fuk Court** report (Aug 2023), were completely erased in the **On Kay Court** report (Nov 2023) just 3 months later.
+
+**1. The "Vanishing" Convictions:**
+*   **Wang Fuk (Aug):** Bo Shing & San Hoi Ming scored **0 points** for "Past 8 Years Litigation" due to multiple safety convictions (e.g., failing to prevent falls).
+*   **On Kay (Nov):** The same Consultant, reviewing the same 8-year window, gave them **5 Points (Full Marks)** for having "No Litigation."
+*   *The Verdict:* Criminal records do not disappear in 10 weeks. Will Power deliberately **deleted the data** to boost these firms into the "Top 5" at On Kay Court.
+
+**2. The Score Inflation:**
+By erasing the litigation record and inflating other subjective scores (Background/Recommendation), Will Power **doubled** the total scores of these firms:
+*   **Bo Shing:** 8 points (Wang Fuk) → **19 points** (On Kay).
+*   **San Hoi Ming:** 11 points (Wang Fuk) → **21 points** (On Kay).
+*   *The Result:* This manipulation allowed them to qualify as "Recommended Contractors" at On Kay, proving the entire evaluation process is a fabrication tool.
+
+**3. The "Promotion" of the Forger:**
+The reports were prepared by the same staff member, **Hung Sai-kit (孔世傑)**. Between the two reports, Hung was promoted from "Project Officer" to "**Assistant Project Manager**."
+*   *The Culture:* In a legitimate firm, falsifying data leads to firing. At Will Power, it led to promotion. This suggests corruption is institutionalized from the Directors (who signed off) down to the execution staff.
+
+**4. The "All-Guilty" Shortlist:**
+Investigation reveals that **ALL 7** of Will Power's "favorite" contractors (including Prestige, Widely, Shusum) had litigation records that should have disqualified them from being "First/Second Choice."
+*   *The Reality:* If the rules were followed, **none** of the finalists would have qualified. Will Power didn't just pick the best of a bad bunch; they actively **whitewashed** the records of their cartel partners to force them through the gate.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The "Zero" Score (Wang Fuk)**  
+> *Source: Renovation Booklet p.28*
+>
+>| **投標者名稱** | **ISO 14001:2015** | **ISO 45001:2018** | **推薦信部份得分** | **同類型工程記錄部份得分** | **公司背景部份得分** | **財務證明部份得分** | **無法律訴訟部份得分** | **過往8年訴訟記錄資料** | **牌照屆滿日期** | **承建商牌照持牌年資** | **總得分** |
+>|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+>| **寶盛建設工程有限公司** | 1 | 1 | 0 | 0 | 1 | 0 | 3 | 0 | 1 | 1 | 8 |
+>| **新開明建築工程有限公司** | 1 | 1 | 1 | 0 | 2 | 0 | 3 | 0 | 1 | 2 | 11 |
+>
+> "寶盛... 過往8年訴訟: **0** | 總分: **8**"
+> "新開明... 過往8年訴訟: **0** | 總分: **11**"
+> 
+> *Translation:*  
+> Bo Shing... Litigation record over the past 8 years: **0** | Total score: **8**"
+> San Hoi Ming... Litigation record over the past 8 years: **0** | Total score: **11**"
+
+> **Evidence [B]: The "Perfect" Score (On Kay)**  
+> *Source: Green Bean Media (citing On Kay Report) / 2025-12-29*
+>
+>| **投標者名稱** | **ISO 14001:2015** | **ISO 45001:2018** | **推薦信部份得分** | **同類型工程記錄部份得分** | **公司背景部份得分** | **財務證明部份得分** | **過往1年無法律訴訟証明文件** | **過往8年訴訟記錄資料** | **牌照屆滿日期** | **總得分** |
+>|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+>| **新開明建築工程有限公司** | 1 | 1 | 3 | 2 | 5 | 0 | 3 | 5 | 1 | 21 |
+>| **寶盛建設工程有限公司** | 1 |  1 | 3 | 0 | 3 | 0 | 3 | 5 | 3 | 19 |
+>
+> "寶盛... 過往8年訴訟: **5 (滿分)** | 總分: **19**"
+> "新開明... 過往8年訴訟: **5 (滿分)** | 總分: **21**"
+>
+> *Translation:*  
+> Bo Shing... Litigation record over the past 8 years: **5 (Full mark)** | Total score: **19**"
+> San Hoi Ming... Litigation record over the past 8 years: **5 (Full mark)** | Total score: **21**"
+>
+> *(Note: Same consultant, same timeframe, opposite facts.)*
+
+> **Evidence [C]: The Staff Promotion**  
+> *Source: Green Bean Media / 2025-12-29*
+>
+> "宏福苑報告... 項目主任**孔世傑**... 安基苑報告... 已升職為**項目助理經理**... 兩名董事確認有參閱和審核。"
+>
+> *Translation:*  
+> "Wang Fuk report... Project Officer **Hung Sai-kit**... On Kay report... promoted to **Assistant Project Manager**... Two Directors confirmed review and audit."
+
+> **Evidence [D]: The Real Litigation Records**  
+> *Source: Green Bean Media / 2025-12-29*
+>
+> "在宏福苑入標時，這兩間公司的在這部分，都只有零分，這理所當然。因為單在2022年及2023年，寶盛已多次因為無提供及確保有使用作支持用的安全設施、無採取足夠步驟防止有人墮下、無確保由曾受訓練的工人搭棚和拆棚，亦無確保工人在監督下做棚架工作，這一系列指控，違反《工廠及工業經營條例》多次被罰款。而新開明則在2017、2020和2022年，分別因為無採取足夠步驟防止有人墮下、無確保工人佩帶適當的安全帽，甚至僱用未獲證明書的人，違反《工廠及工業經營條例》，同樣被多次罰款。"
+>
+> *Translation:*  
+> "At Wang Fuk Court tender both firms scored zero in this category, rightly so. Bo Shing was fined repeatedly in 2022–23 for failing to provide/ensure safety supports, prevent falls, ensure trained scaffolders, and supervise scaffold work—breaching the Factories and Industrial Undertakings Ordinance; San Hoi Ming was fined in 2017, 2020, 2022 for failing to prevent falls, ensure proper helmets, and hiring uncertified workers—also breaching the same ordinance."
+
+> **Evidence [E]: Additional Records (Incomplete)**
+> *Source: Official Conviction Records*
+>
+>| **被告** <br> Defendant  | **案發地點** <br> Offence Location | **違例日期** <br> Date of Offence | **簡述** <br> Short Description | **罪行** <br> Offence | **判決日期** <br> Date of Sentence | **罰款** <br> Fine |
+>|---|---|---:|---|---|---:|---:|
+>| 新開明建築工程有限公司 | 九龍窩打老道77-77A號金華樓 | 31/03/2016 | 沒有採取足夠的步驟防止有人墮下 | 工廠及工業經營條例 (第59章) 制訂的建築地盤 (安全) 規例第 38B(1)、68(1)(a)及68(2)(g)條 | 24/10/2016 | $18,000.00 |
+>| 新開明建築工程有限公司 | 九龍窩打老道77-77A號金華樓 | 31/03/2016 | 沒有採取足夠的步驟防止有人墮下 | 工廠及工業經營條例 (第59章) 制訂的建築地盤 (安全) 規例第 38B(1)、68(1)(a)及68(2)(g)條 | 24/10/2016 | $14,000.00 |
+>| 新開明建築工程有限公司 | 新界葵涌荔景山路201至203號 | 26/07/2016 | 沒有採取足夠的步驟防止有人墮下 | 工廠及工業經營條例 (第59章) 制訂的建築地盤 (安全) 規例第 38B(1)、68(1)(a)及68(2)(g)條 | 13/04/2017 | $10,000.00 |
+>| 新開明建築工程有限公司 | 新界葵涌荔景山路201至203號 | 26/07/2016 | 沒有採取足夠的步驟防止有人墮下 | 工廠及工業經營條例 (第59章) 制訂的建築地盤 (安全) 規例第 38B(1)、68(1)(a)及68(2)(g)條 | 13/04/2017 | $6,000.00 |
+>| 新開明建築工程有限公司 | 九龍觀塘月華街36號觀塘大廈天台 | 06/09/2017 | 沒有採取足夠的步驟防止有人墮下 | 工廠及工業經營條例 (第59章) 制訂的建築地盤 (安全) 規例第 38B(1)、68(1)(a)及68(2)(g)條 | 20/06/2018 | $18,000.00 |
+>| 新開明建築工程有限公司 | 香港北角北景街9-15號、長康街8號及堡壘街18-20號華健大廈 | 02/11/2017 | 沒有採取足夠的步驟防止有人墮下 | 工廠及工業經營條例 (第59章) 制訂的建築地盤 (安全) 規例第 38B(1)、68(1)(a)及68(2)(g)條 | 29/06/2018 | $15,000.00 |
+>| 新開明建築工程有限公司 | 新界荃灣德士古道150-164號聯合貨運中心 | 14/12/2018 | 沒有展示證明書或報告 | 工廠及工業經營條例 (第59章) 制訂的工廠及工業經營 (吊船) 規例第25(2)及第29(2)條 | 12/09/2019 | $2,500 |
+>| 新開明建築工程有限公司 | 新界荃灣德士古道150-164號聯合貨運中心 | 14/12/2018 | 沒有展示證明書或報告 | 工廠及工業經營條例 (第59章) 制訂的工廠及工業經營 (吊船) 規例第25(2)及第29(2)條 | 12/09/2019 | $2,500 |
+>| 新開明建築工程有限公司 | 九龍觀塘鴻圖道51號保華企業中心及鴻圖道53號威明中心 | 30/10/2020 | 沒有確保工人配戴適當的安全頭盔 | 工廠及工業經營條例 (第59章) 制訂的建築地盤 (安全) 規例第 48(1)(b)、68(1)(a)及68(2)(b)條 | 20/05/2021 | $3,000 |
+>| 寶盛建設工程有限公司 | 新界沙田大圍道49-53號悅安樓 | 27/04/2016 | 沒有採取足夠的步驟防止任何人墮下 | 工廠及工業經營條例 (第59章) 制訂的建築地盤 (安全) 規例第 38B(1A)、68(1)(a)及68(2)(g)條 | 25/11/2016 | $15,000.00
+>寶盛建設工程有限公司 | 新界沙田大圍道49-53號悅安樓 | 27/04/2016 | 沒有確保在工作地方提供及 / 或維修安全進出口 | 工廠及工業經營條例 (第59章) 制訂的建築地盤 (安全) 規例第 38AA(2)、68(1)(a)及68(2)(g)條 | 25/11/2016 | $18,000.00
+
+> **Evidence [F]: Selected transcription of the original video report**  
+> *Source: Green Bean Media / 2025-12-29*
+>
+>鴻毅2018年中標做安基苑四棟大廈的驗樓工程，到2021年被揀選為大維修的顧問公司。今個月安基苑管業處發出的通告，見到鴻毅在整個大維修的顧問費用為36萬元。兩個居屋，鴻毅都是先中標做驗樓，再以低價中標做大維修的顧問工程。以宏福苑來說，顧問費少於整體工程造價0.1%，而安基苑的顧問費就佔整體工程費用0.33%（維修價1.08億）。
+>
+>2023年7月17日安基苑登報邀請承建商入標，9月18日截標，共有32間承建商參與競投。兩個同為居屋屋苑，至今落成樓齡都是41至42年，由同一間顧問公司主導大維修工程。
+>
+>由法團委任的顧問公司，理應代表業主分析並作出建議，所以顧問公司所做的五強名單，在實際操作上對業主的決定產生關鍵影響。
+>
+>我們對比兩份投標報告，發現在安基苑入標的32間承建商當中，有20間都有在宏福苑入標。而能夠在鴻毅評分下，五間順利通過各項審核，納入安基苑最終綜合採納建議的承建商，全部都有在宏福苑入標。兩個屋苑進入最後五強的承建商組合，有三間一模一樣：分別是宏業建築工程、偉利建築工程、以及樹深建築有限公司。最後宏業在2024年1月，成功中標做宏福苑的大維修承建商，而偉利在同年8月在安基苑中標。成為宏福苑五強的宏溢營造工程和俊豪建築工程，並沒有在安基苑入標。
+>
+>我們先看在兩個屋苑都有入標，最後打入安基苑五強的寶盛建設工程以及新開明建築工程如何得分。鴻毅作為顧問公司，會對承建商的背景和入標價錢評分。我們發現鴻毅影響一個承建商有否下一步的面試機會，以致是否能進入最後建議的五強，重點在承建商的公司背景，特別是有沒有訴訟紀錄的部份。鴻毅在安基苑投標分析報告這樣寫：無論投標公司評級如何，都必須沒有涉及法律訴訟紀錄，才被鴻毅接納為首選考慮或次選考慮。這包括承建商委託執業律師，在入標前一年發出未受法律訴訟的證明文件，以及鴻毅委託的法律顧問或第三方機構，未發現承建商過去八年的訴訟紀錄，同樣的要求亦適用於宏福苑承建商的評核。
+>
+>我們發現鴻毅評核寶盛建設工程與新開明建築工程過去八年訴訟紀錄時，從宏福苑到安基苑的評分，有極為不合理的變化。在宏福苑入標時，這兩間公司的在這部分，都只有零分。這理所當然，因為單在2022年及2023年，寶盛已多次因為無提供及確保有使用作支持用的安全設施、無採取足夠步驟防止有人墮下、無確保由曾受訓練的工人搭棚和拆棚，亦無確保工人在監督下做棚架工作，這一系列指控，違反《工廠及工業經營條例》多次被罰款。而新開明則在2017、2020和2022年，分別因為無採取足夠步驟防止有人墮下、無確保工人佩帶適當的安全帽，甚至僱用未獲證明書的人，違反《工廠及工業經營條例》，同樣被多次罰款。
+>
+>但令人震驚的是，這兩間公司的定罪紀錄，竟然在安基苑的標書報告中，從有到無，全被抹走！在安基苑的報告，寶盛和新開明都被視為過去八年沒有任何訴訟紀錄，在這細項得五分滿分。同時因為推薦信，及公司背景部分得分亦上調，兩間公司的整體公司背景得分，相對宏福苑的顧問報告，顯著增加了接近甚至超過一倍。寶盛的公司總分由8分變19分，新開明由11分變21分，成功躋身五強，在安基苑成為最終綜合採納建議之列。必須注意的是，這兩份報告由顧問公司同一人撰寫，截標日期只相差兩個半月。在完成宏福苑報告之後不久。安基苑的報告顯示，項目主任孔世傑已升職為項目助理經理，報告都有鴻毅兩位董事確認有參閱和審核。兩名董事在宏福苑大火後，已被廉政公署拘捕。同一人撰寫，在差不多時期評核兩間公司，竟然可以出現截然不同的評分，違法紀錄都可以抹走，相信已經不是資料搜集錯漏可解釋。
+>
+>至於同樣入選兩個屋苑五強推薦名單的三間公司：宏業、偉利和樹深，明明訴訟紀錄累累劣跡斑斑，都被鴻毅指在入標前八年，完全沒訴訟記錄而得分，宏福苑的報告這樣寫，安基苑的報告也一樣。而有在宏福苑投標五強榜內的宏溢和偉豪，亦同樣有訴訟記錄，不過也被無視因而得分獲得入選。如果要沒有訴訟記錄才可成為顧問公司建議及業主考慮的首選和次選，無論是宏福苑還是安基苑，在最後五強出現，可說是鴻毅鐵腳的七間承建商，根本沒有一間可以入圍。
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**  
+"The scoring criteria or weighting might have differed slightly between estates, or new information (e.g., successful appeals) came to light. The 'Litigation' check relies on third-party databases which may have had temporary errors. Staff promotion is based on overall performance, not a single report. Human error in data entry is possible but not malicious."
+
+**The Logical Trap:**  
+1.  **Records don't vanish:** Court convictions for industrial safety (e.g., 2022/2023 cases for Bo Shing) are permanent public records. They cannot be "appealed away" in 3 months to clear an 8-year history.
+2.  **Selective "Error":** If it was a database error, why did it *only* affect the Cartel's preferred firms (Bo Shing, San Hoi Ming) by *improving* their scores to perfect? Random errors go both ways. An error that consistently helps the Cartel win is not an error; it's an **algorithm**.
+3.  **The "Same Hand" Proof:** The same person (Hung) wrote both. He knew they had convictions in July. He claimed they had none in October. This requires a conscious decision to **ignore his own previous findings**. "Human error" cannot explain forgetting a fact you wrote down 10 weeks ago.
+
+**¶ Statutory Basis:**
+
+*   **Offence:** Forgery (Crimes Ordinance).
+*   **Offence:** Conspiracy to Defraud.
+
+**📅 Timeline:**
+*   **2023-07-04:** Tender closes for Wang Fuk Court. 
+*   **2023-08-31:** Will Power (Hung) scores Bo Shing/San Hoi Ming **0** for litigation (Wang Fuk).
+*   **2023-09-18:** Tender closes for On Kay Court. 
+*   **2023-11-29:** Will Power (Hung, promoted) scores them **5** for litigation (On Kay).
+*   **2024-08:** Widely (another "clean" cartel firm) wins On Kay.
+*   **2025-12-29:** Media comparison exposes the data laundering.
+
+**🔗 Links:**
+*   [Green Bean Media Investigation](https://www.youtube.com/watch?v=iEO5a4rYKbI)
+*   Labour Department Conviction Records:
+    *   [Oct 2016 - Sep 2018](https://www.labour.gov.hk/tc/osh/pdf/Conviction_record_Q4_2016_to_Q3_2018_tc.pdf) | [Backup](職安健定罪紀錄%20Oct%202016%20-%20Sep%202018.pdf)
+    *   [Jul 2019 - Jun 2021](https://www.labour.gov.hk/tc/osh/pdf/Conviction_record_tc.pdf) | [Backup](職安健定罪紀錄%20Jul%202019%20-%20Jun%202021.pdf)
+    *   [Oct 2023 - Sep 2025](https://www.labour.gov.hk/common/osh/pdf/Conviction_record_tc.pdf) | [Backup](職安健定罪紀錄%20Oct%202023%20-%20Sep%202025.pdf)
+
+---
+
 ### 🆔 [E-CARTEL-2024-01-28-01] The Phantom Voters: How a "Mystery Mouse" Swung the HK$330M Contract
 
 **🚨 Significance:**
