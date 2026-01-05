@@ -599,7 +599,7 @@ The policy of mandating inspections for "2,000 buildings per year" created a mas
 "The situation in 2012 was chaotic, which is exactly why we introduced the 'Smart Tender' system and the Competition Commission to regulate the market. Comparing the lawless past to the regulated present is unfair. The Wang Fuk fire is an unfortunate industrial accident, not proof that the entire system has failed for 13 years."
 
 **The Logical Trap:**
-1.  **Smart Tender Failed:** Wang Fuk *used* Smart Tender. The result? A [1.6% price match](#-e-cartel-2023-07-04-02-the-magic-16-how-prestige-hit-the-bullseye-on-a-rigged-target) and a [rigged score](#-e-cartel-2023-08-31-01-the-perfect-score-scam-how-a-safety-violator-was-rated-clean). This proves the "Smart Tender" reform was merely a cosmetic patch that the cartel easily bypassed.
+1.  **Smart Tender Failed:** Wang Fuk *used* Smart Tender. The result? A [1.6% price match](#-e-cartel-2023-07-04-02-the-magic-16-how-prestige-hit-the-bullseye-on-a-rigged-target) and a [rigged score](#-e-cartel-willpower-2023-08-31-01-the-perfect-score-scam-how-a-safety-violator-was-rated-clean). This proves the "Smart Tender" reform was merely a cosmetic patch that the cartel easily bypassed.
 2.  **Violence to Silence:** The cartel no longer needs to break the law to silence dissent. The civil society who could monitor them has ceased to exist. 
 3.  **The Unbroken Chain:** If the symptoms in 2025 (fake materials, rigged votes) are identical to 2012, then the "reforms" were placebos. The "unfortunate accident" at Wang Fuk was the statistical inevitability of 13 years of regulatory failure.
 
