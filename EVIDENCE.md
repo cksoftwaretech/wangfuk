@@ -3852,6 +3852,81 @@ The Consultant (**Will Power**) filtered out 48 other bidders to select these sp
 
 ---
 
+### 🆔 [E-CARTEL-WILLPOWER-2023-09-18-01] The Assembly Line: Same Consultant, Same Low Fee, Same "Top 5" at On Kay Court
+
+**🚨 Significance:**
+
+Investigative reporting confirms that **Will Power (鴻毅)** replicated its Wang Fuk Court *modus operandi* at another estate, **On Kay Court (安基苑)**. The pattern of predatory low consultancy fees, recycled bidders, and a fixed "shortlist" of winners proves that the bid-rigging scheme was industrial in scale, not isolated to one project.
+
+**1. The "Loss Leader" Repeat:**
+At On Kay Court (HK$108M project), Will Power charged only **HK$360,000** as a consultancy fee (**0.33%**).
+*   *The Pattern:* Just like at Wang Fuk (0.09%), this fee is mathematically insufficient to cover professional costs. It confirms Will Power's business model relies on backend kickbacks, not frontend fees.
+
+**2. The Recycled Cast:**
+Out of 32 bidders at On Kay, **20** had also bid at Wang Fuk.
+*   *The Swarm:* The same ["Clone Army"](#-e-cartel-2023-07-04-03-the-clone-army-how-copy-paste-bids-blocked-the-lowest-5-slots) follows Will Power from estate to estate, providing the illusion of competition wherever they go.
+
+**3. The Fixed "Top 5":**
+The "Final 5" shortlist at On Kay included **3 firms identical to Wang Fuk**: **Prestige (宏業)**, **Widely (偉利)**, and **Shusum (樹深)**.
+*   *The Rotation:* While Prestige won Wang Fuk, Widely won On Kay. This perfectly illustrates the **"Market Allocation"** strategy where cartel members take turns winning contracts under the same consultant's supervision.
+
+**4. The "Quality Control" Myth:**
+Will Power's consistent selection of the same firms (despite their known flaws, e.g., Prestige's safety record) proves that their "Vetting Process" is actually a **"Gatekeeping Process"** designed to ensure only cartel members reach the finals.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Low Fee at On Kay**  
+> *Source: Green Bean Media / 2025-12-29*
+>
+> "鴻毅... 顧問費用為 **36萬元**... 佔整體工程費用 **0.33%**（維修價1.08億）。"
+>
+> *Translation:*
+> "Will Power... fee was **HK$360,000**... accounting for **0.33%** [of the HK$108M project.]"
+
+> **Evidence [B]: The Recycled Bidders**  
+> *Source: Green Bean Media / 2025-12-29*
+>
+> "安基苑入標的32間承建商當中，有 **20間** 都有在宏福苑入標。"
+>
+> *Translation:*
+> "Of the 32 bidders at On Kay, **20** also bid at Wang Fuk."
+
+> **Evidence [C]: The Identical "Top 5"**  
+> *Source: Green Bean Media / 2025-12-29*
+>
+> "兩個屋苑進入最後五強... 有三間一模一樣：分別是**宏業**... **偉利**... 以及**樹深**... 偉利在同年 [2024年] 8月在安基苑中標。"
+>
+> *Translation:*
+> "The Final 5 in both estates... shared 3 identical firms: **Prestige**, **Widely**, and **Shusum**... Widely won the On Kay bid in August [2024]."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**  
+"The construction industry is small; major firms naturally bid for all major projects. Seeing the same names is expected. The low fee reflects economies of scale as we manage multiple estates in the same district. Our 'Top 5' selection is based on objective scoring, and these firms consistently score high because they are the most capable. The fact that different firms won (Prestige vs. Widely) proves competition exists."
+
+**The Logical Trap:**  
+1.  **The "Competence" Lie:** If these firms are the "most capable," why did Prestige have 20+ safety convictions and use fake nets? Why was Widely involved in the Yee Shing Garden mess? They consistently score high only because the **scoring is rigged** (See **E-CARTEL-RIGGED-SCORE**).
+2.  **Economies of Scale vs. Negligence:** "Economies of Scale" might save 10-20%, not 95%. Charging <0.5% when the market rate is 3-6% is not efficiency; it is **abdication of duty**. You cannot supervise a HK$100M project for HK$360k without cutting corners or taking bribes.
+3.  **Rotation is not Competition:** In antitrust law, "Bid Rotation" (taking turns to win) is a specific form of cartel conduct. The fact that Will Power's "favorites" take turns winning is evidence *for* collusion, not against it.
+
+**¶ Statutory Basis:**
+
+*   **Offence:** Bid-Rotation (Competition Ordinance).
+
+**📅 Timeline:**
+*   **2021:** Will Power wins On Kay Consultant.
+*   **2021-12-11:** Will Power wins Wang Fuk Consultant.
+*   **2023-07-17:** Tender opens for On Kay Court. 
+*   **2023-09-18:** Tender deadline. 
+*   **2024-01-28:** Prestige wins Wang Fuk (Will Power advises).
+*   **2024-08:** Widely wins On Kay (Will Power advises).
+*   **2025-11-26:** Fire at Wang Fuk exposes the scam.
+
+**🔗 Links:**
+*   [Green Bean Media Report](https://www.youtube.com/watch?v=iEO5a4rYKbI)
+
+---
+
 ### 🆔 [E-CARTEL-WILLPOWER-2023-10-16-01] The Schizophrenic Scorecard: Why the "Criticized" Beat the "Praised"
 
 **🚨 Significance:**
@@ -6471,8 +6546,8 @@ The Fu Shin tender included other known Cartel affiliates [identified in Journal
 > | 35 | 朱黃倫建築師測量師有限公司 | 720,000 |
 >
 > Note:  
-> Median price: $452,800
-> Average price: $569,267
+> Median price: $452,800  
+> Average price: $569,267  
 > Paul Kong (江明): **$78,750** | A Ferrari (快利達): **$280,000** | Will Power (鴻毅): **$308,000** | IPS ( 艾比斯) $522,800 | Sky Arashi (天嵐): **$600,000**" | Sky House (恒建): **$660,000**"
 
 > **Evidence [B]: The Fu Shin Bids (2025)**  
@@ -6521,8 +6596,8 @@ The Fu Shin tender included other known Cartel affiliates [identified in Journal
 >| 39 | 中達測量師行有限公司 | $1,200,000.00 | $1,500,000.00 | $2,700,000.00 |
 >
 > Note (Consultant bid only for fair comparison):  
-> Median price: $490,750 (x1.08 compared to Wang Fuk)
-> Average price: $593,283 (x1.04 compared to Wang Fuk)
+> Median price: $490,750 (x1.08 compared to Wang Fuk)  
+> Average price: $593,283 (x1.04 compared to Wang Fuk)  
 > Paul Kong (江明): **$490,750** | A Ferrari (快利達): **$540,000** | Will Power (鴻毅): **$510,000**| IPS ( 艾比斯) $420,000 | Sky Arashi (天嵐): **$420,000**" | Sky House (恒建): **$530,000**"
 >
 > *(Analysis: Market baseline is stable. Paul Kong's price increased 6x. A Ferrari price x1.9. Will Power & Sky Arashi converge on the total price.)*
