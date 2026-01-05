@@ -3221,15 +3221,15 @@ The failure to declare these close business ties constitutes a fraudulent misrep
 > **Evidence [A]: The Corporate Links**
 > *Source: Green Bean Media / 2025-12-11*
 >
-> "宏業老闆侯華建跟...競爭的公司老闆，根本就是商業拍檔... 利來拓展...另一股東為**譚子文**，各持股一半，同時係另一投標承建商**民星營造**...大股東"
-> "李植開曾跟侯華建、蔡文鳴，在2014年登記成為一間叫炬鋒有限公司嘅董事...李植開現為新開明建築工程有限公司的董事兼股東"
-"蔡文鳴，則是信豪（集團）工程有限公司的董事"
-"康仁體育會贊助名單中，有有澳門晉誠物業和現代建設集團。網頁上譚子文個人簡介上，有寫著他曾以晉誠物業贊助籃球比賽。現代建設集團，則是蔡文彬任董事，蔡文彬同時是現代建設（亞洲）的董事"
+> "宏業老闆侯華建跟...競爭的公司老闆，根本就是商業拍檔... 利來拓展...另一股東為**譚子文**，各持股一半，同時係另一投標承建商**民星營造**...大股東"  
+> "李植開曾跟侯華建、蔡文鳴，在2014年登記成為一間叫炬鋒有限公司嘅董事...李植開現為新開明建築工程有限公司的董事兼股東"  
+> "蔡文鳴，則是信豪（集團）工程有限公司的董事"  
+> "康仁體育會贊助名單中，有澳門晉誠物業和現代建設集團。網頁上譚子文個人簡介上，有寫著他曾以晉誠物業贊助籃球比賽。現代建設集團，則是蔡文彬任董事，蔡文彬同時是現代建設（亞洲）的董事"
 >
-> *Translation:*
-> "Prestige boss Hau Wah-kin and... rival bosses are business partners... **Tam Tsz-man** (50% shareholder of Rich Surplus with Hau) is the major shareholder of bidder **Man Sing**..."
-> "Li Chik-hoi once registered, with Hou and Choi Man-ming, as directors of Blazing Edge Limited in 2014... He is currently a director and shareholder of **San Hoi Ming**"
->"...Choi Man-ming is a director of **Sunarts (Holdings)**"
+> *Translation:*  
+> "Prestige boss Hau Wah-kin and... rival bosses are business partners... **Tam Tsz-man** (50% shareholder of Rich Surplus with Hau) is the major shareholder of bidder **Man Sing**..."  
+> "Li Chik-hoi once registered, with Hou and Choi Man-ming, as directors of Blazing Edge Limited in 2014... He is currently a director and shareholder of **San Hoi Ming**"  
+>"...Choi Man-ming is a director of **Sunarts (Holdings)**"  
 >"The Wellman Sports Association’s sponsor list includes Earnest Property Agency and Now Construction Holdings (H.K.) Limited. On Tam Tsz-man’s profile page it states that he once sponsored basketball competitions through Earnest. Now Construction lists Choi Man-ban as a director, who is also a director of **Now Construction (Asia)** Company Limited.
 
 > **Evidence [B]: The "Zero Vote" Outcome**
