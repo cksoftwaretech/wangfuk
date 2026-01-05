@@ -6402,6 +6402,164 @@ Regardless of whether the AP title was real or fake, the slide confirms that **H
 
 ---
 
+### 🆔 [E-CARTEL-WILLPOWER-2025-08-30-01] The "Recurring Cast": How the Same Dummy Firms Rigged Tenders Across Tai Po
+
+**🚨 Significance:**
+
+A cross-comparison of tender records from **Wang Fuk Court** (2020) and the neighboring **Fu Shin Estate** (2025) reveals a familiar pattern of bid manipulation. The same group of "Dummy Consultants" appeared in both tenders, submitting erratic bids apparently designed not to win, but to manipulate the landscape. Normalizing the data shows that while the market average remained stable, the bids of specific cartel members fluctuated wildly.
+
+**1. The "Fluctuating" Prices of Dummies:**
+Comparing only the **"Supervision Consultant Fee"** (excluding inspection) reveals inexplicable price jumps:
+*   **Paul Kong (江明):** Bid **HK$78,750** at Wang Fuk (Loss Leader). Bid **HK$490,750** at Fu Shin (**6x higher**).
+*   **A Ferrari (快利達):** Bid **HK$280,000** at Wang Fuk. Bid **HK$540,000** at Fu Shin (**~2x higher**).
+*   *The Verdict:* The market median for supervision only rose by ~8% between the two tenders. Price jumps of 200-600% by the same firms cannot be explained by inflation. They indicate that these firms price their services based on **strategic utility** (e.g., being a low-ball dummy vs. a high-ball dummy) rather than cost.
+
+**2. The "HK$10,000" Handshake (Total Value):**
+At Fu Shin Estate, **Will Power (鴻毅)** bid a Total of **HK$830,000**, while **Sky Arashi (天嵐)** bid **HK$820,000**.
+*   *The Margin:* The difference was a mere **HK$10,000 (1.2%)**.
+*   *The Context:* Given that Will Power's founder (Ho Wai-keung/何偉強) and Sky Arashi's consultant (Steve Wong/黃忠基) are [colleagues](#-e-cartel-prestige-2025-08-30-01-the-handshake-in-the-shadows-how-will-power-and-prestige-are-connected-via-sky-arashi), this razor-thin margin suggests **Price Coordination** to ensure Sky Arashi won Fu Shin while Will Power held Wang Fuk — seemingly a classic **Market Allocation** scheme.
+
+**3. The Network Expansion:**
+The Fu Shin tender included other known Cartel affiliates [identified in Journalist W's report](#-e-cartel-willpower-2016-12-31-01-the-bid-rigging-factory-20-companies-10-units-one-industrial-building):
+*   **Tsui Wai Kit Architects (徐偉杰建築師):** Founder associated with the "Godfather" Chan Heung-fat (陳响發)'s network.
+*   **Grand Kind (宏佳):** Owned by **Wong Tin-hei (黃天喜)**, a key figure in the Cartel's web according to the mentioned report.
+*   *Conclusion:* The Cartel does not just target one estate; it swarms an entire district, apparently rotating winners among its members.
+
+**📜 Original Record:**
+
+> **Evidence [A]: Wang Fuk Consultant Bids**  
+> *Source: Herman Yiu's post / 2020-01-23*  
+>  
+> "開標日期：2020-01-20 下午五時" (Time: 2020-01-20 17:00)
+>  
+> | **編號** | **承辦商** | **服務費用 (港幣)** |  
+> |---:|---|---:|  
+> | 1 | 葉大永建築師有限公司 | 452,800 |  
+> | 2 | 快利達建築工程顧問有限公司 | 280,000 |  
+> | 3 | 國天建築顧問有限公司 | 140,000 |  
+> | 4 | 鮑氏建築師樓宇維修顧問有限公司 | 951,000 |  
+> | 5 | 萬景工程顧問有限公司 | 360,000 |  
+> | 6 | 張潘測量師行 | 829,000 |  
+> | 7 | 恒建建築師事務所有限公司 | 660,000 |  
+> | 8 | 毅建設計顧問有限公司 | 274,000 |  
+> | 9 | 雅仕建築顧問國際有限公司 | 992,000 |  
+> | 10 | 亞太建築顧問有限公司 | 320,000 |  
+> | 11 | 藝建工程顧問有限公司 | 1,200,000 |  
+> | 12 | **鴻毅建築師有限公司** | **308,000** |  
+> | 13 | 卓越展圖建築師有限公司 | 480,000 |  
+> | 14 | 郭駿建築師有限公司 | 450,000 |  
+> | 15 | 亞洲顧問工程有限公司 | 1,200,000 |  
+> | 16 | 大地建築顧問有限公司 | 400,000 |  
+> | 17 | 恒新顧問服務有限公司 | 793,200 |  
+> | 18 | 澔天顧問工程有限公司 | 168,000 |  
+> | 19 | 香港國際建築顧問有限公司 | 240,000 |  
+> | 20 | 偉高工程顧問有限公司 | 358,000 |  
+> | 21 | 百偉(香港)顧問有限公司 | 480,000 |  
+> | 22 | 天築國際顧問有限公司 | 60,000 |  
+> | 23 | 專業屋宇工程及顧問有限公司 | 90,000 |  
+> | 24 | 天嵐建築及測量顧問有限公司 | 600,000 |  
+> | 25 | 亞迪雅工程顧問有限公司 | 598,800 |  
+> | 26 | 馬海良棟建築顧問有限公司 | 1,480,000 |  
+> | 27 | 艾比斯顧問有限公司 | 522,800 |  
+> | 28 | 意顧問工程有限公司 | 780,000 |  
+> | 29 | 桑柏工程顧問服務有限公司 | 400,000 |  
+> | 30 | 信徽工程顧問有限公司 | 400,000 |  
+> | 31 | 佘景理測量師行有限公司 | 2,080,000 |  
+> | 32 | 雅斯建築顧問有限公司 | 600,000 |  
+> | 33 | 錦達測量行有限公司 | 178,000 |  
+> | 34 | 江明工程顧問有限公司 | 78,750 |  
+> | 35 | 朱黃倫建築師測量師有限公司 | 720,000 |
+>
+> Note:  
+> Median price: $452,800
+> Average price: $569,267
+> Paul Kong (江明): **$78,750** | A Ferrari (快利達): **$280,000** | Will Power (鴻毅): **$308,000** | IPS ( 艾比斯) $522,800 | Sky Arashi (天嵐): **$600,000**" | Sky House (恒建): **$660,000**"
+
+> **Evidence [B]: The Fu Shin Bids (2025)**  
+> *Source: Fu Shin Estate Minutes (via Resident Post) / 2025-08-30*
+>
+>| 編號 | 投標者 | 指定服務<br>全面樓宇檢驗 | 指定/暫定服務<br>監督修葺工程 | 總金額 |
+>| :--- | :--- | :--- | :--- | :--- |
+>| 1 | 專業屋宇工程及顧問有限公司 | $30,000.00 | $30,000.00 | $60,000.00 |
+>| 2 | 遠東建築師樓有限公司 | $96,000.00 | $144,000.00 | $240,000.00 |
+>| 3 | 百偉(香港)顧問有限公司 | $190,000.00 | $190,000.00 | $380,000.00 |
+>| 4 | 亞洲顧問工程師有限公司 | $220,000.00 | $280,000.00 | $500,000.00 |
+>| 5 | 郭駿建築師有限公司 | $122,220.00 | $401,580.00 | $523,800.00 |
+>| 6 | 創建坊建築及測量顧問有限公司 | $290,000.00 | $340,000.00 | $630,000.00 |
+>| 7 | 測建行有限公司 | $220,000.00 | $430,000.00 | $650,000.00 |
+>| 8 | 浩天顧問工程師有限公司 | $298,000.00 | $368,000.00 | $666,000.00 |
+>| 9 | 亞太建築顧問有限公司 | $500,000.00 | $180,000.00 | $680,000.00 |
+>| 10 | 國天建築顧問有限公司 | $310,000.00 | $375,000.00 | $685,000.00 |
+>| 11 | 俊南顧問有限公司 | $295,000.00 | $400,000.00 | $695,000.00 |
+>| 12 | 亞迪雅工程顧問有限公司 | $273,600.00 | $438,400.00 | $712,000.00 |
+>| 13 | 天築國際顧問有限公司 | $186,000.00 | $566,000.00 | $752,000.00 |
+>| 14 | 偉略測量師顧問有限公司 | $380,000.00 | $400,000.00 | $780,000.00 |
+>| 15 | 江明工程顧問有限公司 | $309,200.00 | $490,750.00 | $799,950.00 |
+>| 16 | 大地建築顧問有限公司 | $420,000.00 | $400,000.00 | $820,000.00 |
+>| 17 | 天嵐建築及測量顧問有限公司 | $400,000.00 | $420,000.00 | $820,000.00 |
+>| 18 | **鴻毅建築師有限公司** | **$320,000.00** | **$510,000.00** | **$830,000.00** |
+>| 19 | **恒建建築師事務所有限公司** | $320,000.00 | $530,000.00 | $850,000.00 |
+>| 20 | 阿爾法建築師事務所有限公司 | $340,000.00 | $548,000.00 | $888,000.00 |
+>| 21 | 博德顧問有限公司 | $390,000.00 | $500,000.00 | $890,000.00 |
+>| 22 | **艾比斯顧問有限公司** | $480,000.00 | $420,000.00 | $900,000.00 |
+>| 23 | 巴菲建築師樓有限公司 | $543,500.00 | $434,000.00 | $977,500.00 |
+>| 24 | 錦達測量行有限公司 | $520,000.00 | $460,000.00 | $980,000.00 |
+>| 25 | **宏佳顧問有限公司** | $110,000.00 | $888,000.00 | $998,000.00 |
+>| 26 | **快利達建築工程顧問有限公司** | $460,000.00 | $540,000.00 | $1,000,000.00 |
+>| 27 | 卓越展圖建築師有限公司 | $412,000.00 | $618,000.00 | $1,030,000.00 |
+>| 28 | 安普測量顧問有限公司 | $478,000.00 | $596,000.00 | $1,074,000.00 |
+>| 29 | **富麗建築師測量師行有限公司** | $430,000.00 | $650,000.00 | $1,080,000.00 |
+>| 30 | 桑栢工程顧問服務有限公司 | $574,500.00 | $613,500.00 | $1,188,000.00 |
+>| 31 | 樑建築顧問有限公司 | $358,400.00 | $844,800.00 | $1,203,200.00 |
+>| 32 | 現代測量顧問有限公司 | $920,000.00 | $472,000.00 | $1,392,000.00 |
+>| 33 | 佘晨理測量師行有限公司 | $280,000.00 | $1,400,000.00 | $1,680,000.00 |
+>| 34 | Architectural Project Unit Limited | $630,000.00 | $1,170,000.00 | $1,800,000.00 |
+>| 35 | 全動力建築師有限公司 | $900,000.00 | $900,000.00 | $1,800,000.00 |
+>| 36 | 恆新顧問服務有限公司 | $760,000.00 | $1,130,000.00 | $1,890,000.00 |
+>| 37 | **徐偉杰建築師有限公司** | $820,000.00 | $1,360,000.00 | $2,180,000.00 |
+>| 38 | 藝建工程顧問有限公司 | $1,200,000.00 | $1,200,000.00 | $2,400,000.00 |
+>| 39 | 中達測量師行有限公司 | $1,200,000.00 | $1,500,000.00 | $2,700,000.00 |
+>
+> Note (Consultant bid only for fair comparison):  
+> Median price: $490,750 (x1.08 compared to Wang Fuk)
+> Average price: $593,283 (x1.04 compared to Wang Fuk)
+> Paul Kong (江明): **$490,750** | A Ferrari (快利達): **$540,000** | Will Power (鴻毅): **$510,000**| IPS ( 艾比斯) $420,000 | Sky Arashi (天嵐): **$420,000**" | Sky House (恒建): **$530,000**"
+>
+> *(Analysis: Market baseline is stable. Paul Kong's price increased 6x. A Ferrari price x1.9. Will Power & Sky Arashi converge on the total price.)*
+
+> **Evidence [C]: The Network Members**
+> *Source: Fu Shin Estate Minutes*
+>
+> "25. 宏佳顧問 (Grand Kind)... 37. 徐偉杰建築師 (Tsui Wai Kit Architects)..."
+>
+> Note: Not seen in Wang Fuk tender.
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**  
+"Price differences reflect different scopes of work, building conditions (HOS vs. TPS), and market inflation between 2020 and 2025. Bidding strategies change based on company capacity. The similarity in price between Will Power and Sky Arashi reflects market consensus on the value of the job, not collusion."
+
+**The Logical Trap:**  
+1.  **Inflation vs. Explosion:** Construction inflation is ~3-5% per year. A **500% increase** (Paul Kong) or nearly **100% increase** (A Ferrari) in 5 years is not inflation; it is **price manipulation**.
+2.  **Scope Similarity:** Both estates are in Tai Po, both are high-rise residential complexes of similar vintage (1980s). The scope of supervision is statutory and standardized. The similarity of their market values is supported by the median and average price data. There is no technical justification for a 10x price variance for the same firm.
+3.  **The "Consensus" Lie:** If the "market consensus" was ~HK$820k (Fu Shin), why did Will Power bid HK$308k at Wang Fuk? And why did Sky Arashi bid HK$600k at Wang Fuk? The prices don't follow market trends; they follow **"Winner Rotation"** patterns.
+
+**¶ Statutory Basis:**
+
+*   **Offence:** Price Fixing / Market Allocation (Competition Ordinance).
+
+**📅 Timeline:**
+*   **2020-01-20:** Wang Fuk Tender. Will Power (308k) wins; Sky Arashi (600k) loses — [source](https://www.facebook.com/share/p/1ASPMmAqdt/)
+*   **2025-08-30:** Fu Shin Tender. Sky Arashi (820k) wins; Will Power (830k) loses — [source](https://www.facebook.com/share/p/1Brst7gBLz/)
+*   **2025-12-13:** Connection between the two firms exposed — [report](https://hk.news.yahoo.com/share/3bd28dcc-d6cc-4d0a-a172-a9a6eda797cf)
+
+**🔗 Links:***
+*   [Herman Yiu Post (Wang Fuk Tender)](https://www.facebook.com/share/p/1ASPMmAqdt/)
+*   [Fu Shin Estate Minutes](https://www.facebook.com/share/p/1Brst7gBLz/)
+*   [Yahoo News Report](https://hk.news.yahoo.com/share/3bd28dcc-d6cc-4d0a-a172-a9a6eda797cf)
+
+---
+
 ### 🆔 [E-ADMIN-2025-09-29-01] Documentary Failures: The 'Lift Contractor' Error & The $1.7M Mislabeling
 
 **🚨 Significance:**
