@@ -5171,17 +5171,16 @@ Prestige's notice ended with an ultimatum: "If not decided by Oct 7, we will sti
 
 **🚨 Significance:**
 
-The Consultant (**Will Power/鴻毅**) actively used the Urban Renewal Authority's (URA) funding approval as a "Proof of Innocence" to silence resident doubts. Director **Wong Hap-yin** (黃俠然) claimed that obtaining the subsidy proved the process was legal. Forensic analysis of URA guidelines reveals this claim is a lie: URA approval is based on a paperwork checklist, not a forensic audit. It does not certify the integrity of the tender, only its procedural completion.
+The Consultant (**Will Power/鴻毅**) actively used the Urban Renewal Authority's (URA) funding approval as a "Proof of Innocence" to silence resident doubts. Director **Wong Hap-yin** (黃俠然) claimed that obtaining the subsidy proved the process was legal. Forensic analysis and insider testimony reveal this claim is a lie: URA approval is based on a paperwork checklist, not a forensic audit. It does not certify the integrity of the tender, only its procedural completion.
 
 **1. The Circular Logic:**
 *   **Wong's Claim:** "If the procedure was illegal or problematic, we wouldn't get this massive public funding."
 *   *The Trap:* The Consultant rigs the documents (scores, criteria), submits them to URA, gets approval based on the rigged docs, and then uses the approval to prove the docs weren't rigged. It is a self-validating loop of fraud.
 
-**2. "Smart Tender" is Not a Watchdog:**
-The "Smart Tender" system is marketed as an anti-bid-rigging tool, but its actual function is merely **administrative**.
-*   **No Veto Power:** The independent advisor gives an estimate but cannot stop the MC from choosing a contractor 50% above that estimate (as happened in Neptune Terrace).
-*   **No Forensic Power:** URA does not check if the "ISO Certificate" is real or if the "Litigation Record" is accurate. It relies entirely on the Consultant's professional integrity—the very thing that was missing.
-*   **The "Post-Hoc" Criteria:** URA allowed the MC to finalize scoring criteria [*after* the EGM vote](#-e-cartel-2023-03-17-01-the-blank-cheque-tender-how-critical-scoring-rules-were-added-after-the-vote), proving its oversight was flexible to the point of negligence.
+**2. "Smart Tender" as a Cartel Tool:**
+Industry insider "Mr. Chow" (Contractor) reveals that **"Smart Tender lowers owners' vigilance"**.
+*   *The Mechanism:* Cartels prefer Smart Tender projects because owners assume the URA is watching. This "false sense of security" reduces scrutiny, making it **"easier to operate"** for the cartel.
+*   *The Reality:* Smart Tender is administrative only. It has **No Veto Power** over bad choices and **No Forensic Power** to check fake certificates. It allowed the MC to finalize scoring criteria [*after* the EGM vote](#-e-cartel-2023-03-17-01-the-blank-cheque-tender-how-critical-scoring-rules-were-added-after-the-vote), proving its oversight was negligent.
 
 **3. The Liability Vacuum:**
 *   **URA:** "Independent advisor cannot replace the role and responsibility of the project consultant."
@@ -5229,6 +5228,14 @@ The "Smart Tender" system is marketed as an anti-bid-rigging tool, but its actua
 > *Translation:*
 > "Independent professionals **cannot replace** the role and responsibility of the building engineering consultant."
 
+> **Evidence [E]: The Insider Testimony**
+> *Source: Now News (The Viu) / 2026-01-12*
+>
+> "工程承建商周先生：...招標妥會令所有業主戒心降低... 招標不是我做，是市建局幫我們做，這樣我（圍標集團）更容易做，因為減少了被你們（業主）懷疑我... 的機會。"
+>
+> *Translation:*
+> "Contractor Mr. Chow: ...Smart Tender lowers owners' vigilance... Since URA handles the tender, it makes it **easier for me (the cartel) to operate**, reducing the chance of being suspected by owners."
+
 **🛡️ Pre-emptive Rebuttal:**
 
 **Anticipated Defense:**  
@@ -5241,13 +5248,16 @@ The "Smart Tender" system is marketed as an anti-bid-rigging tool, but its actua
 
 **📅 Timeline:**
 *   **2023-03-04:** MC passes "Final Tender" (Criteria missing) — [ref](#-e-cartel-2023-03-17-01-the-blank-cheque-tender-how-critical-scoring-rules-were-added-after-the-vote)
+*   **2024-04:** URA approves funding application.
 *   **2024-07-19:** Consultant uses URA's funding to silence critics — [ref](http://www.wangfuk.org/html/incorp/index.htm)
 *   **2025-11-26:** Fire reveals the project was a fraud from day one.
+*   **2026-01-12:** Insider confirms Smart Tender facilitates rigging — [link](https://www.youtube.com/watch?v=vjhZFWSBBrg)
 
 **🔗 Links:**
 *   [URA OBB 2.0 Notes](https://www.brplatform.org.hk/f/page/10460/11713/OBB%202.0%20notes.pdf)
 *   [Smart Tender DIY Kit](https://www.brplatform.org.hk/f/upload/13750/DIY_Tool_Kit.pdf)
 *   [Presentation Video](http://223.197.186.25:8080/wangfuk/工程解說會VDO.mp4)
+*   [Now News Report](https://www.youtube.com/watch?v=vjhZFWSBBrg)
 
 ---
 
