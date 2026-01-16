@@ -2786,7 +2786,7 @@ To secure the win, Leung systematically removed checks and balances:
 *   [Jason Poon Report](https://www.facebook.com/share/p/181DsHNwC7/)
 *   [InMediaHK Report](https://www.inmediahk.net/node/社區/穗禾苑法團明重選-建制挑機-開明派誓「保衛家園」)
 *   [Journalist W's Investigative Report](https://www.facebook.com/share/p/19YbQWsXBe/)
-*   Reports of Cases Against Leung: [[2024-07-09]](https://thewitnesshk.com/穗禾苑立案法團被指忽視維修方案誇大金額/) | [[2024-08-08]](https://thewitnesshk.com/穗禾苑業主向法團提反申索-證人指承辦商標書與顧/) | [[2025-08-15]](https://thewitnesshk.com/穗禾苑業主向法團主席秘書追討逾9000萬元-4申索人續/)
+*   Reports of Cases Against Leung: [2024-07-09](https://thewitnesshk.com/穗禾苑立案法團被指忽視維修方案誇大金額/) | [2024-08-08](https://thewitnesshk.com/穗禾苑業主向法團提反申索-證人指承辦商標書與顧/) | [2025-08-15](https://thewitnesshk.com/穗禾苑業主向法團主席秘書追討逾9000萬元-4申索人續/)
 
 ---
 
