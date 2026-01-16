@@ -78,7 +78,7 @@
 76. [[E-CARTEL-PRESTIGE-2025-08-30-02] The "Schrödinger's AP": How Sky Arashi Faked its Credentials to Win Contracts](#-e-cartel-prestige-2025-08-30-02-the-schrdingers-ap-how-sky-arashi-faked-its-credentials-to-win-contracts)  
 77. [[E-CARTEL-WILLPOWER-2025-08-30-01] The "Recurring Cast": How the Same Dummy Firms Rigged Tenders Across Tai Po](#-e-cartel-willpower-2025-08-30-01-the-recurring-cast-how-the-same-dummy-firms-rigged-tenders-across-tai-po)  
 78. [[E-ADMIN-2025-09-29-01] Documentary Failures: The 'Lift Contractor' Error & The $1.7M Mislabeling](#-e-admin-2025-09-29-01-documentary-failures-the-lift-contractor-error--the-17m-mislabeling)  
-79. [[E-SAFETY-NETS-2025-10-18-01] The Price of Life: HK$586 per Victim & The 5% Decoy](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk586-per-victim--the-5-decoy)  
+79. [[E-SAFETY-NETS-2025-10-18-01] The Price of Life: HK$561 per Victim & The 5% Decoy](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk586-per-victim--the-5-decoy)  
 80. [[E-SAFETY-2025-10-19-01] The Prophecy of Doom: How Wang Fuk Court Ticked Every Box on the "Death Checklist"](#-e-safety-2025-10-19-01-the-prophecy-of-doom-how-wang-fuk-court-ticked-every-box-on-the-death-checklist)  
 81. [[E-CARTEL-2025-10-25-01] The Teflon Don: How a "Distinguished" Official Survived Two Major Bid-Rigging Scandals](#-e-cartel-2025-10-25-01-the-teflon-don-how-a-distinguished-official-survived-two-major-bid-rigging-scandals)  
 82. [[E-SAFETY-WATER-2025-11-07-01] The Paralyzed Water Network & The Fatal Maintenance](#-e-safety-water-2025-11-07-01-the-paralyzed-water-network--the-fatal-maintenance)  
@@ -100,7 +100,7 @@
 98. [[E-GOV-WATER-2025-03-24-01] Official Endorsement of Failure: How FSD Labelled Broken Valves as "Compliant"](#-e-gov-water-2025-03-24-01-official-endorsement-of-failure-how-fsd-labelled-broken-valves-as-compliant)  
 99. [[E-GOV-NETS-2025-11-20-01] The "Paper Shield": How 16 Inspections Missed the Fire Trap](#-e-gov-nets-2025-11-20-01-the-paper-shield-how-16-inspections-missed-the-fire-trap)  
 100. [[E-GOV-NETS-2025-11-24-01] The Deaf Ear: How Hotline Complaints and "Surprise Inspections" Failed to Stop the Fire](#-e-gov-nets-2025-11-24-01-the-deaf-ear-how-hotline-complaints-and-surprise-inspections-failed-to-stop-the-fire)  
-101. [[E-GOV-ALARM-2025-12-03-01] The "Silent" Alarm Mystery: Official Chaos & The 2-Year Penalty for 161 Lives](#-e-gov-alarm-2025-12-03-01-the-silent-alarm-mystery-official-chaos--the-2-year-penalty-for-161-lives)  
+101. [[E-GOV-ALARM-2025-12-03-01] The "Silent" Alarm Mystery: Official Chaos & The 2-Year Penalty for 168 Lives](#-e-gov-alarm-2025-12-03-01-the-silent-alarm-mystery-official-chaos--the-2-year-penalty-for-168-lives)  
 102. [[E-GOV-NETS-2025-12-03-02] The "Total Demolition" Order: An Admission of Systemic Collapse](#-e-gov-nets-2025-12-03-02-the-total-demolition-order-an-admission-of-systemic-collapse)  
 103. [[E-GOV-WINDOWS-2025-12-11-01] The Bureaucratic Maze: "Not My Department" While People Died](#-e-gov-windows-2025-12-11-01-the-bureaucratic-maze-not-my-department-while-people-died)  
 104. [[E-ENFORCE-2025-04-15-01] The Evidence Magicians: "No File" Before the Fire, 11 Arrests After the Bodies Piled Up](#-e-enforce-2025-04-15-01-the-evidence-magicians-no-file-before-the-fire-11-arrests-after-the-bodies-piled-up)  
@@ -281,7 +281,7 @@ The turning point was the arrest of Alliance leaders like **Lam Cheuk-ting** (20
 *   **2020-08-26:** Lam Cheuk-ting arrested — [archive](https://collection.news/thestandnews/articles/126133)
 *   **2022-06-10:** FactWire closes — [archive](https://www.factwire.org/傳真社停止運作聲明/)
 *   **2024-01-28:** Wang Fuk Court falls to the Cartel — [archive](MINUTES_MARKDOWN.md#2024-01-28-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
-*   **2025-11-26:** 161 Dead.
+*   **2025-11-26:** 168 Dead.
 
 **🔗 Links:**
 *   [Ming Pao Interview with W (The Chronology)](https://news.mingpao.com/pns/副刊/article/20251207/s00005/1765037580567)
@@ -336,7 +336,7 @@ Yau's testimony described a dinner where the **MC Chairman**, **Management Compa
 **The Logical Trap:**
 1.  **Smart Tender Failed:** The "Smart Tender" system relies on the Consultant to act as an honest broker. As shown in [fake scores](#-e-cartel-2023-10-16-01-the-schizophrenic-scorecard-why-the-criticized-beat-the-praised) and [1.6% price match](#-e-cartel-2023-07-04-02-the-magic-16-how-prestige-hit-the-bullseye-on-a-rigged-target), the Consultant *was* the manipulator. A lock is useless if the thief has the key.
 2.  **The "Same Script" pattern:** The pattern at Wang Fuk (inflated price, rigged voting, suppressed dissent) is functionally identical to Garden Vista. The only difference is the scale (Wang Fuk is even bigger).
-3.  **The "Missing Money":** If there was no bribery, why did the Consultant charge only HK$308k for a job worth millions in man-hours? And why did the Contractor save money so desperately including the [HK$586 per victim](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk586-per-victim--the-5-decoy)? The numbers imply a massive diversion of funds. 
+3.  **The "Missing Money":** If there was no bribery, why did the Consultant charge only HK$308k for a job worth millions in man-hours? And why did the Contractor save money so desperately including the [HK$561 per victim](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk586-per-victim--the-5-decoy)? The numbers imply a massive diversion of funds. 
 
 **¶ Statutory Basis:**
 
@@ -795,7 +795,7 @@ Chan fled HK in 2001 just as the ICAC arrested his brother. Prosecution revealed
 *   **2024-01-28:** Prestige wins the contract (HK$330M); Chan participates in the meeting — [minutes](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf)
 *   **2024-07-19:** Participates in renovation presentation where flammable foam is presented — [source](http://www.wangfuk.org/html/incorp/index.htm)
 *   **2024-09-06:** MC members re-election; ceases as the Incorporated Owners' consultant — [report](https://hk.news.yahoo.com/share/c9787bd5-d1a8-482a-a57c-ce46fc0d9fdb)
-*   **2025-11-26:** Wang Fuk Court Fire; 161 dead — [ref](https://en.wikipedia.org/wiki/Wang_Fuk_Court_fire)
+*   **2025-11-26:** Wang Fuk Court Fire; 168 dead — [ref](https://en.wikipedia.org/wiki/Wang_Fuk_Court_fire)
 *   **2025-12-03:** Admits to be the brother of Chan Kau-tai — [source](https://www.youtube.com/watch?v=-Aah2FP0X9Y)
 *   **2025-12-04:** Admission confirmed by the media — [report](https://www.hk01.com/即時娛樂/60300663)
 *   **2025-12-06:** Refuses to confirm his identity when a reporter asks — [report](https://hk.news.yahoo.com/share/c9787bd5-d1a8-482a-a57c-ce46fc0d9fdb)
@@ -1191,7 +1191,7 @@ Anti-Bid Rigging Alliance spokesman Winfield Chong (莊榮輝) confirms that for
 *   **2017:** The "Boss" system reportedly consolidates power (Coincides with leadership changes).
 *   **2019-2022:** Zero convictions for bid-rigging (The Era of Impunity).
 *   **2024-01-28:** Wang Fuk tender executes the "Boss's" playbook.
-*   **2025-11-26:** 161 Dead.
+*   **2025-11-26:** 168 Dead.
 
 **🔗 Links:**
 *   [Journalist W's Report](https://www.facebook.com/share/p/19YbQWsXBe/)  
@@ -1252,7 +1252,7 @@ The termination of the Garden Vista investigation, despite "knowing the facts" (
 **The Logical Trap:**
 1.  **The "Corroboration" Failure:** In a project worth HK$262M, with a 17% bribe, the money had to go somewhere. Failing to find a money trail in years of investigation suggests either **forensic incompetence** or that the legal framework for "Money Laundering" is too weak to catch construction cartels.
 2.  **The Structural Flaw:** If the law requires "proof beyond reasonable doubt" for *secret agreements* made at private dinners, then bid-rigging is effectively **legal** as long as participants don't record it. This legal standard is incompatible with the reality of organized crime.
-3.  **The Resulting Carnage:** The "Rule of Law" excuse rings hollow when the result of *not* prosecuting is the proliferation of cartels that eventually leads to the **Wang Fuk Court fire (161 dead)**. The failure to stop the Garden Vista gang directly enabled the ecosystem that killed people in 2025.
+3.  **The Resulting Carnage:** The "Rule of Law" excuse rings hollow when the result of *not* prosecuting is the proliferation of cartels that eventually leads to the **Wang Fuk Court fire (168 dead)**. The failure to stop the Garden Vista gang directly enabled the ecosystem that killed people in 2025.
 
 **¶ Statutory Basis:**
 
@@ -1480,7 +1480,7 @@ When questioned by media about the unreasonably low fee, both the former Chairma
 
 **The Logical Trap:**
 1.  **"Medium Price" Fallacy:** Even if 308k was medium among 35 bidders, it proves the **entire pool was contaminated**. Since 9 bidders were even cheaper than 308k, it means the market is flooded with predatory firms. A responsible MC should have disqualified *all* bids below cost recovery (e.g., <$2M) as non-viable.
-2.  **Too Good to Be True:** In business, if you are not paying for the product, **you are the product**. A consultant working for free is working for someone else (the Contractor). The "Good Deal" cost HK$330M in inflated construction costs and 161 lives.
+2.  **Too Good to Be True:** In business, if you are not paying for the product, **you are the product**. A consultant working for free is working for someone else (the Contractor). The "Good Deal" cost HK$330M in inflated construction costs and 168 lives.
 3.  **The "Quality" Link:** The low fee directly explains the poor supervision (Fake Nets, Styrofoam). You cannot expect a consultant paid HK$6,875/month to hire a qualified engineer to inspect the site daily. The fee structure **guaranteed** negligence.
 
 **📅 Timeline:**
@@ -1638,7 +1638,7 @@ The MC pushed for ISS despite a proven safety failure.
 **The Logical Trap:**
 1.  **"Participation" vs. "Direction":** If the goal was participation, why [disqualify all other bidders](#-e-admin-2021-03-06-01-the-3-month-loop-how-the-mc-renewed-the-management-contract-7-times-to-bypass-owners)? Collecting proxies while ensuring only *one* valid candidate exists is not democracy; it is a **coronation**.
 2.  **Stability vs. Stagnation:** 28 years of "stability" resulted in a management culture so complacent that they [disabled fire alarms](#-e-safety-alarm-2025-05-14-01-the-silent-switch-how-management-disabled-the-alarm-to-save-trouble) to "save trouble". Long-term incumbency breeds corruption, not quality.
-3.  **The Pattern of Death:** Dismissing a fatal accident as "isolated" is dangerous. The mindset that allowed a worker to die in 2016 (lack of supervision) is the same mindset that allowed 161 residents to die in 2025 (lack of supervision on alarms/nets). It proves a **corporate culture of negligence**.
+3.  **The Pattern of Death:** Dismissing a fatal accident as "isolated" is dangerous. The mindset that allowed a worker to die in 2016 (lack of supervision) is the same mindset that allowed 168 residents to die in 2025 (lack of supervision on alarms/nets). It proves a **corporate culture of negligence**.
 
 **📅 Timeline:**
 *   **1997:** ISS Eastpoint (Colliers Jardine) begins managing Wang Fuk — [source](http://www.wangfuk.org/html/comm/02/第21期%202022.10.20.pdf)
@@ -1734,7 +1734,7 @@ This "protection" of ISS explains why the management company later acted as the 
 *   **2021-2022:** MC extends ISS contract 6 times (21 months).
 *   **2021-08-16:** MC hires extra security to suppress residents (during ISS extension) — [ref](#-e-admin-2021-08-16-01-the-estate-under-martial-law-surveillance-doxxing-and-propaganda)
 *   **2022-12-17:** ISS wins "landslide" vote — [minutes](http://www.wangfuk.org/html/meeting/03/第23次全體業主大會(周年大會)會議記錄.pdf)
-*   **2025-11-26:** ISS staff disable fire alarms; 161 die — [ref](#-e-safety-alarm-2025-05-14-01-the-silent-switch-how-management-disabled-the-alarm-to-save-trouble)
+*   **2025-11-26:** ISS staff disable fire alarms; 168 die — [ref](#-e-safety-alarm-2025-05-14-01-the-silent-switch-how-management-disabled-the-alarm-to-save-trouble)
 
 **🔗 Links:**
 *   [EGM Minutes (Mar 2021)](http://www.wangfuk.org/html/meeting/03/第十一屆特別業主大會會議紀錄.pdf)
@@ -2642,7 +2642,7 @@ The drastic drop in Press Freedom (Rank 18 to 148) correlates with the rise of u
 *   **2015-2019:** FactWire & Alliance active; Bid-rigging exposed.
 *   **2020-2022:** Crackdown. Media closed, Activists jailed.
 *   **2024-01-28:** Wang Fuk Tender (No independent oversight).
-*   **2025-11-26:** Wang Fuk Fire (161 Dead).
+*   **2025-11-26:** Wang Fuk Fire (168 Dead).
 
 **🔗 Links:**
 *   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link) | [Backup](Leung,%20T.%20C.,%20Tsang,%20K.%20P.,%20&%20Tsui,%20K.%20K.%20(2022).pdf)
@@ -2725,7 +2725,7 @@ Investigation reveals that **Steve Wong Chung-kee (黃忠基)**, the Authorized 
 
 **1. The "110k" Public Servant:**
 Wong was hired via an outsourcing agency but interviewed and selected by HD staff. He received the top-tier salary of **HK$112,000/month**.
-*   *The Conflict:* While paid by taxpayers to maintain public housing, he was secretly serving as the AP for a private contractor (Prestige), signing off on the very projects that eventually killed 161 people.
+*   *The Conflict:* While paid by taxpayers to maintain public housing, he was secretly serving as the AP for a private contractor (Prestige), signing off on the very projects that eventually killed 168 people.
 *   *The Suspicion:* Industry insiders suspect Prestige's ability to hoard 28 projects was facilitated by Wong's dual status and insider knowledge of government protocols.
 
 **2. The "Immediate" Firing:**
@@ -4366,7 +4366,7 @@ Analysis suggests that while ~95% of *physically present* owners appeared to opp
 **The Logical Trap:**
 1.  **The "Late Arrival" Physics:** Registering 271 households in 25 minutes requires processing **10 households per minute**. Unless there were 10 registration counters working non-stop with zero friction, this physical throughput is highly suspicious. It suggests a "bulk processing" of pre-collected forms, not individual arrivals.
 2.  **The "Unusual" Pattern:** Why would 45 owners entrust their vote to a single "Mystery Mouse" who arrives *late*? This pattern—concentration of power in unknown hands + strategic timing—is the hallmark of **Vote Warehousing**, not organic participation.
-3.  **The Resulting Tragedy:** Whether "legal" or not, this voting mechanism produced a contractor (Prestige) who used fake materials, fake certificates, and ignored safety laws, leading to 161 deaths. The "Legality" of the vote does not absolve the **Immorality** of the outcome.
+3.  **The Resulting Tragedy:** Whether "legal" or not, this voting mechanism produced a contractor (Prestige) who used fake materials, fake certificates, and ignored safety laws, leading to 168 deaths. The "Legality" of the vote does not absolve the **Immorality** of the outcome.
 
 **¶ Statutory Basis:**
 
@@ -4702,7 +4702,7 @@ The Consultant selects the cartel's contractor. The Contractor's job is to extra
 
 **The Logical Trap:**
 1.  **The "Pattern Match" Proof:** In criminology, if a specific crime scene (Wang Fuk) matches every unique characteristic of a known criminal *modus operandi* (The Cartel Blueprint)—including the specific roles of the PM, the rigged voting, the lawyer letters, and the [1.6% price match](#-e-cartel-2023-07-04-02-the-magic-16-how-prestige-hit-the-bullseye-on-a-rigged-target)—the probability of coincidence is statistically negligible.
-2.  **The Missing 17%:** As [established previously](#-e-cartel-2010-12-31-01-the-17-bribe-the-hidden-tax-behind-the-hk330-million-bill), the 17% bribe (including the Chairman's 10%) creates a financial hole that must be filled by cutting costs. The "Missing Money" manifests physically as **Fake Nets** and **Styrofoam**. The 161 bodies are the physical evidence of the kickback.
+2.  **The Missing 17%:** As [established previously](#-e-cartel-2010-12-31-01-the-17-bribe-the-hidden-tax-behind-the-hk330-million-bill), the 17% bribe (including the Chairman's 10%) creates a financial hole that must be filled by cutting costs. The "Missing Money" manifests physically as **Fake Nets** and **Styrofoam**. The 168 bodies are the physical evidence of the kickback.
 3.  **Volunteer vs. Mercenary:** Volunteers do not fight tooth and nail to push through a specific contractor against the will of residents, nor do they use legal threats to stay in power. The intensity of the Chairman's defense of the project correlates directly with the HK$33M incentive, not with "community service."
 
 **🔗 Links:**
@@ -6147,7 +6147,7 @@ The Report focused on "Safety Checks" but ignored **"Bid Rigging."**
 **The Logical Trap:**  
 1.  **Silo Vision kills:** This fragmentation of responsibility ("I do Admin, ICAC does Crime") is exactly why the Cartel wins. The Cartel operates holistically (Money + Safety + Admin). If the regulator operates in silos, they will never see the full picture.
 2.  **Maladministration INCLUDES Ignoring Crime:** If a department (LD) systematically ignores complaints because of a culture of laziness or collusion, that *is* Maladministration. By failing to connect "Safety Failure" with "Corruption Risk," the Ombudsman provided a sanitized diagnosis for a terminal cancer.
-3.  **The Result:** Because the "System" (including its watchdog) refused to see the criminal intent, they prescribed "better forms" for a patient suffering from "poisoning." The 161 deaths prove that **administrative reform is useless against organized crime**.
+3.  **The Result:** Because the "System" (including its watchdog) refused to see the criminal intent, they prescribed "better forms" for a patient suffering from "poisoning." The 168 deaths prove that **administrative reform is useless against organized crime**.
 
 **📅 Timeline:**
 *   **2024-10-04:** LD lies to resident about standards — [source](https://www.facebook.com/groups/hkcaml/posts/1944451599755114/)
@@ -6827,7 +6827,7 @@ Official minutes show that on 29 Sep 2025, the MC unanimously approved a fire-sa
 
 ---
 
-### 🆔 [E-SAFETY-NETS-2025-10-18-01] The Price of Life: HK$586 per Victim & The 5% Decoy
+### 🆔 [E-SAFETY-NETS-2025-10-18-01] The Price of Life: HK$561 per Victim & The 5% Decoy
 
 **🚨 Significance:**
 
@@ -6840,7 +6840,7 @@ To deceive inspectors, contractors installed compliant nets (HK$100/roll) only a
 *   **Cost to do it right:** HK$230,000 (if all 2,300 rolls were compliant).
 *   **Cost to cheat:** HK$135,700 (2,300 cheap rolls + 115 decoy rolls).
 *   **The Profit:** **HK$94,300**.
-*   **The Human Toll:** 161 deaths.
+*   **The Human Toll:** 168 deaths.
 *   **The Unit Price of Death:** The contractors effectively valued each human life at **HK$586**.
 
 **3. Premeditation:**
@@ -7280,7 +7280,7 @@ BD records show the registered contractor for Elegance Gardens was actually **"F
 *   *The Confusion:* Yet, Hau appeared as the boss handling the whole project. This suggests the rampant practice of **"License Borrowing"**, where Prestige operated projects under other names to bypass capacity limits or regulatory scrutiny.
 
 **4. The Crocodile Tears:**
-Hau claimed he "couldn't sleep" and felt "heavy hearted" about the 161 deaths.
+Hau claimed he "couldn't sleep" and felt "heavy hearted" about the 168 deaths.
 *   *The Contrast:* His sympathy for the dead did not extend to admitting liability or compensating victims. His focus remained entirely on keeping his other revenue streams alive.
 
 **📜 Original Record:**
@@ -7327,7 +7327,7 @@ Hau claimed he "couldn't sleep" and felt "heavy hearted" about the 161 deaths.
 **The Logical Trap:**  
 1.  **Bank Speed:** Getting a certified copy of a financial instrument takes hours, not days. Failing to produce it by a deadline set to save his own contract proves the document (or the money) likely doesn't exist.
 2.  **Suspension Reality:** BD stated Prestige failed to submit safety audits for 27 projects. This isn't "pending approval"; it's **non-compliance**. Claiming "normal operation" when the regulator has issued a Stop Work Order is delusional or deceptive.
-3.  **The "Victim" Card:** The victims are the 161 dead and the owners of Elegance Gardens who lost HK$7M in protection. The perpetrator is the man who ran a company on fake nets and missing bonds.
+3.  **The "Victim" Card:** The victims are the 168 dead and the owners of Elegance Gardens who lost HK$7M in protection. The perpetrator is the man who ran a company on fake nets and missing bonds.
 
 **¶ Statutory Basis:**
 
@@ -7397,7 +7397,7 @@ This incident confirms that the Cartel operates multiple entities to evade liabi
 
 **The Logical Trap:**  
 1.  **The "Subcontracting" Shield:** If Prestige (the subcontractor) is the one actually running the show—attending meetings, holding the bond, making decisions—then Fusion is a **"Shell"**. Allowing suspended criminals to run sites via shells makes the suspension order a joke.
-2.  **Regulatory Agility:** When a disaster kills 161 people, "Statutory Purview" should be interpreted proactively to protect public safety, not defensively to avoid work. Knowing Prestige was involved, BD had a duty to inspect *every* site they touched, regardless of whose name was on the BA10 form.
+2.  **Regulatory Agility:** When a disaster kills 168 people, "Statutory Purview" should be interpreted proactively to protect public safety, not defensively to avoid work. Knowing Prestige was involved, BD had a duty to inspect *every* site they touched, regardless of whose name was on the BA10 form.
 3.  **The Result:** Because BD relied on paper, Prestige continued to operate and potentially move funds (the missing bond) days after the fire. This delay in freezing their operations caused further financial risk to other estates.
 
 **¶ Statutory Basis:**
@@ -8307,7 +8307,7 @@ When asked *what* they actually checked during that surprise inspection, the Lab
 
 ---
 
-### 🆔 [E-GOV-ALARM-2025-12-03-01] The "Silent" Alarm Mystery: Official Chaos & The 2-Year Penalty for 161 Lives
+### 🆔 [E-GOV-ALARM-2025-12-03-01] The "Silent" Alarm Mystery: Official Chaos & The 2-Year Penalty for 168 Lives
 
 **🚨 Significance:**
 
@@ -8322,7 +8322,7 @@ Fire Safety Consultant Leung Kam-tak (梁錦得) stated it is statistically impo
 
 **3. The Legal Impotence:**
 While the contractors face charges for False Declarations, the maximum penalty is only **imprisonment for 2 years** and a fine. Recent cases show sentences as light as **2 months imprisonment** or **3 months suspended sentence**.
-*   *The Absurdity:* Lying about a critical safety system that contributed to 161 deaths carries a lighter maximum sentence than many minor theft offenses.
+*   *The Absurdity:* Lying about a critical safety system that contributed to 168 deaths carries a lighter maximum sentence than many minor theft offenses.
 
 **4. The Defense:**
 Victory Fire Engineering (宏泰), the long-term maintenance contractor, denied involvement, stating the arrested individuals were not their staff. This points suspicion towards the sub-contractors under the General Contractor (**Prestige/宏業**).
