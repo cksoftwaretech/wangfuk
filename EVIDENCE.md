@@ -2670,6 +2670,125 @@ The drastic drop in Press Freedom (Rank 18 to 148) correlates with the rise of u
 
 ---
 
+### 🆔 [E-CARTEL-PRESTIGE-2022-06-18-01] The Trojan Horse: How the "Anti-Bid Rigging" Heroine Delivered the Estate to the Cartel
+
+**🚨 Significance:**
+
+Investigative findings and leaked WhatsApp chats from the Sui Wo Court MC group reveal a sophisticated vote-rigging operation. **Pauline Leung Po-ling (梁寶玲)**, the Chairwoman who rose to power as an "Anti-Bid Rigging" reformer, was caught coordinating a voting bloc with a "Central Vote Filling Group" to favor **FULAM Construction (富林工程營造)**—a company linked to Prestige's **Hau Wah-kin**.
+
+**1. The "Central Vote Filling" Confession:**
+Leaked WhatsApp messages show a member asking Leung: "Is there a Central Vote Filling Group this time?" Leung replied "**Yes**".
+*   *The Mechanism:* This confirms the existence of an organized machinery to fill out proxy forms en masse, overriding individual owner intent.
+
+**2. The Code "3-17":**
+The chat log reveals a coordinated instruction repeated by multiple members: **"3 Main contractor 17" (3 大判 17)**.
+*   *Decoded:* Vote for **Option 3** (Maintenance Scheme) and **Contractor No. 17** (FULAM).
+*   *The Discipline:* The message "3 Main contractor 17" was echoed 5 times (x2, x3... x5), showing strict discipline to ensure the proxy votes were unified.
+*   *The Priority:* They also agreed on a contingency: "If the result is Option 2, I still pick 17." This proves their primary objective was securing the contract for **FULAM**, regardless of the renovation scheme chosen.
+
+**3. The Cartel Connection:**
+FULAM is not a random choice. Its director, **Ho Chi-kwan**, is a shareholder of **Golden River Investment** alongside **Hau Wah-kin** (Prestige Boss).
+*   *The Betrayal:* Leung, who campaigned against the "HK$460M rip-off" of the previous pro-establishment MC, ended up forcing through a **HK$388M** contract. She replaced "Old Corruption" with "New Corruption."
+
+**4. The "Fake Document" Maneuver:**
+In court, Leung presented a "Recommendation List" that included FULAM. However, residents pointed out that the *original* bound booklet distributed to owners **did not include FULAM** on the list.
+*   *The Fraud:* This suggests she fabricated a document to mislead the court and justify her rigging.
+
+**5. The Purge of Neutrality:**
+To secure the win, Leung systematically removed checks and balances:
+*   **Fired the Watchdogs:** She fired the neutral Engineering Consultant and Clerk of Works who raised safety concerns.
+*   **Purged the MC:** Two dissident MC members were forced to resign due to "threats to personal safety."
+
+**📜 Original Record:**
+
+> **Evidence [A]: The WhatsApp Leak (The Code)**
+> *Source: Jason Poon Post (Leaked Screenshots) / 2025-12-03*
+>
+> "Tony: @SW Pauline Leung 今次有冇中央填票組"
+> "SW Pauline Leung: **有**"
+> "Tony: **3 大判 17**"
+> "Kenneth: 3 大判 17 **X2**"
+> "... 3 大判 17 **X5**"
+>
+> *Translation:*
+> "Tony: Is there a Central Vote Filling Group this time?"
+> "Leung: **Yes**"
+> "Tony: **[Option] 3, Main Contractor 17**"
+> "Kenneth: 3 Main Contractor 17 **X2**"
+> "... 3 Main Contractor 17 **X5**"
+
+> **Evidence [B]: The "FULAM or Bust" Strategy**
+> *Source: Jason Poon Post (Leaked Screenshots)*
+>
+> "各位：兩手準備，因有居民話投 2 方案... 如果結果 2，**我都揀 17**"
+>
+> *Translation:*
+> "Everyone: Prepare for two scenarios... If the result is [Option] 2, **I still pick 17**."
+> *(Note: Contractor 17 is FULAM.)*
+
+> **Evidence [C]: The WhatsApp Leak**  
+> *Source: Jason Poon Report / 2025-12-03*
+>
+> "委員問梁寶玲，「今次有冇**中央填票組**」，梁寶玲回答「**有**」，而他們的最終目的，就是無論如何都要投票在**富林**身上。"
+>
+> *Translation:*
+> "Member asked Leung: 'Is there a **Central Vote Filling Group** this time?' Leung replied '**Yes**,' and their ultimate goal was to vote for **FULAM** no matter what."
+
+> **Evidence [D]: The Forgery Allegation**  
+> *Source: Jason Poon Report / 2025-12-03*
+>
+> "她出示了一張與釘裝書內容不符的推薦名單，名單上出現了本來不存在的「富林」。... 裁判官問她怎樣全屋苑收到，她說有一個...千多人的WhatsApp群組"
+>
+> *Translation:*
+> "She produced a recommendation list differing from the bound booklet, adding the previously absent 'FULAM'... She claimed it was sent via WhatsApp."
+
+> **Evidence [E]: The Cartel Link (Hau Wah-kin)**  
+> *Source: Journalist W's Report / 2025-12-26*
+>
+> "宏業董事**侯華健**持有的金川投資... 另一名股東**何智崑**則是**富林工程營造**有限公司的董事... 富林... 承辦... 沙田穗禾苑。"
+>
+> *Translation:*
+> "Prestige Director **Hau Wah-kin**'s Golden River Investment... co-shareholder **Ho Chi-kwan** is Director of **FULAM Construction**... which is renovating **Sui Wo Court**."
+
+> **Evidence [F]: The "Reformer" Origin**  
+> *Source: InMediaHK / 2021-05-07*
+>
+> "2016年，梁寶玲... 成功踢走備受批評的舊法團... 成功「光復法團」... 誓「保衛家園」"
+>
+> *Translation:*
+> "2016, Leung... kicked out the criticized old MC... successfully 'Liberated the MC'... vowed to 'Defend the Home'."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**  
+"The WhatsApp group discussion was a private brainstorming session among like-minded owners to reach a consensus, which is normal in any democratic process. The term 'Central Vote Filling' referred to a volunteer station helping elderly owners fill forms they couldn't read, not rigging. '3-17' was our recommended choice based on merit. We supported FULAM because we believed they offered the best quality, not because of any conspiracy."
+
+**The Logical Trap:**  
+1.  **Consensus vs. Command:** The repetition of "3-17 x2, x3, x4" reads like a military roll call or a ledger entry, not a discussion. It indicates that the votes were already harvested and were being **allocated** to the agreed target.
+2.  **The Price Paradox:** Why would a "Reformer" who railed against a HK$4.6B bid accept a HK$3.88B bid? If "Cost" was the issue with the old MC, why is it ignored for the new one? The only variable that changed is **who gets the kickback**.
+3.  **The "Quality" Lie:** If FULAM (HK$388M) was chosen for quality, why did the MC fire the independent consultant who raised safety concerns about the project? Prioritizing a specific contractor over the advice of safety experts suggests the motive was **profit**, not quality.
+4.  **The "Safety Net" Contingency:** The instruction "If Option 2, still pick 17" reveals that the scope of work (Option 2 vs 3) was irrelevant to them; the *only* non-negotiable outcome was **FULAM getting the money**. This is the definition of a rigged outcome.
+
+**¶ Statutory Basis:**
+*   **Context:** Conspiracy to Defraud / Bid-Rigging.
+
+**📅 Timeline:**
+*   **1999-09-03:** FULAM (Ho Chi-kwan) founded — [ref](https://www.tempb.com/companies/fulam-construction-engineering-company-limited/)
+*   **2016-04-13:** Hau and Ho's Golden River Investment founded — [ref](https://www.tempb.com/companies/golden-river-investment-development-limited/)
+*   **2016-07:** Leung and others "Liberates" Sui Wo Court from old MC — [report](https://www.inmediahk.net/node/1045703)
+*   **2018:** Leung becomes chairwoman — [report](https://www.inmediahk.net/node/社區/穗禾苑法團明重選-建制挑機-開明派誓「保衛家園」)
+*   **2022-06-18:** Leung orchestrates "Central Vote Filling"; FULAM wins HK$388M contract — [source](https://www.facebook.com/share/p/181DsHNwC7/)
+*   **2024-04:** Poon investigates; whistleblowers fired/threatened — *Ibid.*
+*   **2025-12-26:** Link to Hau Wah-kin (Prestige) exposed — [report](https://www.facebook.com/share/p/19YbQWsXBe/)
+
+**🔗 Links:**
+*   [Jason Poon Report](https://www.facebook.com/share/p/181DsHNwC7/)
+*   [InMediaHK Report](https://www.inmediahk.net/node/社區/穗禾苑法團明重選-建制挑機-開明派誓「保衛家園」)
+*   [Journalist W's Investigative Report](https://www.facebook.com/share/p/19YbQWsXBe/)
+*   Reports of Cases Against Leung: [[2024-07-09]](https://thewitnesshk.com/穗禾苑立案法團被指忽視維修方案誇大金額/) | [[2024-08-08]](https://thewitnesshk.com/穗禾苑業主向法團提反申索-證人指承辦商標書與顧/) | [[2025-08-15]](https://thewitnesshk.com/穗禾苑業主向法團主席秘書追討逾9000萬元-4申索人續/)
+
+---
+
 ### 🆔 [E-CARTEL-2022-12-31-01] The "Zero-Risk" Business: 5 Years, 1 Conviction, and the License to Rig
 
 **🚨 Significance:**
