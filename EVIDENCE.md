@@ -1359,7 +1359,7 @@ When the Management Company asked the **Urban Renewal Authority (URA)** for pric
 
 **🚨 Significance:**
 
-Investigative reporting confirms that the Consultant fee charged by **Will Power (鴻毅)** was mathematically impossible for a legitimate business. For a 4-year engagement overseeing a HK$330 million project, Will Power charged only **HK$308,000**—approx. **0.09%** of the project value, equilavant to HK$6,875/month. 
+Investigative reporting confirms that the Consultant fee charged by **Will Power (鴻毅)** was mathematically impossible for a legitimate business. For a 4-year engagement overseeing a HK$330 million project, Will Power charged only **HK$308,000**—approx. **0.09%** of the project value, equivalent to HK$6,875/month.
 
 **1. The Market Benchmark:**
 *   **Surveyor's Institute Standard:** For a project of this scale, reasonable fees should be **3-6%** (approx. **HK$9M - HK$20M**).
@@ -1367,7 +1367,7 @@ Investigative reporting confirms that the Consultant fee charged by **Will Power
 *   *The Verdict:* Expert Ho Kui-yip (何鉅業) states it is "impossible" to cover basic manpower costs (even for a security guard) with this fee. This is not a "bargain"; it is a **Trojan Horse**.
 
 **2. The "Loss Leader" Strategy:**
-FactWire's database reveals that consultant fees below 1% are a hallmark of bid-rigging cartels.
+Industry insider "Mr. Chow" (Contractor) explicitly confirmed the cartel script: "**The script is already set... arrange cheap companies here... why would I do it for less than $10k a month? Of course, it's for the follow-up.**"
 *   *The Mechanism:* Consultants undercharge to win the "Gatekeeper" role. Once inside, they earn their *real* profit via **kickbacks** from the Contractor (See [the 17% bribe](#-e-cartel-2010-12-31-01-the-17-bribe-the-hidden-tax-behind-the-hk330-million-bill)). This explains why Will Power was desperate to push the [expensive "Option 3"](#-e-cartel-2023-10-30-01-the-hk150-million-upsell-how-10-year-warranty-was-used-to-double-the-bill) and sign off on [cheap Styrofoam](#-e-safety-foam-2024-09-16-01-the-tapeer-fraud-counterfeit-brands--rigged-safety-demos)—they were maximizing the Contractor's margin to maximize their own kickback.
 
 **3. The Absurd Justification:**
@@ -1473,6 +1473,16 @@ When questioned by media about the unreasonably low fee, both the former Chairma
 > * 錦達測量行有限公司 — HK$178,000
 > * 江明工程顧問有限公司 — HK$78,750
 
+> **Evidence [G]: The Insider Testimony**
+> *Source: Now News Video Report / 2026-01-12*
+>
+> "工程承建商周先生：只要有樓宇維修，我可以說九成以上都是圍標，只要有物業的話，一定中招，其實劇本已經定好……看準你們貪圖便宜這個心態而已，安排收費便宜的公司在這裡，你想一想，清單裡大部分是收費十多、二十萬的顧問公司，你會選擇百多萬的公司嗎？舉例以一個屋苑工程計算，二十四個月收費少於二十四萬元，一個月不足一萬，我為甚麼要做？當然是看後續。可能與工程合約掛鈎。
+將來你們所有業主「吃什麼」我也知道，我（工程顧問）做標書分析，比較便宜的公司當然評定得很負面，作為業主你怕不怕，他可能會爛尾。我一定嚇唬你。其他投標價三、四億元，給予較高的評分，你（業主）怎會不選他，一定中標……
+帶風向……大家（法團、顧問公司）一起護航的情況下便能選中他們心儀的公司。已經很有系統地進行，你們沒法選擇。"
+>
+> *Translation:*
+> "Contractor Mr. Chow: Over 90% of repair tenders are rigged. **The script has been written.** Cheap firms are planted to exploit owners seeking low fees; most consultants charge ~HK$100–200k, not >HK$1M. Example: a 24‑month fee <HK$240k (<HK$10k/month) is unsustainable and likely tied to later contracts. The consultant can mark cheap bidders down and favor HK$300–400M bids so their preferred contractor wins. It’s coordinated by committees and consultants—**systematic**, leaving owners no real choice."
+
 **🛡️ Pre-emptive Rebuttal:**
 
 **Anticipated Defense:**
@@ -1483,11 +1493,16 @@ When questioned by media about the unreasonably low fee, both the former Chairma
 2.  **Too Good to Be True:** In business, if you are not paying for the product, **you are the product**. A consultant working for free is working for someone else (the Contractor). The "Good Deal" cost HK$330M in inflated construction costs and 168 lives.
 3.  **The "Quality" Link:** The low fee directly explains the poor supervision (Fake Nets, Styrofoam). You cannot expect a consultant paid HK$6,875/month to hire a qualified engineer to inspect the site daily. The fee structure **guaranteed** negligence.
 
+**¶ Statutory Basis:**
+
+*   **Context:** Prevention of Bribery Ordinance (Advantage).
+
 **📅 Timeline:**
 *   **2020-01-20:** Tender for Consultant. 35 firms bid — [source](https://www.facebook.com/share/p/1ASPMmAqdt/)
 *   **2021-12-11:** Will Power wins with HK$308k bid — [minutes](http://www.wangfuk.org/html/meeting/03/特別業主大會會議紀錄.pdf)
 *   **2024-01-28:** Will Power helps Prestige win HK$330M contract — [archive](MINUTES_MARKDOWN.md#2024-01-28-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 *   **2025-12-11:** Experts confirm fee is <3.33% of market rate.
+*   **2026-01-12:** Insider confirms low fee is part of the rigging script — [source](https://www.youtube.com/watch?v=vjhZFWSBBrg)
 
 **🔗 Links:**
 *   [HK01 Report](https://www.hk01.com/社會新聞/60302306/)
@@ -1495,6 +1510,7 @@ When questioned by media about the unreasonably low fee, both the former Chairma
 *   [FactWire Report](https://www.factwire.org/investigation/傳真社製首個樓宇維修公開資料庫-數據分析顯示市/)
 *   [The Collective Video Report](https://thecollectivehk.com/影像紀錄宏福苑圍標之禍/)
 *   [Herman Yiu's Post (The Bidders)](https://www.facebook.com/share/p/1ASPMmAqdt/)
+*   [Now News Video Report](https://www.youtube.com/watch?v=vjhZFWSBBrg)
 
 ---
 
@@ -5229,7 +5245,7 @@ Industry insider "Mr. Chow" (Contractor) reveals that **"Smart Tender lowers own
 > "Independent professionals **cannot replace** the role and responsibility of the building engineering consultant."
 
 > **Evidence [E]: The Insider Testimony**
-> *Source: Now News (The Viu) / 2026-01-12*
+> *Source: Now News Video Report / 2026-01-12*
 >
 > "工程承建商周先生：...招標妥會令所有業主戒心降低... 招標不是我做，是市建局幫我們做，這樣我（圍標集團）更容易做，因為減少了被你們（業主）懷疑我... 的機會。"
 >
@@ -5257,7 +5273,7 @@ Industry insider "Mr. Chow" (Contractor) reveals that **"Smart Tender lowers own
 *   [URA OBB 2.0 Notes](https://www.brplatform.org.hk/f/page/10460/11713/OBB%202.0%20notes.pdf)
 *   [Smart Tender DIY Kit](https://www.brplatform.org.hk/f/upload/13750/DIY_Tool_Kit.pdf)
 *   [Presentation Video](http://223.197.186.25:8080/wangfuk/工程解說會VDO.mp4)
-*   [Now News Report](https://www.youtube.com/watch?v=vjhZFWSBBrg)
+*   [Now News Video Report](https://www.youtube.com/watch?v=vjhZFWSBBrg)
 
 ---
 
