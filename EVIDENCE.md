@@ -14,7 +14,7 @@
 12. [[E-CARTEL-2017-12-31-01] The Apex Predator: The "White Power" Boss Who Controls the Triads](#-e-cartel-2017-12-31-01-the-apex-predator-the-white-power-boss-who-controls-the-triads)  
 13. [[E-CARTEL-2018-06-30-01] The "Whistleblower Trap": Why Only the Snitch Went to Jail](#-e-cartel-2018-06-30-01-the-whistleblower-trap-why-only-the-snitch-went-to-jail)  
 14. [[E-CARTEL-WILLPOWER-2018-09-26-01] The "14% Price" Entry Ticket: Buying the Right to Rig the Game](#-e-cartel-willpower-2018-09-26-01-the-14-price-entry-ticket-buying-the-right-to-rig-the-game)  
-15. [[E-CARTEL-WILLPOWER-2020-01-20-01] The "97% Discount": Why a HK$300k Fee for a HK$330M Job Proves Corruption](#-e-cartel-willpower-2020-01-20-01-the-97-discount-why-a-hk300k-fee-for-a-hk330m-job-proves-corruption)  
+15. [[E-CARTEL-WILLPOWER-2020-01-17-01] The "97% Discount": Why a HK$300k Fee for a HK$330M Job Proves Corruption](#-e-cartel-willpower-2020-01-17-01-the-97-discount-why-a-hk300k-fee-for-a-hk330m-job-proves-corruption)  
 16. [[E-CARTEL-WILLPOWER-2020-01-20-02] The Race to the Bottom: Why 9 Bidders Cheaper than Will Power Might Be Even Worse](#-e-cartel-willpower-2020-01-20-02-the-race-to-the-bottom-why-9-bidders-cheaper-than-will-power-might-be-even-worse)  
 17. [[E-ADMIN-2021-03-02-01] The "Election Agents": Why the MC Campaigned for the Management Company](#-e-admin-2021-03-02-01-the-election-agents-why-the-mc-campaigned-for-the-management-company)  
 18. [[E-ADMIN-2021-03-06-01] The "3-Month" Loop: How the MC Renewed the Management Contract 21 months Without Owners' Approval](#-e-admin-2021-03-06-01-the-3-month-loop-how-the-mc-renewed-the-management-contract-21-months-without-owners-approval)  
@@ -1355,7 +1355,7 @@ When the Management Company asked the **Urban Renewal Authority (URA)** for pric
 
 ---
 
-### 🆔 [E-CARTEL-WILLPOWER-2020-01-20-01] The "97% Discount": Why a HK$300k Fee for a HK$330M Job Proves Corruption
+### 🆔 [E-CARTEL-WILLPOWER-2020-01-17-01] The "97% Discount": Why a HK$300k Fee for a HK$330M Job Proves Corruption
 
 **🚨 Significance:**
 
@@ -1473,15 +1473,14 @@ When questioned by media about the unreasonably low fee, both the former Chairma
 > * 錦達測量行有限公司 — HK$178,000
 > * 江明工程顧問有限公司 — HK$78,750
 
-> **Evidence [G]: The Insider Testimony**
+> **Evidence [G]: The Insider Testimony**  
 > *Source: Now News Video Report / 2026-01-12*
 >
 > "工程承建商周先生：只要有樓宇維修，我可以說九成以上都是圍標，只要有物業的話，一定中招，其實劇本已經定好……看準你們貪圖便宜這個心態而已，安排收費便宜的公司在這裡，你想一想，清單裡大部分是收費十多、二十萬的顧問公司，你會選擇百多萬的公司嗎？舉例以一個屋苑工程計算，二十四個月收費少於二十四萬元，一個月不足一萬，我為甚麼要做？當然是看後續。可能與工程合約掛鈎。
-將來你們所有業主「吃什麼」我也知道，我（工程顧問）做標書分析，比較便宜的公司當然評定得很負面，作為業主你怕不怕，他可能會爛尾。我一定嚇唬你。其他投標價三、四億元，給予較高的評分，你（業主）怎會不選他，一定中標……
-帶風向……大家（法團、顧問公司）一起護航的情況下便能選中他們心儀的公司。已經很有系統地進行，你們沒法選擇。"
+將來你們所有業主「吃什麼」我也知道，我（工程顧問）做標書分析，比較便宜的公司當然評定得很負面，作為業主你怕不怕，他可能會爛尾。我一定嚇唬你。其他投標價三、四億元，給予較高的評分，你（業主）怎會不選他，一定中標……帶風向……大家（法團、顧問公司）一起護航的情況下便能選中他們心儀的公司。已經很有系統地進行，你們沒法選擇。"
 >
-> *Translation:*
-> "Contractor Mr. Chow: Over 90% of repair tenders are rigged. **The script has been written.** Cheap firms are planted to exploit owners seeking low fees; most consultants charge ~HK$100–200k, not >HK$1M. Example: a 24‑month fee <HK$240k (<HK$10k/month) is unsustainable and likely tied to later contracts. The consultant can mark cheap bidders down and favor HK$300–400M bids so their preferred contractor wins. It’s coordinated by committees and consultants—**systematic**, leaving owners no real choice."
+> *Translation:*  
+> "Contractor Mr. Chow: Over 90% of repair tenders are rigged. **The script is already set.** Cheap firms are planted to exploit owners seeking low fees; most consultants charge ~HK$100–200k, not >HK$1M. Example: a 24‑month fee <HK$240k (<HK$10k/month). Why would I do it for less than $10k a month? Of course, it's for the follow-up. The consultant can mark cheap bidders down and favor HK$300–400M bids so their preferred contractor wins. It’s coordinated by committees and consultants—**systematic**, leaving owners no real choice."
 
 **🛡️ Pre-emptive Rebuttal:**
 
@@ -1498,10 +1497,11 @@ When questioned by media about the unreasonably low fee, both the former Chairma
 *   **Context:** Prevention of Bribery Ordinance (Advantage).
 
 **📅 Timeline:**
-*   **2020-01-20:** Tender for Consultant. 35 firms bid — [source](https://www.facebook.com/share/p/1ASPMmAqdt/)
+*   **2020-01-17:** Tender deadline for Consultant — [ref](MINUTES_MARKDOWN.md#2019-12-27-%E7%AC%AC%E5%8D%81%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E5%8D%81%E5%85%AD%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   **2020-01-20:** 35 biddings known — [source](https://www.facebook.com/share/p/1ASPMmAqdt/)
 *   **2021-12-11:** Will Power wins with HK$308k bid — [minutes](http://www.wangfuk.org/html/meeting/03/特別業主大會會議紀錄.pdf)
 *   **2024-01-28:** Will Power helps Prestige win HK$330M contract — [archive](MINUTES_MARKDOWN.md#2024-01-28-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
-*   **2025-12-11:** Experts confirm fee is <3.33% of market rate.
+*   **2025-12-11:** Expert confirms fee is <3.33% of market rate.
 *   **2026-01-12:** Insider confirms low fee is part of the rigging script — [source](https://www.youtube.com/watch?v=vjhZFWSBBrg)
 
 **🔗 Links:**
@@ -5244,7 +5244,7 @@ Industry insider "Mr. Chow" (Contractor) reveals that **"Smart Tender lowers own
 > *Translation:*
 > "Independent professionals **cannot replace** the role and responsibility of the building engineering consultant."
 
-> **Evidence [E]: The Insider Testimony**
+> **Evidence [E]: The Insider Testimony**  
 > *Source: Now News Video Report / 2026-01-12*
 >
 > "工程承建商周先生：...招標妥會令所有業主戒心降低... 招標不是我做，是市建局幫我們做，這樣我（圍標集團）更容易做，因為減少了被你們（業主）懷疑我... 的機會。"
