@@ -8604,7 +8604,7 @@ As Jason Kong poignantly stated: *"We have to use so many lives to exchange for 
 
 **📅 Timeline:**
 *   **Before 2024-04-16:** Residents submit documents. ICAC says "No File"/"No Evidence".
-*   **2025-11-26:** Fire kills 161.
+*   **2025-11-26:** Fire kills 168.
 *   **2025-11-28:** ICAC arrests 8 suspects based on "corruption".
 *   **2025-11-29:** ICAC arrests 3 more.
 
