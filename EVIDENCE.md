@@ -47,69 +47,70 @@
 45. [[E-CARTEL-WILLPOWER-2023-10-16-02] The Kingmaker's Algorithm: How "Variance" Nullified the Owners' Vote](#-e-cartel-willpower-2023-10-16-02-the-kingmakers-algorithm-how-variance-nullified-the-owners-vote)  
 46. [[E-CARTEL-WILLPOWER-2023-10-30-01] The HK$150 Million Upsell: How "10-Year Warranty" was Used to Double the Bill](#-e-cartel-willpower-2023-10-30-01-the-hk150-million-upsell-how-10-year-warranty-was-used-to-double-the-bill)  
 47. [[E-CARTEL-WILLPOWER-2023-11-29-01] The "Magic Eraser": How a Contractor's Criminal Record Vanished in 3 Months](#-e-cartel-willpower-2023-11-29-01-the-magic-eraser-how-a-contractors-criminal-record-vanished-in-3-months)  
-48. [[E-CARTEL-2024-01-28-01] The Phantom Voters: How a "Mystery Mouse" Swung the HK$330M Contract](#-e-cartel-2024-01-28-01-the-phantom-voters-how-a-mystery-mouse-swung-the-hk330m-contract)  
-49. [[E-CARTEL-2024-01-28-02] The "Harvest" of the Elderly: Political Machinery & The Proxy Factory](#-e-cartel-2024-01-28-02-the-harvest-of-the-elderly-political-machinery--the-proxy-factory)  
-50. [[E-ADMIN-2024-01-28-01] The "Basket" Rigging: How 38% Support Became a HK$5.6 Million Mandate](#-e-admin-2024-01-28-01-the-basket-rigging-how-38-support-became-a-hk56-million-mandate)  
-51. [[E-SAFETY-WINDOWS-2024-01-28-01] The "Fireproof" Paradox: Paying for Safety, Getting a Death Trap](#-e-safety-windows-2024-01-28-01-the-fireproof-paradox-paying-for-safety-getting-a-death-trap)  
-52. [[E-CARTEL-2024-03-22-01] The "HK$33 Million" Motive: Anatomy of the Kill Chain](#-e-cartel-2024-03-22-01-the-hk33-million-motive-anatomy-of-the-kill-chain)  
-53. [[E-CARTEL-WILLPOWER-2024-04-16-01] The "Smartgoal" Trap: Why the Runner-Up was a Guaranteed Disaster](#-e-cartel-willpower-2024-04-16-01-the-smartgoal-trap-why-the-runner-up-was-a-guaranteed-disaster)  
-54. [[E-ADMIN-2024-04-16-01] The "Done Deal" Strategy: How the MC Crushed Dissent Before Signing the HK$330M Contract](#-e-admin-2024-04-16-01-the-done-deal-strategy-how-the-mc-crushed-dissent-before-signing-the-hk330m-contract)  
-55. [[E-CARTEL-2024-04-30-01] Pandora's Box Opened: Dead Owners Voting & 114% Turnout](#-e-cartel-2024-04-30-01-pandoras-box-opened-dead-owners-voting--114-turnout)  
-56. [[E-ADMIN-2024-06-05-01] The $7,000 Lawyer: Cheap Fees, Critical Errors, and the Role of the "Legal Thug"](#-e-admin-2024-06-05-01-the-7000-lawyer-cheap-fees-critical-errors-and-the-role-of-the-legal-thug)  
-57. [[E-CARTEL-PRESTIGE-2024-06-27-01] The "Rashomon" of Tiles: Lies, Finger-Pointing, and the "Free Upgrade" Trap](#-e-cartel-prestige-2024-06-27-01-the-rashomon-of-tiles-lies-finger-pointing-and-the-free-upgrade-trap)  
-58. [[E-CARTEL-WILLPOWER-2024-07-19-01] The "Endorsement" Myth: How URA Subsidies Were Used to Whitewash Corruption](#-e-cartel-willpower-2024-07-19-01-the-endorsement-myth-how-ura-subsidies-were-used-to-whitewash-corruption)  
-59. [[E-SAFETY-FOAM-2024-07-19-01] The SOP Death Trap: Use of Flammable Foam](#-e-safety-foam-2024-07-19-01-the-sop-death-trap-use-of-flammable-foam)  
-60. [[E-SAFETY-FOAM-2024-07-19-02] The Mechanics of Hell: Radiant Heat & Molten Fire](#-e-safety-foam-2024-07-19-02-the-mechanics-of-hell-radiant-heat--molten-fire)  
-61. [[E-SAFETY-FOAM-2024-07-19-03] The Blinded Victims: How Styrofoam Stole the "Golden Hour" of Escape](#-e-safety-foam-2024-07-19-03-the-blinded-victims-how-styrofoam-stole-the-golden-hour-of-escape)  
-62. [[E-ADMIN-2024-07-22-01] The Questionnaire Trap: "Admit Liability or Withdraw"](#-e-admin-2024-07-22-01-the-questionnaire-trap-admit-liability-or-withdraw)  
-63. [[E-ADMIN-2024-07-31-01] The Illegal Delay: How the Chairman Ignored Statutory Deadlines to Crush Dissent](#-e-admin-2024-07-31-01-the-illegal-delay-how-the-chairman-ignored-statutory-deadlines-to-crush-dissent)  
-64. [[E-ADMIN-2024-08-05-01] The 76% Mirage: How a Rigged Survey Blinded the MC to Its Own Demise](#-e-admin-2024-08-05-01-the-76-mirage-how-a-rigged-survey-blinded-the-mc-to-its-own-demise)  
-65. [[E-SAFETY-FOAM-2024-09-16-01] The "TAPEER" Fraud: Counterfeit Brands & Rigged Safety Demos](#-e-safety-foam-2024-09-16-01-the-tapeer-fraud-counterfeit-brands--rigged-safety-demos)  
-66. [[E-SAFETY-FOAM-2024-09-30-01] The Ransom of Safety: "Pay Compensation or Keep the Fire Hazard"](#-e-safety-foam-2024-09-30-01-the-ransom-of-safety-pay-compensation-or-keep-the-fire-hazard)  
-67. [[E-SAFETY-FOAM-2024-09-30-02] The "Powerless" Lie: How the Watchdog Approved the Kill](#-e-safety-foam-2024-09-30-02-the-powerless-lie-how-the-watchdog-approved-the-kill)  
-68. [[E-SAFETY-2024-11-15-01] The Insurance Boycott](#-e-safety-2024-11-15-01-the-insurance-boycott)  
-69. [[E-SAFETY-WINDOWS-2025-01-20-01] The "Infinite" Risk: Why Replacing Windows Took Forever](#-e-safety-windows-2025-01-20-01-the-infinite-risk-why-replacing-windows-took-forever)  
-70. [[E-GOV-2025-04-16-01] The Ignored Blueprint: How the Ombudsman Predicted the Disaster 7 Months Early](#-e-gov-2025-04-16-01-the-ignored-blueprint-how-the-ombudsman-predicted-the-disaster-7-months-early)  
-71. [[E-GOV-2025-04-16-02] The Blind Watchdog: Why Even the Ombudsman Missed the "Cartel" Elephant](#-e-gov-2025-04-16-02-the-blind-watchdog-why-even-the-ombudsman-missed-the-cartel-elephant)  
-72. [[E-SAFETY-ALARM-2025-05-14-01] The Silent Switch: How Management Disabled the Alarm to "Save Trouble"](#-e-safety-alarm-2025-05-14-01-the-silent-switch-how-management-disabled-the-alarm-to-save-trouble)  
-73. [[E-SAFETY-2025-05-21-01] The 10-Month Ghost Supervisor & The "Closed-Loop" Collusion](#-e-safety-2025-05-21-01-the-10-month-ghost-supervisor--the-closed-loop-collusion)  
-74. [[E-SAFETY-WINDOWS-2025-06-21-01] The Paper Deadline: How a "Completed" Project Remained a Fire Trap for 5 More Months](#-e-safety-windows-2025-06-21-01-the-paper-deadline-how-a-completed-project-remained-a-fire-trap-for-5-more-months)  
-75. [[E-SAFETY-2025-07-17-01] The "Hostage" Strategy: How Payment Disputes Extended the Danger Zone](#-e-safety-2025-07-17-01-the-hostage-strategy-how-payment-disputes-extended-the-danger-zone)  
-76. [[E-CARTEL-PRESTIGE-2025-08-30-01] The Handshake in the Shadows: How "Will Power" and "Prestige" are Connected via "Sky Arashi"](#-e-cartel-prestige-2025-08-30-01-the-handshake-in-the-shadows-how-will-power-and-prestige-are-connected-via-sky-arashi)  
-77. [[E-CARTEL-PRESTIGE-2025-08-30-02] The "Schrödinger's AP": How Sky Arashi Faked its Credentials to Win Contracts](#-e-cartel-prestige-2025-08-30-02-the-schrdingers-ap-how-sky-arashi-faked-its-credentials-to-win-contracts)  
-78. [[E-CARTEL-WILLPOWER-2025-08-30-01] The "Recurring Cast": How the Same Dummy Firms Rigged Tenders Across Tai Po](#-e-cartel-willpower-2025-08-30-01-the-recurring-cast-how-the-same-dummy-firms-rigged-tenders-across-tai-po)  
-79. [[E-ADMIN-2025-09-29-01] Documentary Failures: The 'Lift Contractor' Error & The $1.7M Mislabeling](#-e-admin-2025-09-29-01-documentary-failures-the-lift-contractor-error--the-17m-mislabeling)  
-80. [[E-SAFETY-NETS-2025-10-18-01] The Price of Life: HK$561 per Victim & The 5% Decoy](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk561-per-victim--the-5-decoy)  
-81. [[E-SAFETY-2025-10-19-01] The Prophecy of Doom: How Wang Fuk Court Ticked Every Box on the "Death Checklist"](#-e-safety-2025-10-19-01-the-prophecy-of-doom-how-wang-fuk-court-ticked-every-box-on-the-death-checklist)  
-82. [[E-CARTEL-2025-10-25-01] The Teflon Don: How a "Distinguished" Official Survived Two Major Bid-Rigging Scandals](#-e-cartel-2025-10-25-01-the-teflon-don-how-a-distinguished-official-survived-two-major-bid-rigging-scandals)  
-83. [[E-SAFETY-WATER-2025-11-07-01] The Paralyzed Water Network & The Fatal Maintenance](#-e-safety-water-2025-11-07-01-the-paralyzed-water-network--the-fatal-maintenance)  
-84. [[E-SAFETY-WINDOWS-2025-11-26-01] The Inverted Logic: Why Taking the Elevator Saved Lives and Stairs Killed](#-e-safety-windows-2025-11-26-01-the-inverted-logic-why-taking-the-elevator-saved-lives-and-stairs-killed)  
-85. [[E-SAFETY-NETS-2025-11-27-01] The "Open Secret": Fake Certificates](#-e-safety-nets-2025-11-27-01-the-open-secret-fake-certificates)  
-86. [[E-ADMIN-2025-12-04-01] The Chairman's fatal ignorance on safety status](#-e-admin-2025-12-04-01-the-chairmans-fatal-ignorance-on-safety-status)  
-87. [[E-CARTEL-PRESTIGE-2025-12-22-01] The Last Stand: The Missing Bond, The Crocodile Tears, and The Final Vanishing Act](#-e-cartel-prestige-2025-12-22-01-the-last-stand-the-missing-bond-the-crocodile-tears-and-the-final-vanishing-act)  
-88. [[E-GOV-2025-12-22-01] The "Ghost" Contractor: How BD Failed to Stop Prestige Because the Paperwork Said "Fusion"](#-e-gov-2025-12-22-01-the-ghost-contractor-how-bd-failed-to-stop-prestige-because-the-paperwork-said-fusion)  
-89. [[E-SAFETY-NETS-2025-12-05-01] The Laundering of Risk: "We Just Trusted Them"](#-e-safety-nets-2025-12-05-01-the-laundering-of-risk-we-just-trusted-them)  
-90. [[E-VICTIM-2024-11-30-01] The Living Tomb: "Moldy, Pitch Black, and Voiceless"](#-e-victim-2024-11-30-01-the-living-tomb-moldy-pitch-black-and-voiceless)  
-91. [[E-VICTIM-2025-11-26-01] The Seven Hours of Hell: A Real-Time Chronicle of Systemic Murder](#-e-victim-2025-11-26-01-the-seven-hours-of-hell-a-real-time-chronicle-of-systemic-murder)  
-92. [[E-VICTIM-2025-11-26-02] The Empty Staircase: How the "Information Blockade" Left the Elderly to Die in Their Sleep](#-e-victim-2025-11-26-02-the-empty-staircase-how-the-information-blockade-left-the-elderly-to-die-in-their-sleep)  
-93. [[E-VICTIM-2025-11-26-03] The Nullified Life: How the Cartel Burned 10 Years of "Sold Holidays"](#-e-victim-2025-11-26-03-the-nullified-life-how-the-cartel-burned-10-years-of-sold-holidays)  
-94. [[E-VICTIM-2025-11-27-01] The Ghost Mall: How the Fire Created 100+ "Economic Refugees" Next Door](#-e-victim-2025-11-27-01-the-ghost-mall-how-the-fire-created-100-economic-refugees-next-door)  
-95. [[E-VICTIM-2025-11-28-01] The Destruction of a Village: "I lost 10 friends in one night"](#-e-victim-2025-11-28-01-the-destruction-of-a-village-i-lost-10-friends-in-one-night)  
-96. [[E-VICTIM-2025-11-28-02] The Milk Tea Bottle: When Survival is Luck and Loss is Irreplaceable](#-e-victim-2025-11-28-02-the-milk-tea-bottle-when-survival-is-luck-and-loss-is-irreplaceable)  
-97. [[E-GOV-NETS-2015-12-31-01] The "Standard" Trap: Why "Compliant" Nets Can Still Burn Down a Building](#-e-gov-nets-2015-12-31-01-the-standard-trap-why-compliant-nets-can-still-burn-down-a-building)  
-98. [[E-GOV-NETS-2024-10-04-01] The "Two-Tier" Truth: How Labour Dept Lied to Residents but Confessed to Experts](#-e-gov-nets-2024-10-04-01-the-two-tier-truth-how-labour-dept-lied-to-residents-but-confessed-to-experts)  
-99. [[E-GOV-WATER-2025-03-24-01] Official Endorsement of Failure: How FSD Labelled Broken Valves as "Compliant"](#-e-gov-water-2025-03-24-01-official-endorsement-of-failure-how-fsd-labelled-broken-valves-as-compliant)  
-100. [[E-GOV-NETS-2025-11-20-01] The "Paper Shield": How 16 Inspections Missed the Fire Trap](#-e-gov-nets-2025-11-20-01-the-paper-shield-how-16-inspections-missed-the-fire-trap)  
-101. [[E-GOV-NETS-2025-11-24-01] The Deaf Ear: How Hotline Complaints and "Surprise Inspections" Failed to Stop the Fire](#-e-gov-nets-2025-11-24-01-the-deaf-ear-how-hotline-complaints-and-surprise-inspections-failed-to-stop-the-fire)  
-102. [[E-GOV-ALARM-2025-12-03-01] The "Silent" Alarm Mystery: Official Chaos & The 2-Year Penalty for 168 Lives](#-e-gov-alarm-2025-12-03-01-the-silent-alarm-mystery-official-chaos--the-2-year-penalty-for-168-lives)  
-103. [[E-GOV-NETS-2025-12-03-02] The "Total Demolition" Order: An Admission of Systemic Collapse](#-e-gov-nets-2025-12-03-02-the-total-demolition-order-an-admission-of-systemic-collapse)  
-104. [[E-GOV-WINDOWS-2025-12-11-01] The Bureaucratic Maze: "Not My Department" While People Died](#-e-gov-windows-2025-12-11-01-the-bureaucratic-maze-not-my-department-while-people-died)  
-105. [[E-ENFORCE-2025-04-15-01] The Evidence Magicians: "No File" Before the Fire, 11 Arrests After the Bodies Piled Up](#-e-enforce-2025-04-15-01-the-evidence-magicians-no-file-before-the-fire-11-arrests-after-the-bodies-piled-up)  
-106. [[E-ENFORCE-NETS-2025-12-01-01] The "Sloppy" Admission](#-e-enforce-nets-2025-12-01-01-the-sloppy-admission)  
-107. [[E-ENFORCE-NETS-2025-12-01-02] The 95% vs 35% Paradox: A Statistical Miracle?](#-e-enforce-nets-2025-12-01-02-the-95-vs-35-paradox-a-statistical-miracle)  
-108. [[E-ENFORCE-NETS-2025-12-03-01] The Passive Police: Media did the Police's Job](#-e-enforce-nets-2025-12-03-01-the-passive-police-media-did-the-polices-job)  
-109. [[E-MEDIA-2025-11-27-01] The "Stenography Journalism" & The Missed Scam](#-e-media-2025-11-27-01-the-stenography-journalism--the-missed-scam)  
-110. [[E-MEDIA-2025-11-30-01] The Vanishing Truth: Why State Media Deleted Its Own Scoop on the Cartel](#-e-media-2025-11-30-01-the-vanishing-truth-why-state-media-deleted-its-own-scoop-on-the-cartel)  
+48. [[E-CARTEL-WILLPOWER-2023-11-29-02] The Moving Goalposts: How "Litigation" was Redefined to rig the Score](#-e-cartel-willpower-2023-11-29-02-the-moving-goalposts-how-litigation-was-redefined-to-rig-the-score)  
+49. [[E-CARTEL-2024-01-28-01] The Phantom Voters: How a "Mystery Mouse" Swung the HK$330M Contract](#-e-cartel-2024-01-28-01-the-phantom-voters-how-a-mystery-mouse-swung-the-hk330m-contract)  
+50. [[E-CARTEL-2024-01-28-02] The "Harvest" of the Elderly: Political Machinery & The Proxy Factory](#-e-cartel-2024-01-28-02-the-harvest-of-the-elderly-political-machinery--the-proxy-factory)  
+51. [[E-ADMIN-2024-01-28-01] The "Basket" Rigging: How 38% Support Became a HK$5.6 Million Mandate](#-e-admin-2024-01-28-01-the-basket-rigging-how-38-support-became-a-hk56-million-mandate)  
+52. [[E-SAFETY-WINDOWS-2024-01-28-01] The "Fireproof" Paradox: Paying for Safety, Getting a Death Trap](#-e-safety-windows-2024-01-28-01-the-fireproof-paradox-paying-for-safety-getting-a-death-trap)  
+53. [[E-CARTEL-2024-03-22-01] The "HK$33 Million" Motive: Anatomy of the Kill Chain](#-e-cartel-2024-03-22-01-the-hk33-million-motive-anatomy-of-the-kill-chain)  
+54. [[E-CARTEL-WILLPOWER-2024-04-16-01] The "Smartgoal" Trap: Why the Runner-Up was a Guaranteed Disaster](#-e-cartel-willpower-2024-04-16-01-the-smartgoal-trap-why-the-runner-up-was-a-guaranteed-disaster)  
+55. [[E-ADMIN-2024-04-16-01] The "Done Deal" Strategy: How the MC Crushed Dissent Before Signing the HK$330M Contract](#-e-admin-2024-04-16-01-the-done-deal-strategy-how-the-mc-crushed-dissent-before-signing-the-hk330m-contract)  
+56. [[E-CARTEL-2024-04-30-01] Pandora's Box Opened: Dead Owners Voting & 114% Turnout](#-e-cartel-2024-04-30-01-pandoras-box-opened-dead-owners-voting--114-turnout)  
+57. [[E-ADMIN-2024-06-05-01] The $7,000 Lawyer: Cheap Fees, Critical Errors, and the Role of the "Legal Thug"](#-e-admin-2024-06-05-01-the-7000-lawyer-cheap-fees-critical-errors-and-the-role-of-the-legal-thug)  
+58. [[E-CARTEL-PRESTIGE-2024-06-27-01] The "Rashomon" of Tiles: Lies, Finger-Pointing, and the "Free Upgrade" Trap](#-e-cartel-prestige-2024-06-27-01-the-rashomon-of-tiles-lies-finger-pointing-and-the-free-upgrade-trap)  
+59. [[E-CARTEL-WILLPOWER-2024-07-19-01] The "Endorsement" Myth: How URA Subsidies Were Used to Whitewash Corruption](#-e-cartel-willpower-2024-07-19-01-the-endorsement-myth-how-ura-subsidies-were-used-to-whitewash-corruption)  
+60. [[E-SAFETY-FOAM-2024-07-19-01] The SOP Death Trap: Use of Flammable Foam](#-e-safety-foam-2024-07-19-01-the-sop-death-trap-use-of-flammable-foam)  
+61. [[E-SAFETY-FOAM-2024-07-19-02] The Mechanics of Hell: Radiant Heat & Molten Fire](#-e-safety-foam-2024-07-19-02-the-mechanics-of-hell-radiant-heat--molten-fire)  
+62. [[E-SAFETY-FOAM-2024-07-19-03] The Blinded Victims: How Styrofoam Stole the "Golden Hour" of Escape](#-e-safety-foam-2024-07-19-03-the-blinded-victims-how-styrofoam-stole-the-golden-hour-of-escape)  
+63. [[E-ADMIN-2024-07-22-01] The Questionnaire Trap: "Admit Liability or Withdraw"](#-e-admin-2024-07-22-01-the-questionnaire-trap-admit-liability-or-withdraw)  
+64. [[E-ADMIN-2024-07-31-01] The Illegal Delay: How the Chairman Ignored Statutory Deadlines to Crush Dissent](#-e-admin-2024-07-31-01-the-illegal-delay-how-the-chairman-ignored-statutory-deadlines-to-crush-dissent)  
+65. [[E-ADMIN-2024-08-05-01] The 76% Mirage: How a Rigged Survey Blinded the MC to Its Own Demise](#-e-admin-2024-08-05-01-the-76-mirage-how-a-rigged-survey-blinded-the-mc-to-its-own-demise)  
+66. [[E-SAFETY-FOAM-2024-09-16-01] The "TAPEER" Fraud: Counterfeit Brands & Rigged Safety Demos](#-e-safety-foam-2024-09-16-01-the-tapeer-fraud-counterfeit-brands--rigged-safety-demos)  
+67. [[E-SAFETY-FOAM-2024-09-30-01] The Ransom of Safety: "Pay Compensation or Keep the Fire Hazard"](#-e-safety-foam-2024-09-30-01-the-ransom-of-safety-pay-compensation-or-keep-the-fire-hazard)  
+68. [[E-SAFETY-FOAM-2024-09-30-02] The "Powerless" Lie: How the Watchdog Approved the Kill](#-e-safety-foam-2024-09-30-02-the-powerless-lie-how-the-watchdog-approved-the-kill)  
+69. [[E-SAFETY-2024-11-15-01] The Insurance Boycott](#-e-safety-2024-11-15-01-the-insurance-boycott)  
+70. [[E-SAFETY-WINDOWS-2025-01-20-01] The "Infinite" Risk: Why Replacing Windows Took Forever](#-e-safety-windows-2025-01-20-01-the-infinite-risk-why-replacing-windows-took-forever)  
+71. [[E-GOV-2025-04-16-01] The Ignored Blueprint: How the Ombudsman Predicted the Disaster 7 Months Early](#-e-gov-2025-04-16-01-the-ignored-blueprint-how-the-ombudsman-predicted-the-disaster-7-months-early)  
+72. [[E-GOV-2025-04-16-02] The Blind Watchdog: Why Even the Ombudsman Missed the "Cartel" Elephant](#-e-gov-2025-04-16-02-the-blind-watchdog-why-even-the-ombudsman-missed-the-cartel-elephant)  
+73. [[E-SAFETY-ALARM-2025-05-14-01] The Silent Switch: How Management Disabled the Alarm to "Save Trouble"](#-e-safety-alarm-2025-05-14-01-the-silent-switch-how-management-disabled-the-alarm-to-save-trouble)  
+74. [[E-SAFETY-2025-05-21-01] The 10-Month Ghost Supervisor & The "Closed-Loop" Collusion](#-e-safety-2025-05-21-01-the-10-month-ghost-supervisor--the-closed-loop-collusion)  
+75. [[E-SAFETY-WINDOWS-2025-06-21-01] The Paper Deadline: How a "Completed" Project Remained a Fire Trap for 5 More Months](#-e-safety-windows-2025-06-21-01-the-paper-deadline-how-a-completed-project-remained-a-fire-trap-for-5-more-months)  
+76. [[E-SAFETY-2025-07-17-01] The "Hostage" Strategy: How Payment Disputes Extended the Danger Zone](#-e-safety-2025-07-17-01-the-hostage-strategy-how-payment-disputes-extended-the-danger-zone)  
+77. [[E-CARTEL-PRESTIGE-2025-08-30-01] The Handshake in the Shadows: How "Will Power" and "Prestige" are Connected via "Sky Arashi"](#-e-cartel-prestige-2025-08-30-01-the-handshake-in-the-shadows-how-will-power-and-prestige-are-connected-via-sky-arashi)  
+78. [[E-CARTEL-PRESTIGE-2025-08-30-02] The "Schrödinger's AP": How Sky Arashi Faked its Credentials to Win Contracts](#-e-cartel-prestige-2025-08-30-02-the-schrdingers-ap-how-sky-arashi-faked-its-credentials-to-win-contracts)  
+79. [[E-CARTEL-WILLPOWER-2025-08-30-01] The "Recurring Cast": How the Same Dummy Firms Rigged Tenders Across Tai Po](#-e-cartel-willpower-2025-08-30-01-the-recurring-cast-how-the-same-dummy-firms-rigged-tenders-across-tai-po)  
+80. [[E-ADMIN-2025-09-29-01] Documentary Failures: The 'Lift Contractor' Error & The $1.7M Mislabeling](#-e-admin-2025-09-29-01-documentary-failures-the-lift-contractor-error--the-17m-mislabeling)  
+81. [[E-SAFETY-NETS-2025-10-18-01] The Price of Life: HK$561 per Victim & The 5% Decoy](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk561-per-victim--the-5-decoy)  
+82. [[E-SAFETY-2025-10-19-01] The Prophecy of Doom: How Wang Fuk Court Ticked Every Box on the "Death Checklist"](#-e-safety-2025-10-19-01-the-prophecy-of-doom-how-wang-fuk-court-ticked-every-box-on-the-death-checklist)  
+83. [[E-CARTEL-2025-10-25-01] The Teflon Don: How a "Distinguished" Official Survived Two Major Bid-Rigging Scandals](#-e-cartel-2025-10-25-01-the-teflon-don-how-a-distinguished-official-survived-two-major-bid-rigging-scandals)  
+84. [[E-SAFETY-WATER-2025-11-07-01] The Paralyzed Water Network & The Fatal Maintenance](#-e-safety-water-2025-11-07-01-the-paralyzed-water-network--the-fatal-maintenance)  
+85. [[E-SAFETY-WINDOWS-2025-11-26-01] The Inverted Logic: Why Taking the Elevator Saved Lives and Stairs Killed](#-e-safety-windows-2025-11-26-01-the-inverted-logic-why-taking-the-elevator-saved-lives-and-stairs-killed)  
+86. [[E-SAFETY-NETS-2025-11-27-01] The "Open Secret": Fake Certificates](#-e-safety-nets-2025-11-27-01-the-open-secret-fake-certificates)  
+87. [[E-ADMIN-2025-12-04-01] The Chairman's fatal ignorance on safety status](#-e-admin-2025-12-04-01-the-chairmans-fatal-ignorance-on-safety-status)  
+88. [[E-CARTEL-PRESTIGE-2025-12-22-01] The Last Stand: The Missing Bond, The Crocodile Tears, and The Final Vanishing Act](#-e-cartel-prestige-2025-12-22-01-the-last-stand-the-missing-bond-the-crocodile-tears-and-the-final-vanishing-act)  
+89. [[E-GOV-2025-12-22-01] The "Ghost" Contractor: How BD Failed to Stop Prestige Because the Paperwork Said "Fusion"](#-e-gov-2025-12-22-01-the-ghost-contractor-how-bd-failed-to-stop-prestige-because-the-paperwork-said-fusion)  
+90. [[E-SAFETY-NETS-2025-12-05-01] The Laundering of Risk: "We Just Trusted Them"](#-e-safety-nets-2025-12-05-01-the-laundering-of-risk-we-just-trusted-them)  
+91. [[E-VICTIM-2024-11-30-01] The Living Tomb: "Moldy, Pitch Black, and Voiceless"](#-e-victim-2024-11-30-01-the-living-tomb-moldy-pitch-black-and-voiceless)  
+92. [[E-VICTIM-2025-11-26-01] The Seven Hours of Hell: A Real-Time Chronicle of Systemic Murder](#-e-victim-2025-11-26-01-the-seven-hours-of-hell-a-real-time-chronicle-of-systemic-murder)  
+93. [[E-VICTIM-2025-11-26-02] The Empty Staircase: How the "Information Blockade" Left the Elderly to Die in Their Sleep](#-e-victim-2025-11-26-02-the-empty-staircase-how-the-information-blockade-left-the-elderly-to-die-in-their-sleep)  
+94. [[E-VICTIM-2025-11-26-03] The Nullified Life: How the Cartel Burned 10 Years of "Sold Holidays"](#-e-victim-2025-11-26-03-the-nullified-life-how-the-cartel-burned-10-years-of-sold-holidays)  
+95. [[E-VICTIM-2025-11-27-01] The Ghost Mall: How the Fire Created 100+ "Economic Refugees" Next Door](#-e-victim-2025-11-27-01-the-ghost-mall-how-the-fire-created-100-economic-refugees-next-door)  
+96. [[E-VICTIM-2025-11-28-01] The Destruction of a Village: "I lost 10 friends in one night"](#-e-victim-2025-11-28-01-the-destruction-of-a-village-i-lost-10-friends-in-one-night)  
+97. [[E-VICTIM-2025-11-28-02] The Milk Tea Bottle: When Survival is Luck and Loss is Irreplaceable](#-e-victim-2025-11-28-02-the-milk-tea-bottle-when-survival-is-luck-and-loss-is-irreplaceable)  
+98. [[E-GOV-NETS-2015-12-31-01] The "Standard" Trap: Why "Compliant" Nets Can Still Burn Down a Building](#-e-gov-nets-2015-12-31-01-the-standard-trap-why-compliant-nets-can-still-burn-down-a-building)  
+99. [[E-GOV-NETS-2024-10-04-01] The "Two-Tier" Truth: How Labour Dept Lied to Residents but Confessed to Experts](#-e-gov-nets-2024-10-04-01-the-two-tier-truth-how-labour-dept-lied-to-residents-but-confessed-to-experts)  
+100. [[E-GOV-WATER-2025-03-24-01] Official Endorsement of Failure: How FSD Labelled Broken Valves as "Compliant"](#-e-gov-water-2025-03-24-01-official-endorsement-of-failure-how-fsd-labelled-broken-valves-as-compliant)  
+101. [[E-GOV-NETS-2025-11-20-01] The "Paper Shield": How 16 Inspections Missed the Fire Trap](#-e-gov-nets-2025-11-20-01-the-paper-shield-how-16-inspections-missed-the-fire-trap)  
+102. [[E-GOV-NETS-2025-11-24-01] The Deaf Ear: How Hotline Complaints and "Surprise Inspections" Failed to Stop the Fire](#-e-gov-nets-2025-11-24-01-the-deaf-ear-how-hotline-complaints-and-surprise-inspections-failed-to-stop-the-fire)  
+103. [[E-GOV-ALARM-2025-12-03-01] The "Silent" Alarm Mystery: Official Chaos & The 2-Year Penalty for 168 Lives](#-e-gov-alarm-2025-12-03-01-the-silent-alarm-mystery-official-chaos--the-2-year-penalty-for-168-lives)  
+104. [[E-GOV-NETS-2025-12-03-02] The "Total Demolition" Order: An Admission of Systemic Collapse](#-e-gov-nets-2025-12-03-02-the-total-demolition-order-an-admission-of-systemic-collapse)  
+105. [[E-GOV-WINDOWS-2025-12-11-01] The Bureaucratic Maze: "Not My Department" While People Died](#-e-gov-windows-2025-12-11-01-the-bureaucratic-maze-not-my-department-while-people-died)  
+106. [[E-ENFORCE-2025-04-15-01] The Evidence Magicians: "No File" Before the Fire, 11 Arrests After the Bodies Piled Up](#-e-enforce-2025-04-15-01-the-evidence-magicians-no-file-before-the-fire-11-arrests-after-the-bodies-piled-up)  
+107. [[E-ENFORCE-NETS-2025-12-01-01] The "Sloppy" Admission](#-e-enforce-nets-2025-12-01-01-the-sloppy-admission)  
+108. [[E-ENFORCE-NETS-2025-12-01-02] The 95% vs 35% Paradox: A Statistical Miracle?](#-e-enforce-nets-2025-12-01-02-the-95-vs-35-paradox-a-statistical-miracle)  
+109. [[E-ENFORCE-NETS-2025-12-03-01] The Passive Police: Media did the Police's Job](#-e-enforce-nets-2025-12-03-01-the-passive-police-media-did-the-polices-job)  
+110. [[E-MEDIA-2025-11-27-01] The "Stenography Journalism" & The Missed Scam](#-e-media-2025-11-27-01-the-stenography-journalism--the-missed-scam)  
+111. [[E-MEDIA-2025-11-30-01] The Vanishing Truth: Why State Media Deleted Its Own Scoop on the Cartel](#-e-media-2025-11-30-01-the-vanishing-truth-why-state-media-deleted-its-own-scoop-on-the-cartel)  
 
 ---
 
@@ -4459,6 +4460,72 @@ Investigation reveals that **ALL 7** of Will Power's "favorite" contractors (inc
     *   [Oct 2016 - Sep 2018](https://www.labour.gov.hk/tc/osh/pdf/Conviction_record_Q4_2016_to_Q3_2018_tc.pdf) | [Backup](職安健定罪紀錄%20Oct%202016%20-%20Sep%202018.pdf)
     *   [Jul 2019 - Jun 2021](https://www.labour.gov.hk/tc/osh/pdf/Conviction_record_tc.pdf) | [Backup](職安健定罪紀錄%20Jul%202019%20-%20Jun%202021.pdf)
     *   [Oct 2023 - Sep 2025](https://www.labour.gov.hk/common/osh/pdf/Conviction_record_tc.pdf) | [Backup](職安健定罪紀錄%20Oct%202023%20-%20Sep%202025.pdf)
+
+---
+
+### 🆔 [E-CARTEL-WILLPOWER-2023-11-29-02] The Moving Goalposts: How "Litigation" was Redefined to rig the Score
+
+**🚨 Significance:**
+
+Investigative reporting confirms that the "Background Check" process conducted by the Consultant (**Will Power/鴻毅**) was entirely arbitrary and opaque. Contractors revealed they never submitted litigation records and were unaware of the scoring criteria. Will Power shifted the definition of "Litigation" between projects to manipulate scores, while hiding behind an anonymous "Legal Advisor" to evade liability.
+
+**1. The "Definition" Shift:**
+*   **Wang Fuk:** Will Power counted **Labour Department convictions** as "Litigation," giving firms like **San Hoi Ming (新開明)** (39 records in the report) a score of **0**.
+*   **On Kay:** Two months later, Will Power *ignored* the same convictions, giving San Hoi Ming a score of **5 (Full Marks)**.
+*   *The Excuse:* Contractors like **Big Success Construction (浩成建築工程)** admitted: *"If they don't specify Labour Department convictions, we only submit civil litigation records."*
+*   *The Verdict:* Will Power exploited this ambiguity. They used strict criteria to disqualify competitors at Wang Fuk, then switched to loose criteria to promote their allies at On Kay.
+
+**2. The "Anonymous" Source:**
+Will Power claimed the litigation data was provided by a **"Legal Advisor"**, but refused to name them.
+*   *The Black Box:* Contractors confirmed they didn't provide the data. This means Will Power (or their mystery advisor) generated the data internally. By citing an unnamed third party, Will Power created a **"Liability Firewall"**—if the data is fake, they can blame the "Advisor."
+
+**3. The Unchecked Power:**
+Activist Chiu Yan-loy highlights that contractors have no way to know if their score is accurate because the report is confidential to the MC.
+*   *The Result:* Will Power acted as Judge, Jury, and Executioner. They could invent 39 lawsuits for one firm and delete them for another, with zero transparency or appeal mechanism.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Contractor's Admission**  
+> *Source: HK01 / 2026-01-15*
+>
+> "浩成建築...董事...指... 如果沒有寫要查勞工署定罪紀錄，我們只會交法律訴訟的紀錄。"
+>
+> *Translation:*
+> "Big Success Director... stated... 'If they don't specify checking Labour Dept convictions, we only submit civil litigation records.'"
+
+> **Evidence [B]: The "No Submission" Reality**  
+> *Source: HK01 / 2026-01-15*
+>
+> "新開明...負責人...指投標時無被要求，亦**無提供過**八年訴訟紀錄。"
+>
+> *Translation:*
+> "San Hoi Ming... person in charge... stated they were not asked and **never submitted** the 8-year litigation record."
+
+> **Evidence [C]: The "Mystery Advisor"**  
+> *Source: HK01 / 2026-01-15*
+>
+> "兩份報告都沒有提及「法律顧問」是誰。......全港業主反貪腐反圍標大聯盟發起人趙恩來認為...... 顧問亦有機會可以撇清責任，歸究提供資料的外部公司。"
+>
+> *Translation:*
+> "Neither report named the 'Legal Advisor'... Chiu Yan-loi says... The Consultant can shift blame to the external company providing the data."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**  
+"We engaged a professional third-party service provider to conduct background checks to ensure independence. Discrepancies in data may arise from different search parameters or database updates. We applied the criteria consistently based on the data provided to us. We cannot disclose the service provider due to commercial confidentiality."
+
+**The Logical Trap:**  
+1.  **Consistency Failure:** Using different parameters (Strict vs. Loose) for the *same* criteria ("Past 8 Years Litigation") across two projects is the definition of **Inconsistency**. A professional consultant uses a standard methodology. Changing the methodology to change the result is manipulation.
+2.  **The "Confidentiality" Shield:** Hiding the identity of the "Legal Advisor" prevents verification of whether this advisor even exists. Given the fake certificates and fake foam brands, it is highly probable the "Legal Advisor" is as fictional as ["TAPEER"](#-e-safety-foam-2024-09-16-01-the-tapeer-fraud-counterfeit-brands--rigged-safety-demos).
+3.  **Duty to Verify:** If a simple search returns "0 Litigation" for a company with numerous known cases, a competent consultant would flag the error. Accepting a "Clean Sheet" for a known offender without question proves **Willful Blindness**.
+
+**📅 Timeline:**
+*   **2023-08-31:** Wang Fuk Report (Strict Criteria -> 0 Score).
+*   **2023-11-29:** On Kay Report (Loose Criteria -> 5 Score).
+*   **2026-01-15:** Media exposes the discrepancy and the "Mystery Advisor."
+
+**🔗 Links:**
+*   [HK01 Investigation](https://www.hk01.com/01偵查/60302812)
 
 ---
 
