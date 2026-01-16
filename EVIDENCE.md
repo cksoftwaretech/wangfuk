@@ -6556,16 +6556,19 @@ Fu Shin Estate (Sky Arashi project) and Wang Fuk Court (Will Power project) are 
 
 **🚨 Significance:**
 
-The Consultant **Sky Arashi (天嵐建築及測量顧問有限公司)**, which serves as the crucial link between the Cartel's **Ho Wai-keung (何偉強)** and **Steve Wong Chung-kee (黃忠基)**, is caught in a web of lies regarding Wong's status. While Sky Arashi now claims Wong was merely a "friend" or "unpaid consultant," tender documents obtained by residents prove that Sky Arashi explicitly listed Wong as one of its two **Authorized Persons (AP)** to win the Fu Shin Estate contract.
+The Consultant **Sky Arashi (天嵐建築及測量顧問有限公司)** is caught in a web of lies regarding its relationship with **Steve Wong Chung-kee (黃忠基)**, the Authorized Signatory (AP) for Prestige arrested for manslaughter. While Sky Arashi now claims Wong was merely a "friend" or "unpaid consultant," tender documents obtained by residents prove that Sky Arashi explicitly listed Wong as one of its two **Authorized Persons (AP)** to win the Fu Shin Estate contract.
 
 **1. The Tender Fraud:**
-*   **The Pitch:** In its presentation to Fu Shin Estate owners, Sky Arashi's slide stated: "**Authorized Persons: 2 persons**" and listed "**Mr. Wong Chung-kee (Registered Surveyor AP(S)69/89)**" alongside Ho Wai-keung.
+*   **The Pitch:** In its presentation to Fu Shin Estate owners, Sky Arashi's slide stated: "**Authorized Persons: 2 persons**" and listed "**Mr. Wong Chung-kee (Registered Surveyor AP(S)69/89)**".
 *   **The Denial:** Post-fire, Sky Arashi Director **Lam Chi-chiu (林志超)** claimed Wong was never an AP, blaming the estate management for "copy-pasting the name by mistake."
 *   *The Verdict:* This is a lie. The slide (visual evidence) was Sky Arashi's own marketing material. If Wong was not their AP, Sky Arashi committed **Fraud** by inflating their credentials to win the HK$820k contract. If he *was* their AP, Lam is now lying to cover up the link to a manslaughter suspect.
 
 **2. The "Friend" Defense:**
 Lam claimed he consulted Wong as a "friend" without pay.
 *   *The Implication:* A professional consultancy relying on "unpaid friends" for technical advice is a red flag for incompetence. Moreover, professionals do not lend their names and license numbers to be printed on tender slides as "AP" just for "friendship." The use of Wong's license number implies a formal, likely financial, arrangement.
+
+**3. The Proven Nexus:**
+Regardless of the dispute over other personnel, the visual evidence confirms that **Steve Wong Chung-kee**—the key figure in the Prestige scandal—was marketed as a core team member of Sky Arashi. This establishes a direct personnel link between the Prestige network and Sky Arashi's operations in Tai Po.
 
 **📜 Original Record:**
 
@@ -6583,7 +6586,7 @@ Lam claimed he consulted Wong as a "friend" without pay.
 > "天嵐書面解釋...稱天嵐在公司簡介時說明黃忠基是「測量諮詢顧問」，而**黃並非公司的認可人士**... 林志超強調... 認為是有人抄寫... 時... 誤將黃忠基資料寫落去"
 >
 > *Translation:*
-> "Sky Arashi claimed Wong was 'Surveying Consultant' and **not the company's AP**... Lam Chi-chiu...  blamed [property management company] for copying errors... mistakenly listing Wong."
+> "Sky Arashi claimed Wong was 'Surveying Consultant' and **not the company's AP**... Lam Chi-chiu... blamed [property management company] for copying errors... mistakenly listing Wong."
 
 > **Evidence [C]: The "Friend" Claim**
 > *Source: Yahoo News / 2025-12-13*
@@ -6609,11 +6612,12 @@ Lam claimed he consulted Wong as a "friend" without pay.
 *   **Context:** Theft Ordinance (Fraud).
 
 **📅 Timeline:**
-*   **Before/On 2025-8-30:** Sky Arashi presents tender to Fu Shin Estate, listing Wong & Ho as APs — [source](https://www.facebook.com/share/p/1C3f9aSkDy/)
+*   **Before/On 2025-8-30:** Sky Arashi presents tender to Fu Shin Estate, listing Wong as AP — [source](https://www.facebook.com/share/p/1C3f9aSkDy/)
 *   **2025-11-26:** Wang Fuk Fire.
 *   **2025-11-27:** Wong arrested — [report](https://news.mingpao.com/pns/要聞/article/20251212/s00001/1765475826213)
 *   **2025-11-28:** Wong fired by HD contractor — [report](https://www.inmediahk.net/node/政經/【宏福苑五級火】宏業被捕授權簽署人同為政府合約測量師-大火後即炒-房署不答潛在利益衝突)
 *   **2025-12-13:** Sky Arashi denies Wong was AP; claims "copying error."
+*   **2026-01-05:** Sky Arashi issues statement denying Ho Wai-keung link.
 
 **🔗 Links:**
 *   [Yahoo News Report](https://hk.news.yahoo.com/share/3bd28dcc-d6cc-4d0a-a172-a9a6eda797cf)
