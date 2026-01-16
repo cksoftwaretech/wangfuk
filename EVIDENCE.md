@@ -15,7 +15,7 @@
 13. [[E-CARTEL-2018-06-30-01] The "Whistleblower Trap": Why Only the Snitch Went to Jail](#-e-cartel-2018-06-30-01-the-whistleblower-trap-why-only-the-snitch-went-to-jail)  
 14. [[E-CARTEL-WILLPOWER-2018-09-26-01] The "14% Price" Entry Ticket: Buying the Right to Rig the Game](#-e-cartel-willpower-2018-09-26-01-the-14-price-entry-ticket-buying-the-right-to-rig-the-game)  
 15. [[E-CARTEL-WILLPOWER-2020-01-17-01] The "97% Discount": Why a HK$300k Fee for a HK$330M Job Proves Corruption](#-e-cartel-willpower-2020-01-17-01-the-97-discount-why-a-hk300k-fee-for-a-hk330m-job-proves-corruption)  
-16. [[E-CARTEL-WILLPOWER-2020-01-20-02] The Race to the Bottom: Why 9 Bidders Cheaper than Will Power Might Be Even Worse](#-e-cartel-willpower-2020-01-20-02-the-race-to-the-bottom-why-9-bidders-cheaper-than-will-power-might-be-even-worse)  
+16. [[E-CARTEL-WILLPOWER-2020-01-17-02] The Race to the Bottom: Why 9 Bidders Cheaper than Will Power Might Be Even Worse](#-e-cartel-willpower-2020-01-17-02-the-race-to-the-bottom-why-9-bidders-cheaper-than-will-power-might-be-even-worse)  
 17. [[E-ADMIN-2021-03-02-01] The "Election Agents": Why the MC Campaigned for the Management Company](#-e-admin-2021-03-02-01-the-election-agents-why-the-mc-campaigned-for-the-management-company)  
 18. [[E-ADMIN-2021-03-06-01] The "3-Month" Loop: How the MC Renewed the Management Contract 21 months Without Owners' Approval](#-e-admin-2021-03-06-01-the-3-month-loop-how-the-mc-renewed-the-management-contract-21-months-without-owners-approval)  
 19. [[E-ADMIN-2021-03-15-01] The "Silenced" Secretary: How the MC Rewrote the History of a Riot](#-e-admin-2021-03-15-01-the-silenced-secretary-how-the-mc-rewrote-the-history-of-a-riot)  
@@ -1287,7 +1287,7 @@ Combining the Inspection Fee ($220k) and the Supervision Fee ($308k), Will Power
 *   *The Absurdity:* This averages to **HK$6,439 per month** for a team of professionals managing 8 towers (HK$805 per month per tower). This is below the minimum wage for a single unskilled worker. It proves their revenue model relied entirely on illicit kickbacks from the main contract.
 
 **3. The "Usual Suspects":**  
-The 2019 tender list included **Paul Kong** (江明), **A Ferrari** (快利達), and **HK International** (香港國際). These are the same firms flagged for corruption, abandonment, and incompetence in the [2020 tender](#-e-cartel-willpower-2020-01-20-02-the-race-to-the-bottom-why-9-bidders-cheaper-than-will-power-might-be-even-worse). The cast of characters remained constant, simulating competition for years.
+The 2019 tender list included **Paul Kong** (江明), **A Ferrari** (快利達), and **HK International** (香港國際). These are the same firms flagged for corruption, abandonment, and incompetence in the [2020 tender](#-e-cartel-willpower-2020-01-17-02-the-race-to-the-bottom-why-9-bidders-cheaper-than-will-power-might-be-even-worse). The cast of characters remained constant, simulating competition for years.
 
 **4. The Regulator's Silence:**
 When the Management Company asked the **Urban Renewal Authority (URA)** for price guidance, the URA representative refused to comment to "avoid interference." This hands-off approach allowed a clearly predatory bid to pass without official challenge.
@@ -1514,7 +1514,7 @@ When questioned by media about the unreasonably low fee, both the former Chairma
 
 ---
 
-### 🆔 [E-CARTEL-WILLPOWER-2020-01-20-02] The Race to the Bottom: Why 9 Bidders Cheaper than Will Power Might Be Even Worse
+### 🆔 [E-CARTEL-WILLPOWER-2020-01-17-02] The Race to the Bottom: Why 9 Bidders Cheaper than Will Power Might Be Even Worse
 
 **🚨 Significance:**
 
@@ -1589,7 +1589,8 @@ Owners likely avoided the cheapest options (like Paul Kong) thinking they were "
 
 **📅 Timeline:**
 *   **Feb 2016:** Paul Kong / Lee Cheong scandal (Abandoned projects) — [source](https://www.facebook.com/share/p/1BseYKhmGA/)
-*   **2020-01-20:** Wang Fuk Tender. 35 bids received — [source](https://www.facebook.com/share/p/1ASPMmAqdt/)
+*   **2020-01-17:** Wang Fuk Tender deadline for Consultant — [ref](MINUTES_MARKDOWN.md#2019-12-27-%E7%AC%AC%E5%8D%81%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E5%8D%81%E5%85%AD%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   **2020-01-20:** 35 bids received — [source](https://www.facebook.com/share/p/1ASPMmAqdt/)
 *   **2021-12-11:** Will Power wins — [minutes](http://www.wangfuk.org/html/meeting/03/特別業主大會會議紀錄.pdf)
 *   **2025-10-28:** HK International charged by ICAC — [report](https://www.inmediahk.net/node/政經/23人涉屋苑維修工程項目賄賂-擬不認罪-分5案於2026至2028年開審)
 *   **2025-12-02:** A Ferrari admits failing to check fake certs — [report](https://news.mingpao.com/pns/要聞/article/20251203/s00001/1764698800721)
