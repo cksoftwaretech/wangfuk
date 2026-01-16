@@ -2702,7 +2702,7 @@ To secure the win, Leung systematically removed checks and balances:
 
 **📜 Original Record:**
 
-> **Evidence [A]: The WhatsApp Leak (The Code)**
+> **Evidence [A]: The WhatsApp Leak (The Code)**  
 > *Source: Jason Poon Post (Leaked Screenshots) / 2025-12-03*
 >
 > "Tony: @SW Pauline Leung 今次有冇中央填票組"
@@ -2718,7 +2718,7 @@ To secure the win, Leung systematically removed checks and balances:
 > "Kenneth: 3 Main Contractor 17 **X2**"
 > "... 3 Main Contractor 17 **X5**"
 
-> **Evidence [B]: The "FULAM or Bust" Strategy**
+> **Evidence [B]: The "FULAM or Bust" Strategy**  
 > *Source: Jason Poon Post (Leaked Screenshots)*
 >
 > "各位：兩手準備，因有居民話投 2 方案... 如果結果 2，**我都揀 17**"
