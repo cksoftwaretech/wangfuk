@@ -6567,9 +6567,6 @@ The Consultant **Sky Arashi (天嵐建築及測量顧問有限公司)**, which s
 Lam claimed he consulted Wong as a "friend" without pay.
 *   *The Implication:* A professional consultancy relying on "unpaid friends" for technical advice is a red flag for incompetence. Moreover, professionals do not lend their names and license numbers to be printed on tender slides as "AP" just for "friendship." The use of Wong's license number implies a formal, likely financial, arrangement.
 
-**3. The Confirmation of the Nexus:**
-Regardless of whether the AP title was real or fake, the slide confirms that **Ho Wai-keung** (Will Power Co-founder) and **Wong Chung-kee** (Prestige AP) were presented as a **Team** by Sky Arashi. This visual evidence solidifies the [missing link](#-e-cartel-prestige-2025-08-30-01-the-handshake-in-the-shadows-how-will-power-and-prestige-are-connected-via-sky-arashi): the Consultant and the Contractor of Wang Fuk Court were not strangers; they were partners in the same syndicate operating next door.
-
 **📜 Original Record:**
 
 > **Evidence [A]: The Tender Slide (Visual Proof)**
