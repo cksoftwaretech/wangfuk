@@ -6617,7 +6617,6 @@ Regardless of the dispute over other personnel, the visual evidence confirms tha
 *   **2025-11-27:** Wong arrested — [report](https://news.mingpao.com/pns/要聞/article/20251212/s00001/1765475826213)
 *   **2025-11-28:** Wong fired by HD contractor — [report](https://www.inmediahk.net/node/政經/【宏福苑五級火】宏業被捕授權簽署人同為政府合約測量師-大火後即炒-房署不答潛在利益衝突)
 *   **2025-12-13:** Sky Arashi denies Wong was AP; claims "copying error."
-*   **2026-01-05:** Sky Arashi issues statement denying Ho Wai-keung link.
 
 **🔗 Links:**
 *   [Yahoo News Report](https://hk.news.yahoo.com/share/3bd28dcc-d6cc-4d0a-a172-a9a6eda797cf)
