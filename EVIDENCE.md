@@ -6649,7 +6649,7 @@ Comparing only the **"Supervision Consultant Fee"** (excluding inspection) revea
 **2. The "HK$10,000" Handshake (Total Value):**
 At Fu Shin Estate, **Will Power (鴻毅)** bid a Total of **HK$830,000**, while **Sky Arashi (天嵐)** bid **HK$820,000**.
 *   *The Margin:* The difference was a mere **HK$10,000 (1.2%)**.
-*   *The Context:* Given that **Sky Arashi (天嵐)** employs **Steve Wong Chung-kee (黃忠基)**—the Authorized Signatory for **Prestige (宏業)**—as a consultant (and marketed him as an AP), a direct link exists between the Wang Fuk contractor and the Fu Shin consultant. This razor-thin margin between Will Power and Sky Arashi suggests **Price Coordination** to ensure Sky Arashi won Fu Shin while Will Power held Wang Fuk — seemingly a classic **Market Allocation** scheme.
+*   *The Context:* Given that **Sky Arashi (天嵐)** employs **Steve Wong Chung-kee (黃忠基)**—the Authorized Signatory for **Prestige (宏業)**—as a consultant (and [marketed him as an AP](#-e-cartel-prestige-2025-08-30-02-the-schr%C3%B6dingers-ap-how-sky-arashi-faked-its-credentials-to-win-contracts)), a [direct link](#-e-cartel-prestige-2025-08-30-01-the-handshake-in-the-shadows-how-will-power-and-prestige-are-connected-via-sky-arashi) exists between the Wang Fuk contractor and the Fu Shin consultant. This razor-thin margin between Will Power and Sky Arashi suggests **Price Coordination** to ensure Sky Arashi won Fu Shin while Will Power held Wang Fuk — seemingly a classic **Market Allocation** scheme.
 
 **3. The Network Expansion:**
 The Fu Shin tender included other known Cartel affiliates [identified in Journalist W's report](#-e-cartel-willpower-2016-12-31-01-the-bid-rigging-factory-20-companies-10-units-one-industrial-building):
