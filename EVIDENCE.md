@@ -6458,20 +6458,20 @@ Residents were forced to live in sealed, air-conditioner-less units (due to remo
 A breakthrough in mapping the human network reveals the direct link between the Consultant (**Will Power/鴻毅**) and the Contractor (**Prestige/宏業**), shattering the illusion of their independence. The connection runs through a third consultancy firm, **Sky Arashi Architects & Surveyors Consulting Co. Ltd. (天嵐建築及測量顧問有限公司)**, operating at the neighboring Fu Shin Estate (富善邨).
 
 **1. The "Sky Arashi" Hub:**
-*   **Ho Wai-keung (何偉強):** Co-founder of **Will Power** (2006). Currently serves as the Registered Inspector (RI) for Sky Arashi at Fu Shin Estate.
-*   **Steve Wong Chung-kee (黃忠基):** Authorized Signatory (AP) for **Prestige**. Described as a "Consultant" for Sky Arashi. Once listed as Sky Arashi's Authorized Person. 
-*   *The Nexus:* Ho (Will Power founder) and Wong (Prestige executive) are **colleagues** at Sky Arashi.
+*   **Ho Wai-keung (何偉強):** Co-founder of **Will Power** (2006). A person with the exact same name currently serves as the Registered Inspector (RI) for Sky Arashi at Fu Shin Estate (Sky Arashi denies they are the same person).
+*   **Steve Wong Chung-kee (黃忠基):** Authorized Signatory (AP) for **Prestige**. Described as a "Consultant" for Sky Arashi and visually listed as Sky Arashi's Authorized Person in tender documents.
+*   *The Nexus:* Regardless of the "Ho" dispute, **Steve Wong** sits at the intersection. He is the AP of the Wang Fuk Contractor while working as a senior figure at the neighboring Sky Arashi.
 
 **2. The Conflict of Interest:**
 In Wang Fuk Court, Will Power was responsible for supervising Prestige (Wong's firm).
-*   *The Implication:* A Consultant cannot impartially supervise a Contractor when their key personnel are working together in another company down the street. This professional intimacy explains the [**"90 Marks"**](#-e-cartel-willpower-2023-10-16-01-the-schizophrenic-scorecard-why-the-criticized-beat-the-praised) and the [**"Styrofoam Approval"**](#-e-safety-foam-2024-07-19-01-the-sop-death-trap-use-of-flammable-foam). It was not supervision; it was collaboration.
+*   *The Implication:* A Consultant cannot impartially supervise a Contractor when key personnel are interconnected in the same district. This professional intimacy explains the [**"90 Marks"**](#-e-cartel-willpower-2023-10-16-01-the-schizophrenic-scorecard-why-the-criticized-beat-the-praised) and the [**"Styrofoam Approval"**](#-e-safety-foam-2024-07-19-01-the-sop-death-trap-use-of-flammable-foam). It was not supervision; it was collaboration.
 
 **3. The Geographic Cluster:**
-Fu Shin Estate (Sky Arashi project) and Wang Fuk Court (Will Power project) are adjacent in Tai Po. This geographic proximity, combined with the personnel overlap, suggests a **Territorial Monopoly** where the same group of individuals controls multiple large-scale renovation projects under different corporate banners.
+Fu Shin Estate (Sky Arashi project) and Wang Fuk Court (Will Power project) are adjacent in Tai Po. This geographic proximity, combined with the personnel overlap (Wong), suggests a **Territorial Monopoly** where the same group of individuals controls multiple large-scale renovation projects under different corporate banners.
 
 **📜 Original Record:**
 
-> **Evidence [A]: The Finding**  
+> **Evidence [A]: The Allegation**  
 > *Source: Chiu Yan-loy Post / 2026-01-02*
 >
 > "社會各界蜂擁追查涉事工程顧問「鴻毅建築師」與承建商「宏業建築」有何關連的線索... 答案就在與宏福苑一河之隔的「富善邨」！
@@ -6480,7 +6480,7 @@ Fu Shin Estate (Sky Arashi project) and Wang Fuk Court (Will Power project) are 
 > *Translation:*
 > "Public probes into ties between Will Power and Prestige point to Fu Shan Estate a river across from Wang Fuk Court. Fu Shan hired Sky Arashi for HK$820,000 for major repairs. An owner found Sky Arashi's RI Wong Chung‑kee is also an authorised signatory for Prestige... Sky Arashi clarified the project is led by RI Ho Wai‑keung... who... co‑founded Will Power in 2006 and now works with Wong at Sky Arashi. Coincidence?"
 
-> **Evidence [B]: The "Sky Arashi" Connection**  
+> **Evidence [B]: The Connection**  
 > *Source: Yahoo News / 2025-12-13*
 >
 > "有富善邨居民表示，早前向法團申請一份「富善邨強制驗樓的招標資料冊」時... 見到天嵐的認可人士和註冊人員標記「何偉強/黃忠基」"
@@ -6506,7 +6506,7 @@ Fu Shin Estate (Sky Arashi project) and Wang Fuk Court (Will Power project) are 
 > Authorised Person: Mr. Ho Wai Keung... Registered no.: AP(A)8/98
 > Authorised Person: Mr. Steve Wong Chung-kee... Registered no.: AP(S)69/89"
 
-> **Evidence [D]: The "Founder" Proof**  
+> **Evidence [D]: The "Founder"**  
 > *Source: Journalist W's Report / 2025-12-26*
 >
 > "沈鉅忠是鴻毅創辦人之一，2006年與**何偉強**及陳嘉文成立公司。"
@@ -6522,15 +6522,23 @@ Fu Shin Estate (Sky Arashi project) and Wang Fuk Court (Will Power project) are 
 > *Translation:*
 > "Prestige... Professional staff: AS=Steve Wong Chung-kee"
 
+> **Evidence [F]: The Denial**  
+> *Source: Sky Arashi Statement / 2026-01-05*
+>
+> "趙恩來... 提及鴻毅建築師有限公司的何偉強先生其實並不是本公司的何偉強先生。只不過是**同名同姓**... 要求... 刪除有關貼文及公開道歉"
+>
+> *Translation:*
+> "Chiu Yan-loy... mentioned Will Power's Ho Wai-keung is actually not our company's Ho Wai-keung. Merely **same name same surname**... demand... delete posts and apologize."
+
 **🛡️ Pre-emptive Rebuttal:**
 
 **Anticipated Defense:**  
-"Ho Wai-keung left Will Power years ago / operates independently. His role at Sky Arashi is separate from Will Power's role at Wang Fuk. Wong Chung-kee was only a freelance consultant for Sky Arashi and had no decision-making power. The fact that professionals know each other or work in the same industry does not prove conspiracy."
+"Ho Wai-keung of Sky Arashi is a different person from the Will Power co-founder; it is a common name. Wong Chung-kee was only a freelance consultant for Sky Arashi and had no decision-making power. The fact that professionals know each other or work in the same industry does not prove conspiracy. Alleging a link based on a common name is defamation."
 
 **The Logical Trap:**
-1.  **The "Founder" Legacy:** Even if Ho left Will Power (which is unverified), being a *founder* implies deep ties with the current management. In a cartel structure, "Ex-Founders" often act as bridges.
-2.  **The "Freelance" Shield:** Claiming Wong was just a "freelance consultant" minimizes his role. Why would Sky Arashi list a "freelancer" on their org chart unless his name/qualification brought value? And why would Ho (RI) work alongside the AP of the very contractor his "former" firm is supervising? The degrees of separation are too few for comfort.
-3.  **The Occam's Razor:** Which is more likely? That two founders/executives of the specific firms involved in a HK$330M scandal just *happen* to be working together at the next estate by coincidence? Or that they are part of a coordinated network allocating projects among themselves? The **probability of coincidence** is vanishingly small.
+1.  **The "Wong" Constant:** Even if we accept the "Two Hos" defense, **Steve Wong** is undeniably the same person. He is the AP of Prestige (the Wang Fuk Contractor) and a consultant/AP figure for Sky Arashi (the Neighboring Consultant). His simultaneous presence in both camps establishes a direct channel for influence and information exchange.
+2.  **The "Freelance" Shield:** Claiming Wong was just a "freelance consultant" minimizes his role. Why would Sky Arashi list a "freelancer" on their org chart unless his name/qualification brought value? The degrees of separation between the "Wang Fuk Disaster" team and the "Fu Shin Team" are too few for comfort.
+3.  **The Probability of Coincidence:** Is it probable that a firm (Sky Arashi) operating next door to a cartel project (Wang Fuk) employs a senior figure from the cartel's contractor (Wong), and *also* happens to employ an RI with the *exact same name* as the cartel consultant's founder, purely by chance? While possible, the pattern suggests a tight-knit ecosystem of operatives.
 
 **¶ Statutory Basis:**
 
@@ -6539,9 +6547,10 @@ Fu Shin Estate (Sky Arashi project) and Wang Fuk Court (Will Power project) are 
 **📅 Timeline:**
 *   **2006-01-11:** Ho co-founds Will Power — [source](https://www.facebook.com/share/p/1GJkY1LLqN/) | [ref](https://www.ltddir.com/companies/will-power-architects-company-limited/)
 *   **2023-07-04:** Wong (Prestige AP) bids for Wang Fuk; Will Power evaluates — [ref](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf)
-*   **? - 2025:** Ho and Wong work together in Sky Arashi — [report](https://hk.news.yahoo.com/share/3bd28dcc-d6cc-4d0a-a172-a9a6eda797cf)
+*   **? - 2025:** Wong works in Sky Arashi — [report](https://hk.news.yahoo.com/share/3bd28dcc-d6cc-4d0a-a172-a9a6eda797cf)
 *   **2025-08-30:** Sky Arashi wins tender and operates at Fu Shin Estate — [source](https://www.facebook.com/share/p/1G9Z6XVMqv/)
-*   **2026-01-02:** Connection exposed — [source](https://www.facebook.com/share/p/1SaDRWdgro/)
+*   **2026-01-02:** Connection through Ho alleged — [source](https://www.facebook.com/share/p/1SaDRWdgro/)
+*   **2026-01-05:** Sky Arashi denies "Ho" link — [source](https://www.facebook.com/share/p/1726BttfUZ/)
 
 **🔗 Links:**
 *   [Chiu Yan-loy Post](https://www.facebook.com/share/p/1SaDRWdgro/)
@@ -6549,6 +6558,7 @@ Fu Shin Estate (Sky Arashi project) and Wang Fuk Court (Will Power project) are 
 *   [Journalist W's Report](https://www.facebook.com/share/p/1GJkY1LLqN/)
 *   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf) | [Backup](強制驗樓驗窗計劃%2011.%20樓宇復修工程資料簡報小冊子.pdf)
 *   [Resident Post (Sky Arashi presenting Wong as AP)](https://www.facebook.com/share/p/1BMiwYSADQ/)
+*   [Sky Arashi Statement](https://www.facebook.com/share/p/1726BttfUZ/)
 
 ---
 
