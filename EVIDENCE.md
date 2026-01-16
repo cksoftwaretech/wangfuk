@@ -215,7 +215,7 @@ The turning point was the arrest of Alliance leaders like **Lam Cheuk-ting** (20
 > "Created a 'Fat Meat' (Cash Cow) of HK$100 billion... staged many fights... even barricading ballot boxes."
 
 > **Evidence [C]: The Awakening (Grandway Garden)**  
-> *Source: Chiu Yan-loy FB / 2016-06-11*
+> *Source: Chiu Yan-loy Article / 2016-06-11*
 >
 > "大圍富嘉花園... 事件促成「反圍標大聯盟」成立... 共同爭取政府修例..."
 >
@@ -1420,7 +1420,7 @@ When questioned by media about the unreasonably low fee, both the former Chairma
 > "A reporter called...former chairman Tang Kwok‑kwan to ask whether Will Power’s fee was too low; Tang did not respond and a woman took the call...saying...it's not appropriate to say much...then hung up. The reporter asked current chairman Tsui Moon‑kam whether the fee was reasonable; Tsui said the police recently inquired him and he is not available for interview."
 
 > **Evidence [F]: The 35 Bidders**  
-> *Source: Herman Yiu's FB post / 2020-01-23*  
+> *Source: Herman Yiu's Picture / 2020-01-23*  
 >  
 > "開標日期：2020-01-20 下午五時" (Time: 2020-01-20 17:00)
 >  
@@ -1509,7 +1509,7 @@ When questioned by media about the unreasonably low fee, both the former Chairma
 *   [Yahoo News Report](https://hk.news.yahoo.com/share/3119434a-75b5-41c1-81ce-55682068dfb6)
 *   [FactWire Report](https://www.factwire.org/investigation/傳真社製首個樓宇維修公開資料庫-數據分析顯示市/)
 *   [The Collective Video Report](https://thecollectivehk.com/影像紀錄宏福苑圍標之禍/)
-*   [Herman Yiu's Post (The Bidders)](https://www.facebook.com/share/p/1ASPMmAqdt/)
+*   [Herman Yiu's Picture (The Bidders)](https://www.facebook.com/share/p/1ASPMmAqdt/)
 *   [Now News Video Report](https://www.youtube.com/watch?v=vjhZFWSBBrg)
 
 ---
@@ -1539,7 +1539,7 @@ Owners likely avoided the cheapest options (like Paul Kong) thinking they were "
 **📜 Original Record:**
 
 > **Evidence [A]: The Ultra-Low Bids**  
-> *Source: Wang Fuk Tender Record via Herman Yiu's FB post / 2020-01-23**
+> *Source: Wang Fuk Tender Record via Herman Yiu's Picture / 2020-01-23**
 >
 > "快利達... HK$280,000... 香港國際... HK$240,000... 江明... **HK$78,750**"
 
@@ -1560,7 +1560,7 @@ Owners likely avoided the cheapest options (like Paul Kong) thinking they were "
 > "HK International Director... Chan Yuen-ching... charged with '**Conspiracy to offer advantage to agent**'... offering HK$600,000..."
 
 > **Evidence [D]: Lee Cheong's Abandoned Project**  
-> *Source: Chan Yiu-cho FB / 2025-12-12*
+> *Source: Chan Yiu-cho Post / 2025-12-12*
 >
 > "當年負責嘅顧問公司係「江明」... 利昌老闆就係江明老闆... 在雅閣花園維修工程中**爛尾**..."
 >
@@ -1568,7 +1568,7 @@ Owners likely avoided the cheapest options (like Paul Kong) thinking they were "
 > "Consultant was 'Paul Kong'... owner also owned Lee Cheong　Construction... which **abandoned** the Arcadia project..."
 
 > **Evidence [E]: Paul Kong's Terminated Project**  
-> *Source: Fu Ning Garden Concern Group March 2016 Newsletter via Chan Yiu-cho FB / 2025-12-12* 
+> *Source: Fu Ning Garden Concern Group March 2016 Newsletter via Chan Yiu-cho / 2025-12-12* 
 >  
 > "2013年10月：業主大會通過以$350,000聘用「江明工程顧問有限公司」為大維修工程顧問，原定於2014年中開始工程招標。" 
 > "2016年2月：法團突然動議終止「江明」的顧問合約"  
@@ -1624,7 +1624,7 @@ The MC pushed for ISS despite a proven safety failure.
 **📜 Original Record:**
 
 > **Evidence [A]: The Door-to-Door Harvesting**   
-> *Source: Resident FB Post / 2021-03-02*
+> *Source: Resident Testimony / 2021-03-02*
 >
 > "宏福苑法團主席、副主席... 已拿取 **250-300張授權票**，逐家逐戶拍門... 收授權書！未投票已經知道必勝...像2017年時一樣，會選置邦興業管理公司"
 >
@@ -2197,7 +2197,7 @@ The survey was drafted by the "Publicity & PR Group," led by Chairman Tang himse
 **📜 Original Record:**
 
 > **Evidence [A]: The Foreknowledge (Tender Opening)**  
-> *Source: Herman Yiu FB Post / 2020-01-23*
+> *Source: Herman Yiu's Picture / 2020-01-23*
 >
 > "開標日期：**2020-01-20**... 12. 鴻毅建築師有限公司 | **308,000**"
 >
@@ -2284,7 +2284,7 @@ Using estate funds, the MC printed a "Special Issue" (宏福特刊) unprecedente
 > "4.5 Members requested... starting two weeks before the meeting, **specially hire additional security guards** to patrol the estate, to prevent residents from being disturbed."
 
 > **Evidence [B]: The "Stranger" Guards**  
-> *Source: Resident FB Post / 2021-09-13*
+> *Source: Resident Testimony / 2021-09-13*
 >
 > "法團最近請咗啲生面口嘅人做保安，街坊問佢哋係乜水做乜坐喺度，佢哋話自己係保安，唔需要向街坊交待工作。名牌上面又冇寫姓名，着件白恤衫黑褲...如果真係保安，點解**坐喺度唔做嘢**業主啲錢咁好呃嗎？"
 >
@@ -2292,7 +2292,7 @@ Using estate funds, the MC printed a "Special Issue" (宏福特刊) unprecedente
 > "The MC recently hired strangers as guards... they said they are guards and don't need to explain their work to residents. No names on badges; in white shirts and black pants... If real guards, why do they just **sit there doing nothing**? Are owners’ funds being misused? "
 
 > **Evidence [C]: The Surveilance**  
-> *Source: Mrs. Li FB Post / 2021-09-19*
+> *Source: Mrs. Li Testimony / 2021-09-19*
 >
 > "法團...特別請了多個保安...實測(質)**監視和影擺街站業主**的相。"
 >
@@ -2336,7 +2336,7 @@ Using estate funds, the MC printed a "Special Issue" (宏福特刊) unprecedente
 > "People with 'ulterior motives' have appeared!? ... Dancing **swindlers** are always appealing; Honest, loyal volunteers are always bullied."
 
 > **Evidence [H]: The Giant Banners**  
-> *Source: Estate Photos (FB Group) / 2021-09-15*
+> *Source: Estate Photos (via FB Group) / 2021-09-15*
 >
 > "[Huge Banner 1]: **抹黑法團 居心叵測**"  
 > "[Huge Banner 2]: **撤換法團 有利業主嗎？**"
@@ -2390,8 +2390,8 @@ Using estate funds, the MC printed a "Special Issue" (宏福特刊) unprecedente
 *   [InMediaHK Report](https://www.inmediahk.net/node/社區/廿年冇轉過管理公司-宏福苑業主不滿「被」否決標書-召開大會望撤換法團)
 *   [Wang Fuk Special Issue](http://www.wangfuk.org/html/comm/02/宏福特刊.pdf)
 *   [MC Banner Photo](https://www.facebook.com/share/p/1B16JRc2Jh/)
-*   [Resident FB Post (Securities)](https://www.facebook.com/share/v/17Cqh1pVk7/)
-*   [Yip Pik-yi Post (Securities)](https://www.facebook.com/share/p/1KpFc4zdyd/)
+*   [Resident Testimony (Securities)](https://www.facebook.com/share/v/17Cqh1pVk7/)
+*   [Yip Pik-yi Testimony (Securities)](https://www.facebook.com/share/p/1KpFc4zdyd/)
 
 ---
 
@@ -2417,7 +2417,7 @@ While the DAB machine harvested votes, the opposition "Concern Group" saw **~50 
 **📜 Original Record:**
 
 > **Evidence [A]: The Proxy Harvest (532 Votes)**  
-> *Source: Herman Yiu FB Post / 2021-12-10*
+> *Source: Herman Yiu Testimony / 2021-12-10*
 >
 > "尋日截止收特別大會嘅授權票後...授權票有成 **532張**... 呢幾日有某前議員義工團隊上門希望授權畀佢哋，甚至經過眼鏡橋嘅時候畀佢哋問「係咪宏福苑居民」"
 >
@@ -2435,7 +2435,7 @@ While the DAB machine harvested votes, the opposition "Concern Group" saw **~50 
 > "Mr Mak, whose name was also allegedly authorised, said Wong earlier visited his 70‑plus mother... had her sign a proxy. Mak called the estate’s proxy collection unfair, noting an elderly woman was asked to sign for a man."
 
 > **Evidence [C]: Another Harvest**  
-> *Source: Peter Chu FB Post / 2021-12-07*  
+> *Source: Peter Chu Testimony / 2021-12-07*  
 >  
 > "今日有人拍我門，話自己係黃碧嬌樂群義工團，叫我呀媽簽授權俾佢，有無搞錯？？點解保安可以放佢地上黎？投訴保安都無用"  
 >  
@@ -2451,7 +2451,7 @@ While the DAB machine harvested votes, the opposition "Concern Group" saw **~50 
 > "11th MC Advisor... **Ms. Peggy Wong Pik-kiu**"
 
 > **Evidence [E]: The Shout**  
-> *Source: Ma Choyin FB Video Post and Comments / 2025-12-14*  
+> *Source: Ma Choyin Video Post and Comments / 2025-12-14*  
 >  
 > **Video excerpt:**  
 > 黃碧嬌大呼：「我點會 [inaudible]...，我點會有決定呀？」  
@@ -2517,9 +2517,9 @@ While the DAB machine harvested votes, the opposition "Concern Group" saw **~50 
 **🔗 Links:**
 *   [Herman Yiu Post](https://www.facebook.com/share/p/181mivh31E/)
 *   [InMediaHK Report](https://www.inmediahk.net/node/社區/宏福苑大會-民建聯黃碧嬌上門攞長者授權：家訪有咩咁奇怪)
-*   [Peter Chu Post (Proxy Harvest)](https://www.facebook.com/share/p/1NeXwmevNb/)
+*   [Peter Chu Testimony (Proxy Harvest)](https://www.facebook.com/share/p/1NeXwmevNb/)
 *   [EGM Minutes](http://www.wangfuk.org/html/meeting/03/特別業主大會會議紀錄.pdf) | [Backup](2021-12-11%20第十一屆管理委員會特別業主大會會議紀錄.pdf)
-*   [Ma Choyin Video Post (The Video)](https://www.facebook.com/share/v/1Bwb43B6HF/)
+*   [Ma Choyin's Video](https://www.facebook.com/share/v/1Bwb43B6HF/)
 
 ---
 
@@ -2717,7 +2717,7 @@ The period of "Zero Convictions" (2019-2022) coincides with the dismantling of [
 **The Logical Trap:**
 1.  **Difficulty vs. Impunity:** If a crime is "hard to prove," the response should be to **strengthen laws** or **lower thresholds**, not to give up. A 0% success rate for 4 years means the current strategy has failed completely.
 2.  **Prevention Failed:** If "Prevention and Education" were effective, the Wang Fuk disaster (fake nets, rigged votes, bribery allegations) wouldn't have happened. The cartels clearly weren't "educated" into honesty; they were emboldened by impunity.
-3.  **Selective Difficulty:** The government seems to have no difficulty prosecuting "Sedition" based on Facebook posts (where intent is subjective), but finds it impossible to prosecute Bid-Rigging where statistical anomalies (1.6% price match) and physical evidence (fake certificates) abound. This suggests a disparity in **will**, not difficulty.
+3.  **Selective Difficulty:** The government seems to have no difficulty prosecuting "Sedition" based on online posts (where intent is subjective), but finds it impossible to prosecute Bid-Rigging where statistical anomalies (1.6% price match) and physical evidence (fake certificates) abound. This suggests a disparity in **will**, not difficulty.
 
 **¶ Statutory Basis:**
 *   **Context:** Prevention of Bribery Ordinance (Enforcement Efficacy).
@@ -2870,7 +2870,7 @@ The meeting was attended by a roster of pro-establishment figures (Yu Chi-wing, 
 **📜 Original Record:**
 
 > **Evidence [A]: The Suppression**
-> *Source: Resident Ma Choyin (FB Group) / 2023-03-05*
+> *Source: Resident Ma Choyin Testimony / 2023-03-05*
 >
 > "陳球強先生話**時間趕唔切**，一定要投票先... 陳顧問又話啲街坊問啲通過咗標書之後先會發生嘅嘢，所以**唔畀其他人再問**。"
 >
@@ -2886,7 +2886,7 @@ The meeting was attended by a roster of pro-establishment figures (Yu Chi-wing, 
 > "Coordinator: **Advisor Chan Kau-keung**"
 
 > **Evidence [C]: The Pressure**
-> *Source: Resident Karl Cow (FB Group) / 2023-03-06*
+> *Source: Resident Karl Cow Testimony / 2023-03-06*
 >
 > "陳球強顧問(唔係鄧國權主席)就一味叫人快啲投... 叫都叫唔停"
 >
@@ -2894,7 +2894,7 @@ The meeting was attended by a roster of pro-establishment figures (Yu Chi-wing, 
 > "Advisor Chan Kau-keung (not Chairman Tang) kept telling people to vote faster... couldn't be stopped."
 
 > **Evidence [D]: The "Free Money" Distraction**
-> *Source: Resident Ma Choyin (FB Group) / 2023-03-05*
+> *Source: Resident Ma Choyin Testimony / 2023-03-05*
 >
 > "每戶最少有4萬蚊唔使還錢... 有班街坊本身喺度嘈話叫快啲投票... 但一聽到有資助唔使還嘅，**即刻靜哂**"
 >
@@ -2937,8 +2937,8 @@ The meeting was attended by a roster of pro-establishment figures (Yu Chi-wing, 
 
 **🔗 Links:**
 *   [Minutes EGM](http://www.wangfuk.org/html/meeting/03/2023年3月4日特別業主大會會議紀錄.pdf) | [Backup](2023-03-04%20第十一屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2023-03-04-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
-*   [Resident Ma Choyin Post](https://www.facebook.com/share/p/1aEfi4nV8j/)
-*   [Resident Karl Cow Post](https://www.facebook.com/share/p/1DSVThpQ1w/)
+*   [Resident Ma Choyin Testimony](https://www.facebook.com/share/p/1aEfi4nV8j/)
+*   [Resident Karl Cow Testimony](https://www.facebook.com/share/p/1DSVThpQ1w/)
 
 ---
 
@@ -3515,7 +3515,7 @@ Yick Hing submitted one of the lowest bids. However, records show:
 
 **3. SinKee (The Violent Enforcer):**  
 SinKee (another low bidder) was raided by the **Competition Commission** in Aug 2025.
-*   *The Charge:* **"Violent suppression of bidding"** (以暴力手段抑制投標) in a Ho Man Tin luxury project ($1.4M per household repair bill).
+*   *The Charge:* **"Violent suppression of bidding"** in a Ho Man Tin luxury project ($1.4M per household repair bill).
 *   *The Link:* This suggests the presence of **Triad/Coercive elements** within the specific pool of bidders at Wang Fuk. They are the "muscle" that ensures the Cartel's dominance.
 
 **4. The "Blockade" Strategy:**
@@ -3548,7 +3548,7 @@ By filling the mandatory interview slots with these firms, the Cartel ensured th
 > "The Competition Commission carried out enforcement action...searching four premises...Earlier it found that a consultancy firm colluded with contractors to manipulate tender outcomes and used violence to suppress bidding, preventing other contractors from submitting tenders."
 
 > **Evidence [D]: The Identification**  
-> *Source: Chiu Yan‑loi Post / 2025-08-05*  
+> *Source: Chiu Yan‑loi Report / 2025-08-05*  
 >  
 > "競委會行動搜查對象包括工程顧問「創建坊建築及測量顧問有限公司」，以及工程承建商「昇基工程有限公司」"  
 >  
@@ -3577,6 +3577,7 @@ By filling the mandatory interview slots with these firms, the Cartel ensured th
 *   [Commercial Radio Report](https://www.881903.com/news2/local/2583568/)
 *   [Competition Commission Press Release](https://www.compcomm.hk/tc/media/press/files/building_maintenance_search_PR_TC.pdf)
 *   [The Collective HK Video Report](https://thecollectivehk.com/影像紀錄宏福苑圍標之禍/)
+*   [Chiu Yan‑loi Report](https://www.facebook.com/share/p/16UaVJ7ASp/)
 
 ---
 
@@ -4167,7 +4168,7 @@ During the vote (Jan 28, 2024), the ballot did not clearly distinguish that Opti
 > "Option 3 **80.5%**"
 
 > **Evidence [E]: The Expert Rebuttal**
-> *Source: Jason Poon FB / 2024-09-01*
+> *Source: Jason Poon's Analysis / 2024-09-01*
 >
 > "方案一... 一樣可以治理外牆滲漏水的源頭。至於方案三，因為剝皮... 更加容易引起滲漏水問題。"
 >
@@ -4194,7 +4195,7 @@ During the vote (Jan 28, 2024), the ballot did not clearly distinguish that Opti
 *   [Newsletter Attachment](http://www.wangfuk.org/html/comm/02/第32期宏福通訊%20-附件.pdf) | [Backup](宏福通訊%20第11屆管理委員會-第32期附件.pdf)
 *   [EGM Minutes 2023-03-04](http://www.wangfuk.org/html/meeting/03/2023年3月4日特別業主大會會議紀錄.pdf) | [Backup](2023-03-04%20第十一屆管理委員會特別業主大會會議紀錄.pdf)
 *   [EGM Minutes 2024-01-28](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf)
-*   [Jason Poon FB Analysis](https://www.facebook.com/share/v/1BadVNs6xp/)
+*   [Jason Poon's Analysis](https://www.facebook.com/share/v/1BadVNs6xp/)
 
 ---
 
@@ -4372,7 +4373,7 @@ Analysis suggests that while ~95% of *physically present* owners appeared to opp
 > "Attendance 595 (including proxies)... Prestige Construction **3,866 [shares] (54.79%)**"
 
 > **Evidence [B]: The Eyewitness Account (The Influx)**
-> *Source: Yu Ho (FB Group) / 2024-01-31*
+> *Source: Yu Ho Account / 2024-01-31*
 >
 > "2:12pm宣布大會開始，合共...293戶... 2:37pm投票... 結果合共...約564戶... 37分鐘內出現...約271戶... 期間只有不多於40位人士完成登記..."
 >
@@ -4380,7 +4381,7 @@ Analysis suggests that while ~95% of *physically present* owners appeared to opp
 > "2:12pm start: **293 households**. 2:37pm vote: **564 households**. In 37 mins, **271 households** appeared... but physically fewer than 40 people entered."
 
 > **Evidence [C]: The "Mystery Mouse"**
-> *Source: Yu Ho (FB Group) / 2024-01-31*
+> *Source: Yu Ho Account / 2024-01-31*
 >
 > "看到有1位人士簡稱「神秘老鼠」...約2:15pm完成登記及獲取合共【583業權份數(約45戶)】的投票表格..."
 >
@@ -4558,7 +4559,7 @@ The value of these "Optional Works" ($5.64M) is **18 times** the Consultant's ow
 *   [Minutes 21 (Questionnaire Results)](http://www.wangfuk.org/html/meeting/05/第21次全體委員會議記錄.pdf) | [Backup](2023-11-23%20第十一屆第二十一次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2023-11-23-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 *   [EGM Minutes (The Vote)](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2024-01-28-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 *   [Yahoo News Report (The Consultant Fee)](https://hk.news.yahoo.com/share/3119434a-75b5-41c1-81ce-55682068dfb6)
-*   [Herman Yiu's Post (A primary source of the Consultant Fee)](https://www.facebook.com/share/p/1ASPMmAqdt/)
+*   [Herman Yiu's Picture (Primary source of the Consultant Fee)](https://www.facebook.com/share/p/1ASPMmAqdt/)
 
 ---
 
@@ -4919,7 +4920,7 @@ Instead of convening the meeting as required by law, the MC conducted its own "o
 **🔗 Links:**
 *   [Minute 23](http://www.wangfuk.org/html/meeting/05/%E7%AC%AC23%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.pdf) | [Backup](2024-02-26%20第十一屆第二十三次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2024-02-26-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%89%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 *   [Minute 24](http://www.wangfuk.org/html/meeting/05/第24次全體委員會議記錄.pdf) | [Backup](2024-04-22%20第十一屆第二十四次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2024-04-22-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
-*   [Resident FB Post Supporting Lam](https://www.facebook.com/share/p/14XSfHhUnA5/)
+*   [Resident's Post Supporting Lam](https://www.facebook.com/share/p/14XSfHhUnA5/)
 
 ---
 
@@ -5038,7 +5039,7 @@ Despite the error in June 2024, the new MC under Tsui Man-kam reappointed C.W. C
 > "Due to a clerical error by the law firm staff, the levy amounts for installments 4, 5, 6 were wrong... issued correction notice and apology."
 
 > **Evidence [C]: Resident's Complaint**  
-> *Source: Tang Tang FB Post / 2024-06-05*  
+> *Source: Tang Tang / 2024-06-05*  
 >  
 > "究竟咩律師樓可以在繳款通知書上的銀碼都錯？"  
 >  
@@ -5082,7 +5083,7 @@ Despite the error in June 2024, the new MC under Tsui Man-kam reappointed C.W. C
 **🔗 Links:**
 *   [11th MC Minutes 19](http://www.wangfuk.org/html/meeting/05/第19次全體委員會議記錄.pdf) | [Backup](2023-07-14%20第十一屆第十九次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2023-07-14-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E5%8D%81%E4%B9%9D%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 *   [11th MC Minutes 24](http://www.wangfuk.org/html/meeting/05/第24次全體委員會議記錄.pdf) | [Backup](2024-04-22%20第十一屆第二十四次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2024-04-22-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
-*   [Resident FB Complaint](https://www.facebook.com/share/p/1ZfaZf9Jtb/)
+*   [Resident Complaint](https://www.facebook.com/share/p/1ZfaZf9Jtb/)
 *   [12 MC Minutes 1](http://www.wangfuk.org/html/meeting/12/第1次全體委員會議記錄.pdf) | [Backup](2024-06-14%20第十二屆第一次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2024-06-14-%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 *   [12 MC Minutes 12](http://www.wangfuk.org/html/meeting/12/2025-10-27%20第12次全體委員會議記錄.pdf) | [Backup](2025-09-29%20第十二屆第十二次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2025-09-29-%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 
@@ -5145,7 +5146,7 @@ Prestige's notice ended with an ultimatum: "If not decided by Oct 7, we will sti
 > "Learned of rumors claiming our company conspired with MC and Consultant to increase project cost by changing materials..."
 
 > **Evidence [E]: Residents' Rage**  
-> *Source: Lee Kwok Hung (FB Group) / 2024-07-27*
+> *Source: Lee Kwok Hung Complaint / 2024-07-27*
 >
 > "你兩個邊個講大話？法團定你宏業講大話？... 你依家屈我哋啲住户？"
 >
@@ -5190,7 +5191,7 @@ Prestige's notice ended with an ultimatum: "If not decided by Oct 7, we will sti
 
 *   [Minute 2](http://www.wangfuk.org/html/meeting/12/第2次全體委員會議紀錄.pdf) | [Backup](2024-06-27%20第十二屆第二次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2024-06-27-%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 *   [Prestige Notice](http://www.wangfuk.org/html/home/doc/2024-07-27%20L027有關：更換外牆飾面物料澄清事宜.pdf) | [Backup](工程承建商通告%2021%202024-07-27%20L027有關：更換外牆飾面物料澄清事宜(A-H信箱).pdf)
-*   [Resident FB Reaction](https://www.facebook.com/share/p/1ah5ELGchv/)
+*   [Resident Reaction](https://www.facebook.com/share/p/1ah5ELGchv/)
 *   [Comparison Chart](http://www.wangfuk.org/html/home/doc/2024-09-27%20紙皮石與磚瓦比較%20(鴻毅).pdf) | [Backup](大維修相關資訊%204.%202024-09-27%20紙皮石與磚瓦比較%20(鴻毅).pdf)
 *   [EGM Minutes (The Offer)](http://www.wangfuk.org/html/meeting/03/特別業主大會會議記錄.pdf) | [Backup](2024-10-05%20第十二屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2024-10-05-%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 
@@ -6484,7 +6485,7 @@ Residents were forced to live in sealed, air-conditioner-less units (due to remo
 *   **2025-11-26:** Fire occurs.
 
 **🔗 Links:**
-*   [Residents' FB Post: Prestige's On-Site Schedules](https://www.facebook.com/share/p/1AggjWpq1M/)
+*   [Prestige's On-Site Schedules](https://www.facebook.com/share/p/1AggjWpq1M/)
 *   Backup: [2025-01-18 Schedule](宏福苑工程預算總表第二期%202025-01-18.jpg) | [2025-07-17 Schedule](宏業%20工程步驟%202025-07-17.jpg)
 *   [EGM Minutes (Payment)](http://www.wangfuk.org/html/meeting/03/2024年9月6日特別業主大會會議記錄.pdf)
 
@@ -6511,7 +6512,7 @@ Fu Shin Estate (Sky Arashi project) and Wang Fuk Court (Will Power project) are 
 **📜 Original Record:**
 
 > **Evidence [A]: The Allegation**  
-> *Source: Chiu Yan-loy Post / 2026-01-02*
+> *Source: Chiu Yan-loy' Question / 2026-01-02*
 >
 > "社會各界蜂擁追查涉事工程顧問「鴻毅建築師」與承建商「宏業建築」有何關連的線索... 答案就在與宏福苑一河之隔的「富善邨」！
 富善邨早前以82萬元委聘「天嵐建築及測量顧問有限公司」擔當大維修工程顧問... 有業主早前揭發「天嵐顧問」其中一名註冊檢驗人員 （Registered Inspector）「黃忠基」，同時為「宏業建築」獲授權簽署人（Authorised Signatory）...「天嵐顧問」... 澄清項目是由註冊檢驗人員「何偉強」負責... 2006年，何偉強... 共同創辦「鴻毅建築師有限公司」；目前卻與「宏業建築」黃忠基共事於「天嵐顧問」。世事多麼「巧合」？"
@@ -6592,7 +6593,7 @@ Fu Shin Estate (Sky Arashi project) and Wang Fuk Court (Will Power project) are 
 *   **2026-01-05:** Sky Arashi denies "Ho" link — [source](https://www.facebook.com/share/p/1726BttfUZ/)
 
 **🔗 Links:**
-*   [Chiu Yan-loy Post](https://www.facebook.com/share/p/1SaDRWdgro/)
+*   [Chiu Yan-loy's Question](https://www.facebook.com/share/p/1SaDRWdgro/)
 *   [Yahoo News Report](https://hk.news.yahoo.com/share/3bd28dcc-d6cc-4d0a-a172-a9a6eda797cf)
 *   [Journalist W's Report](https://www.facebook.com/share/p/1GJkY1LLqN/)
 *   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf) | [Backup](強制驗樓驗窗計劃%2011.%20樓宇復修工程資料簡報小冊子.pdf)
@@ -6622,7 +6623,7 @@ Regardless of the dispute over other personnel, the visual evidence confirms tha
 **📜 Original Record:**
 
 > **Evidence [A]: The Tender Slide (Visual Proof)**
-> *Source: Fu Shin Estate Resident Group (FB Image)*
+> *Source: Fu Shin Estate Resident Group (Image)*
 >
 > "天嵐建築及測量顧問有限公司... 認可人士 兩名... 認可人士：**黃忠基先生**... 註冊編號：**AP(S)69/89**"
 >
@@ -6699,7 +6700,7 @@ The Fu Shin tender included other known Cartel affiliates [identified in Journal
 **📜 Original Record:**
 
 > **Evidence [A]: Wang Fuk Consultant Bids**  
-> *Source: Herman Yiu's post / 2020-01-23*  
+> *Source: Herman Yiu's Picture / 2020-01-23*  
 >  
 > "開標日期：2020-01-20 下午五時" (Time: 2020-01-20 17:00)
 >  
@@ -6825,7 +6826,7 @@ The Fu Shin tender included other known Cartel affiliates [identified in Journal
 *   **2025-12-13:** Connection between the two firms exposed — [report](https://hk.news.yahoo.com/share/3bd28dcc-d6cc-4d0a-a172-a9a6eda797cf)
 
 **🔗 Links:***
-*   [Herman Yiu Post (Wang Fuk Tender)](https://www.facebook.com/share/p/1ASPMmAqdt/)
+*   [Herman Yiu's Picture (Wang Fuk Tender)](https://www.facebook.com/share/p/1ASPMmAqdt/)
 *   [Fu Shin Estate Minutes](https://www.facebook.com/share/p/1Brst7gBLz/)
 *   [Yahoo News Report](https://hk.news.yahoo.com/share/3bd28dcc-d6cc-4d0a-a172-a9a6eda797cf)
 
@@ -7216,7 +7217,7 @@ Door cam footage revealed that just **3 minutes** after they escaped, the corrid
 *   **15:00:** Door cam shows corridor filled with smoke.
 
 **🔗 Links:**
-*   [Survivor's Facebook Post](https://www.facebook.com/share/p/1G1mbJTrGs/)
+*   [Survivor's Testimony](https://www.facebook.com/share/p/1G1mbJTrGs/)
 
 ---
 
@@ -7661,7 +7662,7 @@ The tragedy of Jack's family (4 dead: Father, Grandmother, Infant, Helper) provi
 
 **🔗 Links:**
 *   [The Collective HK Report](https://thecollectivehk.com/宏福苑五級火｜家屬痛憶七小時求救通話　好爸爸/)
-*   [Jacky Lee FB Comment](https://www.facebook.com/share/r/1ELUm8Sund/)
+*   [Jacky Lee's Comment](https://www.facebook.com/share/r/1ELUm8Sund/)
 
 ---
 
@@ -8149,11 +8150,11 @@ The LD justified the "Low Risk" assessment by claiming "no hot works" (welding) 
 **📅 Timeline:**
 *   **2024-09-06:** Resident emails LD about fire risk — [source](https://www.facebook.com/groups/hkcaml/posts/1944451599755114/)
 *   **2024-10-04:** LD replies "No standard exists, risk is low" — *Ibid.*
-*   **2024-10-05:** Jason Poon exposes the lie using APP-70.
+*   **2024-10-05:** Jason Poon exposes the lie using APP-70 — [source](https://www.facebook.com/100052697821056/posts/1375933047506610)
 *   **2024-12-04:** LD sends "clarification" claiming they did [check certificates](#-e-gov-nets-2025-11-20-01-the-paper-shield-how-16-inspections-missed-the-fire-trap).
 
 **🔗 Links:**
-*   [Jason Poon FB Post](https://www.facebook.com/100052697821056/posts/1375933047506610)
+*   [Jason Poon's Letter](https://www.facebook.com/100052697821056/posts/1375933047506610)
 *   [Ming Pao Report](https://news.mingpao.com/pns/要聞/article/20251130/s00001/1764441542925)
 *   [APP-70](https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP070.pdf)
 
