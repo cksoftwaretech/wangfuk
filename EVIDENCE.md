@@ -4923,10 +4923,10 @@ The new MC reported the case to the police as "Using False Instruments." Over 80
 > **Evidence [A]: The Impossible Numbers**
 > *Source: i-Cable News / 2024-06-11*
 >
-> "樂翠臺的單位數目是 **1,190**，但授權票... 總數竟然是 **1,362張**，比本身單位的數目還要多。"
+> "樂翠臺的單位數目是 **1,190**，但授權票... 總數竟然是 **1,362張**，比本身單位的數目還要多。更離譜的是，很多授權票也是冒認離世的業主。」法團司庫Ting表示，約有**800**多張授權票懷疑被人假冒，幾乎一半以上受影響業主表示要追究。"
 >
 > *Translation:*
-> "Neptune Terrace has **1,190** units, but proxy votes... totaled **1,362**, more than the number of units itself."
+> "Neptune Terrace has **1,190** units, but proxy votes... totaled **1,362**, more than the number of units itself. Worse, many authorization votes impersonated deceased owners. Treasurer Ting said around **800** proxy votes suspected forged; over half of affected owners will pursue action."
 
 > **Evidence [B]: The Dead Signatories**
 > *Source: i-Cable News / 2024-06-11*
@@ -4950,7 +4950,7 @@ The new MC reported the case to the police as "Using False Instruments." Over 80
 "These were likely administrative errors or confusion by family members filling out forms for deceased relatives without updating the title. The Chairman declared them invalid to ensure a fair election, proving his commitment to integrity. This is an isolated incident specific to Neptune Terrace and cannot be extrapolated to other estates like Wang Fuk."
 
 **The Logical Trap:**
-1.  **Error vs. Fraud:** An "error" is one or two forms. **800 suspected forgeries** (Evidence A) and a turnout of 114% is a systematic criminal operation. Relatives don't accidentally sign the name of a person dead for 29 years; forgery requires intent.
+1.  **Error vs. Fraud:** An "error" is one or two forms. **800 suspected forgeries** and a turnout of 114% is a systematic criminal operation. Relatives don't accidentally sign the name of a person dead for 29 years; forgery requires intent.
 2.  **The "Invalidation" Ruse:** The Chairman only invalidated the proxies *after* residents physically prevented him from taking the boxes into a private room. This wasn't integrity; it was **evidence destruction**.
 3.  **The Wang Fuk Parallel:** The pattern is identical: High-pressure upsell, expensive fee, and a sudden influx of proxies. At Wang Fuk, the "Mystery Mouse" successfully dumped bulk votes in one go. Neptune Terrace proves that these votes are chemically toxic—likely forged from a similar "Zombie List."
 
