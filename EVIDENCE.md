@@ -3306,7 +3306,7 @@ A statistical analysis of the tender prices reveals highly suspicious alignment 
 **2. The Market Distortion (The +50% Premium):**
 Academic research (Leung, Tsang, Tsui 2022) indicates that mandatory building repairs in Hong Kong are systematically overpriced by 
 [**50%+**](#-e-cartel-2012-06-30-01-the-mbis-premium-how-government-policy-inflated-prices-by-50) due to collusion.
-*   *The Trap:* By using "Market Rate" as the benchmark for "Reasonableness," the Consultant validates the rigged price. If the market is rigged (as famously confessed by bid-rigging convict Yau Shui-tin: "All of HK is rigged post-97"), then matching the "Consultant's Estimate" simply means matching the cartel's target price, not a fair price.
+*   *The Trap:* By using "Market Rate" as the benchmark for "Reasonableness," the Consultant validates the rigged price. If the market is rigged (as famously confessed by bid-rigging convict Yau Shui-tin: "All of HK is rigged post-97", and further confirmed by an industry insider post-tragedy: "Over 90% of repair tenders are rigged"), then matching the "Consultant's Estimate" simply means matching the cartel's target price, not a fair price.
 
 **3. Bypassing the "Lowest Bidder" Safeguard:**
 The Urban Renewal Authority's (URA) "Smart Tender" guidelines *mandate* interviewing the **lowest 5 bidders** to ensure competitive pricing.
@@ -3362,6 +3362,14 @@ Out of 57 bidders, Prestige was the **only one** rated as "First Choice". This o
 > *Translation:*  
 > "When defendant Yau Shui‑tin left the court...he told reporters that all of HK is rigged post-97 and warned the public, 'Be careful with your properties.' He stated...he wrote to the ICAC to blow the whistle in 2007...alleging that bid‑rigging cases in building maintenance...are very difficult to crack."
 
+> **Evidence [E]: The Insider Testimony**  
+> *Source: Now News Video Report / 2026-01-12*
+>
+> "工程承建商周先生：只要有樓宇維修，我可以說九成以上都是圍標"
+>
+> *Translation:*  
+> "Contractor Mr. Chow: Over **90%** of repair tenders are rigged."
+
 **🛡️ Pre-emptive Rebuttal:**
 
 **Anticipated Defense:**
@@ -3378,16 +3386,20 @@ Out of 57 bidders, Prestige was the **only one** rated as "First Choice". This o
 *   **Ref:** Academic Study on HK Renovation Collusion.
 
 **📅 Timeline:**
-*   **2022-08-24:** Will Power sets estimate.
+*   **2015-07-03:** Yau warns "all of HK is rigged post-97" — [report](https://www.inmediahk.net/政經/26億圍標案提堂-被告：97後全港都有圍標)
+*   **2022-05-05:** Academic paper confirms mandatory building repairs are systematically overpriced — [source](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link)
+*   **2022-08-24:** Will Power sets "reasonable" estimate.
 *   **2023-07-04:** Prestige bids within 1.6%.
 *   **2023-08-31:** Will Power rates Prestige as sole "First Choice."
 *   **2024-01-28:** Prestige wins contract.
+*   **2026-01-12:** Insider confirms "over 90% of repair tenders are rigged" — [report](https://www.youtube.com/watch?v=vjhZFWSBBrg)
 
 **🔗 Links:**
 *   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf) | [Backup](強制驗樓驗窗計劃%2011.%20樓宇復修工程資料簡報小冊子.pdf)
 *   [Smart Tender DIY Tool Kit](https://www.brplatform.org.hk/f/upload/13750/DIY_Tool_Kit.pdf)
 *   [Leung, T. C., Tsang, K. P., & Tsui, K. K. (2022)](https://drive.google.com/file/d/1SQOVMmQbrW90XcbzVi5LC9FaufydCAHD/view?usp=drive_link) | [Backup](Leung,%20T.%20C.,%20Tsang,%20K.%20P.,%20&%20Tsui,%20K.%20K.%20(2022).pdf)
 *   [InMedia Report](https://www.inmediahk.net/政經/26億圍標案提堂-被告：97後全港都有圍標)
+*   [Now News Video Report](https://www.youtube.com/watch?v=vjhZFWSBBrg)
 
 ---
 
