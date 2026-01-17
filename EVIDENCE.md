@@ -798,7 +798,7 @@ Chan fled HK in 2001 just as the ICAC arrested his brother. Prosecution revealed
 *   **2023-03-04:** Coordinates in the EGM; reportedly silences questions and pushes the vote; passes the tender document — [ref](#-e-admin-2023-03-04-01-the-shut-up-and-vote-how-the-advisor-silenced-questions-to-force-through-the-tender)
 *   **2024-01-28:** Prestige wins the contract (HK$330M); Chan participates in the meeting — [minutes](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf)
 *   **2024-07-19:** Participates in renovation presentation where flammable foam is presented — [source](http://www.wangfuk.org/html/incorp/index.htm)
-*   **2024-09-06:** MC members re-election; ceases as the Incorporated Owners' consultant — [report](https://hk.news.yahoo.com/share/c9787bd5-d1a8-482a-a57c-ce46fc0d9fdb)
+*   **2024-09-21:** Ceases as the Incorporated Owners' consultant after MC re-election — [minutes](http://www.wangfuk.org/html/meeting/12/第5次全體委員會議紀錄%20-final.pdf)
 *   **2025-11-26:** Wang Fuk Court Fire; 168 dead — [ref](https://en.wikipedia.org/wiki/Wang_Fuk_Court_fire)
 *   **2025-12-03:** Admits to be the brother of Chan Kau-tai — [source](https://www.youtube.com/watch?v=-Aah2FP0X9Y)
 *   **2025-12-04:** Admission confirmed by the media — [report](https://www.hk01.com/即時娛樂/60300663)
