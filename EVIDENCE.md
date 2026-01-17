@@ -69,48 +69,50 @@
 67. [[E-SAFETY-FOAM-2024-09-30-01] The Ransom of Safety: "Pay Compensation or Keep the Fire Hazard"](#-e-safety-foam-2024-09-30-01-the-ransom-of-safety-pay-compensation-or-keep-the-fire-hazard)  
 68. [[E-SAFETY-FOAM-2024-09-30-02] The "Powerless" Lie: How the Watchdog Approved the Kill](#-e-safety-foam-2024-09-30-02-the-powerless-lie-how-the-watchdog-approved-the-kill)  
 69. [[E-SAFETY-2024-11-15-01] The Insurance Boycott](#-e-safety-2024-11-15-01-the-insurance-boycott)  
-70. [[E-SAFETY-WINDOWS-2025-01-20-01] The "Infinite" Risk: Why Replacing Windows Took Forever](#-e-safety-windows-2025-01-20-01-the-infinite-risk-why-replacing-windows-took-forever)  
-71. [[E-GOV-2025-04-16-01] The Ignored Blueprint: How the Ombudsman Predicted the Disaster 7 Months Early](#-e-gov-2025-04-16-01-the-ignored-blueprint-how-the-ombudsman-predicted-the-disaster-7-months-early)  
-72. [[E-GOV-2025-04-16-02] The Blind Watchdog: Why Even the Ombudsman Missed the "Cartel" Elephant](#-e-gov-2025-04-16-02-the-blind-watchdog-why-even-the-ombudsman-missed-the-cartel-elephant)  
-73. [[E-SAFETY-ALARM-2025-05-14-01] The Silent Switch: How Management Disabled the Alarm to "Save Trouble"](#-e-safety-alarm-2025-05-14-01-the-silent-switch-how-management-disabled-the-alarm-to-save-trouble)  
-74. [[E-SAFETY-2025-05-21-01] The 10-Month Ghost Supervisor & The "Closed-Loop" Collusion](#-e-safety-2025-05-21-01-the-10-month-ghost-supervisor--the-closed-loop-collusion)  
-75. [[E-SAFETY-WINDOWS-2025-06-21-01] The Paper Deadline: How a "Completed" Project Remained a Fire Trap for 5 More Months](#-e-safety-windows-2025-06-21-01-the-paper-deadline-how-a-completed-project-remained-a-fire-trap-for-5-more-months)  
-76. [[E-SAFETY-2025-07-17-01] The "Hostage" Strategy: How Payment Disputes Extended the Danger Zone](#-e-safety-2025-07-17-01-the-hostage-strategy-how-payment-disputes-extended-the-danger-zone)  
-77. [[E-CARTEL-PRESTIGE-2025-08-30-01] The Handshake in the Shadows: How "Will Power" and "Prestige" are Connected via "Sky Arashi"](#-e-cartel-prestige-2025-08-30-01-the-handshake-in-the-shadows-how-will-power-and-prestige-are-connected-via-sky-arashi)  
-78. [[E-CARTEL-PRESTIGE-2025-08-30-02] The "Schrödinger's AP": How Sky Arashi Faked its Credentials to Win Contracts](#-e-cartel-prestige-2025-08-30-02-the-schrdingers-ap-how-sky-arashi-faked-its-credentials-to-win-contracts)  
-79. [[E-CARTEL-WILLPOWER-2025-08-30-01] The "Recurring Cast": How the Same Dummy Firms Rigged Tenders Across Tai Po](#-e-cartel-willpower-2025-08-30-01-the-recurring-cast-how-the-same-dummy-firms-rigged-tenders-across-tai-po)  
-80. [[E-ADMIN-2025-09-29-01] Documentary Failures: The 'Lift Contractor' Error & The $1.7M Mislabeling](#-e-admin-2025-09-29-01-documentary-failures-the-lift-contractor-error--the-17m-mislabeling)  
-81. [[E-SAFETY-NETS-2025-10-18-01] The Price of Life: HK$561 per Victim & The 5% Decoy](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk561-per-victim--the-5-decoy)  
-82. [[E-SAFETY-2025-10-19-01] The Prophecy of Doom: How Wang Fuk Court Ticked Every Box on the "Death Checklist"](#-e-safety-2025-10-19-01-the-prophecy-of-doom-how-wang-fuk-court-ticked-every-box-on-the-death-checklist)  
-83. [[E-CARTEL-2025-10-25-01] The Teflon Don: How a "Distinguished" Official Survived Two Major Bid-Rigging Scandals](#-e-cartel-2025-10-25-01-the-teflon-don-how-a-distinguished-official-survived-two-major-bid-rigging-scandals)  
-84. [[E-SAFETY-WATER-2025-11-07-01] The Paralyzed Water Network & The Fatal Maintenance](#-e-safety-water-2025-11-07-01-the-paralyzed-water-network--the-fatal-maintenance)  
-85. [[E-SAFETY-WINDOWS-2025-11-26-01] The Inverted Logic: Why Taking the Elevator Saved Lives and Stairs Killed](#-e-safety-windows-2025-11-26-01-the-inverted-logic-why-taking-the-elevator-saved-lives-and-stairs-killed)  
-86. [[E-SAFETY-NETS-2025-11-27-01] The "Open Secret": Fake Certificates](#-e-safety-nets-2025-11-27-01-the-open-secret-fake-certificates)  
-87. [[E-ADMIN-2025-12-04-01] The Chairman's fatal ignorance on safety status](#-e-admin-2025-12-04-01-the-chairmans-fatal-ignorance-on-safety-status)  
-88. [[E-CARTEL-PRESTIGE-2025-12-22-01] The Last Stand: The Missing Bond, The Crocodile Tears, and The Final Vanishing Act](#-e-cartel-prestige-2025-12-22-01-the-last-stand-the-missing-bond-the-crocodile-tears-and-the-final-vanishing-act)  
-89. [[E-GOV-2025-12-22-01] The "Ghost" Contractor: How BD Failed to Stop Prestige Because the Paperwork Said "Fusion"](#-e-gov-2025-12-22-01-the-ghost-contractor-how-bd-failed-to-stop-prestige-because-the-paperwork-said-fusion)  
-90. [[E-SAFETY-NETS-2025-12-05-01] The Laundering of Risk: "We Just Trusted Them"](#-e-safety-nets-2025-12-05-01-the-laundering-of-risk-we-just-trusted-them)  
-91. [[E-VICTIM-2024-11-30-01] The Living Tomb: "Moldy, Pitch Black, and Voiceless"](#-e-victim-2024-11-30-01-the-living-tomb-moldy-pitch-black-and-voiceless)  
-92. [[E-VICTIM-2025-11-26-01] The Seven Hours of Hell: A Real-Time Chronicle of Systemic Murder](#-e-victim-2025-11-26-01-the-seven-hours-of-hell-a-real-time-chronicle-of-systemic-murder)  
-93. [[E-VICTIM-2025-11-26-02] The Empty Staircase: How the "Information Blockade" Left the Elderly to Die in Their Sleep](#-e-victim-2025-11-26-02-the-empty-staircase-how-the-information-blockade-left-the-elderly-to-die-in-their-sleep)  
-94. [[E-VICTIM-2025-11-26-03] The Nullified Life: How the Cartel Burned 10 Years of "Sold Holidays"](#-e-victim-2025-11-26-03-the-nullified-life-how-the-cartel-burned-10-years-of-sold-holidays)  
-95. [[E-VICTIM-2025-11-27-01] The Ghost Mall: How the Fire Created 100+ "Economic Refugees" Next Door](#-e-victim-2025-11-27-01-the-ghost-mall-how-the-fire-created-100-economic-refugees-next-door)  
-96. [[E-VICTIM-2025-11-28-01] The Destruction of a Village: "I lost 10 friends in one night"](#-e-victim-2025-11-28-01-the-destruction-of-a-village-i-lost-10-friends-in-one-night)  
-97. [[E-VICTIM-2025-11-28-02] The Milk Tea Bottle: When Survival is Luck and Loss is Irreplaceable](#-e-victim-2025-11-28-02-the-milk-tea-bottle-when-survival-is-luck-and-loss-is-irreplaceable)  
-98. [[E-GOV-NETS-2015-12-31-01] The "Standard" Trap: Why "Compliant" Nets Can Still Burn Down a Building](#-e-gov-nets-2015-12-31-01-the-standard-trap-why-compliant-nets-can-still-burn-down-a-building)  
-99. [[E-GOV-NETS-2024-10-04-01] The "Two-Tier" Truth: How Labour Dept Lied to Residents but Confessed to Experts](#-e-gov-nets-2024-10-04-01-the-two-tier-truth-how-labour-dept-lied-to-residents-but-confessed-to-experts)  
-100. [[E-GOV-WATER-2025-03-24-01] Official Endorsement of Failure: How FSD Labelled Broken Valves as "Compliant"](#-e-gov-water-2025-03-24-01-official-endorsement-of-failure-how-fsd-labelled-broken-valves-as-compliant)  
-101. [[E-GOV-NETS-2025-11-20-01] The "Paper Shield": How 16 Inspections Missed the Fire Trap](#-e-gov-nets-2025-11-20-01-the-paper-shield-how-16-inspections-missed-the-fire-trap)  
-102. [[E-GOV-NETS-2025-11-24-01] The Deaf Ear: How Hotline Complaints and "Surprise Inspections" Failed to Stop the Fire](#-e-gov-nets-2025-11-24-01-the-deaf-ear-how-hotline-complaints-and-surprise-inspections-failed-to-stop-the-fire)  
-103. [[E-GOV-ALARM-2025-12-03-01] The "Silent" Alarm Mystery: Official Chaos & The 2-Year Penalty for 168 Lives](#-e-gov-alarm-2025-12-03-01-the-silent-alarm-mystery-official-chaos--the-2-year-penalty-for-168-lives)  
-104. [[E-GOV-NETS-2025-12-03-02] The "Total Demolition" Order: An Admission of Systemic Collapse](#-e-gov-nets-2025-12-03-02-the-total-demolition-order-an-admission-of-systemic-collapse)  
-105. [[E-GOV-WINDOWS-2025-12-11-01] The Bureaucratic Maze: "Not My Department" While People Died](#-e-gov-windows-2025-12-11-01-the-bureaucratic-maze-not-my-department-while-people-died)  
-106. [[E-ENFORCE-2025-04-15-01] The Evidence Magicians: "No File" Before the Fire, 11 Arrests After the Bodies Piled Up](#-e-enforce-2025-04-15-01-the-evidence-magicians-no-file-before-the-fire-11-arrests-after-the-bodies-piled-up)  
-107. [[E-ENFORCE-NETS-2025-12-01-01] The "Sloppy" Admission](#-e-enforce-nets-2025-12-01-01-the-sloppy-admission)  
-108. [[E-ENFORCE-NETS-2025-12-01-02] The 95% vs 35% Paradox: A Statistical Miracle?](#-e-enforce-nets-2025-12-01-02-the-95-vs-35-paradox-a-statistical-miracle)  
-109. [[E-ENFORCE-NETS-2025-12-03-01] The Passive Police: Media did the Police's Job](#-e-enforce-nets-2025-12-03-01-the-passive-police-media-did-the-polices-job)  
-110. [[E-MEDIA-2025-11-27-01] The "Stenography Journalism" & The Missed Scam](#-e-media-2025-11-27-01-the-stenography-journalism--the-missed-scam)  
-111. [[E-MEDIA-2025-11-30-01] The Vanishing Truth: Why State Media Deleted Its Own Scoop on the Cartel](#-e-media-2025-11-30-01-the-vanishing-truth-why-state-media-deleted-its-own-scoop-on-the-cartel)  
+70. [[E-CARTEL-WILLPOWER-2024-11-17-01] The "Million Dollar" Complaint Fee: How Urban Property Monetized Chaos at On Kay Court](#-e-cartel-willpower-2024-11-17-01-the-million-dollar-complaint-fee-how-urban-property-monetized-chaos-at-on-kay-court)  
+71. [[E-CARTEL-WILLPOWER-2024-11-17-02] The Salesman & The Thug: How the MC Sold Out Owners to Urban Property](#-e-cartel-willpower-2024-11-17-02-the-salesman--the-thug-how-the-mc-sold-out-owners-to-urban-property)  
+72. [[E-SAFETY-WINDOWS-2025-01-20-01] The "Infinite" Risk: Why Replacing Windows Took Forever](#-e-safety-windows-2025-01-20-01-the-infinite-risk-why-replacing-windows-took-forever)  
+73. [[E-GOV-2025-04-16-01] The Ignored Blueprint: How the Ombudsman Predicted the Disaster 7 Months Early](#-e-gov-2025-04-16-01-the-ignored-blueprint-how-the-ombudsman-predicted-the-disaster-7-months-early)  
+74. [[E-GOV-2025-04-16-02] The Blind Watchdog: Why Even the Ombudsman Missed the "Cartel" Elephant](#-e-gov-2025-04-16-02-the-blind-watchdog-why-even-the-ombudsman-missed-the-cartel-elephant)  
+75. [[E-SAFETY-ALARM-2025-05-14-01] The Silent Switch: How Management Disabled the Alarm to "Save Trouble"](#-e-safety-alarm-2025-05-14-01-the-silent-switch-how-management-disabled-the-alarm-to-save-trouble)  
+76. [[E-SAFETY-2025-05-21-01] The 10-Month Ghost Supervisor & The "Closed-Loop" Collusion](#-e-safety-2025-05-21-01-the-10-month-ghost-supervisor--the-closed-loop-collusion)  
+77. [[E-SAFETY-WINDOWS-2025-06-21-01] The Paper Deadline: How a "Completed" Project Remained a Fire Trap for 5 More Months](#-e-safety-windows-2025-06-21-01-the-paper-deadline-how-a-completed-project-remained-a-fire-trap-for-5-more-months)  
+78. [[E-SAFETY-2025-07-17-01] The "Hostage" Strategy: How Payment Disputes Extended the Danger Zone](#-e-safety-2025-07-17-01-the-hostage-strategy-how-payment-disputes-extended-the-danger-zone)  
+79. [[E-CARTEL-PRESTIGE-2025-08-30-01] The Handshake in the Shadows: How "Will Power" and "Prestige" are Connected via "Sky Arashi"](#-e-cartel-prestige-2025-08-30-01-the-handshake-in-the-shadows-how-will-power-and-prestige-are-connected-via-sky-arashi)  
+80. [[E-CARTEL-PRESTIGE-2025-08-30-02] The "Schrödinger's AP": How Sky Arashi Faked its Credentials to Win Contracts](#-e-cartel-prestige-2025-08-30-02-the-schrdingers-ap-how-sky-arashi-faked-its-credentials-to-win-contracts)  
+81. [[E-CARTEL-WILLPOWER-2025-08-30-01] The "Recurring Cast": How the Same Dummy Firms Rigged Tenders Across Tai Po](#-e-cartel-willpower-2025-08-30-01-the-recurring-cast-how-the-same-dummy-firms-rigged-tenders-across-tai-po)  
+82. [[E-ADMIN-2025-09-29-01] Documentary Failures: The 'Lift Contractor' Error & The $1.7M Mislabeling](#-e-admin-2025-09-29-01-documentary-failures-the-lift-contractor-error--the-17m-mislabeling)  
+83. [[E-SAFETY-NETS-2025-10-18-01] The Price of Life: HK$561 per Victim & The 5% Decoy](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk561-per-victim--the-5-decoy)  
+84. [[E-SAFETY-2025-10-19-01] The Prophecy of Doom: How Wang Fuk Court Ticked Every Box on the "Death Checklist"](#-e-safety-2025-10-19-01-the-prophecy-of-doom-how-wang-fuk-court-ticked-every-box-on-the-death-checklist)  
+85. [[E-CARTEL-2025-10-25-01] The Teflon Don: How a "Distinguished" Official Survived Two Major Bid-Rigging Scandals](#-e-cartel-2025-10-25-01-the-teflon-don-how-a-distinguished-official-survived-two-major-bid-rigging-scandals)  
+86. [[E-SAFETY-WATER-2025-11-07-01] The Paralyzed Water Network & The Fatal Maintenance](#-e-safety-water-2025-11-07-01-the-paralyzed-water-network--the-fatal-maintenance)  
+87. [[E-SAFETY-WINDOWS-2025-11-26-01] The Inverted Logic: Why Taking the Elevator Saved Lives and Stairs Killed](#-e-safety-windows-2025-11-26-01-the-inverted-logic-why-taking-the-elevator-saved-lives-and-stairs-killed)  
+88. [[E-SAFETY-NETS-2025-11-27-01] The "Open Secret": Fake Certificates](#-e-safety-nets-2025-11-27-01-the-open-secret-fake-certificates)  
+89. [[E-ADMIN-2025-12-04-01] The Chairman's fatal ignorance on safety status](#-e-admin-2025-12-04-01-the-chairmans-fatal-ignorance-on-safety-status)  
+90. [[E-CARTEL-PRESTIGE-2025-12-22-01] The Last Stand: The Missing Bond, The Crocodile Tears, and The Final Vanishing Act](#-e-cartel-prestige-2025-12-22-01-the-last-stand-the-missing-bond-the-crocodile-tears-and-the-final-vanishing-act)  
+91. [[E-GOV-2025-12-22-01] The "Ghost" Contractor: How BD Failed to Stop Prestige Because the Paperwork Said "Fusion"](#-e-gov-2025-12-22-01-the-ghost-contractor-how-bd-failed-to-stop-prestige-because-the-paperwork-said-fusion)  
+92. [[E-SAFETY-NETS-2025-12-05-01] The Laundering of Risk: "We Just Trusted Them"](#-e-safety-nets-2025-12-05-01-the-laundering-of-risk-we-just-trusted-them)  
+93. [[E-VICTIM-2024-11-30-01] The Living Tomb: "Moldy, Pitch Black, and Voiceless"](#-e-victim-2024-11-30-01-the-living-tomb-moldy-pitch-black-and-voiceless)  
+94. [[E-VICTIM-2025-11-26-01] The Seven Hours of Hell: A Real-Time Chronicle of Systemic Murder](#-e-victim-2025-11-26-01-the-seven-hours-of-hell-a-real-time-chronicle-of-systemic-murder)  
+95. [[E-VICTIM-2025-11-26-02] The Empty Staircase: How the "Information Blockade" Left the Elderly to Die in Their Sleep](#-e-victim-2025-11-26-02-the-empty-staircase-how-the-information-blockade-left-the-elderly-to-die-in-their-sleep)  
+96. [[E-VICTIM-2025-11-26-03] The Nullified Life: How the Cartel Burned 10 Years of "Sold Holidays"](#-e-victim-2025-11-26-03-the-nullified-life-how-the-cartel-burned-10-years-of-sold-holidays)  
+97. [[E-VICTIM-2025-11-27-01] The Ghost Mall: How the Fire Created 100+ "Economic Refugees" Next Door](#-e-victim-2025-11-27-01-the-ghost-mall-how-the-fire-created-100-economic-refugees-next-door)  
+98. [[E-VICTIM-2025-11-28-01] The Destruction of a Village: "I lost 10 friends in one night"](#-e-victim-2025-11-28-01-the-destruction-of-a-village-i-lost-10-friends-in-one-night)  
+99. [[E-VICTIM-2025-11-28-02] The Milk Tea Bottle: When Survival is Luck and Loss is Irreplaceable](#-e-victim-2025-11-28-02-the-milk-tea-bottle-when-survival-is-luck-and-loss-is-irreplaceable)  
+100. [[E-GOV-NETS-2015-12-31-01] The "Standard" Trap: Why "Compliant" Nets Can Still Burn Down a Building](#-e-gov-nets-2015-12-31-01-the-standard-trap-why-compliant-nets-can-still-burn-down-a-building)  
+101. [[E-GOV-NETS-2024-10-04-01] The "Two-Tier" Truth: How Labour Dept Lied to Residents but Confessed to Experts](#-e-gov-nets-2024-10-04-01-the-two-tier-truth-how-labour-dept-lied-to-residents-but-confessed-to-experts)  
+102. [[E-GOV-WATER-2025-03-24-01] Official Endorsement of Failure: How FSD Labelled Broken Valves as "Compliant"](#-e-gov-water-2025-03-24-01-official-endorsement-of-failure-how-fsd-labelled-broken-valves-as-compliant)  
+103. [[E-GOV-NETS-2025-11-20-01] The "Paper Shield": How 16 Inspections Missed the Fire Trap](#-e-gov-nets-2025-11-20-01-the-paper-shield-how-16-inspections-missed-the-fire-trap)  
+104. [[E-GOV-NETS-2025-11-24-01] The Deaf Ear: How Hotline Complaints and "Surprise Inspections" Failed to Stop the Fire](#-e-gov-nets-2025-11-24-01-the-deaf-ear-how-hotline-complaints-and-surprise-inspections-failed-to-stop-the-fire)  
+105. [[E-GOV-ALARM-2025-12-03-01] The "Silent" Alarm Mystery: Official Chaos & The 2-Year Penalty for 168 Lives](#-e-gov-alarm-2025-12-03-01-the-silent-alarm-mystery-official-chaos--the-2-year-penalty-for-168-lives)  
+106. [[E-GOV-NETS-2025-12-03-02] The "Total Demolition" Order: An Admission of Systemic Collapse](#-e-gov-nets-2025-12-03-02-the-total-demolition-order-an-admission-of-systemic-collapse)  
+107. [[E-GOV-WINDOWS-2025-12-11-01] The Bureaucratic Maze: "Not My Department" While People Died](#-e-gov-windows-2025-12-11-01-the-bureaucratic-maze-not-my-department-while-people-died)  
+108. [[E-ENFORCE-2025-04-15-01] The Evidence Magicians: "No File" Before the Fire, 11 Arrests After the Bodies Piled Up](#-e-enforce-2025-04-15-01-the-evidence-magicians-no-file-before-the-fire-11-arrests-after-the-bodies-piled-up)  
+109. [[E-ENFORCE-NETS-2025-12-01-01] The "Sloppy" Admission](#-e-enforce-nets-2025-12-01-01-the-sloppy-admission)  
+110. [[E-ENFORCE-NETS-2025-12-01-02] The 95% vs 35% Paradox: A Statistical Miracle?](#-e-enforce-nets-2025-12-01-02-the-95-vs-35-paradox-a-statistical-miracle)  
+111. [[E-ENFORCE-NETS-2025-12-03-01] The Passive Police: Media did the Police's Job](#-e-enforce-nets-2025-12-03-01-the-passive-police-media-did-the-polices-job)  
+112. [[E-MEDIA-2025-11-27-01] The "Stenography Journalism" & The Missed Scam](#-e-media-2025-11-27-01-the-stenography-journalism--the-missed-scam)  
+113. [[E-MEDIA-2025-11-30-01] The Vanishing Truth: Why State Media Deleted Its Own Scoop on the Cartel](#-e-media-2025-11-30-01-the-vanishing-truth-why-state-media-deleted-its-own-scoop-on-the-cartel)  
 
 ---
 
@@ -562,7 +564,7 @@ A veteran journalist's memoir reveals that the "Wang Fuk Pattern" is not new; it
 **1. The "Blueprint" was ready in 2012:**
 The memoir describes the first cases in 2012:
 *   **Procedural Rigging:** "Surface compliance, actual betrayal of professional duty." (Directly parallels the Will Power case).
-*   **Material Fraud:** "Hollow tiles, materials deviating from tender." (Directly parallels the [fake nets](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk586-per-victim--the-5-decoy) and [fake foam](#-e-safety-foam-2024-09-16-01-the-tapeer-fraud-counterfeit-brands--rigged-safety-demos)).
+*   **Material Fraud:** "Hollow tiles, materials deviating from tender." (Directly parallels the [fake nets](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk561-per-victim--the-5-decoy) and [fake foam](#-e-safety-foam-2024-09-16-01-the-tapeer-fraud-counterfeit-brands--rigged-safety-demos)).
 *   **The Verdict:** The cartel didn't need to invent new tricks for Wang Fuk; they simply executed a 13-year-old script that the government never bothered to fix.
 
 **2. The Evolution of Violence:**
@@ -1932,7 +1934,7 @@ Before the fire exposed their criminal negligence, both the Contractor (**Presti
 
 **1. The "Perfect" Score for Failure:**
 *   **Prestige:** Scored full marks in "Material Submission Approval."
-    *   *Reality:* Used [fake nets](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk586-per-victim--the-5-decoy) and [flammable Styrofoam](#-e-safety-foam-2024-07-19-01-the-sop-death-trap-use-of-flammable-foam).
+    *   *Reality:* Used [fake nets](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk561-per-victim--the-5-decoy) and [flammable Styrofoam](#-e-safety-foam-2024-07-19-01-the-sop-death-trap-use-of-flammable-foam).
 *   **Will Power:** Scored full marks in "Complaint Handling."
     *   *Reality:* Ignored resident complaints about fire risks and threatened them with [compensation claims](#-e-safety-foam-2024-09-30-01-the-ransom-of-safety-pay-compensation-or-keep-the-fire-hazard).
 *   *The Verdict:* A rating system that awards perfection to companies engaged in active fraud is functionally broken. It validates corruption rather than exposing it.
@@ -4860,7 +4862,7 @@ Lawyers are weaponized. Paid by the estate's funds, they serve only the Chairman
 
 **4. The "Executioners" (Consultant & Contractor):**
 The Consultant selects the cartel's contractor. The Contractor's job is to extract profit via "sky-high prices" or "substandard materials" (swapping methods).
-*   *The Mechanism:* W notes that if profit-sharing is uneven or subcontractors are squeezed, they resort to extreme corner-cutting. This explains the [**Fake Nets**](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk586-per-victim--the-5-decoy) and [**Styrofoam**](#-e-safety-foam-2024-09-16-01-the-tapeer-fraud-counterfeit-brands--rigged-safety-demos)—the final, lethal cost-saving measure.
+*   *The Mechanism:* W notes that if profit-sharing is uneven or subcontractors are squeezed, they resort to extreme corner-cutting. This explains the [**Fake Nets**](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk561-per-victim--the-5-decoy) and [**Styrofoam**](#-e-safety-foam-2024-09-16-01-the-tapeer-fraud-counterfeit-brands--rigged-safety-demos)—the final, lethal cost-saving measure.
 
 **📜 Original Record:**
 
@@ -6167,6 +6169,198 @@ At the end of 2024, faced with major repair works at Wang Fuk Court, nine of Hon
 
 ---
 
+### 🆔 [E-CARTEL-WILLPOWER-2024-11-17-01] The "Million Dollar" Complaint Fee: How Urban Property Monetized Chaos at On Kay Court
+
+**🚨 Significance:**
+
+The ongoing disaster at **On Kay Court (安基苑)**—another estate [managed by the **Will Power (鴻毅)** + **Widely (偉利)** syndicate](#-e-cartel-willpower-2023-09-18-01-the-assembly-line-same-consultant-same-low-fee-same-top-5-at-on-kay-court)—exposes the predatory role of the Property Management Company, **Urban Property Management (富城物業管理)**. Urban not only presided over a collapsing infrastructure ("Water Dance" mall, broken lifts) but also extorted a **HK$1 million "Coordination Fee"** from owners. Their aggressive suppression of media scrutiny post-fire reveals a corporate culture that prioritizes secrecy over safety, mirroring the systemic rot that led to the Wang Fuk tragedy.
+
+**1. The "Complaint Tax" (HK$1M):**
+Urban demanded, and the MC approved, an extra **HK$1 million** fee to "coordinate" the renovation and handle resident complaints.
+*   *The Absurdity:* Handling complaints is the basic duty of a property manager covered by the management fee. Charging extra to handle complaints generated by a botched renovation creates a perverse incentive: **The worse the renovation, the more "coordination" is needed, the more justified Urban gets paid.**
+*   *The Service:* Residents report that despite the fee, Urban did nothing but post contractor phone numbers in the lobby.
+
+**2. The Infrastructure Collapse:**
+Under Urban's watch:
+*   **The Mall:** A saltwater pipe burst on Dec 28, 2025, turning the mall atrium into a **"Water Dance" (水舞間)** show, destroying ceilings and flooding shops.
+*   **The Lifts:** Newly "modernized" lifts broke down on Day 1 of operation, leaving elderly residents stranded and stairwells in total darkness.
+*   *The Verdict:* High fees bought zero maintenance. The estate is physically falling apart while the manager invents new ways to charge owners.
+
+**3. The "Black Box" Enforcer:**
+After the Wang Fuk fire, media attempted to inspect safety nets at On Kay Court to verify compliance.
+*   *The Suppression:* Urban staff immediately called the police to expel the media, citing "private property."
+*   *The Logic:* In a moment of public crisis, a responsible manager would welcome verification to reassure residents. By obstructing scrutiny, Urban prioritized **covering up potential hazards** over ensuring life safety. This mindset—treating transparency as a threat—is the exact toxic culture that allowed [fake nets](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk561-per-victim--the-5-decoy) and [Styrofoam](#-e-safety-foam-2024-07-19-01-the-sop-death-trap-use-of-flammable-foam) to proliferate unchecked, creating the "cancer" that eventually killed 168 people at Wang Fuk.
+
+**4. The "Urban" Network:**
+Urban is also the manager at **Sui Wo Court**, where it represented the MC in court against owners suing for the HK$70M overcharge.
+*   *The Pattern:* Wherever there is a high-conflict, high-value renovation scandal (Sui Wo, On Kay), Urban is the manager enforcing the MC's will against the residents.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The "Coordination Fee"**  
+> *Source: i-Cable News / 2026-01-14*
+>
+> "議決...收取協調費用 **HK$1,000,000**... 解釋稱因為大維修「會產生大量投訴... 增加管業處人員的管理工作量」"
+>
+> *Translation:*  
+> "Resolved to charge a **HK$1M** coordination fee... explained that renovation 'will generate massive complaints... increasing workload'."
+
+> **Evidence [B]: The "Water Dance"**  
+> *Source: HK01 / 2025-12-28*
+>
+> "安基苑商場爆水管變「**水舞間**」... 瀑布水柱沖毀天花... 至少3塊天花板被沖跌"
+>
+> *Translation:*  
+> "On Kay Mall pipe burst turns into '**House of Dancing Water**'... waterfall columns destroyed ceiling... at least 3 panels collapsed."
+
+> **Evidence [C]: The Lifts**  
+> *Source: i-Cable News Video Report [9:58-11:24] / 2026-01-17*
+>
+> "安基苑業主陳小姐：（屋苑升降機）由舊年十月開始整，整到今年（2025年）嘅6月28號，就話開通喇，大家都好高興啦，點知一開通過第一日下晝，就已經壞咗喇，新嘅𨋢壞咗。冇嘅程度係可以由下晝四點幾去到夜晚十點幾喎。嗰時大堂坐滿晒老人家，佢哋上唔到樓返屋企。唔單止係咁，佢係因為部𨋢電力問題，而導致公眾地方照明系統都係冇晒，即係後樓梯同我哋各層，係冇電呀，黑晒呀。我自己試過兩次係摸黑上去囉，我住25樓，摸黑上去，好驚呀。"
+>
+> *Translation:*  
+> "On Kay Court Owner Ms. Chan: The elevator, under repair since Oct 2024, reopened 28 Jun 2025 but failed same afternoon; outage ~4pm–10pm left lobby full of elderly unable to return, and a power fault cut stairwell and floor lighting—she twice climbed in darkness to her 25th‑floor flat and was terrified."
+
+> **Evidence [D]: Calling Police to Stop Nets Inspection**  
+> *Source: Hong Kong Economic Journal Report / 2025-12-01*
+>
+> "有家人居於安基苑的方保僑... 今日中午與傳媒到基康閣大堂，計劃即場抽檢棚網樣本，但遭大廈保安阻止進入。富城物業管理有限公司管業處人員表示，大廈屬私人地方，已報警並謝絕採訪。"
+>
+> *Translation:*  
+> "Fong Po‑kiu and media tried to sample nets at the On Kay Court House C lobby today noon but security blocked them; property manager Urban said site is private, called police."
+
+> **Evidence [E]: The Sui Wo Connection**  
+> *Source: The Witness / 2024-08-08*
+>
+> "申索人均為穗禾苑業主立案法團，由**富城物業管理公司**代表出庭應訊。"
+>
+> *Translation:*  
+> "Claimant was Sui Wo Court MC, represented in court by **Urban Property Management**."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**  
+"Major renovations impose an extraordinary burden on site staff, necessitating overtime and extra manpower beyond the scope of the standard management contract. The HK$1M fee covers these tangible costs. Infrastructure failures like pipe bursts are unfortunate accidents unrelated to the fee. We protect resident privacy by restricting media access. The Ex-Chairman's outburst was a reaction to harassment, not a policy."
+
+**The Logical Trap:**  
+1.  **Double Dipping:** If the management fee covers "Estate Management," and the Renovation Consultant (Will Power) is paid to "Supervise the Contractor," then what is the "Coordination Fee" for? It charges owners a third time for a service (supervision) they already paid for twice.
+2.  **Performance-Based Pay:** You cannot charge a premium for "Extra Work" when the work result is a flooded mall and broken lifts. In any other industry, such failure leads to compensation *claims*, not *bonuses*.
+3.  **The "Harassment" Shield:** Journalists asking legitimate questions about a HK$100M project is not harassment; it is scrutiny. Threatening physical violence ("smash camera") is criminal intimidation. A manager who calls police on journalists but cannot fix a pipe is a manager who prioritizes **Secrecy over Service**.
+
+**¶ Statutory Basis:**
+
+*   **Context:** Property Management Services Ordinance (Code of Conduct).
+*   **Offence:** Certain acts of intimidation, [Cap 200 Section 24](https://www.elegislation.gov.hk/hk/cap200!en/s24?_lang=en).
+
+**📅 Timeline:**
+*   **2024-11-17:** On Kay MC approves HK$1M fee for Urban — [report](https://www.i-cable.com/新聞資訊/428886/)
+*   **2025-06-28:** Lift out of order on day 1 after being "fixed" — [video](https://www.youtube.com/watch?v=HsWKJjUzi58)
+*   **2025-12-01:** Urban calls police on media inspecting nets — [report](https://www.hkej.com/instantnews/current/article/4260928/)
+*   **2025-12-28:** Mall pipe bursts (Water Dance) — [report](https://www.hk01.com/突發/60307548/)
+*   **2026-01-02:** Ex-Chairman threatens reporter — [video](https://www.youtube.com/watch?v=HsWKJjUzi58)
+*   **2026-01-14:** Scandal exposed — [report](https://www.i-cable.com/新聞資訊/428886/)
+
+**🔗 Links:**
+*   [i-Cable News Report](https://www.i-cable.com/新聞資訊/428886/)
+*   [i-Cable News Video Report](https://www.youtube.com/watch?v=HsWKJjUzi58)
+*   [HK01 Report (Water Dance)](https://www.hk01.com/突發/60307548/)
+*   [Hong Kong Economic Journal Report (Calling Police)](https://www.hkej.com/instantnews/current/article/4260928/)
+*   [The Witness Report (Link to Sui Wo Court)](https://thewitnesshk.com/穗禾苑業主向法團提反申索-證人指承辦商標書與顧/)
+
+---
+
+### 🆔 [E-CARTEL-WILLPOWER-2024-11-17-02] The Salesman & The Thug: How the MC Sold Out Owners to Urban Property
+
+**🚨 Significance:**
+
+Events at On Kay Court (安基苑) where renovation was managed by **Will Power** reveal that the Management Committee (MC) has abandoned its fiduciary duty to owners, acting instead as the **Campaign Manager** and **Enforcer** for the Property Manager, **Urban Property Management (富城物業管理)**. This mirrors the systemic collusion seen at Wang Fuk Court, where the MC and Management Company operate as a fused entity rather than Client and Contractor.
+
+**1. The "No Tender" Renewal:**
+The MC proposed renewing Urban's contract **without an open tender**.
+*   *The Deviation:* Standard practice requires periodic tendering to ensure competitive pricing and quality. Skipping this step and directly voting on renewal deprives owners of market choices.
+*   *The Connection:* This echoes the [**"3-Month Loop"**](#-e-admin-2021-03-06-01-the-3-month-loop-how-the-mc-renewed-the-management-contract-21-months-without-owners-approval) at Wang Fuk, where endless extensions were used to bypass tendering. In both cases, the MC's primary goal was to **protect the incumbent**, not serve the owners.
+
+**2. The "Salesman" Role (HK$1M Fee):**
+Instead of challenging Urban's demand for a **HK$1 million** "Coordination Fee" (ostensibly for handling renovation complaints), the MC acted as Urban's PR team.
+*   *The Act:* The MC Emcee played promotional videos and explained the "benefits" of the fee to owners during the AGM, framing it as necessary.
+*   *The Betrayal:* A neutral MC would demand that complaint handling be covered by the existing management fee. By "upselling" this extra charge, the MC facilitated the extraction of wealth from the owners they represent.
+
+**3. The "Whitewash" Endorsement:**
+Urban's contract expires in June 2026. Despite catastrophic failures (broken lifts, and later the "Water Dance" pipe burst), the MC proactively campaigned for Urban's renewal.
+*   *The Lie:* The MC stated Urban has "mastered estate operations" and become "**more mature**".
+*   *The Reality:* Omitting the infrastructure collapse while praising "maturity" is **Deceptive Marketing**. It proves the MC prioritizes Urban's contract security over the estate's livability.
+*   *The Why:* This disconnect between reality (collapse) and rhetoric (praise) suggests a **Hidden Incentive**. Why would an employer fight so hard to keep an incompetent employee, even bypassing the hiring process? A rational answer lies in the **"Symbiosis"**: The Manager facilitates the Cartel (e.g., by policing residents), and the MC protects the Manager's contract.
+
+**4. The "Thug" Response:**
+When questioned about the HK$1M fee, former Chairman (current Treasurer) **Wong Kai-ming (黃啟明)** threatened a reporter with violence.
+*   *The Threat:* "**Do you want me to smash your camera?**" ( 你係咪想我扑爛你部機呀).
+*   *The Crime:* This constitutes **Criminal Intimidation**. It reveals that the MC views accountability not as a duty, but as an attack to be repelled with force.
+
+**📜 Original Record:**
+
+> **Evidence [A]: Missing Tender**  
+> *Source: i-Cable News / 2026-01-14*
+>
+> "管理公司續約更是沒有公開招標，而法團稱因為對方已為屋苑服務超過七年，「對屋苑的管理運作充分掌握及更趨純熟」，故直接在大會議決續約建議， （業主）劉先生則形容如同綑綁在大維修，「一定要用你」。"
+>
+> *Translation:*
+> "Urban's Renewal done without open tender; owners' board said >7 years’ service justified direct renewal; Mr. Lau called it tied to major repairs."
+
+> **Evidence [B]: The Sales Pitch**  
+> *Source: i-Cable News / 2026-01-14*
+>
+> "大會司儀向業戶講解... 並且播放影片... 解釋稱因為大維修... 增加管業處人員的管理工作量"
+>
+> *Translation:*
+> "The Meeting Emcee explained to owners... played a video... justifying that renovation 'increases workload for management staff'."
+
+> **Evidence [C]: The "Maturity" Endorsement**  
+> *Source: On Kay AGM Document via i-Cable News  / 2024-11*
+>
+> "已為屋苑服務超過 7 年，對屋苑的管理運作充分掌握及**更趨純熟**"
+>
+> *Translation:*
+> "Served over 7 years... fully mastered operations... becoming **more mature and skilled**."
+
+> **Evidence [D]: The Physical Threat**  
+> *Source: i-Cable News Video Report [9:58-11:24] / 2026-01-17*
+>
+> "剛卸任不久的前主席、現任法團司庫的黃啟明...「唔該你即刻熄咗個機佢呀下，**你係咪想我扑爛你部機呀**」"
+>
+> *Translation:*  
+> "Sui Wo Court MC Ex-Chairman Wong Kai-ming: '...Stop the camera now please.  **Do you want me to smash your camera?**'"
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**  
+"Direct renewal is permitted under the law if approved by owners. We chose stability over the uncertainty of a new manager, especially during a critical renovation period. Changing managers mid-project could cause chaos. The MC presented the fee proposal neutrally based on Urban's submission; we simply facilitated the voting process. The endorsement of Urban reflects their long-term stability, which outweighs isolated maintenance incidents. Mr. Wong's comment was an emotional outburst due to harassment by reporters intruding on private property, not a genuine threat of violence."
+
+**The Logical Trap:**  
+1.  **Stability vs. Capture:** "Stability" is the favorite excuse of dictators. Renewing a failing manager (broken lifts, flooded mall) is not stability; it is **Lock-in**. By skipping the tender, the MC ensured owners never saw what a *competent* manager might offer.
+2.  **The "Critical Period" Excuse:** Using the renovation as an excuse to avoid changing managers is a **Hostage Tactic**. "If you fire us, the renovation will fail." In reality, Urban might have been *part* of the renovation failure (charging fees but doing nothing). Firing them was the solution, not the problem.
+3.  **Neutrality vs. Advocacy:** "Neutrality" means presenting pros and cons. The MC *only* presented Urban's justification ("increased workload") without presenting the counter-argument (that management fees should cover management). This is **Advocacy**.
+4.  **"Isolated" vs. Systemic:** A mall flooding and lifts breaking on Day 1 are not "isolated incidents"; they are systemic failures of supervision. Endorsing a manager who presides over infrastructure collapse is **Negligence**.
+5.  **Intimidation is not "Emotion":** Threatening to destroy property ("smash camera") to stop a lawful inquiry is a crime, regardless of "emotion." It reveals a mindset that believes **force** is a valid response to **scrutiny**.
+6.  **The "Symbiosis" Proof:** The identical pattern across estates (Wang Fuk MC campaigning for ISS; On Kay MC campaigning for Urban) proves this is not an isolated judgment call. It is a **Systemic Feature** of the bid-rigging ecosystem. The Management Company is the **Gatekeeper** for the Cartel; therefore, the Cartel-controlled MC must keep the Gatekeeper in place at all costs.
+
+**¶ Statutory Basis:**
+
+*   **Offence:** Criminal Intimidation, [Cap 200 Section 24](https://www.elegislation.gov.hk/hk/cap200!en/s24?_lang=en).
+*   **Context:** Fiduciary Duty (Building Management Ordinance).
+
+**📅 Timeline:**
+*   **2024-11-17:** MC promotes HK$1M fee — [minutes](https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/01/15011239/vlcsnap-2026-01-14-17h05m52s551.jpg.webp)
+*   **2025-06-28:** Lift out of order on day 1 after being "fixed" — [video](https://www.youtube.com/watch?v=HsWKJjUzi58)
+*   **Nov 2025:** MC campaigned for Urban's renewal; praises Urban's "maturity" — [report](https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/01/15011118/vlcsnap-2026-01-14-17h06m56s417.jpg.webp)
+*   **2025-12-28:** "Water Dance" disaster — [notice](https://www.hk01.com/突發/60307548/)
+*   **2026-01-02:** Ex-Chairman Wong kai-ming threatens reporter with violence.
+
+**🔗 Links:**
+*   [i-Cable News Report](https://www.i-cable.com/新聞資訊/428886/)
+*   [i-Cable News Video Report](https://www.youtube.com/watch?v=HsWKJjUzi58)
+
+---
+
 ### 🆔 [E-SAFETY-WINDOWS-2025-01-20-01] The "Infinite" Risk: Why Replacing Windows Took Forever
 
 **🚨 Significance:**
@@ -6235,7 +6429,7 @@ In April 2025, the Office of The Ombudsman released a scathing investigation int
 
 **1. The "Future-Dated" Certificate Scandal:**
 The Ombudsman found it "absurd" that "Competent Persons" routinely signed safety forms (Form 5 / "Scaffolding Certs") **before the scaffolding was even built**, or pre-filled them with future dates.
-*   *The Link:* This explains how Prestige could operate with [fake nets](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk586-per-victim--the-5-decoy) and [obtain valid certificates](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk586-per-victim--the-5-decoy). The certification system was already known to be a "signing exercise" divorced from physical reality.
+*   *The Link:* This explains how Prestige could operate with [fake nets](#-e-enforce-nets-2025-12-01-02-the-95-vs-35-paradox-a-statistical-miracle) and [obtain valid certificates](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk561-per-victim--the-5-decoy). The certification system was already known to be a "signing exercise" divorced from physical reality.
 
 **2. The "Walk-By" Inspections:**
 The report criticized LD inspections for lacking checklists and relying on inspectors' "professional judgment" without guidelines.
@@ -6348,7 +6542,7 @@ The Report did not investigate why LD officers [lied to residents](#-e-gov-nets-
 
 **3. The Economic Blindspot:**
 The Report focused on "Safety Checks" but ignored **"Bid Rigging."**
-*   *The Root Cause:* Safety violations ([Fake Nets](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk586-per-victim--the-5-decoy), [Styrofoam](#-e-safety-foam-2024-07-19-01-the-sop-death-trap-use-of-flammable-foam)) are not random errors; they are economic necessities for a Cartel that needs to skim [17% for bribes](#-e-cartel-2010-12-31-01-the-17-bribe-the-hidden-tax-behind-the-hk330-million-bill). Without addressing the *financial incentive* to cheat (Rigged Tenders), purely technical recommendations (like "Smart Site" sensors) will simply be bypassed or faked by the same criminal network.
+*   *The Root Cause:* Safety violations ([Fake Nets](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk561-per-victim--the-5-decoy), [Styrofoam](#-e-safety-foam-2024-07-19-01-the-sop-death-trap-use-of-flammable-foam)) are not random errors; they are economic necessities for a Cartel that needs to skim [17% for bribes](#-e-cartel-2010-12-31-01-the-17-bribe-the-hidden-tax-behind-the-hk330-million-bill). Without addressing the *financial incentive* to cheat (Rigged Tenders), purely technical recommendations (like "Smart Site" sensors) will simply be bypassed or faked by the same criminal network.
 
 **📜 Original Record:**
 
@@ -7125,7 +7319,7 @@ Following the Central fire on Oct 18, 2025, the Construction Industry Council (C
 
 **1. The "Checklist of Death":**
 The CIC warning explicitly flagged:
-*   **Risk 1:** [Non-flame-retardant nets](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk586-per-victim--the-5-decoy).
+*   **Risk 1:** [Non-flame-retardant nets](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk561-per-victim--the-5-decoy).
 *   **Risk 2 & 4:** Sparks from hot works / Smoking workers. (The Prime Suspects for ignition).
 *   **Risk 3:** Improper storage of [flammable materials](#-e-safety-foam-2024-07-19-01-the-sop-death-trap-use-of-flammable-foam).
 *   **Risk 6:** Faulty/Incomplete [fire service systems](#-e-safety-alarm-2025-05-14-01-the-silent-switch-how-management-disabled-the-alarm-to-save-trouble).
@@ -8427,7 +8621,7 @@ The Labour Department (LD) conducted **16 inspections** between July 2024 and No
 
 **1. The "Audit by Paper" Loophole:**
 The LD confirmed their inspection method involved "checking the Product Quality Certificates".
-*   *The Trick:* As [exposed](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk586-per-victim--the-5-decoy) by the ICAC, the contractors bought a small batch of legitimate nets to obtain valid certificates.
+*   *The Trick:* As [exposed](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk561-per-victim--the-5-decoy) by the ICAC, the contractors bought a small batch of legitimate nets to obtain valid certificates.
 *   *The Failure:* Inspectors accepted these certificates as proof for the *entire* site. They did not conduct on-site combustion tests, allowing 2,300 rolls of fake nets to hide behind a single piece of paper.
 
 **2. Industry Verdict: "Certificates are Waste Paper":**
@@ -8479,7 +8673,7 @@ Residents acted as the city's "nerve endings," screaming about the danger for mo
 
 **1. The "Two-Color" Smoking Gun:**
 In October, residents reported that the nets had **two different colors** (Deep Green vs. Light Green) and were fragile.
-*   *The Link:* This visual discrepancy  matches the later [ICAC finding](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk586-per-victim--the-5-decoy) of mixed compliant (5%) and non-compliant (95%) stocks.
+*   *The Link:* This visual discrepancy  matches the later [ICAC finding](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk561-per-victim--the-5-decoy) of mixed compliant (5%) and non-compliant (95%) stocks.
 *   *The Failure:* ICU and LD inspectors visited the site but ignored this glaring visual cue. A "surprise inspection" that misses a two-tone color difference indicating mixed batches is not an inspection; it is "industrial tourism."
 
 **2. The "Central Fire" Warning:**
