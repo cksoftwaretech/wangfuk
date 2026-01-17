@@ -5467,10 +5467,9 @@ Industry insider "Mr. Chow" (Contractor) reveals that **"Smart Tender lowers own
 
 **📅 Timeline:**
 *   **2023-03-04:** MC passes "Final Tender" (Criteria missing) — [ref](#-e-cartel-2023-03-17-01-the-blank-cheque-tender-how-critical-scoring-rules-were-added-after-the-vote)
-*   **2024-04:** URA approves funding application.
 *   **2024-07-19:** Consultant uses URA's funding to silence critics — [ref](http://www.wangfuk.org/html/incorp/index.htm)
 *   **2025-11-26:** Fire reveals the project was a fraud from day one.
-*   **2026-01-12:** Insider confirms Smart Tender facilitates rigging — [link](https://www.youtube.com/watch?v=vjhZFWSBBrg)
+*   **2026-01-12:** Insider confirms Smart Tender facilitates rigging — [report](https://www.youtube.com/watch?v=vjhZFWSBBrg)
 
 **🔗 Links:**
 *   [URA OBB 2.0 Notes](https://www.brplatform.org.hk/f/page/10460/11713/OBB%202.0%20notes.pdf)
