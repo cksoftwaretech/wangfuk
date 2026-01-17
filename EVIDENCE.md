@@ -69,8 +69,8 @@
 67. [[E-SAFETY-FOAM-2024-09-30-01] The Ransom of Safety: "Pay Compensation or Keep the Fire Hazard"](#-e-safety-foam-2024-09-30-01-the-ransom-of-safety-pay-compensation-or-keep-the-fire-hazard)  
 68. [[E-SAFETY-FOAM-2024-09-30-02] The "Powerless" Lie: How the Watchdog Approved the Kill](#-e-safety-foam-2024-09-30-02-the-powerless-lie-how-the-watchdog-approved-the-kill)  
 69. [[E-SAFETY-2024-11-15-01] The Insurance Boycott](#-e-safety-2024-11-15-01-the-insurance-boycott)  
-70. [[E-CARTEL-WILLPOWER-2024-11-17-01] The "Million Dollar" Complaint Fee: How Urban Property Monetized Chaos at On Kay Court](#-e-cartel-willpower-2024-11-17-01-the-million-dollar-complaint-fee-how-urban-property-monetized-chaos-at-on-kay-court)  
-71. [[E-CARTEL-WILLPOWER-2024-11-17-02] The Salesman & The Thug: How the MC Sold Out Owners to Urban Property](#-e-cartel-willpower-2024-11-17-02-the-salesman--the-thug-how-the-mc-sold-out-owners-to-urban-property)  
+70. [[E-CARTEL-2024-11-17-01] The "Million Dollar" Complaint Fee: How Urban Property Monetized Chaos at On Kay Court](#-e-cartel-2024-11-17-01-the-million-dollar-complaint-fee-how-urban-property-monetized-chaos-at-on-kay-court)  
+71. [[E-CARTEL-2024-11-17-02] The Salesman & The Thug: How the MC Sold Out Owners to Urban Property](#-e-cartel-2024-11-17-02-the-salesman--the-thug-how-the-mc-sold-out-owners-to-urban-property)  
 72. [[E-SAFETY-WINDOWS-2025-01-20-01] The "Infinite" Risk: Why Replacing Windows Took Forever](#-e-safety-windows-2025-01-20-01-the-infinite-risk-why-replacing-windows-took-forever)  
 73. [[E-GOV-2025-04-16-01] The Ignored Blueprint: How the Ombudsman Predicted the Disaster 7 Months Early](#-e-gov-2025-04-16-01-the-ignored-blueprint-how-the-ombudsman-predicted-the-disaster-7-months-early)  
 74. [[E-GOV-2025-04-16-02] The Blind Watchdog: Why Even the Ombudsman Missed the "Cartel" Elephant](#-e-gov-2025-04-16-02-the-blind-watchdog-why-even-the-ombudsman-missed-the-cartel-elephant)  
@@ -6169,11 +6169,11 @@ At the end of 2024, faced with major repair works at Wang Fuk Court, nine of Hon
 
 ---
 
-### 🆔 [E-CARTEL-WILLPOWER-2024-11-17-01] The "Million Dollar" Complaint Fee: How Urban Property Monetized Chaos at On Kay Court
+### 🆔 [E-CARTEL-2024-11-17-01] The "Million Dollar" Complaint Fee: How Urban Property Monetized Chaos at On Kay Court
 
 **🚨 Significance:**
 
-The ongoing disaster at **On Kay Court (安基苑)**—another estate [managed by the **Will Power (鴻毅)** + **Widely (偉利)** syndicate](#-e-cartel-willpower-2023-09-18-01-the-assembly-line-same-consultant-same-low-fee-same-top-5-at-on-kay-court)—exposes the predatory role of the Property Management Company, **Urban Property Management (富城物業管理)**. Urban not only presided over a collapsing infrastructure ("Water Dance" mall, broken lifts) but also extorted a **HK$1 million "Coordination Fee"** from owners. Their aggressive suppression of media scrutiny post-fire reveals a corporate culture that prioritizes secrecy over safety, mirroring the systemic rot that led to the Wang Fuk tragedy.
+The ongoing disaster at **On Kay Court (安基苑)**—another estate [managed by](#-e-cartel-willpower-2023-09-18-01-the-assembly-line-same-consultant-same-low-fee-same-top-5-at-on-kay-court) the **Will Power (鴻毅)** + **Widely (偉利)** syndicate—exposes the predatory role of the Property Management Company, **Urban Property Management (富城物業管理)**. Urban not only presided over a collapsing infrastructure ("Water Dance" mall, broken lifts) but also extorted a **HK$1 million "Coordination Fee"** from owners. Their aggressive suppression of media scrutiny post-fire reveals a corporate culture that prioritizes secrecy over safety, mirroring the systemic rot that led to the Wang Fuk tragedy.
 
 **1. The "Complaint Tax" (HK$1M):**
 Urban demanded, and the MC approved, an extra **HK$1 million** fee to "coordinate" the renovation and handle resident complaints.
@@ -6182,7 +6182,7 @@ Urban demanded, and the MC approved, an extra **HK$1 million** fee to "coordinat
 
 **2. The Infrastructure Collapse:**
 Under Urban's watch:
-*   **The Mall:** A saltwater pipe burst on Dec 28, 2025, turning the mall atrium into a **"Water Dance" (水舞間)** show, destroying ceilings and flooding shops.
+*   **The Mall:** A saltwater pipe burst on Dec 28, 2025, turning the mall atrium into a **"Water Dance"** show, destroying ceilings and flooding shops.
 *   **The Lifts:** Newly "modernized" lifts broke down on Day 1 of operation, leaving elderly residents stranded and stairwells in total darkness.
 *   *The Verdict:* High fees bought zero maintenance. The estate is physically falling apart while the manager invents new ways to charge owners.
 
@@ -6269,7 +6269,7 @@ Urban is also the manager at **Sui Wo Court**, where it represented the MC in co
 
 ---
 
-### 🆔 [E-CARTEL-WILLPOWER-2024-11-17-02] The Salesman & The Thug: How the MC Sold Out Owners to Urban Property
+### 🆔 [E-CARTEL-2024-11-17-02] The Salesman & The Thug: How the MC Sold Out Owners to Urban Property
 
 **🚨 Significance:**
 
@@ -6293,7 +6293,7 @@ Urban's contract expires in June 2026. Despite catastrophic failures (broken lif
 
 **4. The "Thug" Response:**
 When questioned about the HK$1M fee, former Chairman (current Treasurer) **Wong Kai-ming (黃啟明)** threatened a reporter with violence.
-*   *The Threat:* "**Do you want me to smash your camera?**" ( 你係咪想我扑爛你部機呀).
+*   *The Threat:* "**Do you want me to smash your camera?**" (你係咪想我扑爛你部機呀).
 *   *The Crime:* This constitutes **Criminal Intimidation**. It reveals that the MC views accountability not as a duty, but as an attack to be repelled with force.
 
 **📜 Original Record:**
