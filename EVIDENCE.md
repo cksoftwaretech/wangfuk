@@ -3934,7 +3934,7 @@ The Consultant (**Will Power**) filtered out 48 other bidders to select these sp
 
 **📜 Original Record:**
 
-> **Evidence [A]: The "Mega Praise" Clone**
+> **Evidence [A]: The "Mega Praise" Clone**  
 > *Source: Pulse HK / 2025-12-31*
 >
 > "萬嘉...曾...以「**宏業建築工程（國際）有限公司**」名義營運... 辦公室...由福來置業(**張燕琴**[侯妻]全資持有)...購入"
@@ -3944,7 +3944,7 @@ The Consultant (**Will Power**) filtered out 48 other bidders to select these sp
 > "Mega Praise... operated as '**Prestige Construction (International)**'... Office owned by Best Luck (which is in turn wholly-owned by**Cheung Yin-kam** [Hau's wife])"
 > "Mega Praise's director Lam Cho-sun's two addresses are owned by Cheung and Best Luck respectively."
 
-> **Evidence [B]: The "Widely" Colleague**
+> **Evidence [B]: The "Widely" Colleague**  
 > *Source: Pulse HK / 2025-12-31*
 >
 > "偉利董事...**梁炳耀**...曾於2005年4月起出任**宏業董事**... 直至2014年6月方才離任"
@@ -3952,7 +3952,7 @@ The Consultant (**Will Power**) filtered out 48 other bidders to select these sp
 > *Translation:*
 > "Widely Director **Leung Bing-yiu**... served as **Prestige Director** from April 2005... until June 2014."
 
-> **Evidence [C]: The "Man Sing" Partner**
+> **Evidence [C]: The "Man Sing" Partner**  
 > *Source: Pulse HK / 2025-12-31*
 >
 > "民星...由**譚子文**持有... 與侯華建成立利來拓展有限公司，兩人各持一半股份...民星營造和利來拓展的申報地址一致"
