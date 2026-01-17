@@ -3362,7 +3362,7 @@ The failure to declare these close business ties constitutes a fraudulent misrep
 
 **📜 Original Record:**
 
-> **Evidence [A]: The Corporate Links**
+> **Evidence [A]: The Corporate Links**  
 > *Source: Green Bean Media / 2025-12-11*
 >
 > "宏業老闆侯華建跟...競爭的公司老闆，根本就是商業拍檔... 利來拓展...另一股東為**譚子文**，各持股一半，同時係另一投標承建商**民星營造**...大股東"  
@@ -3376,7 +3376,7 @@ The failure to declare these close business ties constitutes a fraudulent misrep
 >"...Choi Man-ming is a director of **Sunarts (Holdings)**"  
 >"The Wellman Sports Association’s sponsor list includes Earnest Property Agency and Now Construction Holdings (H.K.) Limited. On Tam Tsz-man’s profile page it states that he once sponsored basketball competitions through Earnest. Now Construction lists Choi Man-ban as a director, who is also a director of **Now Construction (Asia)** Company Limited.
 
-> **Evidence [B]: The "Zero Vote" Outcome**
+> **Evidence [B]: The "Zero Vote" Outcome**  
 > *Source: 11th MC EGM Minutes / 2024-01-28*
 >
 > | Bidder | Votes |
@@ -3409,7 +3409,7 @@ The failure to declare these close business ties constitutes a fraudulent misrep
 *   **2025-12-11:** Media investigation uncovers the corporate links.
 
 **🔗 Links:**
-*   [Green Bean Investigation](https://greenbean.media/綠豆調查：大維修關係網（上）｜宏福苑數間投標/)
+*   [Green Bean Media: Bid-Rigging Investigation Episode I](https://greenbean.media/綠豆調查：大維修關係網（上）｜宏福苑數間投標/)
 *   [EGM Minutes](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2023-11-23-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 
 ---
@@ -4080,7 +4080,7 @@ Will Power's consistent selection of the same firms (despite their known flaws, 
 *   **2025-11-26:** Fire at Wang Fuk exposes the scam.
 
 **🔗 Links:**
-*   [Green Bean Media Report](https://www.youtube.com/watch?v=iEO5a4rYKbI)
+*   [Green Bean Media: Bid-Rigging Investigation Episode II](https://www.youtube.com/watch?v=iEO5a4rYKbI)
 
 ---
 
@@ -4457,7 +4457,7 @@ Investigation reveals that **ALL 7** of Will Power's "favorite" contractors (inc
 *   **2025-12-29:** Media comparison exposes the data laundering.
 
 **🔗 Links:**
-*   [Green Bean Media Investigation](https://www.youtube.com/watch?v=iEO5a4rYKbI)
+*   [Green Bean Media: Bid-Rigging Investigation Episode II](https://www.youtube.com/watch?v=iEO5a4rYKbI)
 *   Labour Department Conviction Records:
     *   [Oct 2016 - Sep 2018](https://www.labour.gov.hk/tc/osh/pdf/Conviction_record_Q4_2016_to_Q3_2018_tc.pdf) | [Backup](職安健定罪紀錄%20Oct%202016%20-%20Sep%202018.pdf)
     *   [Jul 2019 - Jun 2021](https://www.labour.gov.hk/tc/osh/pdf/Conviction_record_tc.pdf) | [Backup](職安健定罪紀錄%20Jul%202019%20-%20Jun%202021.pdf)
@@ -5503,7 +5503,7 @@ This method was documented in **File PC-24-WFC-L-46**. The Consultant (**Will Po
 
 **📜 Original Record:**
 
-> **Evidence [A]: The Public Confession (SOP)**
+> **Evidence [A]: The Public Confession (SOP)**  
 > *Source: Green Bean Media (citing Briefing Video) / 2024-07-19*
 >
 > "譚雋生...展示了...所用物料正是白色發泡膠。他說：「...我哋做咗一個sample（樣本）出來，遲啲放埋喺樣版區比大家睇啦。」"
@@ -5511,7 +5511,7 @@ This method was documented in **File PC-24-WFC-L-46**. The Consultant (**Will Po
 > *Translation:*
 > "Tam Chun-sang (Site Supervisor)... displayed... white Styrofoam. He said: '...We made a **sample**, and will put it in the mock-up area for everyone to see later.'"
 
-> **Evidence [B]: The Written Protocol**
+> **Evidence [B]: The Written Protocol**  
 > *Source: Prestige Document PC-24-WFC-L-46 / 2024-10-02*
 >
 > "使用 **Foam Board** 完整地將單位外牆窗玻璃遮蓋作保護... 臨時再以薄木板或中空板遮窗..."
@@ -5519,7 +5519,7 @@ This method was documented in **File PC-24-WFC-L-46**. The Consultant (**Will Po
 > *Translation:*
 > "Use **Foam Board** to completely cover and protect unit window glass... temporarily cover with thin wood or hollow board..."
 
-> **Evidence [C]: The "Airtight" Seal**
+> **Evidence [C]: The "Airtight" Seal**  
 > *Source: Yahoo News / 2025-12-04*
 >
 > "...有冷氣機的安裝口被封，更在四邊塗上玻璃膠，**密不透風**。"
@@ -5527,7 +5527,7 @@ This method was documented in **File PC-24-WFC-L-46**. The Consultant (**Will Po
 > *Translation:* 
 >"...AC installation openings were sealed, with silicone applied on four sides, making it **airtight**."
 
-> **Evidence [D]: Universal Coverage**
+> **Evidence [D]: Universal Coverage**  
 > *Source: HK01 / 2025-11-27*  
 >  
 > "業主立案法團主席徐滿柑...確認宏福苑八座大廈，每個單位的窗戶都貼上了發泡膠板；有居民向記者提供相片，顯示廁所、客廳及房間每個窗，甚至安裝冷氣的位置，均用發泡膠板遮擋"  
@@ -6041,7 +6041,7 @@ On July 19, 2024, Will Power's Director **Wong Hap-yin** (黃俠然) sat on stag
 
 **📜 Original Record:**
 
-> **Evidence [A]: The "Powerless" Defense**
+> **Evidence [A]: The "Powerless" Defense**  
 > *Source: HK01 / 2025-11-30*
 >
 > "鴻毅...高級項目主任...自曝...曾「**極力反對**」選用發泡膠，惟顧問公司並非僱主，稱無權作出否決。"
@@ -6049,7 +6049,7 @@ On July 19, 2024, Will Power's Director **Wong Hap-yin** (黃俠然) sat on stag
 > *Translation:*
 > "Will Power Senior Project Officer... claimed he '**strongly opposed**' using Styrofoam, but as the consultant is not the employer, he claimed he had no right to veto."
 
-> **Evidence [B]: The "Sign-off" Reality**
+> **Evidence [B]: The "Sign-off" Reality**  
 > *Source: Oriental Daily / 2025-12-02*
 >
 > "消息人士又稱，宏業建築採購所有物料前，均要向鴻毅入紙，並**由鴻毅簽署確認**。"
@@ -6057,7 +6057,7 @@ On July 19, 2024, Will Power's Director **Wong Hap-yin** (黃俠然) sat on stag
 > *Translation:*
 > "Source stated... before procuring any materials, Prestige had to submit forms to Will Power, which were **signed and confirmed by Will Power**."
 
-> **Evidence [C]: The Expert Rebuttal (Power to Stop)**
+> **Evidence [C]: The Expert Rebuttal (Power to Stop)**  
 > *Source: HK Feature / 2025-11-29*
 >
 > "顧問工程師邵研新...表示...三個環節中只要有一項不符合標準，顧問公司**絕對有權要求工程公司停工**。"
@@ -6065,7 +6065,7 @@ On July 19, 2024, Will Power's Director **Wong Hap-yin** (黃俠然) sat on stag
 > *Translation:*
 > "Consultant Engineer Siu... stated... if any part does not meet standards, the Consultant has the **absolute right to order the engineering company to stop work**."
 
-> **Evidence [D]: The Active Suppression**
+> **Evidence [D]: The Active Suppression**  
 > *Source: Ming Pao / 2025-12-10*
 >
 > "顧問公司「鴻毅」...以「已買料」為由，**要求居民先賠償**，加上鴻毅稱**發泡膠無問題**..."
@@ -6073,7 +6073,7 @@ On July 19, 2024, Will Power's Director **Wong Hap-yin** (黃俠然) sat on stag
 > *Translation:*
 > "Consultant 'Will Power'... citing 'materials bought', **demanded residents pay compensation first**, adding that **Styrofoam was no problem**..."
 
-> **Evidence [E]: The Public Endorsement**
+> **Evidence [E]: The Public Endorsement**  
 > *Source: Green Bean Media / 2024-07-19*
 >
 > "工程顧問「鴻毅」董事**黃俠然**...均有出席。...譚雋生...展示了...所用物料正是白色發泡膠。"
