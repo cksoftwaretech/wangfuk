@@ -304,7 +304,7 @@ A landmark court case and subsequent academic analysis reveal the "Business Mode
 
 **1. The "17%" Benchmark:**
 *   **The Garden Vista Formula:** 10% to MC Chairman + 6% to Management Co. Executive + 1% to Property Manager = **17% Kickback**.
-*   **Applying to Wang Fuk:** On a HK$330 million contract, a similar 17% kickback structure would amount to **HK$56.1 million**. This explains the desperate drive to [inflate the contract sum](#-e-cartel-2023-10-30-01-the-hk150-million-upsell-how-10-year-warranty-was-used-to-double-the-bill): the larger the total, the larger the bribe.
+*   **Applying to Wang Fuk:** On a HK$330 million contract, a similar 17% kickback structure would amount to **HK$56.1 million**. This explains the desperate drive to [inflate the contract sum](#-e-cartel-willpower-2023-10-30-01-the-hk150-million-upsell-how-10-year-warranty-was-used-to-double-the-bill): the larger the total, the larger the bribe.
 
 **2. The Invisible "Consultant's Cut":**
 The academic paper notes that this 17% is *"on top of the likely inflated prices charged by the consultant and engineering firms."*
@@ -1372,7 +1372,7 @@ Investigative reporting confirms that the Consultant fee charged by **Will Power
 
 **2. The "Loss Leader" Strategy:**
 Industry insider "Mr. Chow" (Contractor) explicitly confirmed the cartel script: "**The script is already set... arrange cheap companies here... why would I do it for less than $10k a month? Of course, it's for the follow-up.**"
-*   *The Mechanism:* Consultants undercharge to win the "Gatekeeper" role. Once inside, they earn their *real* profit via **kickbacks** from the Contractor (See [the 17% bribe](#-e-cartel-2010-12-31-01-the-17-bribe-the-hidden-tax-behind-the-hk330-million-bill)). This explains why Will Power was desperate to push the [expensive "Option 3"](#-e-cartel-2023-10-30-01-the-hk150-million-upsell-how-10-year-warranty-was-used-to-double-the-bill) and sign off on [cheap Styrofoam](#-e-safety-foam-2024-09-16-01-the-tapeer-fraud-counterfeit-brands--rigged-safety-demos)—they were maximizing the Contractor's margin to maximize their own kickback.
+*   *The Mechanism:* Consultants undercharge to win the "Gatekeeper" role. Once inside, they earn their *real* profit via **kickbacks** from the Contractor (See [the 17% bribe](#-e-cartel-2010-12-31-01-the-17-bribe-the-hidden-tax-behind-the-hk330-million-bill)). This explains why Will Power was desperate to push the [expensive "Option 3"](#-e-cartel-willpower-2023-10-30-01-the-hk150-million-upsell-how-10-year-warranty-was-used-to-double-the-bill) and sign off on [cheap Styrofoam](#-e-safety-foam-2024-09-16-01-the-tapeer-fraud-counterfeit-brands--rigged-safety-demos)—they were maximizing the Contractor's margin to maximize their own kickback.
 
 **3. The Absurd Justification:**
 Former District Councilor Herman Yiu recalls Will Power explaining the low fee by claiming they were "familiar with the estate" due to prior inspection work.
