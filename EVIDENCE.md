@@ -78,7 +78,7 @@
 76. [[E-SAFETY-2025-05-21-01] The 10-Month Ghost Supervisor & The "Closed-Loop" Collusion](#-e-safety-2025-05-21-01-the-10-month-ghost-supervisor--the-closed-loop-collusion)  
 77. [[E-SAFETY-WINDOWS-2025-06-21-01] The Paper Deadline: How a "Completed" Project Remained a Fire Trap for 5 More Months](#-e-safety-windows-2025-06-21-01-the-paper-deadline-how-a-completed-project-remained-a-fire-trap-for-5-more-months)  
 78. [[E-SAFETY-2025-07-17-01] The "Hostage" Strategy: How Payment Disputes Extended the Danger Zone](#-e-safety-2025-07-17-01-the-hostage-strategy-how-payment-disputes-extended-the-danger-zone)  
-79. [[E-CARTEL-PRESTIGE-2025-08-30-01] The "Schrödinger's AP": How Sky Arashi Faked its Credentials to Win Contracts](#-e-cartel-prestige-2025-08-30-01-the-schrdingers-ap-how-sky-arashi-faked-its-credentials-to-win-contracts)  
+79. [[E-CARTEL-PRESTIGE-2025-08-30-01] The "Schrödinger's AP": How Sky Arashi Faked its Credentials to Win Contracts](#-e-cartel-prestige-2025-08-30-01-the-schrödingers-ap-how-sky-arashi-faked-its-credentials-to-win-contracts)  
 80. [[E-CARTEL-WILLPOWER-2025-08-30-01] The "Recurring Cast": How the Same Dummy Firms Rigged Tenders Across Tai Po](#-e-cartel-willpower-2025-08-30-01-the-recurring-cast-how-the-same-dummy-firms-rigged-tenders-across-tai-po)  
 81. [[E-ADMIN-2025-09-29-01] Documentary Failures: The 'Lift Contractor' Error & The $1.7M Mislabeling](#-e-admin-2025-09-29-01-documentary-failures-the-lift-contractor-error--the-17m-mislabeling)  
 82. [[E-SAFETY-NETS-2025-10-18-01] The Price of Life: HK$561 per Victim & The 5% Decoy](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk561-per-victim--the-5-decoy)  
