@@ -6915,7 +6915,7 @@ Fu Shin Estate (Sky Arashi project) and Wang Fuk Court (Will Power project) are 
 > "Sky Arashi said Wong is a "surveying consultant" in its profile and did not work on Fu Shan. "
 > "Reporter found URA register shows Sky Arashi’s authorised person and inspector is Ho Wai‑keung."
 
-> **Evidence [C]: Wong as Sky Arashi's AP**
+> **Evidence [C]: Wong as Sky Arashi's AP**  
 > *Source: Fu Shan Resident's Powerpoint Evidence*
 >
 > "天嵐建築及測量顧問有限公司... 為加強各方客戶對本公司建築及測量顧問服務投以信心一票，本公司之專業團隊有以下成員：認可人士兩名...
