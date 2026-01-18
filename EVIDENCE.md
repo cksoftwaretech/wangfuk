@@ -109,12 +109,13 @@
 107. [[E-GOV-ALARM-2025-12-03-01] The "Silent" Alarm Mystery: Official Chaos & The 2-Year Penalty for 168 Lives](#-e-gov-alarm-2025-12-03-01-the-silent-alarm-mystery-official-chaos--the-2-year-penalty-for-168-lives)  
 108. [[E-GOV-NETS-2025-12-03-02] The "Total Demolition" Order: An Admission of Systemic Collapse](#-e-gov-nets-2025-12-03-02-the-total-demolition-order-an-admission-of-systemic-collapse)  
 109. [[E-GOV-WINDOWS-2025-12-11-01] The Bureaucratic Maze: "Not My Department" While People Died](#-e-gov-windows-2025-12-11-01-the-bureaucratic-maze-not-my-department-while-people-died)  
-110. [[E-ENFORCE-2025-04-15-01] The Evidence Magicians: "No File" Before the Fire, 11 Arrests After the Bodies Piled Up](#-e-enforce-2025-04-15-01-the-evidence-magicians-no-file-before-the-fire-11-arrests-after-the-bodies-piled-up)  
-111. [[E-ENFORCE-NETS-2025-12-01-01] The "Sloppy" Admission](#-e-enforce-nets-2025-12-01-01-the-sloppy-admission)  
-112. [[E-ENFORCE-NETS-2025-12-01-02] The 95% vs 35% Paradox: A Statistical Miracle?](#-e-enforce-nets-2025-12-01-02-the-95-vs-35-paradox-a-statistical-miracle)  
-113. [[E-ENFORCE-NETS-2025-12-03-01] The Passive Police: Media did the Police's Job](#-e-enforce-nets-2025-12-03-01-the-passive-police-media-did-the-polices-job)  
-114. [[E-MEDIA-2025-11-27-01] The "Stenography Journalism" & The Missed Scam](#-e-media-2025-11-27-01-the-stenography-journalism--the-missed-scam)  
-115. [[E-MEDIA-2025-11-30-01] The Vanishing Truth: Why State Media Deleted Its Own Scoop on the Cartel](#-e-media-2025-11-30-01-the-vanishing-truth-why-state-media-deleted-its-own-scoop-on-the-cartel)  
+110. [[E-ENFORCE-ACCIDENTAL-2025-03-21] The "CCTV Miracle": How a Bar Fight, Not Detective Work, Exposed the Cartel's Network](#-e-enforce-accidental-2025-03-21-the-cctv-miracle-how-a-bar-fight-not-detective-work-exposed-the-cartels-network)  
+111. [[E-ENFORCE-2025-04-15-01] The Evidence Magicians: "No File" Before the Fire, 11 Arrests After the Bodies Piled Up](#-e-enforce-2025-04-15-01-the-evidence-magicians-no-file-before-the-fire-11-arrests-after-the-bodies-piled-up)  
+112. [[E-ENFORCE-NETS-2025-12-01-01] The "Sloppy" Admission](#-e-enforce-nets-2025-12-01-01-the-sloppy-admission)  
+113. [[E-ENFORCE-NETS-2025-12-01-02] The 95% vs 35% Paradox: A Statistical Miracle?](#-e-enforce-nets-2025-12-01-02-the-95-vs-35-paradox-a-statistical-miracle)  
+114. [[E-ENFORCE-NETS-2025-12-03-01] The Passive Police: Media did the Police's Job](#-e-enforce-nets-2025-12-03-01-the-passive-police-media-did-the-polices-job)  
+115. [[E-MEDIA-2025-11-27-01] The "Stenography Journalism" & The Missed Scam](#-e-media-2025-11-27-01-the-stenography-journalism--the-missed-scam)  
+116. [[E-MEDIA-2025-11-30-01] The Vanishing Truth: Why State Media Deleted Its Own Scoop on the Cartel](#-e-media-2025-11-30-01-the-vanishing-truth-why-state-media-deleted-its-own-scoop-on-the-cartel)  
 
 ---
 
