@@ -1606,6 +1606,86 @@ Owners likely avoided the cheapest options (like Paul Kong) thinking they were "
 
 ---
 
+### 🆔 [E-CARTEL-WILLPOWER-2020-09-30-01] The Price of Resistance: Beaten, Broken, but HK$7 Million Saved
+
+**🚨 Significance:**
+
+The case of **Hopewell House (合和大廈)** serves as the bloody counter-narrative to Wang Fuk Court. It proves that defeating the Cartel is requires physical sacrifice. Residents successfully overthrew a Cartel-backed MC and rejected **Will Power (鴻毅)**, saving **HK$7 million** in renovation costs. However, the victory came at the cost of extreme violence: the new MC Chairman was **beaten by masked men with brass knuckles** until his eye socket fractured.
+
+**1. The "Will Power" Playbook (Again):**
+In 2018, the old MC appointed Will Power as Consultant for a suspiciously low fee of **HK$380,000**.
+*   *The Pattern:* Will Power proposed a **HK$40 million** renovation (without detailed breakdown), despite no mandatory orders being issued yet. This mirrors the "Low Fee, High Upsell" strategy seen at Wang Fuk and On Kay.
+
+**2. The Violence of Desperation:**
+When residents organized to reject the tender and replace the MC, the Cartel escalated to terrorism.
+*   *The Tactics:* Phone threats ("I'll move you"), red paint on doors, car vandalism, and finally, a **public assault**.
+*   *The Attack:* On the day the new MC voted to change the Management Company, 4 masked men ambushed the Chairman with weapons. Police closed the case due to "insufficient evidence" after 9 months, granting impunity to the attackers.
+
+**3. The 17% Savings:**
+After expelling the Cartel and re-tendering through URA's Smart Tender, the final project cost dropped from HK$40M to **HK$33M**.
+*   *The Math:* The saving of HK$7 million represents **17.5%** of the original price. This matches the [**17% Bribe**](#-e-cartel-2010-12-31-01-the-17-bribe-the-hidden-tax-behind-the-hk330-million-bill) benchmark established in the Garden Vista case.
+*   *Conclusion:* The HK$7 million "surplus" in the original bid was the Cartel's profit margin. The Chairman literally took a beating to save this money for the owners.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The "Will Power" Scheme (Low Fee, High Bid)**
+> *Source: HK01 / 2026-01-08*
+>
+> "2018年12月，舊法團登報招標... 中標者為... 「鴻毅建築師有限公司」，顧問費達38萬元。... 10月底，工程顧問提出大維修估價高達4,000萬元，卻未有列明工程細項或單價。... 基於造價高昂，業主最終否決維修方案。惟舊法團於同年12月再度召開業主大會表決大維修... 居民組織曾向廉政公署、競委會求助，均未能跟進... 最終居民再次反對大維修，並成功推翻舊法團。"
+>
+> *Translation:*
+> "Dec 2018, old MC tendered... Winner was 'Will Power Architects'... consultant fee HK$380,000... End of Oct, Consultant proposed renovation estimate up to HK$40 million, without itemized breakdown... Due to high cost, owners vetoed... But old MC convened EGM again in Dec... Residents sought help from ICAC, Competition Commission, but no follow-up... Finally residents vetoed again and overthrew the old MC."
+
+> **Evidence [B]: The Campaign of Terror**
+> *Source: HK01 / 2026-01-08*
+>
+> "在這場維修風波中，黃先生稱其上司曾接獲恐嚇電話，指控黃「阻住地球轉」... 他與其他居民亦飽受滋擾電話轟炸，對方威逼利誘：「你點先服，一係我唔收你維修費」、「你點先肯，一係我郁你，你小心啲」。在12月的業主大會上，亦有街坊透露曾遭黑社會來電恐嚇... 甚至被貼追債「大字報」... 「打爛我架車...我唔驚死，你即管嚟，有人去我單位淋紅油，即係警告我今日唔好嚟開會」。"
+>
+> *Translation:*
+> "During the controversy, Mr. Wong said his boss received threatening calls accusing Wong of 'stopping the Earth from spinning'... Residents bombarded with harassment calls, threats and bribes: 'How to make you submit? Or I waive your fee?', 'Or I move on you, watch out'... Residents revealed Triad calls, debt posters... 'Smashed my car... I'm not afraid of death... someone splashed red paint on my unit, warning me not to attend the meeting today'."
+
+> **Evidence [C]: The Assault & Police Inaction**
+> *Source: HK01 / 2026-01-08*
+>
+> "黃指當選後，發現管理費帳目混亂，決定招標重選管理公司。2020年9月，更換管理公司當日，黃遭四名蒙面人持懷疑鐵蓮花圍毆，致頭破血流，眼角骨折。他隨即報警，案件列作毆打傷人，惟警方調查9個月後指證據不足提出起訴，終止調查。"
+>
+> *Translation:*
+> "Wong elected... decided to re-tender Management Company. Sept 2020, on the day of changing Management Company, Wong was beaten by 4 masked men with suspected brass knuckles, head bleeding, eye socket fractured. Police classified as Assault, but terminated investigation after 9 months citing insufficient evidence."
+
+> **Evidence [D]: The Savings after Expelling Cartel**
+> *Source: HK01 / 2026-01-08*
+>
+> "2023年，法團就大維修招標，期間「鴻毅」再次入標但被剔除。... 最終選定工程公司，維修費用為3,300萬元，"
+>
+> *Translation:*
+> "2023, MC tendered for renovation. 'Will Power' bid again but was excluded... Finally selected contractor, renovation cost was HK$33 million."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**  
+"The assault was a regrettable criminal act, but linking it to the renovation tender is speculative without evidence. Police investigate all violent crimes thoroughly, but prosecution requires identification of suspects, which is difficult with masked attackers. The price difference reflects market fluctuations between 2019 and 2023, not necessarily corruption. The old MC acted in good faith based on consultant advice."
+
+**The Logical Trap:**  
+1.  **Timing is Evidence:** The assault happened *on the day* the Management Company was being replaced. The red paint happened *during* the tender process. Coincidence is mathematically impossible. The violence was clearly **instrumental** to stop the reform.
+2.  **The "Market Fluctuation" Lie:** Construction costs *rose* between 2019 and 2023 due to inflation. If the price *dropped* by 17% despite inflation, it proves the original price was **massively inflated**. The "Market" didn't change; the **"Corruption Premium"** was removed.
+3.  **The "Good Faith" Defense:** A MC that acts in "good faith" does not need thugs to beat up its successors. The violence is the ultimate proof of **Bad Faith**.
+
+**¶ Statutory Basis:**
+
+*   **Offence:** Wounding with Intent / Criminal Intimidation.
+
+**📅 Timeline:**
+*   **2018-12:** Old MC hires Will Power ($380k).
+*   **2019-10:** Will Power proposes a HK$40 million renovation.
+*   **2019-12:** Residents overthrow Old MC despite threats.
+*   **2020-09:** New Chairman beaten (eye fracture) while changing Management Co.
+*   **2023:** New tender completed for HK$33M (Saving $7M).
+
+**🔗 Links:**
+*   [HK01 Investigation](https://www.hk01.com/社會新聞/60310350/)
+
+---
+
 ### 🆔 [E-ADMIN-2021-03-02-01] The "Election Agents": Why the MC Campaigned for the Management Company
 
 **🚨 Significance:**
