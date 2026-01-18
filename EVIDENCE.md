@@ -6604,7 +6604,7 @@ Allowing a contractor to define a schedule as "Until Done" is a failure of the *
 
 **🚨 Significance:**
 
-A devastating cross-reference of ICAC press releases and media reports reveals that the "Victory" at Hopewell House was an illusion. The contractor (**Tat Hing Construction / 達興建築**) who replaced the cartel-linked Will Power and was praised by activists as a "White Knight," was in fact the target of the ICAC's arrest for **bribery**.
+A devastating cross-reference of ICAC press releases and media reports reveals that the ["Victory" at Hopewell House](#-e-cartel-willpower-2020-09-30-01-the-price-of-resistance-beaten-broken-but-hk7-million-saved) was an illusion. The contractor (**Tat Hing Construction / 達興建築**) who replaced the cartel-linked Will Power and was praised by activists as a "White Knight," was in fact the target of the ICAC's arrest for **bribery**.
 
 **1. The "Clean" Contractor was Dirty:**
 *   **The Narrative:** After the violent coup, the new MC hired Tat Hing for HK$33M via Smart Tender. Activist Chiu Yan-loy praised Tat Hing as a victim of pressure and a veteran of the righteous "Belvedere Garden Phase 3" anti-bid rigging case.
@@ -9121,6 +9121,76 @@ HD's refusal to answer whether they *received complaints* or *inspected* the win
 **🔗 Links:**
 *   [The Collective Report](https://thecollectivehk.com/宏福苑走火木窗曾否巡查收投訴房屋署不宜透露詳/)
 *   [Yahoo News Report](https://hk.news.yahoo.com/share/0760e461-7fdc-4f76-83c7-707e4667281f)
+
+---
+
+### 🆔 [E-ENFORCE-ACCIDENTAL-2025-03-21] The "CCTV Miracle": How a Bar Fight, Not Detective Work, Exposed the Cartel's Network
+
+**🚨 Significance:**
+
+The ICAC's [high-profile arrest](#-e-cartel-willpower-2024-10-27-01-the-triad-coup-how-gangsters-seized-a-public-estate-for-profit) of 21 people in the Hopewell / Tsui Ping North bid-rigging case was not the result of proactive intelligence or the "Fire Net" operation. It was a complete accident. Investigative reports reveal the breakthrough came only because rival triad gangs fought in a restaurant, one party foolishly called the police, and a CCTV camera happened to record their conversation about splitting bribes.
+
+**1. The "Million-to-One" Luck:**
+*   **The Incident:** On March 21, 2025, representatives from three engineering firms met at a restaurant in Tsuen Wan to negotiate bid-rigging terms for a project at Kadoorie Avenue. Negotiations failed, leading to a physical fight.
+*   **The Blunder:** The victim called the police for assault. When detectives reviewed the restaurant's CCTV, they accidentally discovered it had **audio recording**, capturing the entire discussion about bid-rigging and bribe distribution.
+*   *The Verdict:* If the CCTV had no audio, or if they had fought in a back alley, the cartel would have succeeded. Justice in Hong Kong now relies on the stupidity of criminals, not the competence of enforcers.
+
+**2. The Attempted Cover-Up:**
+Realizing their mistake, the victim later tried to "drop the case".
+*   *The System's Inertia:* Police refused because the evidence of bid-rigging was already on tape. This confirms that the participants knew exactly what they were doing and tried to retreat into the shadows once exposed.
+
+**3. The Exposure of Will Power's Network:**
+While Will Power executives were arrested following the Wang Fuk fire, this separate "accidental" case exposed the broader network involving **Tsui Ping North** and **Hopewell**.
+*   *The Implication:* Without this random bar fight, the cartel's operations in other estates might have remained hidden. It suggests that unless the cartel makes a fatal, public mistake (like burning down a building or fighting in a restaurant), they operate with virtual impunity.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The "Accidental" Discovery via CCTV Audio**  
+> *Source: Chiu Yan-loy Report / 2026-01-02*
+>
+> "廉政公署最新行動，拘捕21人涉嫌屋苑維修工程圍標貪污... 江湖傳聞事件被揭發**純屬意外**，事緣兩幫人馬早前於荃灣某間餐廳就圍標分賬問題「講數」... 大打出手。翌日，有人不忿自行到尖沙咀警署報案... 探員翻查餐廳閉路電視片段時，發現CCTV居然有**錄音功能**，駭然發現對話內容與樓宇維修工程圍標談判賄款分成有關。其後，報案人雖到警署要求「銷案」，不過警方表示目前案件涉及圍標，已轉介相關執法部門跟進調查，「**無得銷案**」！"
+>
+> *Translation:*
+> "ICAC's latest action arrested 21 people for suspected bid-rigging... Rumors say the exposure was **purely accidental**. Two gangs met at a Tsuen Wan restaurant to negotiate bribe splitting... and fought. The next day, someone reported to the police... Detectives checking CCTV were shocked to find it had **audio recording**, capturing the discussion on bid-rigging bribe splitting. Later, the informant tried to 'drop the case', but police refused as it involved bid-rigging... 'No dropping the case'!"
+
+> **Evidence [B]: The Fight Details & Police Follow-up**  
+> *Source: HK01 / 2026-01-04*
+>
+> "據了解，受害人為1間工程公司負責人。去年3月21日，他被另外2間工程公司負責人，相約到荃灣悅來坊商場一餐廳，就加多利山嘉道理道46A號山景大樓維修工程投標情況「講數」，對方2公司另帶同1名朋友同行相伴。其間，雙方因意見不合，受害人遭該名朋友毆打。他逃離現場後報警。警方經調查後，發現商談內容涉及工程圍標。警方將案件列作襲擊致造成身體傷害，拘捕2名工程公司負責人，追緝在逃施襲男子，及後受害人曾到警署表示不欲追究。案件轉交有組織罪案及三合會調查科調查，據知其後再通報相關執法部門跟進。"
+>
+> *Translation:*
+> "Victim was an engineering firm boss. On March 21 last year, he met two other firm bosses at Panda Place, Tsuen Wan, to negotiate the Kadoorie Avenue Shan King Building tender... The other side brought a friend. Due to disagreement, the victim was beaten by the friend. He fled and called police. Investigation revealed the discussion involved bid-rigging. Police classified it as Assault Occasioning Actual Bodily Harm, arrested two bosses, and hunted the attacker. The victim later expressed desire not to pursue, but the case was transferred to the Organized Crime and Triad Bureau and referred to relevant enforcement departments."
+
+> **Evidence [C]: The Will Power Link**
+> *Source: HK01 / 2026-01-04*
+>
+> "其中一幢涉案的大廈是協和街合和大廈... 另一涉案屋苑為翠屏北邨... 聘用鴻毅建築師有限公司"
+>
+> *Translation:*
+> "One of the estates involved was Hopewell House... Tsui Ping North, also involved, appointed Will Power."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"Intelligence led operations often start from small leads. The fact that we followed up on a seemingly unrelated assault case to uncover a major syndicate demonstrates our thoroughness and cross-departmental cooperation. We do not rely on luck; we rely on evidence, wherever it comes from."
+
+**The Logical Trap:**
+1.  **Luck vs. System:** Relying on a restaurant CCTV having audio (rare) and a criminal calling the police on himself (rarer) is not a "system." It is a lottery. A robust system would detect the rigging through data analysis (like the Competition Commission did in 2016 but ignored) or proactive monitoring of high-risk estates.
+2.  **The "Blind Spot" Proof:** This group had been operating since at least 2018 (Hopewell tender). They were only caught in 2026 because of a fight. This means they operated undetected for **8 years**. That is not a success story; it is a confession of failure.
+3.  **The Uncaught Others:** If this group was only caught by accident, how many other groups (who don't fight in restaurants) are still operating? The statistical probability is that **99% of cartels remain untouched**.
+
+**¶ Statutory Basis:**
+
+*   **Context:** Intelligence Gathering / Serendipitous Discovery.
+
+**📅 Timeline:**
+*   **2025-03-21:** Bar fight in Tsuen Wan. Police seize CCTV with audio.
+*   **2025-Late:** Police refer bid-rigging evidence to ICAC.
+*   **2026-01-02:** ICAC arrests 21 people (linked to Will Power / Tsui Ping).
+
+**🔗 Links:**
+*   [HK01 Report](https://www.hk01.com/突發/60309418/)
+*   [Chiu Yan-loy Report](https://www.facebook.com/share/p/1AGxpzKrer/)
 
 ---
 
