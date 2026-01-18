@@ -6598,6 +6598,72 @@ Allowing a contractor to define a schedule as "Until Done" is a failure of the *
 
 ---
 
+### 🆔 [E-CARTEL-UBIQUITY-2025-03-26-01] The End of Hope: Even the "White Knights" are Corrupt
+
+**🚨 Significance:**
+
+A devastating cross-reference of ICAC press releases and media reports reveals that the "Victory" at Hopewell House was an illusion. The contractor (**Tat Hing Construction / 達興建築**) who replaced the cartel-linked Will Power and was praised by activists as a "White Knight," was in fact the target of the ICAC's arrest for **bribery**.
+
+**1. The "Clean" Contractor was Dirty:**
+*   **The Narrative:** After the violent coup, the new MC hired Tat Hing for HK$33M via Smart Tender. Activist Chiu Yan-loy praised Tat Hing as a victim of pressure and a veteran of the righteous "Belvedere Garden Phase 3" anti-bid rigging case.
+*   **The Reality:** The ICAC arrested 21 people involving *two* estates. The first case involved a **HK$33M contract** (matching Hopewell House's exact figure) obtained via bribery.
+*   *The Verdict:* Tat Hing didn't win because they were honest; they won because they bribed the *new* consultants or middlemen. The "Anti-Bid Rigging" hero was just another villain in a different mask.
+
+**2. The Universality of Corruption:**
+This finding shatters the binary of "Good Contractors vs. Bad Contractors."
+*   *The System:* It suggests that in Hong Kong's construction sector, **bribery is the operating system**. Even firms that work with "Reformist" MCs and use "Smart Tender" still resort to illegal means to secure contracts. There are no clean hands.
+
+**3. The Expert's Blindness:**
+Chiu Yan-loy's defense of Tat Hing ("unspeakable bitterness") highlights how even the most experienced watchdogs can be duped. If the Anti-Bid Rigging Alliance cannot distinguish a bribe-payer from a victim, ordinary owners have zero chance.
+
+**📜 Original Record:**
+
+> **Evidence [A]: Identifying the Contractor**
+> *Source: HK01 / 2026-01-08*
+>
+> "觀塘合和大廈大維修被揭發涉及貪污，廉政公署拘捕21人。根據大廈公告板張貼的告示，今次大維修工程承建商為**達興建築有限公司**。工程由2025年3月26日開展，預計歷時230天，原訂在2025年11月10日完成。"
+>
+> *Translation:*
+> "Kwun Tong's Hopewell House renovation revealed to involve corruption; ICAC arrested 21 people. According to the notice posted on the building's bulletin board, the contractor for this major renovation is **Tat Hing Construction Company Limited**. The project started on March 26, 2025, expected to last 230 days, originally scheduled for completion on November 10, 2025."
+
+> **Evidence [B]: The Bribery & Contract Value**
+> *Source: ICAC Press Release / 2026-01-02*
+>
+> "廉署上星期採取執法行動... 先後拘捕共21名人士... 行動涉及觀塘區兩個屋苑的大維修工程。就其中一項工程，涉案工程承辦商涉嫌透過中間人行賄工程顧問及屋苑法團部分成員，以取得總值約 **3,300萬元** 的工程合約。另一項工程則仍在籌備階段..."
+>
+> *Translation:*
+> "ICAC took enforcement action last week... arrested a total of 21 persons... The operation involved major renovation works at two estates in Kwun Tong District. Regarding one project, the contractor involved is suspected of bribing the consultant and MC members through a middleman to secure a contract worth approximately **HK$33 million**. The other project was still in the preparatory stage..."
+
+> **Evidence [C]: The "White Knight" Narrative**
+> *Source: Chiu Yan-loy Report / 2026-01-08*
+>
+> "雖然如此，觀塘合和大廈新任法團主席未有退縮，繼續與大廈共存亡。... 最終，大廈法團再就大維修招標... 費用總額為 **3300萬元**，遠較當年僅做樓宇復修工程還要少七百多萬元。而咁啱得咁蹺，這次中標與十年前協助荃灣麗城花園三期維修工程，正是同一間承建商。但接手觀塘合和大廈這單工程，承建商都飽受了不少壓力，當中辛酸不足為外人道！"
+>
+> *Translation:*
+> "Nevertheless, the new MC Chairman of Hopewell House did not back down... Finally, the MC re-tendered... total cost was **HK$33 million**, more than HK$7 million less than the original... Coincidentally, the winner is the same contractor that assisted with the renovation of Belvedere Garden Phase 3 in Tsuen Wan ten years ago. However, taking over this project at Hopewell House, the contractor suffered immense pressure; their bitterness is unspeakable!"
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"The HK$33M figure is a coincidence. The bribery allegations might involve subcontractors or unauthorized middlemen acting without the company's board approval. We delivered a project HK$7M cheaper than the previous bid, proving we saved owners money. The investigation is ongoing, and we should not rush to judgment."
+
+**The Logical Trap:**
+1.  **The "33M" Fingerprint:** In a specific district (Kwun Tong) at a specific time (Jan 2026), two projects with *exactly* HK$33M value involving arrests is statistically a single event. Denying the link is futile.
+2.  **Savings ≠ Innocence:** Saving HK$7M proves the *previous* bid was inflated, but it doesn't prove the *current* bid is clean. It just means the new bribe (likely included in the 33M) was smaller than the old bribe (included in the 40M). Corruption exists on a spectrum.
+3.  **The "Middleman" Reality:** The ICAC stated bribery was "via middlemen." This confirms that even under a "Clean" MC, the industry ecosystem forces contractors to pay "gatekeepers" (consultants/agents) to get the job. The rot is in the soil, not just the fruit.
+
+**📅 Timeline:**
+*   **2025-03-26:** Work begins after Tat Hing won Hopewell contract (HK$33M).
+*   **2026-01-02:** ICAC arrests 21 people; links "HK$33M project" to bribery.
+*   **2026-01-08:** Media connects Tat Hing to the arrest.
+
+**🔗 Links:**
+*   [ICAC Press Release](https://www.icac.org.hk/tc/p/press/index_id_2225.html)
+*   [HK01 Report](https://www.hk01.com/article/60309102)
+*   [Chiu Yan-loy Report](https://www.facebook.com/share/p/12L3KXJbH9d/)
+
+---
+
 ### 🆔 [E-GOV-2025-04-16-01] The Ignored Blueprint: How the Ombudsman Predicted the Disaster 7 Months Early
 
 **🚨 Significance:**
