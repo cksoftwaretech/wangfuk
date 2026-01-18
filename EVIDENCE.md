@@ -8900,9 +8900,9 @@ When asked *what* they actually checked during that surprise inspection, the Lab
 *   **Duty:** Inspection and Enforcement (Buildings Ordinance / FIUO).
 
 **📅 Timeline:**
-*   **2025-09-24:** [Typhoon](https://www.hko.gov.hk/tc/天氣隨筆/109859/樺加沙帶來的十號風球) exposes net fragility.
+*   **2025-09-24:** Typhoon exposes net fragility — [ref](https://www.hko.gov.hk/tc/天氣隨筆/109859/樺加沙帶來的十號風球)
 *   **2025-10-Early:** Residents complain to 1823 (Photos of mixed colors).
-*   **2025-10-18:** [Central Fire](https://www.hk01.com/突發/60286636). Residents chase departments again.
+*   **2025-10-18:** Central Fire; Residents chase departments again — [report](https://www.hk01.com/突發/60286636)
 *   **2025-11-24:** LD mentions Surprise Inspection & Warning issued.
 *   **2025-11-26:** Fire destroys the estate.
 
