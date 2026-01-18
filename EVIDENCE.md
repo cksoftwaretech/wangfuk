@@ -1682,7 +1682,7 @@ After expelling the Cartel and re-tendering through URA's Smart Tender, the fina
 *   **2019-10:** Will Power proposes a HK$40 million renovation.
 *   **2019-12:** Residents overthrow Old MC despite threats.
 *   **2020-09:** New Chairman beaten (eye fracture) while changing Management Co.
-*   **2023:** New tender completed for HK$33M (Saving $7M).
+*   **2023 Onwards:** New tender completed for HK$33M (Saving $7M).
 
 **🔗 Links:**
 *   [HK01 Investigation](https://www.hk01.com/社會新聞/60310350/)
