@@ -7452,7 +7452,7 @@ This was not negligence; it was a calculated cover-up. Following a scaffolding f
 
 **📜 Original Record:**
 
-> **Evidence [A]: The Price Tag of Fraud**
+> **Evidence [A]: The Price Tag of Fraud**  
 > *Source: ICAC (via news.gov.hk) / 2025-12-01*
 >
 > "證據顯示，涉案人士以每卷**54元**的價錢，購買**2,300卷**...未達阻燃標準。...涉案人士擔心棚架防護網會被抽查檢驗...以每卷**100元**的價錢，購買**115卷**...達阻燃標準...意圖魚目混珠"
@@ -7460,7 +7460,7 @@ This was not negligence; it was a calculated cover-up. Following a scaffolding f
 > *Translation:*
 > "Evidence shows suspects purchased **2,300 rolls** of non-compliant nets at **$54/roll**. Fearing inspection... they purchased **115 rolls** of compliant nets at **$100/roll**... intending to pass off fish eyes as pearls (deceive)."
 
-> **Evidence [B]: The Calculation**
+> **Evidence [B]: The Calculation**  
 > *Source: Derived from ICAC Data*
 >
 > *   **Hypothetical Full Compliance:** 2,300 rolls × $100 = **HK$230,000**
@@ -7474,8 +7474,8 @@ This was not negligence; it was a calculated cover-up. Following a scaffolding f
 *   Corrupt Transactions, [Cap 201 Section 9](https://www.elegislation.gov.hk/hk/cap201!en/s9?_lang=en)
 
 **📅 Timeline:**
-*   **2025-07-20:** [Typhoon](https://www.hko.gov.hk/tc/wxinfo/pastwx/mws2025/mws202507.htm) damages nets; cheap replacements ($54) bought.
-*   **2025-10-18:** [Central Fire](https://www.hk01.com/突發/60286636) occurs; suspects panic.
+*   **2025-07-20:** Typhoon damages nets; cheap replacements ($54) bought — [ref](https://www.hko.gov.hk/tc/wxinfo/pastwx/mws2025/mws202507.htm)
+*   **2025-10-18:** Central Fire occurs; suspects panic — [ref](https://www.hk01.com/突發/60286636)
 *   **2025-10 (late October):** Decoy nets ($100) bought and installed at bottom.
 *   **2025-11-26:** The Fire (Flammable nets accelerate spread).
 *   **2025-12-01:** ICAC arrests 12 suspects.
