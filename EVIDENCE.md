@@ -451,7 +451,7 @@ From 2011 (First Warning) to 2025 (Wang Fuk Fire), the government secured **zero
 *   **2015-12-02:** Paul Chan admits bid-rigging and Triad involvement — [source](https://www.devb.gov.hk/tc/legco_matters/replies_to_legco_questions/index_id_8847.html)
 *   **2016-05-24:** Comp Comm proves statistical collusion — [source](https://www.compcomm.hk/tc/media/press/files/Report_on_market_study_tc.pdf)
 *   **2016-09-29:** Court warns that bid-rigging leads to "lowered engineering quality" — [judgement](https://legalref.judiciary.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=106355&QS=%2B&TP=RS)
-*   **2016-2025:** No major enforcement action.
+*   **2016-2025:** No major prosecution action.
 *   **2025-11-26:** Wang Fuk Fire.
 
 **🔗 Links:**
