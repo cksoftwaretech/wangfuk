@@ -6166,10 +6166,10 @@ Tsui Ping North is a **Tenants Purchase Scheme (TPS)** estate with an aging, low
 > **Evidence [D]: Will Power's Victory via Proxies**  
 > *Source: Chiu Yan-loy Report / 2026-01-03*
 >
-> "翠屏北邨法團面對強大壓力，逼於無奈透過市建局「招標妥」招標大維修工程顧問，結果有21間工程顧問落標。由於法團本身極力反對大維修工程，於是在業主大會投票選項中，加入了否決大維修工程。然而，小業主出席人數寥寥可數，無力抵禦「專業大戶」手持大量授權書，最終由「鴻毅建築師有限公司」以79.5萬元中標（驗樓費用 $39萬；工程監督 $40.5萬）... 而在業主大會當日，原任法團委員們亦遭投票撤換，推舉新人取而代之。"
+> "翠屏北邨... 從未接獲... 「強制驗樓」法定通知... 法團面對強大壓力，逼於無奈透過市建局「招標妥」招標大維修工程顧問，結果有21間工程顧問落標。由於法團本身極力反對大維修工程，於是在業主大會投票選項中，加入了否決大維修工程。然而，小業主出席人數寥寥可數，無力抵禦「專業大戶」手持大量授權書，最終由「鴻毅建築師有限公司」以79.5萬元中標（驗樓費用 $39萬；工程監督 $40.5萬）... 而在業主大會當日，原任法團委員們亦遭投票撤換，推舉新人取而代之。"
 >
 > *Translation:*
-> "Facing immense pressure, the Tsui Ping (North) Estate IO reluctantly tendered for a major renovation consultant through the URA's 'Smart Tender', resulting in 21 consultants bidding. As the IO itself strongly opposed the renovation, they included an option to veto the renovation in the owners' meeting vote. However, attendance by small owners was sparse, unable to resist the 'professional players' holding massive amounts of proxy forms. Ultimately, 'Will Power Architects Company Limited' won the bid for HK$795,000 (Inspection fee $390k; Supervision $405k)... On the day of the meeting, the original IO committee members were also voted out and replaced by new members."
+> "Tsui Ping North has never received a statutory "mandatory building inspection" notice... Facing immense pressure, IO reluctantly tendered for a major renovation consultant through the URA's 'Smart Tender', resulting in 21 consultants bidding. As the IO itself strongly opposed the renovation, they included an option to veto the renovation in the owners' meeting vote. However, attendance by small owners was sparse, unable to resist the 'professional players' holding massive amounts of proxy forms. Ultimately, 'Will Power Architects Company Limited' won the bid for HK$795,000 (Inspection fee $390k; Supervision $405k)... On the day of the meeting, the original IO committee members were also voted out and replaced by new members."
 
 > **Evidence [E]: Government Response**  
 > *Source: RTHK / 2026-01-02*
