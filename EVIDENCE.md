@@ -5704,7 +5704,7 @@ The Government confirmed post-fire that the material was "flammable." Yet, this 
 
 **🚨 Significance:**
 
-Survivors' testimonies reveal that the Styrofoam window sealing (SOP) created a fatal **"Sensory Deprivation"** effect. With the fire alarm system already [disabled](#-e-gov-alarm-2025-12-03-01-the-silent-alarm-mystery-official-chaos--the-2-year-penalty-for-161-lives), visual confirmation was the residents' *last line of defense*. The foam boards stripped them of this defense, causing critical delays in evacuation.
+Survivors' testimonies reveal that the Styrofoam window sealing (SOP) created a fatal **"Sensory Deprivation"** effect. With the fire alarm system already [disabled](#-e-gov-alarm-2025-12-03-01-the-silent-alarm-mystery-official-chaos--the-2-year-penalty-for-168-lives), visual confirmation was the residents' *last line of defense*. The foam boards stripped them of this defense, causing critical delays in evacuation.
 
 **1. The "One Hour" Delay:**
 Mr. Wong, a survivor, was working from home. He heard no alarm. When a friend called to warn him, he tried to check outside but **"could not see"** because the windows were sealed with Styrofoam.
