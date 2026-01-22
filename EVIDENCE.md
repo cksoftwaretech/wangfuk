@@ -1662,12 +1662,12 @@ Analysis reveals that **8 companies** bidding for the Wang Fuk renovation are ti
 > **Evidence [D]: The Erased Organizational Chart**  
 > *Source: Green Bean Media [Video Report 9:29] / 2026-01-14*
 >
-> 會長 President |  尹國強先生 Mr. Steve WAN
-> 主席 Chairman | 蔡啟新先生 Mr. Dick CHOI
-> 常務副會長 Executive Vice-President | 譚子文先生 Mr. Richie TAM 李植開先生 Mr. LI Chik Hoi 郭俊華先生 Mr. Wayne KWOK 謝俊邦先生 Mr. Antony TSE
-> 會董監理 Board of Supervisor | 蔡家濠先生 Mr. Melvis CHOI
-> 會董 Director | 鄺永強先生 Mr. Wilson KWONG 韋漢棠先生 Mr. Derek WAI 彭駿傑先生 Mr. Peter PANG 袁達強先生 Mr. Bernie YUEN
->                           | 鄧崇山先生 Mr. David TANG 張國良先生 Mr. Alex CHEUNG 簡志成先生 Mr. Simon KAN 郭成芳先生 Mr. Viky KWOK
+> 會長 President |  尹國強先生 Mr. Steve WAN  
+> 主席 Chairman | 蔡啟新先生 Mr. Dick CHOI  
+> 常務副會長 Executive Vice-President | 譚子文先生 Mr. Richie TAM 李植開先生 Mr. LI Chik Hoi 郭俊華先生 Mr. Wayne KWOK 謝俊邦先生 Mr. Antony TSE  
+> 會董監理 Board of Supervisor | 蔡家濠先生 Mr. Melvis CHOI  
+> 會董 Director | 鄺永強先生 Mr. Wilson KWONG 韋漢棠先生 Mr. Derek WAI 彭駿傑先生 Mr. Peter PANG 袁達強先生 Mr. Bernie YUEN  
+>                           | 鄧崇山先生 Mr. David TANG 張國良先生 Mr. Alex CHEUNG 簡志成先生 Mr. Simon KAN 郭成芳先生 Mr. Viky KWOK  
 >                          | 李小玲小姐 Ms. LI Xiao Ling
 
 > **Evidence [E]: The Corporate Links**  
