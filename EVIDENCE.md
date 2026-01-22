@@ -1785,6 +1785,7 @@ Analysis reveals that **8 companies** bidding for the Wang Fuk renovation are ti
 *   **2020-02-12:** Wellman donates to Guangxi (Political arm active) — [source](https://www.facebook.com/share/p/1PW1iUwA7f/)
 *   **2023-07-04:** The "Wellman 8" submit bids for Wang Fuk — (Contractor arm active).
 *   **2024-01-28:** Prestige wins Wang Fuk.
+*   **2025-11-26:** Fire. 168 dead. 
 *   **2026-01-14:** Wellman exposure — [report](https://greenbean.media/圍標調查-三｜揭宏福苑總承建商侯華建「深紅」/)
 
 **🔗 Links:**
