@@ -3425,15 +3425,23 @@ This specific weighting (High MPF points / Low Professional points) appears cust
 
 **🚨 Significance:**
 
-Investigative reporting exposes a web of cross-ownership linking the winning contractor, **Prestige (宏業)**, to at least four other "competitors" in the tender. Corporate registry filings prove that Prestige's owner, **Hau Wah-kin**, is a direct business partner or former co-director with the owners of these rival firms.
+Investigative reporting exposes a web of cross-ownership linking the winning contractor, **Prestige (宏業)**, to at least four other "competitors" in the tender. Corporate registry filings prove that Prestige's owner, **Hau Wah-kin**, is a direct business partner with the owners of these rival firms. Furthermore, they are all high-ranking office bearers in the same organization: **Wellman Sports Association (康仁體育會)**.
 
 **1. The "Partner" Competitors:**
-*   **Man Sing (民星營造):** Owned by **Richie Tam Tsz-man (譚子文)**, who co-owns "Rich Surplus Develop Ltd" (利來拓展有限公司) with Prestige's Hau (50/50 split). They are literally business partners.
-*   **San Hoi Ming (新開明) & Sunarts (信豪):** Owned by **Li Chik-hoi** (李植開) and **Choi Man-ming** (蔡文鳴) respectively. Both were co-directors with Hau in "Blazing Edge Ltd" (炬鋒有限公司).
-*   **Now Construction (現代建設):** Linked via the "Wellman Sports Association" (康仁體育會) nexus, where Tam (Man Sing) and Prestige associates hold key posts.
+*   **Man Sing (民星營造):** Owned by **Richie Tam Tsz-man (譚子文)**.
+    *   *Link:* Tam is a 50/50 partner with Prestige's Hau in "Rich Surplus Develop Ltd".
+    *   *Club Role:* Tam was **Executive Vice-President** of Wellman.
+*   **San Hoi Ming (新開明):** Owned by **Li Chik-hoi (李植開)**.
+    *   *Link:* Li was a co-director with Hau in "Blazing Edge Ltd".
+    *   *Club Role:* Li was **Executive Vice-President** of Wellman.
+*   **Sunarts (信豪):** Owned by **Choi Man-ming** (蔡文鳴). 
+    *   *Link:* Choi was also a co-director with Hau in "Blazing Edge Ltd".
+*   **Now Construction (Asia) (現代建設):** Director **Choi Man-bin (蔡文彬)**.
+    *   *Link:* Connected via the Wellman nexus where Tam and Hau's associates congregate.
+*   **Shusum (樹深):** Found on Wellman's sponsor list before deletion.
 
 **2. The "Dummy" Proof (Zero Votes):**
-In a genuine tender, every bidder tries to win. However, voting records show these linked companies received **zero or near-zero support**:
+In a genuine tender, every bidder tries to win. However, voting records show four of these linked companies received **zero or near-zero support**:
 *   **San Hoi Ming:** 0 votes.
 *   **Sunarts:** 0 votes.
 *   **Now Construction:** 0 votes.
@@ -3469,6 +3477,13 @@ The failure to declare these close business ties constitutes a fraudulent misrep
 > | **Sunarts (信豪)** | **0** |
 > | **Now Construction (Asia) (現代建設(亞洲))** | **0** |
 
+> **Evidence [C]: The Shared Club Titles**
+> *Source: Green Bean Media (citing Archived Wellman Website) / 2026-01-14*
+>
+> "常務副會長 Executive Vice-President | **譚子文先生 Mr. Richie TAM** [Man Sing] | **李植開先生 Mr. LI Chik Hoi** [San Hoi Ming]..."
+>
+> *(Analysis: The owners of the competing firms are not just business partners; they are colleagues in the same executive committee.)*
+
 **🛡️ Pre-emptive Rebuttal:**
 
 **Anticipated Defense:**
@@ -3493,6 +3508,7 @@ The failure to declare these close business ties constitutes a fraudulent misrep
 
 **🔗 Links:**
 *   [Green Bean Media: Bid-Rigging Investigation Episode I](https://greenbean.media/綠豆調查：大維修關係網（上）｜宏福苑數間投標/)
+*   [Green Bean Media: Bid-Rigging Investigation Episode III](https://greenbean.media/圍標調查-三｜揭宏福苑總承建商侯華建「深紅」/)
 *   [EGM Minutes](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2023-11-23-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 
 ---
