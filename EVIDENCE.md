@@ -1723,7 +1723,7 @@ Analysis reveals that **8 companies** bidding for the Wang Fuk renovation are ti
 > | :--- | :--- | :--- |
 > | **1. Man Sing (民星)** | **Exec. VP** | Owner **Richie Tam** was Exec. VP; Partner of Prestige's Hau. |
 > | **2. San Hoi Ming (新開明)** | **Exec. VP** | Owner **Li Chik-hoi** was Exec. VP; Co-director with Hau in "Blazing Edge". |
-> | **3. Now Construction (Asia) 現代建設(亞洲)** | **Director** | Director **Kwok Sing-fong** was Director of Wellman. |
+> | **3. Now Construction (Asia) <br> (現代建設(亞洲))** | **Director** | Director **Kwok Sing-fong** was Director of Wellman. |
 > | **4. Shusum (樹深)** | **Sponsor** | Removed from Sponsor List along with others in Dec 2025. |
 > | **5. Sunarts (信豪)** | **Network** | Owner **Choi Man-ming** is co-director with Wellman VP Li Chik-hoi ("Blazing Edge"). |
 > | **6. Presitige (宏業)** | **Network** | Owner **Hau Wah-kin** is co-director with Wellman VPs Li and Tam. |
