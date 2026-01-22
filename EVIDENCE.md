@@ -1609,6 +1609,198 @@ Owners likely avoided the cheapest options (like Paul Kong) thinking they were "
 
 ---
 
+### 🆔 [E-CARTEL-PRESTIGE-2020-02-12-01] The "Wellman" Nexus: The Sports Club that Runs the Bid-Rigging Cartel
+
+**🚨 Significance:**
+
+Investigation identifies **Wellman Sports Association (康仁體育會)** not as a mere social entity, but apparently as the operational headquarters ("Base Camp") of the cartel. This nexus serves three critical functions: (1) Integrating Contractors and Consultants into one hierarchy; (2) Providing "Red" political cover; and (3) acting as the coordinating hub for at least **8 bidders** in the Wang Fuk tender.
+
+**1. The Consultant-Contractor Fusion:**
+The Club's board includes not just contractors but also **Consultants**.
+*   **The W&K Gang:** Directors and key persons of **W&K Architect (黃鄺建築師)** and **TKS Architect (特思建築顧問)**—Melvis Choi (蔡家濠), Wilson Kwong (鄺永強), Derek Wai (韋漢棠)—hold key posts (Supervisor/Directors) in Wellman. 
+*   *The Implication:* Consultants (who write the tenders) and Contractors (who win the tenders) are "brothers" in the same club. TKS even bid for Wang Fuk's inspection. This creates a "Closed Loop" ecosystem where the referee and the players belong to the same team.
+
+**2. The "Red" Umbrella:**
+The Club and its members flaunt deep ties to the pro-Beijing establishment.
+*   **Political Titles:** Hau Wah-kin (侯華建), though not found in documents detailing Wellman's board members, appear in commemorative books for pro-Beijing business associations (including Wan Chai C&W District Industries and Commerce Association and Hong Kong Commerce and Industry Associations) with key figures in Wellman, W&K and TKS, including Wilson Kwong and Melvis Choi, alongside greetings from ICAC Commissioners and CCP United Front departments.
+*   **Mainland Activity:** The Wellman Club organized donations to Guangxi in 2020 and hosted events guided by the Liaison Office. This political capital likely acts as a shield against regulatory crackdowns.
+
+**3. The Wang Fuk "Bidding Block":**
+Analysis reveals that **8 companies** bidding for the Wang Fuk renovation are tied to this single sports club. They are not competitors; they are "Club Members":
+*   **The Officers:** **Man Sing (民星營造)** and **San Hoi Ming (新開明)**, listed sponsors, are owned by Wellman's **Executive Vice-Presidents** (Richie Tam/譚子文 & Li Chik-hoi/李植開), who are also business partners of Prestige's boss. **Now Construction (Asia) (現代建設(亞洲))** is directly by **Kwok Sing-fong (郭成芳)**, who was Wellman's Director. 
+*   **The Sponsor:** **Suhum (樹深)** was a listed sponsor. 
+*   **The Extended Family:** **Sunarts (信豪)**, **Prestige (宏業)** (Partners of VP), **Wai Yip (瑋業發展)** (Former Co. of Director), and **Milton (萬昇建築)** (Donor) complete the circle.
+*   *The Verdict:* The tender was not an open market competition; it was likely an internal **"Wellman Sports Association Intramural Game."**
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Consultant Connection (W&K / TKS)**  
+> *Source: Green Bean Media: Bid-Rigging Investigation Episode III / 2026-01-14*
+>
+> "蔡家濠... 鄺永強... 韋漢棠... 彭駿傑... 都是一間叫『**黃鄺建築師**』... 的董事、股東和工程師... 我們在體育會網站... 找到這幾個人名... 特思建築顧問在2019年曾入標參與宏福苑..."
+>
+> *Translation:*
+> "Melvis Choi... Wilson Kwong... Derek Wai... Peter Pang... are directors, stockholders and engineers of '**W&K Architects**'... We found their names on the [Wellman] Sports Club website... TKS Architect [owned by them] bid for Wang Fuk in 2019..."
+
+> **Evidence [B]: The Political Cover**  
+> *Source: Green Bean Media: Bid-Rigging Investigation Episode III / 2026-01-14*
+>
+> "灣仔中西區工商業聯合會的特刊內... 時任廉政專員白韞六，都賜上『廉正經商』... 見到這個名字：**侯華健**... 宏業建築工程有限公司的董事...在全港各區工商聯的30周年特刊上，又見到他的名字。他當時是擔任會董，而黃鄺和特思的董事，亦是全港各區工商聯專業人士委員會委員"
+>
+> *Translation:*
+> "In the Wan Chai C&W District ICA special issue... then-ICAC Commissioner Simon Peh gifted calligraphy... We saw the name: **Hau Wah-kin**... Director of Prestige Construction... He also appears on the 30th anniversary special issue of Hong Kong Commerce and Industry Associations as their director, while the directors of W&K and TKS are also the specialist committee members of the same association. "
+
+> **Evidence [C]: The Donation Trail**  
+> *Source: Wellman Post / 2020-02-12*
+>
+> "特別鳴謝... 黃以諾先生[萬昇]、鄺永強先生[瑋業/黃鄺]、韋漢棠先生[黃鄺]... 聯合向廣西省武鳴區捐贈..."
+>
+> *Translation:*
+> "Special Thanks... Mr. **Wong Yi-nok** [Milton], Mr. **Wilson Kwong** [Wai Yip/W&K], Mr. **Derek Wai** [W&K]... for joint donation to Guangxi Wuming District..."
+
+> **Evidence [D]: The Erased Organizational Chart**  
+> *Source: Green Bean Media [Video Report 9:29] / 2026-01-14*
+>
+> 會長 President |  尹國強先生 Mr. Steve WAN
+> 主席 Chairman | 蔡啟新先生 Mr. Dick CHOI
+> 常務副會長 Executive Vice-President | 譚子文先生 Mr. Richie TAM 李植開先生 Mr. LI Chik Hoi 郭俊華先生 Mr. Wayne KWOK 謝俊邦先生 Mr. Antony TSE
+> 會董監理 Board of Supervisor | 蔡家濠先生 Mr. Melvis CHOI
+> 會董 Director | 鄺永強先生 Mr. Wilson KWONG 韋漢棠先生 Mr. Derek WAI 彭駿傑先生 Mr. Peter PANG 袁達強先生 Mr. Bernie YUEN
+>                           | 鄧崇山先生 Mr. David TANG 張國良先生 Mr. Alex CHEUNG 簡志成先生 Mr. Simon KAN 郭成芳先生 Mr. Viky KWOK
+>                          | 李小玲小姐 Ms. LI Xiao Ling
+
+> **Evidence [E]: The Corporate Links**  
+> *Source: Green Bean Media: Bid-Rigging Investigation Episode I / 2025-12-11*
+>
+> "宏業老闆侯華建跟...競爭的公司老闆，根本就是商業拍檔... 利來拓展...另一股東為**譚子文**，各持股一半，同時係另一投標承建商**民星營造**...大股東"  
+> "李植開曾跟侯華建、蔡文鳴，在2014年登記成為一間叫炬鋒有限公司嘅董事...李植開現為新開明建築工程有限公司的董事兼股東"  
+> "蔡文鳴，則是信豪（集團）工程有限公司的董事"  
+> "康仁體育會贊助名單中，有澳門晉誠物業和現代建設集團。網頁上譚子文個人簡介上，有寫著他曾以晉誠物業贊助籃球比賽。現代建設集團，則是蔡文彬任董事，蔡文彬同時是現代建設（亞洲）的董事"
+>
+> *Translation:*  
+> "Prestige boss Hau Wah-kin and... rival bosses are business partners... **Richie Tam Tsz-man** (50% shareholder of Rich Surplus with Hau) is the major shareholder of bidder **Man Sing**..."  
+> "Li Chik-hoi once registered, with Hou and Choi Man-ming, as directors of Blazing Edge Limited in 2014... He is currently a director and shareholder of **San Hoi Ming**"  
+>"...Choi Man-ming is a director of **Sunarts (Holdings)**"  
+>"The Wellman Sports Association’s sponsor list includes Earnest Property Agency and Now Construction Holdings (H.K.) Limited. On Tam Tsz-man’s profile page it states that he once sponsored basketball competitions through Earnest. Now Construction lists Choi Man-ban as a director, who is also a director of **Now Construction (Asia)** Company Limited.
+
+> **Evidence [F]: Link to Now Construction (Asia)**  
+> *Source: HK Feature / 2026-01-09*
+>
+> "現代建設（亞洲）有限公司董事：蔡文彬、郭成芳... 郭成芳為[康仁體育會]會董"
+>
+> *Translation:*  
+> "Now Construction (Asia)  Directors are Choi Man-ban and Kwok Sing-fong... Kwok Sing-fong was Director of Wellman"
+
+> **Evidence [G]: Link to Milton**  
+> *Source: Journalist W's Report / 2025-12-26*
+>
+> "黃天喜全資持有萬昇建築工程有限公司... 公司秘書由兒子黃以諾擔任... 黃以諾... 近年以「建築KOL」拍片為萬昇宣傳"
+>
+> *Translation:*  
+> "Wong Tin-hei owns Milton... His son is the company secretary, who promotes Milton as a 'Construction KOL' in recent years."
+
+> **Evidence [H]: Link to Wai Yip**  
+> *Source: HK Feature / 2026-01-09*
+>
+> "2006年，「瑋業發展」成立... 董事為「黃鄺建築師有限公司」董事鄺永強*，鄺於2020年辭任董事... 鄺永強為康仁體育會會董"
+>
+> *Translation:*  
+> "Wai Yip was founded in 2006... directed by Wilson Kwong, the director of W&K, who resigned the director of Wai Yip in 2020... Wilson Kwong was Director of Wellman"
+
+> **Evidence [I]: The Sponsors**  
+> *Source: Green Bean Media: Bid-Rigging Investigation Episode III / 2026-01-14*
+>
+> "康仁體育會的贊助商名單，亦在過去一個月大清洗... 有十一間公司的名字被移除了。它們包括：民星營造、新開明建築工程、樹深建築，它們都有在宏福苑入標"
+>
+> *Translation:*  
+> "Wellman Sports Club purged its sponsor list in the past month; 11 firms removed, including Man Sing, San Hoi Ming, Shusum — which had bid at Wang Fuk Court."
+
+> **Evidence [J]: The Cartel Roster (7 Wang Fuk Bidders)**
+> *Source: Composite Analysis*
+>
+> | **Bidder (Wang Fuk)** | **Wellman Connection** | **Link Details** |
+> | :--- | :--- | :--- |
+> | **1. Man Sing (民星)** | **Exec. VP** | Owner **Richie Tam** was Exec. VP; Partner of Prestige's Hau. |
+> | **2. San Hoi Ming (新開明)** | **Exec. VP** | Owner **Li Chik-hoi** was Exec. VP; Co-director with Hau in "Blazing Edge". |
+> | **3. Now Construction (Asia) 現代建設(亞洲)** | **Director** | Director **Kwok Sing-fong** was Director of Wellman. |
+> | **4. Shusum (樹深)** | **Sponsor** | Removed from Sponsor List along with others in Dec 2025. |
+> | **5. Sunarts (信豪)** | **Network** | Owner **Choi Man-ming** is co-director with Wellman VP Li Chik-hoi ("Blazing Edge"). |
+> | **6. Presitige (宏業)** | **Network** | Owner **Hau Wah-kin** is co-director with Wellman VPs Li and Tam. |
+> | **7. Wai Yip (瑋業)** | **Director** | Former Director **Wilson Kwong** is a Director of Wellman (and W&K Architects). |
+> | **8. Milton (萬昇)** | **Donor** | Manager **Wong Yi-nok** (if not someone with exactly the same name) listed as Donor to Guangxi via Wellman (2020). |
+
+> **Evidence [K]: The W&K Basketball Team**  
+> *Source: The W&K Basketball Team Facebook Page*
+>
+> "黃鄺建築師籃球隊... 球隊於2011年以蔡家濠先生為首創立... 球隊班主 : Mr. Dick Choi... 主要贊助商... 康仁有限公司"
+>
+> *Translation:*  
+> "The W&K Basketball Team was founded by Mr. Melvis Choi in 2011... Team Owner is Mr. Dick Choi... Main Sponsor: Wellman Ltd."
+
+> **Evidence [L]: Selected transcription of the Green Bean's video report**  
+> *Source: Green Bean Media: Bid-Rigging Investigation Episode III / 2026-01-14*
+>
+>綠豆播出的第一集調查報道，發現一個叫「康仁體育會」的骨幹成員背後都有關連公司涉及大維修工程。我們發現由這個體育會委員所開設的工程公司，至少有三間都有入標宏福苑。其中「民星營造」的譚子文，以及「新開明建築工程」的李植開，甚至曾經與侯華建一齊開公司。
+>
+>節目播出後，譚子文和李植開的名字，在「康仁體育會」網站的常務副會長名單上被刪走。我們播出第二集，預告將進一步解讀「康仁體育會」與大維修工程的關係後，我們再進入康仁體育會的網站，整份委員會名單已無法顯示。究竟有何神秘，要整份名單移除呢？
+>
+>再細心看看，康仁體育會的贊助商名單，亦在過去一個月大清洗。我們在十二月頭，已將這網站的資料部分存檔。我們把現在的康仁體育會網站所列的贊助商名單比對，原來有十一間公司的名字被移除了。它們包括：民星營造、新開明建築工程、樹深建築，它們都有在宏福苑入標，部分董事與侯華建一齊開公司。現代建設集團沒有入標，但董事蔡文彬的另一間公司，現代建設（亞洲）就有份入標宏福苑。其他還有澳門晉誠物業、港林建設工程、德保建築、澳嘉塗料、香港建材，還有這個經贊助商標誌連結到網站的駿銘建材、以及連鎖蔬菜品牌「新界仔」都在贊助商名單上突然被集體除名，大部分都是物業、建築或建材公司。究竟是網頁恰巧更新？還是有其他原因，我們無法得知。但肯定康仁體育會真是一個大本營。
+>
+>我們在體育會網站那消失的架構圖，找到這幾個人名：蔡家濠先生 Mr. Melvis Choi、鄺永強先生 Mr. Wilson Kwong、韋漢棠先生 Mr. Derek Wai、彭駿傑先生 Mr. Peter Pang。搜查後發現，他們都是一間叫「黃鄺建築師有限公司」W & K Architect Ltd. 的董事、股東和工程師。「黃鄺建築師有限公司」是涉足樓宇維修工程的顧問公司。翻查紀錄，青衣美景花園在2013年展開大維修工程，到2016年，工程承建商「輝煌建築（亞洲）有限公司」被釘牌，總價接近1.7億元的工程爛尾，顧問公司正是黃鄺建築師。同樣在2016年，黃鄺建築師曾被堅道嘉景臺的業主舉報，在大維修涉嫌欺詐，但警方認為當中不涉及刑事成份，將個案列作「雜項事件」，申訴人及後向法院申請司法覆核被駁回。
+>
+>我們找不到黃鄺建築師有入標宏福苑的紀錄，但再仔細追查董事韋漢棠及鄺永強的公司註冊資料，發現他們還有另一間公司，叫特思建築顧問 TKS Architect Ltd.。特思建築顧問在2019年曾入標參與宏福苑的驗樓招標，後來鴻毅中標，最後更成為整個工程的顧問公司，就見不到特思的身影。
+>
+>不過，我們在這本三百多頁，灣仔中西區工商業聯合會的特刊內，見到黃鄺建築師、特思建築顧問以至康仁體育會的身影。這本商會的五周年特刊，雲集香港政界、以至中國省市政府，甚至中共不同市委或區委統戰部的題字或賀電。值得一提，時任廉政專員白韞六，都賜上「廉正經商，裕業惠群」八個字。一個地區商會，從致賀的名單，看得出來頭不少。我們發現商會的常務董事，包括黃鄺和特思的董事鄺永強，而黃鄺的蔡家濠也是商會董事。
+>
+>在商會董事名單上，我們竟然見到這個名字：侯華健。特刊的介紹指他是宏業建築工程有限公司的董事。侯華健是否侯華建？我們對照特刊寫的公司職位、傳真和電話號碼，與宏業的對外通訊資料一樣。我們在公司註冊處搜尋宏業董事資料時，絕大部分都以侯華建登記，但亦有找到侯華健的登記名字。究竟是手民之誤？還是有其他原因？我們嘗試聯絡侯華建本人，但未有回覆。
+>
+>侯華建參與的這類深紅背景組織不只一個。我們在全港各區工商聯的30周年特刊上，又見到他的名字。他當時是擔任會董，而黃鄺和特思的董事，亦是全港各區工商聯專業人士委員會委員。
+>
+>康仁體育會與中國內地關係密切，除了不少成員是政協委員外，2020年更以康仁體育會的名義，向廣西省武鳴區捐款支持疫情防控工作，又多次主辦由中聯辦青年工作部指導的球賽。
+>
+>一場奪走161條人命的火災，揭開的不只一宗工程安全事故，而是一個長年存在，盤根錯節的關係圈。承建商、顧問公司、體育團體、工商組織，在不同的身份與架構之下，多個名字與關係反覆出現，彼此交疊。
+>
+>綠豆在有限的資源下，短短一個多月，已揭露入標公司的千絲萬縷，勾劃他們的關係圈，當中更揭露顧問公司鴻毅篡改紀錄，令心儀公司入選。居民多年來一直發聲，希望阻止悲劇發生，但長年被無視，監管執法的政府部門，以致特區政府高層，至今未有人因此道歉和問責。特區政府成立沒法定權力的獨立委員會調查事故，預計九個月內交報告，相信無論災民或者全港市民，又是一場漫長的等待。
+
+**¶ Statutory Basis:**
+*   **Context:** Organized Crime / Syndicate Operations.
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"Wellman Sports Association is a non-profit entity promoting sports and charity. It is natural for successful industry figures to network in such clubs. The fact that members or sponsors happen to be in the same industry (construction) reflects sector-specific networking, not a criminal conspiracy. Corporate decisions are made by individual company boards, not by the sports club. Donations were for pandemic relief, a benevolent act unrelated to business projects."
+
+**The Logical Trap:**
+1.  **The Statistical Impossibility:** It might be a coincidence if *two* bidders knew each other. But when **8 different bidders** for *one specific estate* (Wang Fuk) are all tied to the *same* executive committee or sponsor list, statistical probability dictates this is **coordination**, not coincidence. The Club effectively acted as a "Tender Allocation Committee."
+2.  **The Referee-Player Conflict:** The defense of "networking" collapses when **Consultants** and **Contractors** sit on the same board. In a tender, the Consultant is the **Referee**. If the Referee and the Players are "brothers" in the same private club, the game is rigged by definition. Failure to declare this specific link to the client (Wang Fuk owners) constitutes **fraud by omission**.
+3.  **The "Guilty" Deletion:** If the donations were purely benevolent and the relationships purely social, why **delete** the core parts of the website immediately after the scandal broke? Innocent charities do not purge their donor lists in panic. The "Digital Shredding" further suggests they knew the list looked like a cartel roster, not a charity roll.
+
+**📅 Timeline:**
+*   **2004-07-23:** W&K Architect founded  — [ref](https://www.tempb.com/companies/w-k-architect-limited/)
+*   **2011:** W&K Basketball Team founded (Melvis Choi) — [source](https://www.facebook.com/wkbasketball.hk)
+*   **2012-06-28:** TKS founded  — [ref](https://www.tempb.com/companies/tks-architect-limited/)
+*   **2013-07-12: ** Wellman Sports founded (Melvis Choi) — [source](https://www.wellmanrunning.com/about-us)| [ref](https://www.tempb.com/companies/wellman-sports-association-limited/)
+*   **2018-09-26:** TKS bids for Wang Fuk (Consultant arm active) — [source](http://www.wangfuk.org/html/meeting/03/第21次全體業主大會(周年大會)會議記錄.pdf) | [ref](http://www.wangfuk.org/html/meeting/05/第十屆-第7次全體委員會議記錄.pdf)
+*   **2020-02-12:** Wellman donates to Guangxi (Political arm active) — [source](https://www.facebook.com/share/p/1PW1iUwA7f/)
+*   **2023-07-04:** The "Wellman 8" submit bids for Wang Fuk — (Contractor arm active).
+*   **2024-01-28:** Prestige wins Wang Fuk.
+*   **2026-01-14:** Wellman exposure — [report](https://greenbean.media/圍標調查-三｜揭宏福苑總承建商侯華建「深紅」/)
+
+**🔗 Links:**
+*   [Green Bean Media: Bid-Rigging Investigation Episode III](https://greenbean.media/圍標調查-三｜揭宏福苑總承建商侯華建「深紅」/)
+*   [Green Bean Media: Bid-Rigging Investigation Episode I](https://greenbean.media/綠豆調查：大維修關係網（上）｜宏福苑數間投標/)
+*   [Journalist W's Report](https://www.facebook.com/share/p/19YbQWsXBe/) 
+*   [HK Feature Report: Link to Now Construction (Asia)](https://hkfeature.com/local/宏福苑調查-圍標圍物料-宏業建築董事侯華健投資/)
+*   [HK Feature Report: Link to Wai Yip](https://hkfeature.com/local/【宏福苑調查】九七金融風暴投資損手-陳响發家族/)
+*   [Wellman's Donation](https://www.facebook.com/share/p/1PW1iUwA7f/) | [Backup](康仁體育會2020-02-12捐款截圖.png)
+*   [W&K Basketball Team Facebook Page](https://www.facebook.com/wkbasketball.hk) | [Backup](黃鄺建築師籃球隊Facebook截圖.png)
+*   [Hive Diagram of the networks between Wellman, Prestige and Will Power](宏業、鴻毅與康仁體育會關係圖.png) | [Documentation](宏業、鴻毅與康仁體育會關係圖代碼.md)
+
+**📊 Diagram:**  
+![Hive Diagram based on the report](宏業、鴻毅與康仁體育會關係圖.png)
+
+---
+
 ### 🆔 [E-CARTEL-WILLPOWER-2020-09-30-01] The Price of Resistance: Beaten, Broken, but HK$7 Million Saved
 
 **🚨 Significance:**
