@@ -1728,7 +1728,7 @@ Analysis reveals that **8 companies** bidding for the Wang Fuk renovation are ti
 > | **5. Sunarts (信豪)** | **Network** | Owner **Choi Man-ming** is co-director with Wellman VP Li Chik-hoi ("Blazing Edge"). |
 > | **6. Presitige (宏業)** | **Network** | Owner **Hau Wah-kin** is co-director with Wellman VPs Li and Tam. |
 > | **7. Wai Yip (瑋業)** | **Director** | Former Director **Wilson Kwong** is a Director of Wellman (and W&K Architects). |
-> | **8. Milton (萬昇)** | **Donor** | Manager **Wong Yi-nok** (if not someone with exactly the same name) listed as Donor to Guangxi via Wellman (2020). |
+> | **8. Milton (萬昇)** | **Donor** | Management **Wong Yi-nok** (if not someone with exactly the same name) listed as Donor to Guangxi via Wellman (2020). |
 
 > **Evidence [K]: The W&K Basketball Team**  
 > *Source: The W&K Basketball Team Facebook Page*
