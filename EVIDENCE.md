@@ -1716,7 +1716,7 @@ Analysis reveals that **8 companies** bidding for the Wang Fuk renovation are ti
 > *Translation:*  
 > "Wellman Sports Club purged its sponsor list in the past month; 11 firms removed, including Man Sing, San Hoi Ming, Shusum — which had bid at Wang Fuk Court."
 
-> **Evidence [J]: The Cartel Roster (7 Wang Fuk Bidders)**
+> **Evidence [J]: The Cartel Roster (8 Wang Fuk Bidders)**
 > *Source: Composite Analysis*
 >
 > | **Bidder (Wang Fuk)** | **Wellman Connection** | **Link Details** |
