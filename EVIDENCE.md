@@ -4319,7 +4319,7 @@ The Consultant (**Will Power**) filtered out 48 other bidders to select these sp
 
 **The Logical Trap:**  
 1.  **Past vs. Present:** Owning a property *now* (Hau's wife owning Mega Praise's director's home) or having an *active* joint venture (Hau and Tam in Rich Surplus) is a **current financial link**, not a "past relationship." This creates a conflict of interest where one bidder benefits if the other wins. Hiding this is fraud.
-2.  **The "Clone" Smoking Gun:** When a competitor (Mega Praise) used to be named "Prestige (International)" and operates out of the boss's wife's property, it is not a "separate entity"; it is a **shell**. Pretending it is a rival is a direct lie to the owners.
+2.  **The "Clone" Smoking Gun:** When a competitor (Mega Praise) used to be named "Prestige (International)", operates out of the boss's wife's property, and even has the boss to represent it, it is not a "separate entity"; it is a **shell**. Pretending it is a rival is a direct lie to the owners.
 3.  **The Probability Factor:** Out of 57 bidders, what are the odds that the Consultant "randomly" picked 4 firms linked to one man for the final 9? This concentration proves the selection process was **reverse-engineered** to encircle the MC with the Cartel's options.
 
 **¶ Statutory Basis:**
