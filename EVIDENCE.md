@@ -1625,7 +1625,7 @@ Investigation identifies **Wellman Sports Association (康仁體育會)** not as
 
 **1. The Consultant-Contractor Fusion:**
 The Club's board includes not just contractors but also **Consultants**.
-*   **The W&K Gang:** Directors and key persons of **W&K Architect (黃鄺建築師)** and **TKS Architect (特思建築顧問)**—Melvis Choi (蔡家濠), Wilson Kwong (鄺永強), Derek Wai (韋漢棠)—hold key posts (Supervisor/Directors) in Wellman. 
+*   **The W&K Gang:** Directors and key figures of **W&K Architect (黃鄺建築師)** and **TKS Architect (特思建築顧問)**—Melvis Choi (蔡家濠), Wilson Kwong (鄺永強), Derek Wai (韋漢棠)—hold key posts (Supervisor/Directors) in Wellman. 
 *   *The Implication:* Consultants (who write the tenders) and Contractors (who win the tenders) are "brothers" in the same club. TKS even bid for Wang Fuk's inspection. This creates a "Closed Loop" ecosystem where the referee and the players belong to the same team.
 
 **2. The "Red" Umbrella:**
@@ -1745,7 +1745,15 @@ Analysis reveals that **8 companies** bidding for the Wang Fuk renovation are ti
 > *Translation:*  
 > "The W&K Basketball Team was founded by Mr. Melvis Choi in 2011... Team Owner is Mr. Dick Choi... Main Sponsor: Wellman Ltd."
 
-> **Evidence [L]: Strong Ties within Wellman's Board**  
+> **Evidence [L]: The W&K Engineer**  
+> *Source: Oriental Daily / 2016-03-11*
+>
+> "美景花園大維修的工程顧問為黃鄺建築師有限公司，該公司項目工程師蔡家濠指今年一月發現輝煌的一般建築承建商牌照二月到期"
+>
+> *Translation:*  
+> "W&K is Mayfair Gardens’s repair consultant; project engineer Melvis Choi said in January he found Fai Wong Construction (Asia)’s general building contractor licence expired in February."
+
+> **Evidence [M]: Strong Ties within Wellman's Board**  
 > *Source: Wellman Post / 2019-03-11*
 >
 > "康仁體育會 is with Melvis Ans and 2 others"
@@ -1755,7 +1763,7 @@ Analysis reveals that **8 companies** bidding for the Wang Fuk renovation are ti
 > "Wellman is with Melvis Choi, Dick Choi, and Derek Wai."
 > "Congratulations to Executive Vice‑President Mr. Li Chik‑hoi on his company’s relocation; wishing prosperous business."
 
-> **Evidence [M]: Selected transcription of the Green Bean's video report**  
+> **Evidence [N]: Selected transcription of the Green Bean's video report**  
 > *Source: Green Bean Media: Bid-Rigging Investigation Episode III / 2026-01-14*
 >
 >綠豆播出的第一集調查報道，發現一個叫「康仁體育會」的骨幹成員背後都有關連公司涉及大維修工程。我們發現由這個體育會委員所開設的工程公司，至少有三間都有入標宏福苑。其中「民星營造」的譚子文，以及「新開明建築工程」的李植開，甚至曾經與侯華建一齊開公司。
@@ -1780,7 +1788,7 @@ Analysis reveals that **8 companies** bidding for the Wang Fuk renovation are ti
 >
 >綠豆在有限的資源下，短短一個多月，已揭露入標公司的千絲萬縷，勾劃他們的關係圈，當中更揭露顧問公司鴻毅篡改紀錄，令心儀公司入選。居民多年來一直發聲，希望阻止悲劇發生，但長年被無視，監管執法的政府部門，以致特區政府高層，至今未有人因此道歉和問責。特區政府成立沒法定權力的獨立委員會調查事故，預計九個月內交報告，相信無論災民或者全港市民，又是一場漫長的等待。
 
-> **Evidence [N]: The Wellman + W&K + TKS + ICA Nexus**  
+> **Evidence [O]: The Wellman + W&K + TKS + ICA Nexus**  
 > *Source: Composite Analysis*
 >
 > | Figures | Wellman Connection | W&K Connection | TKS Connection | Wan Chai C&W District ICA Connection  |
@@ -1788,7 +1796,7 @@ Analysis reveals that **8 companies** bidding for the Wang Fuk renovation are ti
 > | 鄺永強 Wilson Kwong | Director | Director | Director + Owner | Executive Director |
 > | 韋漢棠 Derek Wai | Director  | Director | Owner | |
 > | 蔡啟新 Dick Choi | Chairman | Basketball Team Owner | | Important Person |
-> | 蔡家濠 Melvis Choi | Director  | Key Figure + Basketball Team Founder | | Director |
+> | 蔡家濠 Melvis Choi | Director  | Project Engineer + Basketball Team Founder | | Director |
 > | 彭駿傑 Peter Pang | Director  | Key Figure | | |
 
 **¶ Statutory Basis:**
@@ -1825,6 +1833,7 @@ Analysis reveals that **8 companies** bidding for the Wang Fuk renovation are ti
 *   [Wellman's Donation](https://www.facebook.com/share/p/1PW1iUwA7f/) | [Backup](康仁體育會2020-02-12捐款截圖.png)
 *   [Wellman's Congratulations to San Hoi Ming](https://www.facebook.com/share/p/1FfhdTG3P9/) | [Backup](康仁體育會祝賀新開明.md)
 *   [W&K Basketball Team Facebook Page](https://www.facebook.com/wkbasketball.hk) | [Backup](黃鄺建築師籃球隊Facebook截圖.png)
+*   [Oriental Daily Report: W&K Engineer](https://orientaldaily.on.cc/cnt/news/20160311/mobile/odn-20160311-0311_00176_025.html)
 *   [Wan Chai C&W District ICA List of Key Figures](https://dw-media.tkww.hk/epaper/tkp/20120731/A21_Screen.pdf) | [Backup](灣仔中西區工商業聯合會要員.pdf)
 *   [Hive Diagram of the networks between Wellman, Prestige and Will Power](宏業、鴻毅與康仁體育會關係圖.png) | [Documentation](宏業、鴻毅與康仁體育會關係圖代碼.md)
 
