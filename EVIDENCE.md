@@ -4315,7 +4315,7 @@ The Consultant (**Will Power**) filtered out 48 other bidders to select these sp
 **🛡️ Pre-emptive Rebuttal:**
 
 **Anticipated Defense:**  
-"Hong Kong is a small market. It is common for industry veterans to have past working relationships or joint ventures in other projects. These companies have separate legal identities, finances, and management teams. Cross-directorships in the past do not imply collusion in the present tender. We competed fairly."
+"Hong Kong is a small market. It is common for industry veterans to have past working relationships or joint ventures in other projects. These companies have separate legal identities, finances, and management teams. Cross-directorships in the past do not imply collusion in the present tender. Representing other companies occasionally is the same as "cameo role" in the entertainment industry. We competed fairly."
 
 **The Logical Trap:**  
 1.  **Past vs. Present:** Owning a property *now* (Hau's wife owning Mega Praise's director's home) or having an *active* joint venture (Hau and Tam in Rich Surplus) is a **current financial link**, not a "past relationship." This creates a conflict of interest where one bidder benefits if the other wins. Hiding this is fraud.
