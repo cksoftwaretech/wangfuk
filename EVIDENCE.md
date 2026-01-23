@@ -93,30 +93,126 @@
 91. [[E-SAFETY-NETS-2025-11-27-01] The "Open Secret": Fake Certificates](#-e-safety-nets-2025-11-27-01-the-open-secret-fake-certificates)  
 92. [[E-ADMIN-2025-12-04-01] The Chairman's fatal ignorance on safety status](#-e-admin-2025-12-04-01-the-chairmans-fatal-ignorance-on-safety-status)  
 93. [[E-CARTEL-PRESTIGE-2025-12-22-01] The Last Stand: The Missing Bond, The Crocodile Tears, and The Final Vanishing Act](#-e-cartel-prestige-2025-12-22-01-the-last-stand-the-missing-bond-the-crocodile-tears-and-the-final-vanishing-act)  
-94. [[E-GOV-2025-12-22-01] The "Ghost" Contractor: How BD Failed to Stop Prestige Because the Paperwork Said "Fusion"](#-e-gov-2025-12-22-01-the-ghost-contractor-how-bd-failed-to-stop-prestige-because-the-paperwork-said-fusion)  
-95. [[E-SAFETY-NETS-2025-12-05-01] The Laundering of Risk: "We Just Trusted Them"](#-e-safety-nets-2025-12-05-01-the-laundering-of-risk-we-just-trusted-them)  
-96. [[E-VICTIM-2024-11-30-01] The Living Tomb: "Moldy, Pitch Black, and Voiceless"](#-e-victim-2024-11-30-01-the-living-tomb-moldy-pitch-black-and-voiceless)  
-97. [[E-VICTIM-2025-11-26-01] The Seven Hours of Hell: A Real-Time Chronicle of Systemic Murder](#-e-victim-2025-11-26-01-the-seven-hours-of-hell-a-real-time-chronicle-of-systemic-murder)  
-98. [[E-VICTIM-2025-11-26-02] The Empty Staircase: How the "Information Blockade" Left the Elderly to Die in Their Sleep](#-e-victim-2025-11-26-02-the-empty-staircase-how-the-information-blockade-left-the-elderly-to-die-in-their-sleep)  
-99. [[E-VICTIM-2025-11-26-03] The Nullified Life: How the Cartel Burned 10 Years of "Sold Holidays"](#-e-victim-2025-11-26-03-the-nullified-life-how-the-cartel-burned-10-years-of-sold-holidays)  
-100. [[E-VICTIM-2025-11-27-01] The Ghost Mall: How the Fire Created 100+ "Economic Refugees" Next Door](#-e-victim-2025-11-27-01-the-ghost-mall-how-the-fire-created-100-economic-refugees-next-door)  
-101. [[E-VICTIM-2025-11-28-01] The Destruction of a Village: "I lost 10 friends in one night"](#-e-victim-2025-11-28-01-the-destruction-of-a-village-i-lost-10-friends-in-one-night)  
-102. [[E-VICTIM-2025-11-28-02] The Milk Tea Bottle: When Survival is Luck and Loss is Irreplaceable](#-e-victim-2025-11-28-02-the-milk-tea-bottle-when-survival-is-luck-and-loss-is-irreplaceable)  
-103. [[E-GOV-NETS-2015-12-31-01] The "Standard" Trap: Why "Compliant" Nets Can Still Burn Down a Building](#-e-gov-nets-2015-12-31-01-the-standard-trap-why-compliant-nets-can-still-burn-down-a-building)  
-104. [[E-GOV-NETS-2024-10-04-01] The "Two-Tier" Truth: How Labour Dept Lied to Residents but Confessed to Experts](#-e-gov-nets-2024-10-04-01-the-two-tier-truth-how-labour-dept-lied-to-residents-but-confessed-to-experts)  
-105. [[E-GOV-WATER-2025-03-24-01] Official Endorsement of Failure: How FSD Labelled Broken Valves as "Compliant"](#-e-gov-water-2025-03-24-01-official-endorsement-of-failure-how-fsd-labelled-broken-valves-as-compliant)  
-106. [[E-GOV-NETS-2025-11-20-01] The "Paper Shield": How 16 Inspections Missed the Fire Trap](#-e-gov-nets-2025-11-20-01-the-paper-shield-how-16-inspections-missed-the-fire-trap)  
-107. [[E-GOV-NETS-2025-11-24-01] The Deaf Ear: How Hotline Complaints and "Surprise Inspections" Failed to Stop the Fire](#-e-gov-nets-2025-11-24-01-the-deaf-ear-how-hotline-complaints-and-surprise-inspections-failed-to-stop-the-fire)  
-108. [[E-GOV-ALARM-2025-12-03-01] The "Silent" Alarm Mystery: Official Chaos & The 2-Year Penalty for 168 Lives](#-e-gov-alarm-2025-12-03-01-the-silent-alarm-mystery-official-chaos--the-2-year-penalty-for-168-lives)  
-109. [[E-GOV-NETS-2025-12-03-02] The "Total Demolition" Order: An Admission of Systemic Collapse](#-e-gov-nets-2025-12-03-02-the-total-demolition-order-an-admission-of-systemic-collapse)  
-110. [[E-GOV-WINDOWS-2025-12-11-01] The Bureaucratic Maze: "Not My Department" While People Died](#-e-gov-windows-2025-12-11-01-the-bureaucratic-maze-not-my-department-while-people-died)  
-111. [[E-ENFORCE-ACCIDENTAL-2025-03-21] The "CCTV Miracle": How a Bar Fight, Not Detective Work, Exposed the Cartel's Network](#-e-enforce-accidental-2025-03-21-the-cctv-miracle-how-a-bar-fight-not-detective-work-exposed-the-cartels-network)  
-112. [[E-ENFORCE-2025-04-15-01] The Evidence Magicians: "No File" Before the Fire, 11 Arrests After the Bodies Piled Up](#-e-enforce-2025-04-15-01-the-evidence-magicians-no-file-before-the-fire-11-arrests-after-the-bodies-piled-up)  
-113. [[E-ENFORCE-NETS-2025-12-01-01] The "Sloppy" Admission](#-e-enforce-nets-2025-12-01-01-the-sloppy-admission)  
-114. [[E-ENFORCE-NETS-2025-12-01-02] The 95% vs 35% Paradox: A Statistical Miracle?](#-e-enforce-nets-2025-12-01-02-the-95-vs-35-paradox-a-statistical-miracle)  
-115. [[E-ENFORCE-NETS-2025-12-03-01] The Passive Police: Media did the Police's Job](#-e-enforce-nets-2025-12-03-01-the-passive-police-media-did-the-polices-job)  
-116. [[E-MEDIA-2025-11-27-01] The "Stenography Journalism" & The Missed Scam](#-e-media-2025-11-27-01-the-stenography-journalism--the-missed-scam)  
-117. [[E-MEDIA-2025-11-30-01] The Vanishing Truth: Why State Media Deleted Its Own Scoop on the Cartel](#-e-media-2025-11-30-01-the-vanishing-truth-why-state-media-deleted-its-own-scoop-on-the-cartel)  
+94. [[E-GOV-2025-12-22-01] The "Ghost" Contractor: How BD Failed to Stop Prestige Because the Paperwork Said "Fusion"](#-e-gov-2025-12-22-01-the-ghost-contractor-how-bd-failed-to-stop-prestige-because-the-paperwork-said-fusion)  ### Contents
+
+1. [[E-CARTEL-WILLPOWER-2006-01-11-01] The Reincarnation: How a Bid-Rigging Syndicate Rebranded as the Estate Consultant](#-e-cartel-willpower-2006-01-11-01-the-reincarnation-how-a-bid-rigging-syndicate-rebranded-as-the-estate-consultant)  
+2. [[E-CARTEL-2009-05-07-01] The timeline of Decay: From "Fat Meat" to Silence](#-e-cartel-2009-05-07-01-the-timeline-of-decay-from-fat-meat-to-silence)  
+3. [[E-CARTEL-2010-12-31-01] The 17% Bribe: The Hidden "Tax" Behind the HK$330 Million Bill](#-e-cartel-2010-12-31-01-the-17-bribe-the-hidden-tax-behind-the-hk330-million-bill)  
+4. [[E-GOV-2011-11-02-01] The 14-Year Paralysis: How the Government Knew Everything but Did Nothing](#-e-gov-2011-11-02-01-the-14-year-paralysis-how-the-government-knew-everything-but-did-nothing)  
+5. [[E-CARTEL-2012-06-30-01] The "MBIS Premium": How Government Policy Inflated Prices by 50%+](#-e-cartel-2012-06-30-01-the-mbis-premium-how-government-policy-inflated-prices-by-50)  
+6. [[E-CARTEL-2012-12-31-01] The "Zero-Day" Exploit: How Mandatory Inspection Created a 13-Year Criminal Boom](#-e-cartel-2012-12-31-01-the-zero-day-exploit-how-mandatory-inspection-created-a-13-year-criminal-boom)  
+7. [[E-CARTEL-2013-01-07-01] The Phantom Advisor: The Exiled Brother of a Corrupt Official Returns to Steer the Ship](#-e-cartel-2013-01-07-01-the-phantom-advisor-the-exiled-brother-of-a-corrupt-official-returns-to-steer-the-ship)  
+8. [[E-SAFETY-2015-09-19-01] The "Mathematical Impossibility" & The Parasitic Business Model](#-e-safety-2015-09-19-01-the-mathematical-impossibility--the-parasitic-business-model)  
+9. [[E-CARTEL-2015-12-02-01] The Gangster's Rebranding: "Better than Drugs" and the Gentrification of Crime](#-e-cartel-2015-12-02-01-the-gangsters-rebranding-better-than-drugs-and-the-gentrification-of-crime)  
+10. [[E-CARTEL-WILLPOWER-2016-12-31-01] The "Bid-Rigging Factory": 20 Companies, 10 Units, One Industrial Building](#-e-cartel-willpower-2016-12-31-01-the-bid-rigging-factory-20-companies-10-units-one-industrial-building)  
+11. [[E-CARTEL-PRESTIGE-2016-12-31-01] The "Ever-Victorious" Monster: How a Resource-Poor Firm Hoarded 28 Projects](#-e-cartel-prestige-2016-12-31-01-the-ever-victorious-monster-how-a-resource-poor-firm-hoarded-28-projects)  
+12. [[E-CARTEL-2017-12-31-01] The Apex Predator: The "White Power" Boss Who Controls the Triads](#-e-cartel-2017-12-31-01-the-apex-predator-the-white-power-boss-who-controls-the-triads)  
+13. [[E-CARTEL-2018-06-30-01] The "Whistleblower Trap": Why Only the Snitch Went to Jail](#-e-cartel-2018-06-30-01-the-whistleblower-trap-why-only-the-snitch-went-to-jail)  
+14. [[E-CARTEL-WILLPOWER-2018-09-26-01] The "14% Price" Entry Ticket: Buying the Right to Rig the Game](#-e-cartel-willpower-2018-09-26-01-the-14-price-entry-ticket-buying-the-right-to-rig-the-game)  
+15. [[E-CARTEL-WILLPOWER-2020-01-17-01] The "97% Discount": Why a HK$300k Fee for a HK$330M Job Proves Corruption](#-e-cartel-willpower-2020-01-17-01-the-97-discount-why-a-hk300k-fee-for-a-hk330m-job-proves-corruption)  
+16. [[E-CARTEL-WILLPOWER-2020-01-17-02] The Race to the Bottom: Why 9 Bidders Cheaper than Will Power Might Be Even Worse](#-e-cartel-willpower-2020-01-17-02-the-race-to-the-bottom-why-9-bidders-cheaper-than-will-power-might-be-even-worse)  
+17. [[E-CARTEL-PRESTIGE-2020-02-12-01] The "Wellman" Nexus: The Sports Club that Runs the Bid-Rigging Cartel](#-e-cartel-prestige-2020-02-12-01-the-wellman-nexus-the-sports-club-that-runs-the-bid-rigging-cartel)  
+18. [[E-CARTEL-WILLPOWER-2020-09-30-01] The Price of Resistance: Beaten, Broken, but HK$7 Million Saved](#-e-cartel-willpower-2020-09-30-01-the-price-of-resistance-beaten-broken-but-hk7-million-saved)  
+19. [[E-ADMIN-2021-03-02-01] The "Election Agents": Why the MC Campaigned for the Management Company](#-e-admin-2021-03-02-01-the-election-agents-why-the-mc-campaigned-for-the-management-company)  
+20. [[E-ADMIN-2021-03-06-01] The "3-Month" Loop: How the MC Renewed the Management Contract 21 months Without Owners' Approval](#-e-admin-2021-03-06-01-the-3-month-loop-how-the-mc-renewed-the-management-contract-21-months-without-owners-approval)  
+21. [[E-ADMIN-2021-03-15-01] The "Silenced" Secretary: How the MC Rewrote the History of a Riot](#-e-admin-2021-03-15-01-the-silenced-secretary-how-the-mc-rewrote-the-history-of-a-riot)  
+22. [[E-ADMIN-2021-03-27-01] The "Police State" Meeting: Chokeholds, Bans, and the Fake Fall](#-e-admin-2021-03-27-01-the-police-state-meeting-chokeholds-bans-and-the-fake-fall)  
+23. [[E-GOV-2021-03-31-01] The 100/100 Score: How the URA Awarded "Perfect Marks" to the Cartel](#-e-gov-2021-03-31-01-the-100100-score-how-the-ura-awarded-perfect-marks-to-the-cartel)  
+24. [[E-SAFETY-NETS-2021-07-07-01] The "Click-to-Certify" Industry: Buying Safety for HK$55](#-e-safety-nets-2021-07-07-01-the-click-to-certify-industry-buying-safety-for-hk55)  
+25. [[E-ADMIN-2021-07-18-01] The "Mirror" Survey: How the MC Manufactured Consent for a Rigged Tender](#-e-admin-2021-07-18-01-the-mirror-survey-how-the-mc-manufactured-consent-for-a-rigged-tender)  
+26. [[E-CARTEL-WILLPOWER-2021-07-18-01] The "Price Anchor": How a Questionnaire was Rigged to Justify the Low-Ball Consultant](#-e-cartel-willpower-2021-07-18-01-the-price-anchor-how-a-questionnaire-was-rigged-to-justify-the-low-ball-consultant)  
+27. [[E-ADMIN-2021-08-16-01] The Estate under Martial Law: Surveillance, Doxxing, and Propaganda](#-e-admin-2021-08-16-01-the-estate-under-martial-law-surveillance-doxxing-and-propaganda)  
+28. [[E-CARTEL-WILLPOWER-2021-12-09-01] The Day Democracy Died: How a DAB Councilor and "532 Proxies" Sealed the Estate's Fate](#-e-cartel-willpower-2021-12-09-01-the-day-democracy-died-how-a-dab-councilor-and-532-proxies-sealed-the-estates-fate)  
+29. [[E-CARTEL-PRESTIGE-2022-05-05-01] The Mathematical Fingerprint: Academic Proof of Prestige's Bid-Rigging](#-e-cartel-prestige-2022-05-05-01-the-mathematical-fingerprint-academic-proof-of-prestiges-bid-rigging)  
+30. [[E-CARTEL-PRESTIGE-2022-06-10-01] The Death of Data: Why the Evidence that convicted the Cartel can never be gathered again](#-e-cartel-prestige-2022-06-10-01-the-death-of-data-why-the-evidence-that-convicted-the-cartel-can-never-be-gathered-again)  
+31. [[E-CARTEL-PRESTIGE-2022-06-18-01] The Trojan Horse: How the "Anti-Bid Rigging" Heroine Delivered the Estate to the Cartel](#-e-cartel-prestige-2022-06-18-01-the-trojan-horse-how-the-anti-bid-rigging-heroine-delivered-the-estate-to-the-cartel)  
+32. [[E-CARTEL-2022-12-31-01] The "Zero-Risk" Business: 5 Years, 1 Conviction, and the License to Rig](#-e-cartel-2022-12-31-01-the-zero-risk-business-5-years-1-conviction-and-the-license-to-rig)  
+33. [[E-GOV-2023-02-17-01] The Triple Agent: How a Housing Department Surveyor Moonlighted for the Cartel](#-e-gov-2023-02-17-01-the-triple-agent-how-a-housing-department-surveyor-moonlighted-for-the-cartel)  
+34. [[E-ADMIN-2023-03-04-01] The "Shut Up and Vote": How the Advisor Silenced Questions to Force Through the Tender](#-e-admin-2023-03-04-01-the-shut-up-and-vote-how-the-advisor-silenced-questions-to-force-through-the-tender)  
+35. [[E-CARTEL-2023-03-17-01] The "Blank Cheque" Tender: How Critical Scoring Rules Were Added AFTER the Vote](#-e-cartel-2023-03-17-01-the-blank-cheque-tender-how-critical-scoring-rules-were-added-after-the-vote)  
+36. [[E-CARTEL-WILLPOWER-2023-03-17-02] The Zero-Sum Game: How 100% of Bidders Failed the "Experience" Test](#-e-cartel-willpower-2023-03-17-02-the-zero-sum-game-how-100-of-bidders-failed-the-experience-test)  
+37. [[E-CARTEL-WILLPOWER-2023-03-24-01] Headcount over Brains: How 16 Clerks Outranked a Structural Engineer](#-e-cartel-willpower-2023-03-24-01-headcount-over-brains-how-16-clerks-outranked-a-structural-engineer)  
+38. [[E-CARTEL-PRESTIGE-2023-07-04-01] The "Prestige" Spiderweb: How Business Partners Posed as Competitors](#-e-cartel-prestige-2023-07-04-01-the-prestige-spiderweb-how-business-partners-posed-as-competitors)  
+39. [[E-CARTEL-PRESTIGE-2023-07-04-02] The "Magic" 1.6%: How Prestige Hit the Bullseye on a Rigged Target](#-e-cartel-prestige-2023-07-04-02-the-magic-16-how-prestige-hit-the-bullseye-on-a-rigged-target)  
+40. [[E-CARTEL-2023-07-04-03] The Clone Army: How "Copy-Paste" Bids Blocked the Lowest 5 Slots](#-e-cartel-2023-07-04-03-the-clone-army-how-copy-paste-bids-blocked-the-lowest-5-slots)  
+41. [[E-CARTEL-2023-07-04-04] The Gallery of Rogues: Violent Fixers and Wage Dodgers in the "Lowest 5"](#-e-cartel-2023-07-04-04-the-gallery-of-rogues-violent-fixers-and-wage-dodgers-in-the-lowest-5)  
+42. [[E-CARTEL-WILLPOWER-2023-08-31-01] The "Perfect Score" Scam: How a Safety Violator was Rated "Clean"](#-e-cartel-willpower-2023-08-31-01-the-perfect-score-scam-how-a-safety-violator-was-rated-clean)  
+43. [[E-CARTEL-WILLPOWER-2023-08-31-02] The "Trust Me" Evaluation: Unverifiable Documents & The Missing ISO](#-e-cartel-willpower-2023-08-31-02-the-trust-me-evaluation-unverifiable-documents--the-missing-iso)  
+44. [[E-CARTEL-PRESTIGE-2023-09-12-01] The "Prestige" Family Reunion: 4 out of 9 Finalists Linked to One Boss](#-e-cartel-prestige-2023-09-12-01-the-prestige-family-reunion-4-out-of-9-finalists-linked-to-one-boss)  
+45. [[E-CARTEL-WILLPOWER-2023-09-18-01] The Assembly Line: Same Consultant, Same Low Fee, Same "Top 5" at On Kay Court](#-e-cartel-willpower-2023-09-18-01-the-assembly-line-same-consultant-same-low-fee-same-top-5-at-on-kay-court)  
+46. [[E-CARTEL-WILLPOWER-2023-10-16-01] The Schizophrenic Scorecard: Why the "Criticized" Beat the "Praised"](#-e-cartel-willpower-2023-10-16-01-the-schizophrenic-scorecard-why-the-criticized-beat-the-praised)  
+47. [[E-CARTEL-WILLPOWER-2023-10-16-02] The Kingmaker's Algorithm: How "Variance" Nullified the Owners' Vote](#-e-cartel-willpower-2023-10-16-02-the-kingmakers-algorithm-how-variance-nullified-the-owners-vote)  
+48. [[E-CARTEL-WILLPOWER-2023-10-30-01] The HK$150 Million Upsell: How "10-Year Warranty" was Used to Double the Bill](#-e-cartel-willpower-2023-10-30-01-the-hk150-million-upsell-how-10-year-warranty-was-used-to-double-the-bill)  
+49. [[E-CARTEL-WILLPOWER-2023-11-29-01] The "Magic Eraser": How a Contractor's Criminal Record Vanished in 3 Months](#-e-cartel-willpower-2023-11-29-01-the-magic-eraser-how-a-contractors-criminal-record-vanished-in-3-months)  
+50. [[E-CARTEL-WILLPOWER-2023-11-29-02] The Moving Goalposts: How "Litigation" was Redefined to rig the Score](#-e-cartel-willpower-2023-11-29-02-the-moving-goalposts-how-litigation-was-redefined-to-rig-the-score)  
+51. [[E-CARTEL-2024-01-28-01] The Phantom Voters: How a "Mystery Mouse" Swung the HK$330M Contract](#-e-cartel-2024-01-28-01-the-phantom-voters-how-a-mystery-mouse-swung-the-hk330m-contract)  
+52. [[E-CARTEL-2024-01-28-02] The "Harvest" of the Elderly: Political Machinery & The Proxy Factory](#-e-cartel-2024-01-28-02-the-harvest-of-the-elderly-political-machinery--the-proxy-factory)  
+53. [[E-ADMIN-2024-01-28-01] The "Basket" Rigging: How 38% Support Became a HK$5.6 Million Mandate](#-e-admin-2024-01-28-01-the-basket-rigging-how-38-support-became-a-hk56-million-mandate)  
+54. [[E-SAFETY-WINDOWS-2024-01-28-01] The "Fireproof" Paradox: Paying for Safety, Getting a Death Trap](#-e-safety-windows-2024-01-28-01-the-fireproof-paradox-paying-for-safety-getting-a-death-trap)  
+55. [[E-CARTEL-2024-03-22-01] The "HK$33 Million" Motive: Anatomy of the Kill Chain](#-e-cartel-2024-03-22-01-the-hk33-million-motive-anatomy-of-the-kill-chain)  
+56. [[E-CARTEL-WILLPOWER-2024-04-16-01] The "Smartgoal" Trap: Why the Runner-Up was a Guaranteed Disaster](#-e-cartel-willpower-2024-04-16-01-the-smartgoal-trap-why-the-runner-up-was-a-guaranteed-disaster)  
+57. [[E-ADMIN-2024-04-16-01] The "Done Deal" Strategy: How the MC Crushed Dissent Before Signing the HK$330M Contract](#-e-admin-2024-04-16-01-the-done-deal-strategy-how-the-mc-crushed-dissent-before-signing-the-hk330m-contract)  
+58. [[E-CARTEL-2024-04-30-01] Pandora's Box Opened: Dead Owners Voting & 114% Turnout](#-e-cartel-2024-04-30-01-pandoras-box-opened-dead-owners-voting--114-turnout)  
+59. [[E-ADMIN-2024-06-05-01] The $7,000 Lawyer: Cheap Fees, Critical Errors, and the Role of the "Legal Thug"](#-e-admin-2024-06-05-01-the-7000-lawyer-cheap-fees-critical-errors-and-the-role-of-the-legal-thug)  
+60. [[E-CARTEL-PRESTIGE-2024-06-27-01] The "Rashomon" of Tiles: Lies, Finger-Pointing, and the "Free Upgrade" Trap](#-e-cartel-prestige-2024-06-27-01-the-rashomon-of-tiles-lies-finger-pointing-and-the-free-upgrade-trap)  
+61. [[E-CARTEL-WILLPOWER-2024-07-19-01] The "Endorsement" Myth: How URA Subsidies Were Used to Whitewash Corruption](#-e-cartel-willpower-2024-07-19-01-the-endorsement-myth-how-ura-subsidies-were-used-to-whitewash-corruption)  
+62. [[E-SAFETY-FOAM-2024-07-19-01] The SOP Death Trap: Use of Flammable Foam](#-e-safety-foam-2024-07-19-01-the-sop-death-trap-use-of-flammable-foam)  
+63. [[E-SAFETY-FOAM-2024-07-19-02] The Mechanics of Hell: Radiant Heat & Molten Fire](#-e-safety-foam-2024-07-19-02-the-mechanics-of-hell-radiant-heat--molten-fire)  
+64. [[E-SAFETY-FOAM-2024-07-19-03] The Blinded Victims: How Styrofoam Stole the "Golden Hour" of Escape](#-e-safety-foam-2024-07-19-03-the-blinded-victims-how-styrofoam-stole-the-golden-hour-of-escape)  
+65. [[E-ADMIN-2024-07-22-01] The Questionnaire Trap: "Admit Liability or Withdraw"](#-e-admin-2024-07-22-01-the-questionnaire-trap-admit-liability-or-withdraw)  
+66. [[E-ADMIN-2024-07-31-01] The Illegal Delay: How the Chairman Ignored Statutory Deadlines to Crush Dissent](#-e-admin-2024-07-31-01-the-illegal-delay-how-the-chairman-ignored-statutory-deadlines-to-crush-dissent)  
+67. [[E-ADMIN-2024-08-05-01] The 76% Mirage: How a Rigged Survey Blinded the MC to Its Own Demise](#-e-admin-2024-08-05-01-the-76-mirage-how-a-rigged-survey-blinded-the-mc-to-its-own-demise)  
+68. [[E-SAFETY-FOAM-2024-09-16-01] The "TAPEER" Fraud: Counterfeit Brands & Rigged Safety Demos](#-e-safety-foam-2024-09-16-01-the-tapeer-fraud-counterfeit-brands--rigged-safety-demos)  
+69. [[E-SAFETY-FOAM-2024-09-30-01] The Ransom of Safety: "Pay Compensation or Keep the Fire Hazard"](#-e-safety-foam-2024-09-30-01-the-ransom-of-safety-pay-compensation-or-keep-the-fire-hazard)  
+70. [[E-SAFETY-FOAM-2024-09-30-02] The "Powerless" Lie: How the Watchdog Approved the Kill](#-e-safety-foam-2024-09-30-02-the-powerless-lie-how-the-watchdog-approved-the-kill)  
+71. [[E-CARTEL-WILLPOWER-2024-10-27-01] The Triad Coup: How Gangsters Seized a Public Estate for Profit](#-e-cartel-willpower-2024-10-27-01-the-triad-coup-how-gangsters-seized-a-public-estate-for-profit)  
+72. [[E-SAFETY-2024-11-15-01] The Insurance Boycott](#-e-safety-2024-11-15-01-the-insurance-boycott)  
+73. [[E-CARTEL-2024-11-17-01] The "Million Dollar" Complaint Fee: How Urban Property Monetized Chaos at On Kay Court](#-e-cartel-2024-11-17-01-the-million-dollar-complaint-fee-how-urban-property-monetized-chaos-at-on-kay-court)  
+74. [[E-CARTEL-2024-11-17-02] The Salesman & The Thug: How the MC Sold Out Owners to Urban Property](#-e-cartel-2024-11-17-02-the-salesman--the-thug-how-the-mc-sold-out-owners-to-urban-property)  
+75. [[E-SAFETY-WINDOWS-2025-01-20-01] The "Infinite" Risk: Why Replacing Windows Took Forever](#-e-safety-windows-2025-01-20-01-the-infinite-risk-why-replacing-windows-took-forever)  
+76. [[E-CARTEL-UBIQUITY-2025-03-26-01] The End of Hope: Even the "White Knights" are Corrupt](#-e-cartel-ubiquity-2025-03-26-01-the-end-of-hope-even-the-white-knights-are-corrupt)  
+77. [[E-GOV-2025-04-16-01] The Ignored Blueprint: How the Ombudsman Predicted the Disaster 7 Months Early](#-e-gov-2025-04-16-01-the-ignored-blueprint-how-the-ombudsman-predicted-the-disaster-7-months-early)  
+78. [[E-GOV-2025-04-16-02] The Blind Watchdog: Why Even the Ombudsman Missed the "Cartel" Elephant](#-e-gov-2025-04-16-02-the-blind-watchdog-why-even-the-ombudsman-missed-the-cartel-elephant)  
+79. [[E-SAFETY-ALARM-2025-05-14-01] The Silent Switch: How Management Disabled the Alarm to "Save Trouble"](#-e-safety-alarm-2025-05-14-01-the-silent-switch-how-management-disabled-the-alarm-to-save-trouble)  
+80. [[E-SAFETY-2025-05-21-01] The 10-Month Ghost Supervisor & The "Closed-Loop" Collusion](#-e-safety-2025-05-21-01-the-10-month-ghost-supervisor--the-closed-loop-collusion)  
+81. [[E-SAFETY-WINDOWS-2025-06-21-01] The Paper Deadline: How a "Completed" Project Remained a Fire Trap for 5 More Months](#-e-safety-windows-2025-06-21-01-the-paper-deadline-how-a-completed-project-remained-a-fire-trap-for-5-more-months)  
+82. [[E-SAFETY-2025-07-17-01] The "Hostage" Strategy: How Payment Disputes Extended the Danger Zone](#-e-safety-2025-07-17-01-the-hostage-strategy-how-payment-disputes-extended-the-danger-zone)  
+83. [[E-CARTEL-PRESTIGE-2025-08-30-01] The "Schrödinger's AP": How Sky Arashi Faked its Credentials to Win Contracts](#-e-cartel-prestige-2025-08-30-01-the-schrödingers-ap-how-sky-arashi-faked-its-credentials-to-win-contracts)  
+84. [[E-CARTEL-WILLPOWER-2025-08-30-01] The "Recurring Cast": How the Same Dummy Firms Rigged Tenders Across Tai Po](#-e-cartel-willpower-2025-08-30-01-the-recurring-cast-how-the-same-dummy-firms-rigged-tenders-across-tai-po)  
+85. [[E-ADMIN-2025-09-29-01] Documentary Failures: The 'Lift Contractor' Error & The $1.7M Mislabeling](#-e-admin-2025-09-29-01-documentary-failures-the-lift-contractor-error--the-17m-mislabeling)  
+86. [[E-SAFETY-NETS-2025-10-18-01] The Price of Life: HK$561 per Victim & The 5% Decoy](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk561-per-victim--the-5-decoy)  
+87. [[E-SAFETY-2025-10-19-01] The Prophecy of Doom: How Wang Fuk Court Ticked Every Box on the "Death Checklist"](#-e-safety-2025-10-19-01-the-prophecy-of-doom-how-wang-fuk-court-ticked-every-box-on-the-death-checklist)  
+88. [[E-CARTEL-2025-10-25-01] The Teflon Don: How a "Distinguished" Official Survived Two Major Bid-Rigging Scandals](#-e-cartel-2025-10-25-01-the-teflon-don-how-a-distinguished-official-survived-two-major-bid-rigging-scandals)  
+89. [[E-SAFETY-WATER-2025-11-07-01] The Paralyzed Water Network & The Fatal Maintenance](#-e-safety-water-2025-11-07-01-the-paralyzed-water-network--the-fatal-maintenance)  
+90. [[E-SAFETY-WINDOWS-2025-11-26-01] The Inverted Logic: Why Taking the Elevator Saved Lives and Stairs Killed](#-e-safety-windows-2025-11-26-01-the-inverted-logic-why-taking-the-elevator-saved-lives-and-stairs-killed)  
+91. [[E-SAFETY-NETS-2025-11-27-01] The "Open Secret": Fake Certificates](#-e-safety-nets-2025-11-27-01-the-open-secret-fake-certificates)  
+92. [[E-ADMIN-2025-12-04-01] The Chairman's fatal ignorance on safety status](#-e-admin-2025-12-04-01-the-chairmans-fatal-ignorance-on-safety-status)  
+93. [[E-SAFETY-NETS-2025-12-05-01] The Laundering of Risk: "We Just Trusted Them"](#-e-safety-nets-2025-12-05-01-the-laundering-of-risk-we-just-trusted-them)  
+94. [[E-CARTEL-PRESTIGE-2025-12-22-01] The Last Stand: The Missing Bond, The Crocodile Tears, and The Final Vanishing Act](#-e-cartel-prestige-2025-12-22-01-the-last-stand-the-missing-bond-the-crocodile-tears-and-the-final-vanishing-act)  
+95. [[E-GOV-2025-12-22-01] The "Ghost" Contractor: How BD Failed to Stop Prestige Because the Paperwork Said "Fusion"](#-e-gov-2025-12-22-01-the-ghost-contractor-how-bd-failed-to-stop-prestige-because-the-paperwork-said-fusion)  
+96. [[E-CARTEL-2025-12-29-01] The Digital Shredding: Deleting the Evidence of Collusion](#-e-cartel-2025-12-29-01-the-digital-shredding-deleting-the-evidence-of-collusion)  
+97. [[E-VICTIM-2024-11-30-01] The Living Tomb: "Moldy, Pitch Black, and Voiceless"](#-e-victim-2024-11-30-01-the-living-tomb-moldy-pitch-black-and-voiceless)  
+98. [[E-VICTIM-2025-11-26-01] The Seven Hours of Hell: A Real-Time Chronicle of Systemic Murder](#-e-victim-2025-11-26-01-the-seven-hours-of-hell-a-real-time-chronicle-of-systemic-murder)  
+99. [[E-VICTIM-2025-11-26-02] The Empty Staircase: How the "Information Blockade" Left the Elderly to Die in Their Sleep](#-e-victim-2025-11-26-02-the-empty-staircase-how-the-information-blockade-left-the-elderly-to-die-in-their-sleep)  
+100. [[E-VICTIM-2025-11-26-03] The Nullified Life: How the Cartel Burned 10 Years of "Sold Holidays"](#-e-victim-2025-11-26-03-the-nullified-life-how-the-cartel-burned-10-years-of-sold-holidays)  
+101. [[E-VICTIM-2025-11-27-01] The Ghost Mall: How the Fire Created 100+ "Economic Refugees" Next Door](#-e-victim-2025-11-27-01-the-ghost-mall-how-the-fire-created-100-economic-refugees-next-door)  
+102. [[E-VICTIM-2025-11-28-01] The Destruction of a Village: "I lost 10 friends in one night"](#-e-victim-2025-11-28-01-the-destruction-of-a-village-i-lost-10-friends-in-one-night)  
+103. [[E-VICTIM-2025-11-28-02] The Milk Tea Bottle: When Survival is Luck and Loss is Irreplaceable](#-e-victim-2025-11-28-02-the-milk-tea-bottle-when-survival-is-luck-and-loss-is-irreplaceable)  
+104. [[E-GOV-NETS-2015-12-31-01] The "Standard" Trap: Why "Compliant" Nets Can Still Burn Down a Building](#-e-gov-nets-2015-12-31-01-the-standard-trap-why-compliant-nets-can-still-burn-down-a-building)  
+105. [[E-GOV-NETS-2024-10-04-01] The "Two-Tier" Truth: How Labour Dept Lied to Residents but Confessed to Experts](#-e-gov-nets-2024-10-04-01-the-two-tier-truth-how-labour-dept-lied-to-residents-but-confessed-to-experts)  
+106. [[E-GOV-WATER-2025-03-24-01] Official Endorsement of Failure: How FSD Labelled Broken Valves as "Compliant"](#-e-gov-water-2025-03-24-01-official-endorsement-of-failure-how-fsd-labelled-broken-valves-as-compliant)  
+107. [[E-GOV-NETS-2025-11-20-01] The "Paper Shield": How 16 Inspections Missed the Fire Trap](#-e-gov-nets-2025-11-20-01-the-paper-shield-how-16-inspections-missed-the-fire-trap)  
+108. [[E-GOV-NETS-2025-11-24-01] The Deaf Ear: How Hotline Complaints and "Surprise Inspections" Failed to Stop the Fire](#-e-gov-nets-2025-11-24-01-the-deaf-ear-how-hotline-complaints-and-surprise-inspections-failed-to-stop-the-fire)  
+109. [[E-GOV-ALARM-2025-12-03-01] The "Silent" Alarm Mystery: Official Chaos & The 2-Year Penalty for 168 Lives](#-e-gov-alarm-2025-12-03-01-the-silent-alarm-mystery-official-chaos--the-2-year-penalty-for-168-lives)  
+110. [[E-GOV-NETS-2025-12-03-02] The "Total Demolition" Order: An Admission of Systemic Collapse](#-e-gov-nets-2025-12-03-02-the-total-demolition-order-an-admission-of-systemic-collapse)  
+111. [[E-GOV-WINDOWS-2025-12-11-01] The Bureaucratic Maze: "Not My Department" While People Died](#-e-gov-windows-2025-12-11-01-the-bureaucratic-maze-not-my-department-while-people-died)  
+112. [[E-ENFORCE-ACCIDENTAL-2025-03-21] The "CCTV Miracle": How a Bar Fight, Not Detective Work, Exposed the Cartel's Network](#-e-enforce-accidental-2025-03-21-the-cctv-miracle-how-a-bar-fight-not-detective-work-exposed-the-cartels-network)  
+113. [[E-ENFORCE-2025-04-15-01] The Evidence Magicians: "No File" Before the Fire, 11 Arrests After the Bodies Piled Up](#-e-enforce-2025-04-15-01-the-evidence-magicians-no-file-before-the-fire-11-arrests-after-the-bodies-piled-up)  
+114. [[E-ENFORCE-NETS-2025-12-01-01] The "Sloppy" Admission](#-e-enforce-nets-2025-12-01-01-the-sloppy-admission)  
+115. [[E-ENFORCE-NETS-2025-12-01-02] The 95% vs 35% Paradox: A Statistical Miracle?](#-e-enforce-nets-2025-12-01-02-the-95-vs-35-paradox-a-statistical-miracle)  
+116. [[E-ENFORCE-NETS-2025-12-03-01] The Passive Police: Media did the Police's Job](#-e-enforce-nets-2025-12-03-01-the-passive-police-media-did-the-polices-job)  
+117. [[E-MEDIA-2025-11-27-01] The "Stenography Journalism" & The Missed Scam](#-e-media-2025-11-27-01-the-stenography-journalism--the-missed-scam)  
+118. [[E-MEDIA-2025-11-30-01] The Vanishing Truth: Why State Media Deleted Its Own Scoop on the Cartel](#-e-media-2025-11-30-01-the-vanishing-truth-why-state-media-deleted-its-own-scoop-on-the-cartel)  
 
 ---
 
@@ -8073,6 +8169,61 @@ On December 4, 2025, MC Chairman Tsui Moon-kam (徐滿柑) admitted to the press
 
 ---
 
+### 🆔 [E-SAFETY-NETS-2025-12-05-01] The Laundering of Risk: "We Just Trusted Them"
+
+**🚨 Significance:**
+
+Hong Kong suppliers and contractors act as "Risk Launderers." By uncritically accepting certificates from Mainland manufacturers—despite the known prevalence of fraud—they convert dangerous illegal goods into "certified" construction materials for use in Hong Kong.
+
+**1. The "Wilful Blindness" Defense:**
+A net supplier admitted to the media: **"They gave us the certificate, so we believed them."**.
+*   *The Implication:* This is an admission of professional negligence. In a high-risk industry like fire safety, "trust" is not a strategy; "verification" is. Given the 2021 state media exposes, claiming ignorance of potential fraud is no longer a valid defense for a professional importer.
+
+**2. The Regulatory Gap:**
+The report highlights that the **State Administration for Market Regulation (SAMR)** website's query function was "undergoing upgrades" (suspended) since October 2025.
+*   *The Void:* During the critical period before the fire, there was effectively **no official way** to verify report numbers online. Contractors and officials likely used this "maintenance period" as an excuse to skip verification, or simply accepted the fake "mirror sites" provided by the fraudsters.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Supplier's Confession**  
+> *Source: Yahoo News / 2025-12-05*  
+>  
+> "棚網銷售商...麥偉強接受...訪問...他的公司過去從內地廠商進口阻燃棚網，「有證書話合規格，咁我哋就信佢啦」"  
+>  
+> *Translation:*  
+> "Net supplier Mak Wai‑keung stated they imported scaffolding nets from Mainland whose certificates said compliant... '**So we just believed them**'."  
+
+> **Evidence [B]: The Official System Down**
+> *Source: The Collective HK / 2025-12-06*
+>
+> "市監總局網站...大概由十月起，因「功能升級改造」而**無法使用該查詢功能**。"
+>
+> *Translation:*
+> "SAMR website... query function **unavailable** since around October due to 'system upgrade'."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"We are traders, not chemists. We rely on the manufacturer's documents. We cannot afford to re-test every batch in Hong Kong labs."
+
+**The Logical Trap:**
+1.  **Duty of Importer:** Under the *Consumer Goods Safety Ordinance* or *Trade Descriptions Ordinance*, the importer bears liability for the authenticity of the goods. "It's too expensive to test" is an admission that they prioritize profit over safety compliance.
+2.  **The "One Batch" Test:** They don't need to test *every* roll. Testing *one* random sample locally would have revealed the fraud (as residents did with a lighter). Not doing even a basic spot check implies they **did not want to know the answer**.
+
+**¶ Statutory Basis:**
+*   False Trade Description, [Cap 362 Section 7](https://www.elegislation.gov.hk/hk/cap362!en/s7?_lang=en)
+
+**📅 Timeline:**
+*   **2025-10:** Mainland Official verification system goes offline.
+*   **Late October:** Contractors import fake nets with fake certs.
+*   **2025-12-05:** Media: Supplier admits they just "trusted" the paperwork.
+
+**🔗 Links:**
+*   [Yahoo News Report](https://hk.news.yahoo.com/share/095a331e-2013-49d2-b65a-b511fdf0770e)
+*   [The Collective Report](https://thecollectivehk.com/內地檢測放蛇無需送樣付千元兩小時獲合格報告/)
+
+---
+
 ### 🆔 [E-CARTEL-PRESTIGE-2025-12-22-01] The Last Stand: The Missing Bond, The Crocodile Tears, and The Final Vanishing Act
 
 **🚨 Significance:**
@@ -8231,58 +8382,105 @@ This incident confirms that the Cartel operates multiple entities to evade liabi
 
 ---
 
-### 🆔 [E-SAFETY-NETS-2025-12-05-01] The Laundering of Risk: "We Just Trusted Them"
+### 🆔 [E-CARTEL-2025-12-29-01] The Digital Shredding: Deleting the Evidence of Collusion
 
 **🚨 Significance:**
 
-Hong Kong suppliers and contractors act as "Risk Launderers." By uncritically accepting certificates from Mainland manufacturers—despite the known prevalence of fraud—they convert dangerous illegal goods into "certified" construction materials for use in Hong Kong.
+Following the media exposure of the [**"Wellman" Nexus**](#-e-cartel-prestige-2020-02-12-01-the-wellman-nexus-the-sports-club-that-runs-the-bid-rigging-cartel), the cartel engaged in a desperate, multi-stage digital cover-up. The systematic removal of specific names, followed by the entire committee structure and sponsor lists from the **Wellman Sports Association (康仁體育會)** website, constitutes strong **consciousness of guilt**.
 
-**1. The "Wilful Blindness" Defense:**
-A net supplier admitted to the media: **"They gave us the certificate, so we believed them."**.
-*   *The Implication:* This is an admission of professional negligence. In a high-risk industry like fire safety, "trust" is not a strategy; "verification" is. Given the 2021 state media exposes, claiming ignorance of potential fraud is no longer a valid defense for a professional importer.
+**1. The First Wave (Targeted Removal):**
+Immediately after the first media report named them, **Richie Tam Tsz-man (譚子文)** and **Li Chik-hoi (李植開)**—key figures linking **Man Sing (民星營造)** and **San Hoi Ming (新開明)** to the cartel—were surgically deleted from the "Executive Vice-President" list.
 
-**2. The Regulatory Gap:**
-The report highlights that the **State Administration for Market Regulation (SAMR)** website's query function was "undergoing upgrades" (suspended) since October 2025.
-*   *The Void:* During the critical period before the fire, there was effectively **no official way** to verify report numbers online. Contractors and officials likely used this "maintenance period" as an excuse to skip verification, or simply accepted the fake "mirror sites" provided by the fraudsters.
+**2. The Second Wave (Total Erasure of Consultant Links):**
+After media teased further revelations, the *entire* committee list was taken offline. This hidden list contained the smoking gun: Directors and key figures of **W&K Architect (黃鄺建築師)**—**Melvis Choi (蔡家濠)**, **Wilson Kwong (鄺永強)**, **Derek Wai (韋漢棠)**, and **Peter Pang (彭駿傑)**—were sitting on the same board as the contractors. Hiding this list was an attempt to bury the evidence of Consultant-Contractor collusion.
+
+**3. The Third Wave (The Sponsor Purge):**
+**11 construction-related companies** were removed from the sponsor page. This included not just the Wang Fuk bidders (**Man Sing**, **San Hoi Ming**, **Shusum/樹深**), but a wider network of material suppliers and property firms (e.g., **Macau Earnest Property/澳門晉誠物業**, **Kong Lam Construction/港林建設工程**, **Diploma Construction/德保建築**, **AKA Coating/澳嘉塗料**, **Hong Kong Building Material/香港建材**... **Best Time Construction Material/駿銘建材**), revealing the full scale of the ecosystem they tried to hide.
+
+**4. The "COVID" Excuse:**
+On Jan 15, 2026, Wellman issued a notice claiming the removal was due to "poor economic conditions after **COVID-19**" and a decision to "terminate the Director system."
+*   *The Lie:* The pandemic ended years ago. Using COVID to justify deleting data **exactly one month** after the fire investigation began and immediately following media exposure is a transparent pretext to destroy evidence.
 
 **📜 Original Record:**
 
-> **Evidence [A]: The Supplier's Confession**  
-> *Source: Yahoo News / 2025-12-05*  
->  
-> "棚網銷售商...麥偉強接受...訪問...他的公司過去從內地廠商進口阻燃棚網，「有證書話合規格，咁我哋就信佢啦」"  
->  
-> *Translation:*  
-> "Net supplier Mak Wai‑keung stated they imported scaffolding nets from Mainland whose certificates said compliant... '**So we just believed them**'."  
-
-> **Evidence [B]: The Official System Down**
-> *Source: The Collective HK / 2025-12-06*
+> **Evidence [A1]: Wave 1 - The Targeted Deletion (Tam & Li)**  
+> *Source: Green Bean Media: Bid-Rigging Investigation Episode III / 2026-01-14*
 >
-> "市監總局網站...大概由十月起，因「功能升級改造」而**無法使用該查詢功能**。"
+> "節目播出後，譚子文和李植開的名字，在「康仁體育會」網站的常務副會長名單上被刪走。"
 >
 > *Translation:*
-> "SAMR website... query function **unavailable** since around October due to 'system upgrade'."
+> "After the program aired, Richie Tam and Li Chik-hoi's names were deleted from the 'Executive Vice-President' list on the 'Wellman Sports Association' website."
+
+> **Evidence [A2]: Wave 1 - The Time**  
+> *Source: HK Feature / 2026-01-09*
+>
+> "千絲萬縷的關係曝光之後，康仁體育會網站（www.wellmansports.org）於2025年12月底「常務副會長」刪走譚子文與李植開的名字"
+>
+> *Translation:*
+> "After the exposure of their inextricably linked network, Wellman removed Tam and Li's names from their list of Vice-Presidents at the end of Dec, 2025. "
+
+> **Evidence [B]: Wave 2 - The Total Blackout (Hiding the Consultants)**  
+> *Source: Green Bean Media: Bid-Rigging Investigation Episode III / 2026-01-14*
+>
+> "我們播出第二集，預告將進一步解讀「康仁體育會」與大維修工程的關係後... 整份委員會名單已無法顯示。... 在體育會網站那消失的架構圖，找到這幾個人名：蔡家濠先生 Mr. Melvis Choi、鄺永強先生 Mr. Wilson Kwong、韋漢棠先生 Mr. Derek Wai、彭駿傑先生 Mr. Peter Pang... 他們都是... 黃鄺建築師... 的董事、股東和工程師"
+>
+> *Translation:*
+> "After we aired Episode 2 and previewed further analysis of the relationship between 'Wellman' and major renovation works... the entire committee list could no longer be displayed... In the vanished organizational chart... we found these names: **Mr. Melvis Choi**, **Mr. Wilson Kwong**, **Mr. Derek Wai**, **Mr. Peter Pang**... They are directors, shareholders, and engineers of... **W&K Architects**."
+
+> **Evidence [C1]: Wave 3 - The Sponsor Purge (11 Companies)**  
+> *Source: Green Bean Media: Bid-Rigging Investigation Episode III / 2026-01-14*
+>
+> "康仁體育會的贊助商名單，亦在過去一個月大清洗... 有十一間公司的名字被移除了。它們包括：民星營造、新開明建築工程、樹深建築，它們都有在宏福苑入標... 其他還有澳門晉誠物業、港林建設工程、德保建築、澳嘉塗料、香港建材.... 駿銘建材、以及連鎖蔬菜品牌「新界仔」都在贊助商名單上突然被集體除名，大部分都是物業、建築或建材公司"
+>
+> *Translation:*
+> "The sponsor list... was also purged in the past month... **11 companies** were removed. They include: **Man Sing**, **San Hoi Ming**, **Shusum**, which all bid for Wang Fuk... Others include **Macau Earnest Property**, **Kong Lam Construction**, **Diploma Construction**, **AKA Coating
+**, **Hong Kong Building Material**... **Best Time Construction Material**, and vegetable chain brand '**New Territories Boy**' were all suddenly removed en masse... mostly property, construction, or building material companies."
+
+> **Evidence [C2]: Wave 3 - The Time**  
+> *Source: HK Feature / 2026-01-09*
+>
+> "報道刊出前一星期，康仁體育會官方網站... 一共刪走十個贊助商。"
+>
+> *Translation:*
+> "A week before the report, the official website of Wellman... removed ten companies from their sponsor list."
+
+> **Evidence [D]: The Excuse (COVID & "Outdated Info")**  
+> *Source: Wellman Sports Association Notice / 2026-01-15*
+>
+> "本會在此澄清，因 **COVID-19** 疫情出現後的宏觀經濟形勢轉差，導致大部分贊助商自身經營受到影響，同時許多體育活動亦受到限制或取消。經綜合考量後，本會架構作出變動，已陸續終止會董制度及取消接受贊助商捐款。過去，本會秉持公開透明之原則，於網站上列出過往所有合作夥伴及贊助商。惟為避免資訊過時可能造成之誤會，本會已更新網站內容，並決定往後僅保留該年度之贊助商資訊。"
+>
+> *Translation:*
+> "We clarify that due to worsening macroeconomic conditions after the **COVID-19** pandemic... causing impact to sponsors... and restrictions on sports activities... the Association has changed its structure, terminating the Director system and stopping acceptance of sponsor donations. Previously... we listed all past partners... However, to avoid misunderstanding caused by outdated information, we have updated the website content and decided to only retain sponsor info for the current year."
 
 **🛡️ Pre-emptive Rebuttal:**
 
 **Anticipated Defense:**
-"We are traders, not chemists. We rely on the manufacturer's documents. We cannot afford to re-test every batch in Hong Kong labs."
+"The website updates were part of a long-planned administrative restructuring to reflect the post-pandemic economic reality and the termination of the 'Director' system.The reference to COVID-19 was a general description of the long-term economic downturn affecting sponsorships. The removal of names was to protect members' privacy from doxxing and harassment following recent media attention. The timing was coincidental to the annual review cycle, not an attempt to destroy evidence."
 
 **The Logical Trap:**
-1.  **Duty of Importer:** Under the *Consumer Goods Safety Ordinance* or *Trade Descriptions Ordinance*, the importer bears liability for the authenticity of the goods. "It's too expensive to test" is an admission that they prioritize profit over safety compliance.
-2.  **The "One Batch" Test:** They don't need to test *every* roll. Testing *one* random sample locally would have revealed the fraud (as residents did with a lighter). Not doing even a basic spot check implies they **did not want to know the answer**.
+1.  **Stimulus-Response Pattern:** The deletions didn't happen all at once (as a planned update would). They happened in *direct response* to media pressure. Wave 1 (Tam/Li) vanished after Ep 1 named them. Wave 2 (Committee) vanished after Ep 2 teased the W&K link. This reactionary pattern proves **intent to conceal specific links** as they were exposed.
+2.  **The "COVID" Anachronism:** Citing a pandemic that ended years ago to justify a website purge in **January 2026**—exactly one month after a fatal fire investigation began—is logically bankrupt. It is a "boilerplate excuse" used to mask the real reason: the list had become a liability.
+3.  **Privacy as a Shield for Crime:** If these were legitimate business associations, there would be no need to hide. If privacy was the concern, why were these names proudly displayed for years? Deleting the *entire* historical record of sponsors is Spoliation. They weren't protecting privacy; they were breaking the chain of evidence connecting the **Consultants** to the **Contractors**.
 
 **¶ Statutory Basis:**
-*   False Trade Description, [Cap 362 Section 7](https://www.elegislation.gov.hk/hk/cap362!en/s7?_lang=en)
+*   **Context:** Spoliation of Evidence / Consciousness of Guilt.
 
 **📅 Timeline:**
-*   **2025-10:** Mainland Official verification system goes offline.
-*   **Late October:** Contractors import fake nets with fake certs.
-*   **2025-12-05:** Media: Supplier admits they just "trusted" the paperwork.
+*   **2025-12-11:** Green Bean Ep 1 airs (Names Tam/Li).
+*   **Late 2025-12:** Wave 1 Deletion (Tam/Li removed).
+*   **2025-12-29:** Green Bean Ep 2 airs (Announces exposure of Wellman Nexus in Ep 3).
+*   **2025-12-29 Onwards:** Wave 2 Deletion (Committee wiped).
+*   **2025-01-02:** Wave 3 Deletion (Sponsors wiped).
+*   **2026-01-14:** Green Bean Ep 3 airs (Exposes W&K connection).
+*   **2026-01-15:** Wellman issues "COVID" notice.
 
 **🔗 Links:**
-*   [Yahoo News Report](https://hk.news.yahoo.com/share/095a331e-2013-49d2-b65a-b511fdf0770e)
-*   [The Collective Report](https://thecollectivehk.com/內地檢測放蛇無需送樣付千元兩小時獲合格報告/)
+*   [Green Bean Media: Bid-Rigging Investigation Episode III](https://greenbean.media/圍標調查-三｜揭宏福苑總承建商侯華建「深紅」/)
+*   [Green Bean Media: Bid-Rigging Investigation Episode II](https://greenbean.media/大維修關係網（二）｜揭鴻毅顧問公司，於宏福苑/)
+*   [Green Bean Media: Bid-Rigging Investigation Episode I](https://greenbean.media/綠豆調查：大維修關係網（上）｜宏福苑數間投標/)
+*   [HK Feature: The Removal Timeline](https://hkfeature.com/local/宏福苑調查-圍標圍物料-宏業建築董事侯華健投資/)
+*   [Wellman Notice](https://www.wellmansports.org/最新資訊) | [Backup](康仁體育會網站公告2026-01-15.png)
+*   [Hive Diagram of the networks between Wellman, Prestige and Will Power](宏業、鴻毅與康仁體育會關係圖.png) | [Documentation](宏業、鴻毅與康仁體育會關係圖代碼.md)
 
 ---
 
