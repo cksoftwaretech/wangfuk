@@ -1629,7 +1629,7 @@ The Club and its members flaunt deep ties to the pro-Beijing establishment.
 
 **3. The Wang Fuk "Bidding Block":**
 Analysis reveals that **8 companies** bidding for the Wang Fuk renovation are tied to this single sports club. They are not competitors; they are "Club Members":
-*   **The Officers:** **Man Sing (民星營造)** and **San Hoi Ming (新開明)**, listed sponsors, are owned by Wellman's **Executive Vice-Presidents** (Richie Tam/譚子文 & Li Chik-hoi/李植開), who are also business partners of Prestige's boss. **Now Construction (Asia) (現代建設(亞洲))** is directly by **Kwok Sing-fong (郭成芳)**, who was Wellman's Director. 
+*   **The Officers:** **Man Sing (民星營造)** and **San Hoi Ming (新開明)**, listed sponsors, are owned by Wellman's **Executive Vice-Presidents** (Richie Tam/譚子文 & Li Chik-hoi/李植開), who are also [business partners](#-e-cartel-prestige-2023-07-04-01-the-prestige-spiderweb-how-business-partners-posed-as-competitors) of Prestige's boss. **Now Construction (Asia) (現代建設(亞洲))** is directly by **Kwok Sing-fong (郭成芳)**, who was Wellman's Director. 
 *   **The Sponsor:** **Suhum (樹深)** was a listed sponsor. 
 *   **The Extended Family:** **Sunarts (信豪)**, **Prestige (宏業)** (Partners of VP), **Wai Yip (瑋業發展)** (Former Co. of Director), and **Milton (萬昇建築)** (Donor) complete the circle.
 *   *The Verdict:* The tender was not an open market competition; it was likely an internal **"Wellman Sports Association Intramural Game."**
