@@ -1817,7 +1817,7 @@ Analysis reveals that **8 companies** bidding for the Wang Fuk renovation are ti
 *   [HK Feature Report: Link to Now Construction (Asia)](https://hkfeature.com/local/宏福苑調查-圍標圍物料-宏業建築董事侯華健投資/)
 *   [HK Feature Report: Link to Wai Yip](https://hkfeature.com/local/【宏福苑調查】九七金融風暴投資損手-陳响發家族/)
 *   [Wellman's Donation](https://www.facebook.com/share/p/1PW1iUwA7f/) | [Backup](康仁體育會2020-02-12捐款截圖.png)
-*   [Wellman's Congratulations to San Hoi Ming](https://www.facebook.com/share/p/1FfhdTG3P9/) | [Backup](康仁體育會祝賀李植開.md)
+*   [Wellman's Congratulations to San Hoi Ming](https://www.facebook.com/share/p/1FfhdTG3P9/) | [Backup](康仁體育會祝賀新開明.md)
 *   [W&K Basketball Team Facebook Page](https://www.facebook.com/wkbasketball.hk) | [Backup](黃鄺建築師籃球隊Facebook截圖.png)
 *   [Wan Chai C&W District ICA List of Key Figures](https://dw-media.tkww.hk/epaper/tkp/20120731/A21_Screen.pdf) | [Backup](灣仔中西區工商業聯合會要員.pdf)
 *   [Hive Diagram of the networks between Wellman, Prestige and Will Power](宏業、鴻毅與康仁體育會關係圖.png) | [Documentation](宏業、鴻毅與康仁體育會關係圖代碼.md)
