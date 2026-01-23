@@ -1629,7 +1629,7 @@ The Club and its members flaunt deep ties to the pro-Beijing establishment.
 
 **3. The Wang Fuk "Bidding Block":**
 Analysis reveals that **8 companies** bidding for the Wang Fuk renovation are tied to this single sports club. They are not competitors; they are "Club Members":
-*   **The Officers:** **Man Sing (民星營造)** and **San Hoi Ming (新開明)**, listed sponsors, are owned by Wellman's **Executive Vice-Presidents** (Richie Tam/譚子文 & Li Chik-hoi/李植開), who are also [business partners](#-e-cartel-prestige-2023-07-04-01-the-prestige-spiderweb-how-business-partners-posed-as-competitors) of Prestige's boss. **Now Construction (Asia) (現代建設(亞洲))** is directly by **Kwok Sing-fong (郭成芳)**, who was Wellman's Director. 
+*   **The Officers:** **Man Sing (民星營造)** and **San Hoi Ming (新開明)**, listed sponsors, are owned by Wellman's **Executive Vice-Presidents** (Richie Tam/譚子文 & Li Chik-hoi/李植開), who are also [business partners](#-e-cartel-prestige-2023-07-04-01-the-prestige-spiderweb-how-business-partners-posed-as-competitors) of Prestige's boss. **Now Construction (Asia) (現代建設(亞洲))** is directly by Kwok Sing-fong (郭成芳), who was Wellman's Director. 
 *   **The Sponsor:** **Suhum (樹深)** was a listed sponsor. 
 *   **The Extended Family:** **Sunarts (信豪)**, **Prestige (宏業)** (Partners of VP), **Wai Yip (瑋業發展)** (Former Co. of Director), and **Milton (萬昇建築)** (Donor) complete the circle.
 *   *The Verdict:* The tender was not an open market competition; it was likely an internal **"Wellman Sports Association Intramural Game."**
@@ -1775,7 +1775,7 @@ Analysis reveals that **8 companies** bidding for the Wang Fuk renovation are ti
 **The Logical Trap:**
 1.  **The Statistical Impossibility:** It might be a coincidence if *two* bidders knew each other. But when **8 different bidders** for *one specific estate* (Wang Fuk) are all tied to the *same* executive committee or sponsor list, statistical probability dictates this is **coordination**, not coincidence. The Club effectively acted as a "Tender Allocation Committee."
 2.  **The Referee-Player Conflict:** The defense of "networking" collapses when **Consultants** and **Contractors** sit on the same board. In a tender, the Consultant is the **Referee**. If the Referee and the Players are "brothers" in the same private club, the game is rigged by definition. Failure to declare this specific link to the client (Wang Fuk owners) constitutes **fraud by omission**.
-3.  **The "Guilty" Deletion:** If the donations were purely benevolent and the relationships purely social, why **delete** the core parts of the website immediately after the scandal broke? Innocent charities do not purge their donor lists in panic. The "Digital Shredding" further suggests they knew the list looked like a cartel roster, not a charity roll.
+3.  **The "Guilty" Deletion:** If the donations were purely benevolent and the relationships purely social, why [**delete** the core parts](#-e-cartel-2025-12-29-01-the-digital-shredding-deleting-the-evidence-of-collusion) of the website immediately after the scandal broke? Innocent charities do not purge their donor lists in panic. The "Digital Shredding" further suggests they knew the list looked like a cartel roster, not a charity roll.
 
 **📅 Timeline:**
 *   **2004-07-23:** W&K Architect founded  — [ref](https://www.tempb.com/companies/w-k-architect-limited/)
@@ -3633,7 +3633,7 @@ Investigative reporting exposes a web of cross-ownership linking the winning con
     *   *Link:* Choi was also a co-director with Hau in "Blazing Edge Ltd".
 *   **Now Construction (Asia) (現代建設):** Director **Choi Man-bin (蔡文彬)**.
     *   *Link:* Connected via the Wellman nexus where Tam and Hau's associates congregate.
-*   **Shusum (樹深):** Found on Wellman's sponsor list before deletion.
+*   **Shusum (樹深):** Found on Wellman's sponsor list [before deletion](#-e-cartel-2025-12-29-01-the-digital-shredding-deleting-the-evidence-of-collusion).
 
 **2. The "Dummy" Proof (Zero Votes):**
 In a genuine tender, every bidder tries to win. However, voting records show four of these linked companies received **zero or near-zero support**:
@@ -8295,7 +8295,7 @@ This incident confirms that the Cartel operates multiple entities to evade liabi
 Following the media exposure of the [**"Wellman" Nexus**](#-e-cartel-prestige-2020-02-12-01-the-wellman-nexus-the-sports-club-that-runs-the-bid-rigging-cartel), the cartel engaged in a desperate, multi-stage digital cover-up. The systematic removal of specific names, followed by the entire committee structure and sponsor lists from the **Wellman Sports Association (康仁體育會)** website, constitutes strong **consciousness of guilt**.
 
 **1. The First Wave (Targeted Removal):**
-Immediately after the first media report named them, **Richie Tam Tsz-man (譚子文)** and **Li Chik-hoi (李植開)**—key figures linking **Man Sing (民星營造)** and **San Hoi Ming (新開明)** to the cartel—were surgically deleted from the "Executive Vice-President" list.
+Immediately after the first media report [named them](#-e-cartel-prestige-2023-07-04-01-the-prestige-spiderweb-how-business-partners-posed-as-competitors), **Richie Tam Tsz-man (譚子文)** and **Li Chik-hoi (李植開)**—key figures linking **Man Sing (民星營造)** and **San Hoi Ming (新開明)** to the cartel—were surgically deleted from the "Executive Vice-President" list.
 
 **2. The Second Wave (Total Erasure of Consultant Links):**
 After media teased further revelations, the *entire* committee list was taken offline. This hidden list contained the smoking gun: Directors and key figures of **W&K Architect (黃鄺建築師)**—**Melvis Choi (蔡家濠)**, **Wilson Kwong (鄺永強)**, **Derek Wai (韋漢棠)**, and **Peter Pang (彭駿傑)**—were sitting on the same board as the contractors. Hiding this list was an attempt to bury the evidence of Consultant-Contractor collusion.
