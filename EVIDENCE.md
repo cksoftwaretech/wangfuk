@@ -3705,6 +3705,7 @@ The failure to declare these close business ties constitutes a fraudulent misrep
 *   [Green Bean Media: Bid-Rigging Investigation Episode I](https://greenbean.media/綠豆調查：大維修關係網（上）｜宏福苑數間投標/)
 *   [Green Bean Media: Bid-Rigging Investigation Episode III](https://greenbean.media/圍標調查-三｜揭宏福苑總承建商侯華建「深紅」/)
 *   [EGM Minutes](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2023-11-23-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+*   [Hive Diagram of the networks between Wellman, Prestige and Will Power](宏業、鴻毅與康仁體育會關係圖.png) | [Documentation](宏業、鴻毅與康仁體育會關係圖代碼.md)
 
 ---
 
