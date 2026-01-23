@@ -141,20 +141,26 @@ The fact that Wang Fuk Court's consultant was born from the ashes of a proven bi
 **📜 Original Record:**
 
 > **Evidence [A]: The Founder's History**  
-> *Source: Journalist W's Report / 2025-12-26*  
-> "沈鉅忠是鴻毅創辦人之一... 2001年至2005年間曾持有另一間公司世紀建築師樓有限公司，這公司涉及一宗沙田濱景花園的案件... 案中自首的判頭丘瑞田在庭上指出... 協助聯繫「世紀」... 令「環球屋宇」取得顧問合約"  
+> *Source: Journalist W's Report / 2025-12-26*
+> 
+> "沈鉅忠是鴻毅創辦人之一... 2001年至2005年間曾持有另一間公司世紀建築師樓有限公司，這公司涉及一宗沙田濱景花園的案件... 案中自首的判頭丘瑞田在庭上指出... 協助聯繫「世紀」... 令「環球屋宇」取得顧問合約"
+> 
 > *Translation:*  
 > "Shum cofounded Will Power... Between 2001 and 2005, he held another company, Century Architects Limited, which was involved in the Shatin Garden Vista case... The self-surrendered subcontractor Yau Shui-tin stated in court... he assisted in contacting 'Century'... enabling 'Universal Housing' to win the consultancy contract."  
 
 > **Evidence [B]: The "Signboard Change"**  
-> *Source: Journalist W's Report / 2025-12-26*  
-> "有業內人士透露... 「世紀出事(捲入貪污案)之後無幾耐，他們辦公室已經換上鴻毅招牌，轉個名繼續做生意，這行好常見。」... 鴻毅成立於2006年1月... 與「世紀」的地址一度同座不同層。"  
+> *Source: Journalist W's Report / 2025-12-26*
+> 
+> "有業內人士透露... 「世紀出事(捲入貪污案)之後無幾耐，他們辦公室已經換上鴻毅招牌，轉個名繼續做生意，這行好常見。」... 鴻毅成立於2006年1月... 與「世紀」的地址一度同座不同層。"
+>   
 > *Translation:*  
 > "Industry insiders revealed... 'Shortly after Century got into trouble (involved in corruption cases), their office signboard was changed to Will Power; changing the name to continue business is common in this industry.'... Will Power was established in Jan 2006... shared the same building (different floor) with 'Century' at one point."  
 
 > **Evidence [C]: The Earlier Bribery Conviction**  
-> *Source: Journalist W's Report / 2025-12-26*  
-> "「世紀」在更早時間亦捲入另一宗貪案。一名營業經理於2002年間... 賄賂大廈法團副主席... 案件在2005年審結，時間上與與沈鉅忠退出公司時間相若。"  
+> *Source: Journalist W's Report / 2025-12-26*
+> 
+> "「世紀」在更早時間亦捲入另一宗貪案。一名營業經理於2002年間... 賄賂大廈法團副主席... 案件在2005年審結，時間上與與沈鉅忠退出公司時間相若。"
+>   
 > *Translation:*  
 > "'Century' was involved in another corruption case earlier. A sales manager in 2002... bribed an MC Vice-Chairman... The case concluded in 2005, coinciding with Shum's exit from the company."  
 
@@ -3654,7 +3660,7 @@ Investigative reporting exposes a web of cross-ownership linking the winning con
     *   *Club Role:* Li was **Executive Vice-President** of Wellman.
 *   **Sunarts (信豪):** Owned by **Choi Man-ming** (蔡文鳴). 
     *   *Link:* Choi was also a co-director with Hau in "Blazing Edge Ltd".
-*   **Now Construction (Asia) (現代建設):** Director **Choi Man-bin (蔡文彬)**.
+*   **Now Construction (Asia) (現代建設):** Director **Choi Man-ban (蔡文彬)**.
     *   *Link:* Connected via the Wellman nexus where Tam and Hau's associates congregate.
 *   **Shusum (樹深):** Found on Wellman's sponsor list [before deletion](#-e-cartel-2025-12-29-01-the-digital-shredding-deleting-the-evidence-of-collusion).
 
@@ -4238,7 +4244,7 @@ Investigative reporting by *Pulse HK (追光者)* uncovers the ultimate rigging 
 
 **1. The "Family" in the Final 9:**
 Out of the 9 firms selected by the Consultant (**Will Power/鴻毅**) for the final interview, **4 were directly linked** to Hau Wah-kin or his wife, **Cheung Yin-kam (張燕琴)**.
-*   **Mega Praise (萬嘉):** Formerly named "Prestige Construction (International)". Its registered office was owned by Hau's wife. Its director's address was also owned by Hau's wife. It is effectively a **"Clone"** of Prestige.
+*   **Mega Praise (萬嘉):** Formerly named "Prestige Construction (International)". Its registered office was owned by Hau's wife. Its director's address was also owned by Hau's wife. Hau was seen representing Mega Praise in an owners' board meeting of Fu Kar Building. It is effectively a **"Clone"** of Prestige.
 *   **Widely (偉利):** Its director, **Leung Bing-yiu (梁炳耀)**, served as a Director of Prestige for 9 years (2005-2014).
 *   **Man Sing (民星營造):** Its majority shareholder, **Richie Tam Tsz-man (譚子文)**, is a 50/50 business partner with Hau in another company "Rich Surplus" (利來拓展), which shares the same address with Man Sing. Another shareholder is a partner of Hau's wife in "Fullmax Creation" (澤豐創建).
 
@@ -4252,7 +4258,7 @@ The Consultant (**Will Power**) filtered out 48 other bidders to select these sp
 
 **📜 Original Record:**
 
-> **Evidence [A]: The "Mega Praise" Clone**  
+> **Evidence [A1]: The "Mega Praise" Clone**  
 > *Source: Pulse HK / 2025-12-31*
 >
 > "萬嘉...曾...以「**宏業建築工程（國際）有限公司**」名義營運... 辦公室...由福來置業(**張燕琴**[侯妻]全資持有)...購入"
@@ -4261,6 +4267,14 @@ The Consultant (**Will Power**) filtered out 48 other bidders to select these sp
 > *Translation:*
 > "Mega Praise... operated as '**Prestige Construction (International)**'... Office owned by Best Luck (which is in turn wholly-owned by**Cheung Yin-kam** [Hau's wife])"
 > "Mega Praise's director Lam Cho-sun's two addresses are owned by Cheung and Best Luck respectively."
+
+> **Evidence [A2]: The "Mega Praise" Clone**  
+> *Source: HK01 / 2026-01-23*  
+>
+> "[灣仔富嘉大廈管理公司]恒威代表在庭上透露，法團2024年6月27日曾召開業主大會，一名姓侯的男子代表萬嘉建築工程有限公司出席... 承認該名男子為侯華建"  
+>
+> *Translation:*  
+> "[Fu Kar Building Property Management] Hang Way Housing Management said a man named Hau represented Mega Praise during the AGM on 27 Jun 2024... Hang Way confirmed his identity being Hau Wah-kin."
 
 > **Evidence [B]: The "Widely" Colleague**  
 > *Source: Pulse HK / 2025-12-31*
@@ -4320,10 +4334,15 @@ The Consultant (**Will Power**) filtered out 48 other bidders to select these sp
 *   **2018-09-06:** Hau (Prestige) & Tam (Man Sing) form joint venture which shares address with Man Sing.
 *   **2023-09-12:** Will Power selects Prestige, Mega Praise, Widely, Man Sing for final interview.
 *   **2024-01-28:** Prestige wins.
+*   **2024-06-27:** Hau represents Mega Praise.
+*   **2025-11-26:** Fire. 168 dead.
+*   **2025-12-31:** Media exposure. 
 
 **🔗 Links:**
 *   [Pulse HK Report](https://pulsehknews.com/20251231investigation/)
+*   [HK01 Report: Hau represented Mega Praise](https://www.hk01.com/article/60314078)
 *   [Renovation Booklet (Shortlist)](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf)
+*   [Hive Diagram of the networks between Wellman, Prestige and Will Power](宏業、鴻毅與康仁體育會關係圖.png) | [Documentation](宏業、鴻毅與康仁體育會關係圖代碼.md)
 
 ---
 
