@@ -3620,7 +3620,7 @@ This specific weighting (High MPF points / Low Professional points) appears cust
 
 **🚨 Significance:**
 
-Investigative reporting exposes a web of cross-ownership linking the winning contractor, **Prestige (宏業)**, to at least four other "competitors" in the tender. Corporate registry filings prove that Prestige's owner, **Hau Wah-kin**, is a direct business partner with the owners of these rival firms. Furthermore, they are all high-ranking office bearers in the same organization: **Wellman Sports Association (康仁體育會)**.
+Investigative reporting exposes a web of cross-ownership linking the winning contractor, **Prestige (宏業)**, to at least four other "competitors" in the tender. Corporate registry filings prove that Prestige's owner, **Hau Wah-kin**, is a direct business partner with the owners of these rival firms. Furthermore, they are all high-ranking office bearers in the same organization: [**Wellman Sports Association (康仁體育會)**](#-e-cartel-prestige-2020-02-12-01-the-wellman-nexus-the-sports-club-that-runs-the-bid-rigging-cartel).
 
 **1. The "Partner" Competitors:**
 *   **Man Sing (民星營造):** Owned by **Richie Tam Tsz-man (譚子文)**.
