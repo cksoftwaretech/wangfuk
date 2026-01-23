@@ -1717,7 +1717,7 @@ Analysis reveals that **8 companies** bidding for the Wang Fuk renovation are ti
 > *Translation:*  
 > "Wellman Sports Club purged its sponsor list in the past month; 11 firms removed, including Man Sing, San Hoi Ming, Shusum — which had bid at Wang Fuk Court."
 
-> **Evidence [J]: The Cartel Roster (8 Wang Fuk Bidders)**
+> **Evidence [J]: The Cartel Roster (8 Wang Fuk Bidders)**  
 > *Source: Composite Analysis*
 >
 > | **Bidder (Wang Fuk)** | **Wellman Connection** | **Link Details** |
@@ -1739,7 +1739,17 @@ Analysis reveals that **8 companies** bidding for the Wang Fuk renovation are ti
 > *Translation:*  
 > "The W&K Basketball Team was founded by Mr. Melvis Choi in 2011... Team Owner is Mr. Dick Choi... Main Sponsor: Wellman Ltd."
 
-> **Evidence [L]: Selected transcription of the Green Bean's video report**  
+> **Evidence [L]: Strong Ties within Wellman's Board**  
+> *Source: Wellman Post / 2019-03-11*
+>
+> "康仁體育會 is with Melvis Ans and 2 others"
+> "熱烈恭賀本會常務副會長李植開先生其公司喬遷之喜，祝生意興隆"
+>
+> *Translation:*  
+> "Wellman is with Melvis Choi, Dick Choi, and Derek Wai."
+> "Congratulations to Executive Vice‑President Mr. Li Chik‑hoi on his company’s relocation; wishing prosperous business."
+
+> **Evidence [M]: Selected transcription of the Green Bean's video report**  
 > *Source: Green Bean Media: Bid-Rigging Investigation Episode III / 2026-01-14*
 >
 >綠豆播出的第一集調查報道，發現一個叫「康仁體育會」的骨幹成員背後都有關連公司涉及大維修工程。我們發現由這個體育會委員所開設的工程公司，至少有三間都有入標宏福苑。其中「民星營造」的譚子文，以及「新開明建築工程」的李植開，甚至曾經與侯華建一齊開公司。
@@ -1764,7 +1774,7 @@ Analysis reveals that **8 companies** bidding for the Wang Fuk renovation are ti
 >
 >綠豆在有限的資源下，短短一個多月，已揭露入標公司的千絲萬縷，勾劃他們的關係圈，當中更揭露顧問公司鴻毅篡改紀錄，令心儀公司入選。居民多年來一直發聲，希望阻止悲劇發生，但長年被無視，監管執法的政府部門，以致特區政府高層，至今未有人因此道歉和問責。特區政府成立沒法定權力的獨立委員會調查事故，預計九個月內交報告，相信無論災民或者全港市民，又是一場漫長的等待。
 
-> **Evidence [L]: The Wellman + W&K + TKS + ICA Nexus**
+> **Evidence [N]: The Wellman + W&K + TKS + ICA Nexus**  
 > *Source: Composite Analysis*
 >
 > | Figures | Wellman Connection | W&K Connection | TKS Connection | Wan Chai C&W District ICA Connection  |
@@ -1807,6 +1817,7 @@ Analysis reveals that **8 companies** bidding for the Wang Fuk renovation are ti
 *   [HK Feature Report: Link to Now Construction (Asia)](https://hkfeature.com/local/宏福苑調查-圍標圍物料-宏業建築董事侯華健投資/)
 *   [HK Feature Report: Link to Wai Yip](https://hkfeature.com/local/【宏福苑調查】九七金融風暴投資損手-陳响發家族/)
 *   [Wellman's Donation](https://www.facebook.com/share/p/1PW1iUwA7f/) | [Backup](康仁體育會2020-02-12捐款截圖.png)
+*   [Wellman's Congratulations to San Hoi Ming](https://www.facebook.com/share/p/1FfhdTG3P9/)
 *   [W&K Basketball Team Facebook Page](https://www.facebook.com/wkbasketball.hk) | [Backup](黃鄺建築師籃球隊Facebook截圖.png)
 *   [Hive Diagram of the networks between Wellman, Prestige and Will Power](宏業、鴻毅與康仁體育會關係圖.png) | [Documentation](宏業、鴻毅與康仁體育會關係圖代碼.md)
 
