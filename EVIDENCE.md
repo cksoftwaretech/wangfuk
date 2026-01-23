@@ -1764,6 +1764,17 @@ Analysis reveals that **8 companies** bidding for the Wang Fuk renovation are ti
 >
 >綠豆在有限的資源下，短短一個多月，已揭露入標公司的千絲萬縷，勾劃他們的關係圈，當中更揭露顧問公司鴻毅篡改紀錄，令心儀公司入選。居民多年來一直發聲，希望阻止悲劇發生，但長年被無視，監管執法的政府部門，以致特區政府高層，至今未有人因此道歉和問責。特區政府成立沒法定權力的獨立委員會調查事故，預計九個月內交報告，相信無論災民或者全港市民，又是一場漫長的等待。
 
+> **Evidence [L]: The Wellman + W&K + TKS + ICA Nexus**
+> *Source: Composite Analysis*
+>
+> | Figures | Wellman Connection | W&K Connection | TKS Connection | Wan Chai C&W District ICA Connection  |
+> | :--- | :--- | :--- | :--- | :--- |
+> | 鄺永強 Wilson Kwong | Director | Director | Director + Owner | Executive Director |
+> | 韋漢棠 Derek Wai | Director  | Director | Owner | |
+> | 蔡啟新 Dick Choi | Chairman | Basketball Team Owner | | Important Person |
+> | 蔡家濠 Melvis Choi | Director  | Key Figure + Basketball Team Founder | | Director |
+> | 彭駿傑 Peter Pang | Director  | Key Figure | | |
+
 **¶ Statutory Basis:**
 *   **Context:** Organized Crime / Syndicate Operations.
 
