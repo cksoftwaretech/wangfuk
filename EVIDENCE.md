@@ -8319,7 +8319,7 @@ On Jan 15, 2026, Wellman issued a notice claiming the removal was due to "poor e
 > **Evidence [A2]: Wave 1 - The Time**  
 > *Source: HK Feature / 2026-01-09*
 >
-> "千絲萬縷的關係曝光之後，康仁體育會網站（www.wellmansports.org）於2025年12月底「常務副會長」刪走譚子文與李植開的名字"
+> "千絲萬縷的關係曝光之後，康仁體育會網站於2025年12月底「常務副會長」刪走譚子文與李植開的名字"
 >
 > *Translation:*
 > "After the exposure of their inextricably linked network, Wellman removed Tam and Li's names from their list of Vice-Presidents at the end of Dec, 2025. "
