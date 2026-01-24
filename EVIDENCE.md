@@ -1146,7 +1146,7 @@ A forensic analysis of corporate filings and investigative reporting reveals the
 
 **2. The Illusion of Choice:**
 Owners thought they were choosing between different companies. In reality, they were choosing between **Room A and Room B** of the same corridor in To Kwa Wan.
-*   *Example:* **Milton (萬昇)** and **Wai Yip (瑋業)** both bid for the construction contract. Both are linked to this network. Their loss to **Prestige (宏業)** was not a competitive defeat but a coordinated maneuver to ensure the "External Partner" (Prestige) won the big prize, likely with backend profit-sharing.
+*   *Example:* **Milton (萬昇)** and **Wai Yip (瑋業)** both bid for the construction contract. Both are linked to this network. Their loss to **Prestige (宏業)** might not be a competitive defeat but a coordinated maneuver, likely with backend profit-sharing.
 
 **3. The "Godfather" Nexus:**
 The address cluster physically links the "new" consultants (Will Power) to the "old" triad-linked networks (Chan Heung-fat's family). It proves that the "Professional" consultants and the "Gangster" contractors are literally roommates.
