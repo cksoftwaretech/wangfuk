@@ -1337,10 +1337,10 @@ Combining these with the [**Mayfair Gardens**](#-e-cartel-wk-2016-03-17-01-the-m
 > **Evidence [C]: The Po Tak Street Delay (Yan Cheong)**  
 > *Source: Apple Daily / 2017-08-04*
 >
-> "石塘嘴保德街... 2012年聘請**黃鄺建築師有限公司**任工程顧問公司，及**仁昌建築有限公司**任承辦商... 消防改善工程至今仍未動工。... 消防處皆指圖則不合格... 消防處已向大廈發出最後通牒... 法團指，自2014年12月起，黃鄺逾兩年半從未出席業主大會... 批評黃鄺令工程拖延"
+> "消防工程拖4年未動工... 石塘嘴保德街...一幢...唐樓... 2012年聘請**黃鄺建築師有限公司**任工程顧問公司，及**仁昌建築有限公司**任承辦商... 消防改善工程至今仍未動工。... 消防處皆指圖則不合格... 消防處已向大廈發出最後通牒... 法團指，自2014年12月起，黃鄺逾兩年半從未出席業主大會... 批評黃鄺令工程拖延"
 >
 > *Translation:*
-> "Po Tak Street... hired **W&K Architects** as consultant and **Yan Cheong Construction** as contractor in 2012... Fire safety works haven't started... FSD rejected plans... issued ultimatum... MC stated since Dec 2014, W&K had not attended MC meetings for over 2.5 years... criticizing W&K for causing delays."
+> "Fire safety works delayed 4 years... A tenement building in Po Tak Street... hired **W&K Architects** as consultant and **Yan Cheong Construction** as contractor in 2012... Fire safety works haven't started... FSD rejected plans... issued ultimatum... MC stated since Dec 2014, W&K had not attended MC meetings for over 2.5 years... criticizing W&K for causing delays."
 
 > **Evidence [D]: W&K's Defense (Blame Shifting)**  
 > *Source: Apple Daily / 2017-08-04*
