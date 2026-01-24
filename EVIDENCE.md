@@ -98,7 +98,7 @@
 96. [[E-SAFETY-NETS-2025-12-05-01] The Laundering of Risk: "We Just Trusted Them"](#-e-safety-nets-2025-12-05-01-the-laundering-of-risk-we-just-trusted-them)  
 97. [[E-CARTEL-PRESTIGE-2025-12-22-01] The Last Stand: The Missing Bond, The Crocodile Tears, and The Final Vanishing Act](#-e-cartel-prestige-2025-12-22-01-the-last-stand-the-missing-bond-the-crocodile-tears-and-the-final-vanishing-act)  
 98. [[E-GOV-2025-12-22-01] The "Ghost" Contractor: How BD Failed to Stop Prestige Because the Paperwork Said "Fusion"](#-e-gov-2025-12-22-01-the-ghost-contractor-how-bd-failed-to-stop-prestige-because-the-paperwork-said-fusion)  
-99. [[E-CARTEL-2025-12-29-01] The Digital Shredding: Deleting the Evidence of Collusion](#-e-cartel-2025-12-29-01-the-digital-shredding-deleting-the-evidence-of-collusion)  
+99. [[E-CARTEL-WK-2025-12-29-01] The Digital Shredding: Deleting the Evidence of Collusion](#-e-cartel-wk-2025-12-29-01-the-digital-shredding-deleting-the-evidence-of-collusion)  
 100. [[E-VICTIM-2024-11-30-01] The Living Tomb: "Moldy, Pitch Black, and Voiceless"](#-e-victim-2024-11-30-01-the-living-tomb-moldy-pitch-black-and-voiceless)  
 101. [[E-VICTIM-2025-11-26-01] The Seven Hours of Hell: A Real-Time Chronicle of Systemic Murder](#-e-victim-2025-11-26-01-the-seven-hours-of-hell-a-real-time-chronicle-of-systemic-murder)  
 102. [[E-VICTIM-2025-11-26-02] The Empty Staircase: How the "Information Blockade" Left the Elderly to Die in Their Sleep](#-e-victim-2025-11-26-02-the-empty-staircase-how-the-information-blockade-left-the-elderly-to-die-in-their-sleep)  
@@ -2152,7 +2152,7 @@ Analysis reveals that **8 companies** bidding for the Wang Fuk renovation are ti
 **The Logical Trap:**
 1.  **The Statistical Impossibility:** It might be a coincidence if *two* bidders knew each other. But when **8 different bidders** for *one specific estate* (Wang Fuk) are all tied to the *same* executive committee or sponsor list, statistical probability dictates this is **coordination**, not coincidence. The Club effectively acted as a "Tender Allocation Committee."
 2.  **The Referee-Player Conflict:** The defense of "networking" collapses when **Consultants** and **Contractors** sit on the same board. In a tender, the Consultant is the **Referee**. If the Referee and the Players are "brothers" in the same private club, the game is rigged by definition. Failure to declare this specific link to the client (Wang Fuk owners) constitutes **fraud by omission**.
-3.  **The "Guilty" Deletion:** If the donations were purely benevolent and the relationships purely social, why [**delete** the core parts](#-e-cartel-2025-12-29-01-the-digital-shredding-deleting-the-evidence-of-collusion) of the website immediately after the scandal broke? Innocent charities do not purge their donor lists in panic. The "Digital Shredding" further suggests they knew the list looked like a cartel roster, not a charity roll.
+3.  **The "Guilty" Deletion:** If the donations were purely benevolent and the relationships purely social, why [**delete** the core parts](#-e-cartel-wk-2025-12-29-01-the-digital-shredding-deleting-the-evidence-of-collusion) of the website immediately after the scandal broke? Innocent charities do not purge their donor lists in panic. The "Digital Shredding" further suggests they knew the list looked like a cartel roster, not a charity roll.
 
 **📅 Timeline:**
 *   **2004-07-23:** W&K Architect founded  — [ref](https://www.tempb.com/companies/w-k-architect-limited/)
@@ -4013,7 +4013,7 @@ Investigative reporting exposes a web of cross-ownership linking the winning con
     *   *Link:* Choi was also a co-director with Hau in "Blazing Edge Ltd".
 *   **Now Construction (Asia) (現代建設):** Director **Choi Man-ban (蔡文彬)**.
     *   *Link:* Connected via the Wellman nexus where Tam and Hau's associates congregate.
-*   **Shusum (樹深):** Found on Wellman's sponsor list [before deletion](#-e-cartel-2025-12-29-01-the-digital-shredding-deleting-the-evidence-of-collusion).
+*   **Shusum (樹深):** Found on Wellman's sponsor list [before deletion](#-e-cartel-wk-2025-12-29-01-the-digital-shredding-deleting-the-evidence-of-collusion).
 
 **2. The "Dummy" Proof (Zero Votes):**
 In a genuine tender, every bidder tries to win. However, voting records show four of these linked companies received **zero or near-zero support**:
@@ -8182,7 +8182,7 @@ Wong's resilience is explained by his high-level connections:
 *   *The Verdict:* This fusion of **CPPCC status**, **Charity Board legitimacy**, and **Underworld muscle** creates a "protection umbrella" that normal law enforcement struggles to penetrate.
 
 **3. The Physical Link to Will Power:**
-Universal Housing was founded in 1998 at the **same address** that later became **Will Power's office**. This physical overlap confirms that Wong is not just a parallel player, but an integral part of the same **Mei Wah Industrial Centre** hive that birthed the Wang Fuk disaster.
+Universal Housing was founded in 1998 at the **same address** that later became **Will Power's office**. This physical overlap confirms that Wong is not just a parallel player, but an integral part of the same [**Mei Wah Industrial Centre** hive](#-e-cartel-willpower-2016-12-31-01-the-bid-rigging-factory-20-companies-10-units-one-industrial-building) that birthed the Wang Fuk disaster.
 
 **📜 Original Record:**
 
@@ -8681,7 +8681,7 @@ This incident confirms that the Cartel operates multiple entities to evade liabi
 
 ---
 
-### 🆔 [E-CARTEL-2025-12-29-01] The Digital Shredding: Deleting the Evidence of Collusion
+### 🆔 [E-CARTEL-WK-2025-12-29-01] The Digital Shredding: Deleting the Evidence of Collusion
 
 **🚨 Significance:**
 
