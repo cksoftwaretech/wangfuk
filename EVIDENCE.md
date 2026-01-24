@@ -819,6 +819,59 @@ Chan fled HK in 2001 just as the ICAC arrested his brother. Prosecution revealed
 
 ---
 
+### 🆔 [E-CARTEL-WK-2015-08-02-01] The "Typo" Defense: "Lead" Solders and the HK$60k Low-Ball Fee
+
+**🚨 Significance:**
+
+In the Grandway Garden (富嘉花園) renovation, **W&K Architects** was exposed for drafting a contract that explicitly **allowed lead in water pipes**, just as the city was reeling from the Lead-in-Water Scandal.
+
+**1. The "Clerical Error" Excuse:**
+*   **The Clause:** The contract drafted by W&K stated: *"Solder sticks must be a compound of **lead** and tin."*.
+*   **The Defense:** W&K claimed it was a "typo"—they "missed the word 'No'".
+*   *The Implication:* For a professional consultant to draft a contract mandating a toxic material is gross negligence. Claiming it was a "typo" *two years later* only highlights their lack of rigorous review.
+
+**2. The Predatory Pricing Red Flag:**
+W&K charged only **HK$60,000** for the consultancy fee on a **HK$95.5 Million** project.
+*   *The Ratio:* This is **0.06%** of the project value.
+*   *The Pattern:* This mirrors the [**Will Power Strategy**](#-e-cartel-willpower-2020-01-17-01-the-97-discount-why-a-hk300k-fee-for-a-hk330m-job-proves-corruption) at Wang Fuk (0.09%). Charging below-cost fees is a hallmark of the cartel, suggesting their income comes from illicit channels (kickbacks) rather than professional service fees.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The "Lead" Clause**
+> *Source: Ming Pao / 2015-08-05*
+>
+> "法團其後翻查當年顧問公司制定的合約，發現寫明「錫焊枝需為**含鉛**及錫之化合物」... 黃鄺建築師... 澄清，有關字眼屬**手民之誤**... 漏了個「不」字"
+>
+> *Translation:*
+> "Owners board checked the contract drafted by Consultant... found it stated 'Solder sticks must be a compound of **lead** and tin'... W&K... clarified it was a **clerical error**... missed the word 'No'."
+
+> **Evidence [B]: The Low Fee**
+> *Source: Ming Pao / 2015-08-05*
+>
+> "工程顧問黃鄺建築師有限公司收取顧問費 **6萬元**，負責草擬標書..."
+>
+> *Translation:*
+> "Consultant W&K charged a fee of **HK$60,000** to draft tender..."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"The inclusion of the phrase 'lead compound' was a regrettable clerical error ('hand of man' mistake) where the word 'non-' was omitted. We clarified this with the contractor at the start of the project to ensure lead-free materials were used. No lead was actually found in the water samples. The low consultancy fee reflected a competitive market strategy to build our portfolio, not an intent to cut corners."
+
+**The Logical Trap:**
+1.  **Typo vs. Fatal Error:** In a legal contract, a "typo" that changes "Safety" to "Poison" (Lead) is not a minor slip; it is actionable negligence. If a doctor writes a prescription for "Poison" instead of "Medicine," they lose their license, even if they claim they "meant" medicine.
+2.  **The "2-Year" Lag:** It took **two years** and media exposure for W&K to "clarify" the mistake. A diligent consultant would have issued a formal Variation Order immediately upon discovery. Waiting until the scandal broke suggests they only "discovered" the error when they got caught.
+3.  **The Price of Quality:** You get what you pay for. A HK$60,000 fee for a HK$95M project means the consultant has zero budget for proofreading. The "Typo" is the direct result of the predatory "Low-Ball" pricing strategy.
+
+**📅 Timeline:**
+*   **2013:** W&K hired for Grandway Garden ($60k fee).
+*   **2015-08-02:** Lead water scandal breaks; W&K claims "typo."
+
+**🔗 Links:**
+*   [Ming Pao Report](https://www.mingpaocanada.com/tor/htm/News/20150805/HK-gbl1_r.htm)
+
+---
+
 ### 🆔 [E-SAFETY-2015-09-19-01] The "Mathematical Impossibility" & The Parasitic Business Model
 
 **🚨 Significance:**
