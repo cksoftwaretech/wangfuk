@@ -1411,7 +1411,7 @@ Combining these with the [**Mayfair Gardens**](#-e-cartel-wk-2016-03-17-01-the-m
 
 **🚨 Significance:**
 
-Investigative reporting uncovers the ultimate hierarchy of the bid-rigging ecosystem. Industry insiders reveal that since **2017**, a new power structure has emerged above the traditional Triad gangs. A mysterious figure known as **"The Boss"** now coordinates profit distribution and work allocation. The description of this "Boss"—someone whom even Triad leaders must defer to—points directly to **state or regulatory officials** ("White Power"/白勢力), suggesting the cartel has been fully integrated into the establishment.
+Investigative reporting uncovers the ultimate hierarchy of the bid-rigging ecosystem. Industry insiders reveal that since **2017**, a new power structure has emerged above the traditional Triad gangs. A mysterious figure known as **"The Boss"** now coordinates profit distribution and work allocation. The description of this "Boss"—someone whom even Triad leaders must defer to—points directly to **state or regulatory officials** ("White Power"), suggesting the cartel has been fully integrated into the establishment.
 
 **1. The "White Power" (白勢力):**
 *   **The Structure:** Insiders state the market is dominated by "Influential Figures," including both "Black Power" (Triads) and "White Power" (Government insiders).
