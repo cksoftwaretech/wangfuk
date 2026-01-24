@@ -132,11 +132,13 @@ Corporate records and court judgments reveal that the renovation consultant for 
 
 **1. The "Century" Connection:**
 Will Power was co-founded in 2006 by **William Shum (沈鉅忠)**. Shum was previously a director and shareholder of **Century Architects Limited (世紀建築師樓有限公司)** from 2001 to 2005.  
+*   *The Roots:* Century was founded in 2001 at the **same registered address** (Shun Lee Commercial Building, 4/F) as the collapsed empire of **Chan Heung-fat (陳响發)** ("Heung Fat Construction"). This proves that Century was the first "reincarnation" vehicle for the Chan syndicate after the Asian Financial Crisis, and Will Power is the second.
 *   *The Legacy:* Century was a key conspirator in the **Garden Vista (濱景花園)** bid-rigging case (DCCC 552/2015), alongside **Universal Housing (環球屋宇)**.
 
 **2. The Rebranding Strategy:**
-Shortly after Century was embroiled in corruption scandals (including a 2002 bribery conviction of its sales manager), the company ceased operations.  
-*   *The Switch:* Shum exited Century in 2005 and immediately established Will Power in Jan 2006. Industry insiders confirm that Will Power took over Century's office location (changing signage) and business operations, effectively laundering its reputation while continuing the same practices.
+Century ceased operations shortly after being embroiled in corruption scandals. Its Sales Manager, **Yeung Wai-wah (楊偉華)**, was jailed for 1 year in 2006 for bribery and **inflating renovation costs** at On Hong Building (安康大廈).
+*   *The Switch:* Shum exited Century in Jan 2005—just before the scandal broke—and established Will Power in Jan 2006. Industry insiders confirm that Will Power took over Century's office location (changing signage) and business operations. The tactics used by Yeung (bribing to inflate costs) became the standard operating procedure for Will Power.
+*   *The Shifts:* Shum transferred his shares of Century to Chan Heung Fat's daughter Chan Ka-wai (陳嘉威) to exit the company. He founded Will Power with Chan Heung Fat's another daughter Chan Ka-man (陳嘉文). 
 
 **3. The DNA of Corruption:**
 The fact that Wang Fuk Court's consultant was born from the ashes of a proven bid-rigging syndicate explains the sophisticated manipulation seen in the project (fake scores, rigged surveys). This was not incompetence; it was the application of a "proven" criminal playbook developed over two decades.
@@ -159,13 +161,29 @@ The fact that Wang Fuk Court's consultant was born from the ashes of a proven bi
 > *Translation:*  
 > "Industry insiders revealed... 'Shortly after Century got into trouble (involved in corruption cases), their office signboard was changed to Will Power; changing the name to continue business is common in this industry.'... Will Power was established in Jan 2006... shared the same building (different floor) with 'Century' at one point."  
 
-> **Evidence [C]: The Earlier Bribery Conviction**  
-> *Source: Journalist W's Report / 2025-12-26*
+> **Evidence [C]: The Blueprint of Corruption (Yeung Wai-wah)**  
+> *Source: HK Feature / 2026-01-09*
 > 
-> "「世紀」在更早時間亦捲入另一宗貪案。一名營業經理於2002年間... 賄賂大廈法團副主席... 案件在2005年審結，時間上與與沈鉅忠退出公司時間相若。"
+> "2006年... 「世紀建築師樓」營業經理楊偉華被控... 涉及慈雲山安康大廈的維修工程，楊偉華為**抬高工程規模**，賄賂物業管理人員。... 最終承認行賄及妨礙司法公正等3項罪名，被判入獄1年。"
 >   
 > *Translation:*  
-> "'Century' was involved in another corruption case earlier. A sales manager in 2002... bribed an MC Vice-Chairman... The case concluded in 2005, coinciding with Shum's exit from the company."  
+> "In 2006... Century's Sales Manager **Yeung Wai-wah** was charged... regarding On Hong Building renovation. Yeung bribed property management staff to **inflate the scale of works**... sentenced to 1 year jail for bribery and perverting the course of justice."
+
+> **Evidence [D]: The Geographic DNA**  
+> *Source: HK Feature / 2026-01-09*
+> 
+> "2001年 沈鉅忠與張青山成立「世紀建築師樓」，註冊地址與「响發建築」同為長沙灣順利商業大廈4樓一單位。"
+>   
+> *Translation:*  
+> "In 2001, William Shum and Cheung Tsing-shan founded 'Century Architects'; the registered address was the **same unit at 4/F Shun Lee Commercial Building** as 'Heung Fat Construction'."
+
+> **Evidence [E]: The Daughters' Role**
+> *Source: HK Feature / 2026-01-09*
+>
+> "2006年沈鉅忠與維修界老行尊陳响發的另一位女兒**陳嘉文**共同創立「鴻毅建築師」。... 沈鉅忠... 於2005年... 將[世紀]股份轉讓給陳响發女兒**陳嘉威**。"
+>
+> *Translation:*
+> "In 2006, William Shum co-founded 'Will Power Architects' with **Chan Ka-man**, another daughter of maintenance veteran Chan Heung-fat... In 2005, Shum... transferred [Century] shares to Chan's daughter **Chan Ka-wai**."
 
 **🛡️ Pre-emptive Rebuttal:**
 
@@ -174,19 +192,16 @@ The fact that Wang Fuk Court's consultant was born from the ashes of a proven bi
 
 **The Logical Trap:**  
 1.  **The "Corporate Veil" vs. Reality:** While legally separate, the continuity of *personnel* (Shum), *location* (same building), and *business model* (bid-rigging allegations) establishes a de facto succession. In forensic accounting, this is a classic "Phoenix Company" maneuver to evade reputational liability.  
-2.  **The "Clean Hands" Defense:** Shum founded Will Power *immediately* after exiting Century amidst a bribery scandal. A professional truly committed to ethics would distance themselves from such a toxic legacy, not replicate it under a new name.  
+2.  **The "Clean Hands" Defense:** Shum exited Century in Jan 2005, and his manager Yeung was convicted in 2006 for crimes committed during Shum's tenure (2003-2005). Shum founded Will Power *during* this transition. A professional director cannot claim ignorance of his own Sales Manager bribing clients to inflate costs. By founding a new company with the "Godfather's" daughter right after this scandal, he didn't leave the crime; he just changed the getaway car.
 3.  **Pattern Recognition:** The specific tactics used at Garden Vista (rigged tender, inflated price) reappeared at Wang Fuk under Will Power. When the same people produce the same outcome under a different flag, it is not "association"; it is **recidivism**.  
-
-**¶ Statutory Basis:**
-
-*   **Context:** Companies Ordinance (Shadow Directors / Corporate Identity).  
 
 **📅 Timeline:**
 
-*   **2002:** Century (Shum's firm) manager bribes MC Vice-Chairman.
+*   **2001-03-28:** Shum founds Century on Heung Fat Construction's address — [ref](https://www.hongkongcompanylookup.com/companies/gonondagijc/)
+*   **2002:** Century manager bribes MC Vice-Chairman.
 *   **2005:** Century implicated in Garden Vista bid-rigging scheme — [judgement](https://legalref.judiciary.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=106355&QS=%2B&TP=RS)  
-*   **2005:** Shum exits Century. 
-*   **2006-01-11:** Shum founds Will Power — [source](https://www.ltddir.com/companies/will-power-architects-company-limited/)
+*   **2005-01:** Shum exits Century; his shares transferred to Chan Heung Fat's daughter Chan Ka-wai. 
+*   **2006-01-11:** Shum founds Will Power with Chan Ka-wai's sister Chan Ka-man — [ref](https://www.ltddir.com/companies/will-power-architects-company-limited/)
 *   **2016-09-29:** Garden Vista case concludes; Yau Shui-tin jailed — [judgement](https://legalref.judiciary.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=106355&QS=%2B&TP=RS)  
 *   **2024-01-28:** Will Power oversees Wang Fuk tender — [minutes](http://www.wangfuk.org/html/meeting/03/2024%E5%B9%B41%E6%9C%8828%E6%97%A5%E7%89%B9%E5%88%A5%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84%20%E9%80%A3%E9%99%84%E4%BB%B6.pdf)  
 *   **2025-11-26:** The Fire.
@@ -194,7 +209,9 @@ The fact that Wang Fuk Court's consultant was born from the ashes of a proven bi
 
 **🔗 Links:**
 *   [Journalist W's Full Report](https://www.facebook.com/share/p/19YbQWsXBe/) 
-*   [DCCC 552/2015 Judgment](https://legalref.judiciary.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=106355&QS=%2B&TP=RS)  
+*   [HK Feature Report](https://hkfeature.com/local/【宏福苑調查】九七金融風暴投資損手-陳响發家族/)
+*   [DCCC 552/2015 Judgment](https://legalref.judiciary.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=106355&QS=%2B&TP=RS)
+*   [Hive Diagram based on the reports](鴻毅與業界關係圖.png) | [Documentation](鴻毅與業界關係圖代碼.md)
 
 ---
 
@@ -1217,11 +1234,11 @@ Bidding activities record stem from 2009-2016 FactWire database*)
 **🔗 Links:**
 *   [Journalist W's Report](https://www.facebook.com/share/p/19YbQWsXBe/)
 *   [HK Feature Report](https://hkfeature.com/local/【宏福苑調查】九七金融風暴投資損手-陳响發家族/)
-*   [Hive Diagram based on the report](鴻毅與業界關係圖.png) | [Documentation to rebuild the Hive Diagram](鴻毅與業界關係圖代碼.md)
+*   [Hive Diagram based on the reports](鴻毅與業界關係圖.png) | [Documentation](鴻毅與業界關係圖代碼.md)
 
 **📊 Diagram:**  
   
-![Hive Diagram based on the report](鴻毅與業界關係圖.png)
+![Hive Diagram based on the reports](鴻毅與業界關係圖.png)
 
 ---
 
@@ -2080,10 +2097,10 @@ Analysis reveals that **8 companies** bidding for the Wang Fuk renovation are ti
 *   [W&K Basketball Team Facebook Page](https://www.facebook.com/wkbasketball.hk) | [Backup](黃鄺建築師籃球隊Facebook截圖.png)
 *   [Oriental Daily Report: W&K Engineer](https://orientaldaily.on.cc/cnt/news/20160311/mobile/odn-20160311-0311_00176_025.html)
 *   [Wan Chai C&W District ICA List of Key Figures](https://dw-media.tkww.hk/epaper/tkp/20120731/A21_Screen.pdf) | [Backup](灣仔中西區工商業聯合會要員.pdf)
-*   [Hive Diagram of the networks between Wellman, Prestige and Will Power](宏業、鴻毅與康仁體育會關係圖.png) | [Documentation](宏業、鴻毅與康仁體育會關係圖代碼.md)
+*   [Hive Diagram showing the networks between Wellman, Prestige and Will Power](宏業、鴻毅與康仁體育會關係圖.png) | [Documentation](宏業、鴻毅與康仁體育會關係圖代碼.md)
 
 **📊 Diagram:**  
-![Hive Diagram based on the report](宏業、鴻毅與康仁體育會關係圖.png)
+![Hive Diagram showing the networks between Wellman, Prestige and Will Power](宏業、鴻毅與康仁體育會關係圖.png)
 
 ---
 
@@ -3988,7 +4005,7 @@ The failure to declare these close business ties constitutes a fraudulent misrep
 *   [Green Bean Media: Bid-Rigging Investigation Episode I](https://greenbean.media/綠豆調查：大維修關係網（上）｜宏福苑數間投標/)
 *   [Green Bean Media: Bid-Rigging Investigation Episode III](https://greenbean.media/圍標調查-三｜揭宏福苑總承建商侯華建「深紅」/)
 *   [EGM Minutes](http://www.wangfuk.org/html/meeting/03/2024年1月28日特別業主大會會議記錄%20連附件.pdf) | [Backup](2024-01-28%20第十一屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2023-11-23-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
-*   [Hive Diagram of the networks between Wellman, Prestige and Will Power](宏業、鴻毅與康仁體育會關係圖.png) | [Documentation](宏業、鴻毅與康仁體育會關係圖代碼.md)
+*   [Hive Diagram showing the networks between Wellman, Prestige and Will Power](宏業、鴻毅與康仁體育會關係圖.png) | [Documentation](宏業、鴻毅與康仁體育會關係圖代碼.md)
 
 ---
 
@@ -4596,7 +4613,7 @@ The Consultant (**Will Power**) filtered out 48 other bidders to select these sp
 *   [Pulse HK Report](https://pulsehknews.com/20251231investigation/)
 *   [HK01 Report: Hau represented Mega Praise](https://www.hk01.com/article/60314078)
 *   [Renovation Booklet (Shortlist)](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf)
-*   [Hive Diagram of the networks between Wellman, Prestige and Will Power](宏業、鴻毅與康仁體育會關係圖.png) | [Documentation](宏業、鴻毅與康仁體育會關係圖代碼.md)
+*   [Hive Diagram showing the networks between Wellman, Prestige and Will Power](宏業、鴻毅與康仁體育會關係圖.png) | [Documentation](宏業、鴻毅與康仁體育會關係圖代碼.md)
 
 ---
 
@@ -8682,7 +8699,7 @@ On Jan 15, 2026, Wellman issued a notice claiming the removal was due to "poor e
 *   [Green Bean Media: Bid-Rigging Investigation Episode I](https://greenbean.media/綠豆調查：大維修關係網（上）｜宏福苑數間投標/)
 *   [HK Feature: The Removal Timeline](https://hkfeature.com/local/宏福苑調查-圍標圍物料-宏業建築董事侯華健投資/)
 *   [Wellman Notice](https://www.wellmansports.org/最新資訊) | [Backup](康仁體育會網站公告2026-01-15.png)
-*   [Hive Diagram of the networks between Wellman, Prestige and Will Power](宏業、鴻毅與康仁體育會關係圖.png) | [Documentation](宏業、鴻毅與康仁體育會關係圖代碼.md)
+*   [Hive Diagram showing the networks between Wellman, Prestige and Will Power](宏業、鴻毅與康仁體育會關係圖.png) | [Documentation](宏業、鴻毅與康仁體育會關係圖代碼.md)
 
 ---
 
