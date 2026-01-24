@@ -8064,7 +8064,7 @@ The warning demanded "proper storage of flammables." Sticking Styrofoam boards o
 Investigation into the cartel's network reveals the presence of **Wong Siu-keung (王劭強)**, the boss of **Universal Housing (環球屋宇)**. Despite being implicated in Hong Kong's two biggest bid-rigging cases (Garden Vista & ICAC Op "Fire Net"), Wong remains untouched, shielded by a powerful network of political titles and "grey area" associates. His career epitomizes the fusion of **Official, Business, and Criminal** power.
 
 **1. The "Teflon" Survival:**
-*   **Case 1 (Garden Vista):** Universal Housing was one of the three consultants involved. While "Century" (世紀建築師樓) and "Wealthy Gate" (裕基建築師) dissolved, Universal Housing continued operating for 10 years.
+*   **Case 1 (Garden Vista):** Universal Housing was one of the three consultants involved. While "Century" (世紀建築師樓) dissolved, Universal Housing continued operating for 10 years.
 *   **Case 2 (ICAC Op "Fire Net"):** In 2023, Wong was arrested as a "Middleman" for bribing management staff in the Discovery Bay "La Costa" case (HK$1.63M project). Yet, his company was not named, and he transferred shares to family member **Wong Mei-kuen** (王美娟) to distance himself.
 *   *The Anomaly:* Only two major bid-rigging cases have ever reached court (Yau Shui-tin & Fire Net). Wong is implicated in **both**, yet his company continues to win government-approved tenders (e.g., Siu On Court in Oct 2025).
 
