@@ -8105,7 +8105,7 @@ Universal Housing was founded in 1998 at the **same address** that later became 
 > *Source: Journalist W's Report / 2025-12-26*  
 > "王劭強十多年前銜頭甚多，2012年博愛醫院總理、2012及2017年陽江巿政協委員、2014年中華總商會港島東區聯絡處委員等，2005年更獲世界傑出華人獎... 董事還包括蕭炎坤... 環球屋宇建築工程有限公司... 2024年董事包括... 陳慎芝... 曾加入黑幫後改邪歸正... 自稱「黑社會拆彈專家」"  
 > *Translation:*  
-> "Wong Siu-keung had many titles... 2012 Pok Oi Hospital Director, 2012/2017 **Yangjiang CPPCC Member**, 2014 CGCC District Committee Member... 2005 World Outstanding Chinese Award... Directors also included **Siu Yim-kwan**... 'Universal Housing Construction'... 2024 directors included... **Chan Shen-chi**... former triad member... self-proclaimed '**Triad Bomb Disposal Expert**'."  
+> "Wong Siu-keung had many titles... 2012 Pok Oi Hospital Director, 2012/2017 **Yangjiang CPPCC Member**, 2014 CGCC District Committee Member... 2005 World Outstanding Chinese Award... Directors also included **Siu Yim-kwan**... 'Universal Housing Construction'... 2024 directors included... **Chan Shun-chi**... former triad member... self-proclaimed '**Triad Bomb Disposal Expert**'."  
 
 > **Evidence [D]: Continued Operation (Siu On Court)**  
 > *Source: Journalist W's Report / 2025-12-26*  
@@ -8121,12 +8121,12 @@ Universal Housing was founded in 1998 at the **same address** that later became 
 **The Logical Trap:**
 1.  **The "Middleman" Reality:** In corruption cases, the "Middleman" is often the key link between the Bribe Payer and Receiver. Being arrested in such a specific role in a major ICAC operation ("Fire Net") while simultaneously transferring shares to family suggests **asset protection** and **liability evasion**, not normal succession.  
 2.  **The "Vetting" Failure:** If a company owned by a suspect in a major bribery case can still pass URA vetting for new projects (Siu On Court), it proves the **[URA vetting system](#-e-cartel-willpower-2024-07-19-01-the-endorsement-myth-how-ura-subsidies-were-used-to-whitewash-corruption) is broken**. The "pass" is not proof of innocence; it is proof of regulatory blindness.  
-3.  **The "Rehabilitated" Cover:** Chan Shen-chi's role as a "Triad Bomb Disposal Expert" implies his value lies in **negotiating with the underworld**. For a construction company to employ such a figure as a Director for 16 years (2008-2024) suggests that navigating the "grey zone" of triad influence is part of their core business strategy.  
+3.  **The "Rehabilitated" Cover:** Chan Shun-chi's role as a "Triad Bomb Disposal Expert" implies his value lies in **negotiating with the underworld**. For a construction company to employ such a figure as a Director for 16 years (2008-2024) suggests that navigating the "grey zone" of triad influence is part of their core business strategy.  
 
 **📅 Timeline:**
 *   **1998-04-03:** Universal Housing founded at future Will Power address — [ref](https://www.tempb.com/companies/universal-housing-engineering-consultants-limited/)
 *   **2005:** Garden Vista case (Universal Housing implicated) — [judgement](https://legalref.judiciary.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=106355&QS=%2B&TP=RS)  
-*   **2008:** Chan Shen-chi becomes Director.  
+*   **2008:** Chan Shun-chi becomes Director.  
 *   **2012:** Wong becomes CPPCC member — [ref](http://pdf.wenweipo.com/2015/06/07/a10-11-0607.pdf)
 *   **2023-01-04:** Wong arrested in ICAC Op "Fire Net" (Discovery Bay case) — [source](https://youtu.be/6CDPv2uHm3w?si=sAIAf7vmQNfxZCTp) | [ref](https://www.brplatform.org.hk/f/upload/10612/Fire_Net_Press_2023.pdf)
 *   **Jun 2024:** Wong transfers shares to Wong Mei-kuen.  
