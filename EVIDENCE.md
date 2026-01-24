@@ -2052,7 +2052,7 @@ Analysis reveals that **8 companies** bidding for the Wang Fuk renovation are ti
 *   **2004-07-23:** W&K Architect founded  — [ref](https://www.tempb.com/companies/w-k-architect-limited/)
 *   **2011:** W&K Basketball Team founded (Melvis Choi) — [source](https://www.facebook.com/wkbasketball.hk)
 *   **2012-06-28:** TKS founded  — [ref](https://www.tempb.com/companies/tks-architect-limited/)
-*   **2013-07-12:** Wellman Sports founded (Melvis Choi) — [source](https://www.wellmanrunning.com/about-us)| [ref](https://www.tempb.com/companies/wellman-sports-association-limited/)
+*   **2013-07-12:** Wellman Sports founded (Melvis Choi) — [source](https://www.wellmanrunning.com/about-us) | [ref](https://www.tempb.com/companies/wellman-sports-association-limited/)
 *   **2018-09-26:** TKS bids for Wang Fuk (Consultant arm active) — [source](http://www.wangfuk.org/html/meeting/03/第21次全體業主大會(周年大會)會議記錄.pdf) | [ref](http://www.wangfuk.org/html/meeting/05/第十屆-第7次全體委員會議記錄.pdf)
 *   **2020-02-12:** Wellman donates to Guangxi (Political arm active) — [source](https://www.facebook.com/share/p/1PW1iUwA7f/)
 *   **2023-07-04:** The "Wellman 8" submit bids for Wang Fuk — (Contractor arm active).
