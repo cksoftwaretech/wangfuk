@@ -16,7 +16,7 @@
 14. [[E-CARTEL-WILLPOWER-2018-09-26-01] The "14% Price" Entry Ticket: Buying the Right to Rig the Game](#-e-cartel-willpower-2018-09-26-01-the-14-price-entry-ticket-buying-the-right-to-rig-the-game)  
 15. [[E-CARTEL-WILLPOWER-2020-01-17-01] The "97% Discount": Why a HK$300k Fee for a HK$330M Job Proves Corruption](#-e-cartel-willpower-2020-01-17-01-the-97-discount-why-a-hk300k-fee-for-a-hk330m-job-proves-corruption)  
 16. [[E-CARTEL-WILLPOWER-2020-01-17-02] The Race to the Bottom: Why 9 Bidders Cheaper than Will Power Might Be Even Worse](#-e-cartel-willpower-2020-01-17-02-the-race-to-the-bottom-why-9-bidders-cheaper-than-will-power-might-be-even-worse)  
-17. [[E-CARTEL-PRESTIGE-2020-02-12-01] The "Wellman" Nexus: The Sports Club that Runs the Bid-Rigging Cartel](#-e-cartel-prestige-2020-02-12-01-the-wellman-nexus-the-sports-club-that-runs-the-bid-rigging-cartel)  
+17. [[E-CARTEL-WK-2020-02-12-01] The "Wellman" Nexus: The Sports Club that Runs the Bid-Rigging Cartel](#-e-cartel-wk-2020-02-12-01-the-wellman-nexus-the-sports-club-that-runs-the-bid-rigging-cartel)  
 18. [[E-CARTEL-WILLPOWER-2020-09-30-01] The Price of Resistance: Beaten, Broken, but HK$7 Million Saved](#-e-cartel-willpower-2020-09-30-01-the-price-of-resistance-beaten-broken-but-hk7-million-saved)  
 19. [[E-ADMIN-2021-03-02-01] The "Election Agents": Why the MC Campaigned for the Management Company](#-e-admin-2021-03-02-01-the-election-agents-why-the-mc-campaigned-for-the-management-company)  
 20. [[E-ADMIN-2021-03-06-01] The "3-Month" Loop: How the MC Renewed the Management Contract 21 months Without Owners' Approval](#-e-admin-2021-03-06-01-the-3-month-loop-how-the-mc-renewed-the-management-contract-21-months-without-owners-approval)  
@@ -965,7 +965,7 @@ The Government has known this for a decade. In **2015**, Secretary for Developme
 
 **🚨 Significance:**
 
-Historical records reveal that **W&K Architects (黃鄺建築師)**, a key player in the [**"Wellman" Nexus**](#-e-cartel-prestige-2020-02-12-01-the-wellman-nexus-the-sports-club-that-runs-the-bid-rigging-cartel), was the consultant for the catastrophic renovation failure at **Mayfair Gardens (美景花園)**. 
+Historical records reveal that **W&K Architects (黃鄺建築師)**, a key player in the [**"Wellman" Nexus**](#-e-cartel-wk-2020-02-12-01-the-wellman-nexus-the-sports-club-that-runs-the-bid-rigging-cartel), was the consultant for the catastrophic renovation failure at **Mayfair Gardens (美景花園)**. 
 
 This case exposes a decade-long "Master Script" used by the cartel: **The Upsell Trap**. From Mayfair (2012) to Wang Fuk (2024), the playbook remains identical—take a compliant, affordable "Option 1" required by law, and manipulate owners into choosing an exorbitant "Option 2/3" under the guise of "better quality."
 
@@ -1716,7 +1716,7 @@ Owners likely avoided the cheapest options (like Paul Kong) thinking they were "
 
 ---
 
-### 🆔 [E-CARTEL-PRESTIGE-2020-02-12-01] The "Wellman" Nexus: The Sports Club that Runs the Bid-Rigging Cartel
+### 🆔 [E-CARTEL-WK-2020-02-12-01] The "Wellman" Nexus: The Sports Club that Runs the Bid-Rigging Cartel
 
 **🚨 Significance:**
 
@@ -3757,7 +3757,7 @@ This specific weighting (High MPF points / Low Professional points) appears cust
 
 **🚨 Significance:**
 
-Investigative reporting exposes a web of cross-ownership linking the winning contractor, **Prestige (宏業)**, to at least four other "competitors" in the tender. Corporate registry filings prove that Prestige's owner, **Hau Wah-kin**, is a direct business partner with the owners of these rival firms. Furthermore, they are all high-ranking office bearers in the same organization: [**Wellman Sports Association (康仁體育會)**](#-e-cartel-prestige-2020-02-12-01-the-wellman-nexus-the-sports-club-that-runs-the-bid-rigging-cartel).
+Investigative reporting exposes a web of cross-ownership linking the winning contractor, **Prestige (宏業)**, to at least four other "competitors" in the tender. Corporate registry filings prove that Prestige's owner, **Hau Wah-kin**, is a direct business partner with the owners of these rival firms. Furthermore, they are all high-ranking office bearers in the same organization: [**Wellman Sports Association (康仁體育會)**](#-e-cartel-wk-2020-02-12-01-the-wellman-nexus-the-sports-club-that-runs-the-bid-rigging-cartel).
 
 **1. The "Partner" Competitors:**
 *   **Man Sing (民星營造):** Owned by **Richie Tam Tsz-man (譚子文)**.
@@ -8442,7 +8442,7 @@ This incident confirms that the Cartel operates multiple entities to evade liabi
 
 **🚨 Significance:**
 
-Following the media exposure of the [**"Wellman" Nexus**](#-e-cartel-prestige-2020-02-12-01-the-wellman-nexus-the-sports-club-that-runs-the-bid-rigging-cartel), the cartel engaged in a desperate, multi-stage digital cover-up. The systematic removal of specific names, followed by the entire committee structure and sponsor lists from the **Wellman Sports Association (康仁體育會)** website, constitutes strong **consciousness of guilt**.
+Following the media exposure of the [**"Wellman" Nexus**](#-e-cartel-wk-2020-02-12-01-the-wellman-nexus-the-sports-club-that-runs-the-bid-rigging-cartel), the cartel engaged in a desperate, multi-stage digital cover-up. The systematic removal of specific names, followed by the entire committee structure and sponsor lists from the **Wellman Sports Association (康仁體育會)** website, constitutes strong **consciousness of guilt**.
 
 **1. The First Wave (Targeted Removal):**
 Immediately after the first media report [named them](#-e-cartel-prestige-2023-07-04-01-the-prestige-spiderweb-how-business-partners-posed-as-competitors), **Richie Tam Tsz-man (譚子文)** and **Li Chik-hoi (李植開)**—key figures linking **Man Sing (民星營造)** and **San Hoi Ming (新開明)** to the cartel—were surgically deleted from the "Executive Vice-President" list.
