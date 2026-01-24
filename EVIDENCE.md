@@ -1120,11 +1120,11 @@ When the contractor Fai Wong Construction was de-registered in 2016 leaving the 
 
 **🚨 Significance:**
 
-A forensic analysis of corporate filings and investigative reporting reveals the physical headquarters of the cartel. There are at least 37 companies interconnected with **Will Power (鴻毅)**. At least **20 interconnected companies** are registered across just **10 units** in **Mei Wah Industrial Centre (美華工業中心)**, To Kwa Wan. This location serves as the operational hub for a network linking Will Power to the "Godfather of Maintenance" **Chan Heung-fat (陳响發)**.
+A forensic analysis of corporate filings and investigative reporting reveals that **Will Power (鴻毅)** is not just "linked" to the "Godfather of Maintenance" **Chan Heung-fat (陳响發)**—it is a direct corporate vehicle of his family. Will Power was co-founded in 2006 by Chan's daughter, **Chan Ka-man (陳嘉文)**.
 
-**1. The "Hive" Logic:**
-*   **The Hub:** A single industrial building houses a cluster of companies that appear distinct but share directors, shareholders, and addresses.
-*   **The Scale:** 13 of these companies have records of bidding for building maintenance.
+**1. The "Hive" Logic (Family Business):**
+*   **The Hub:** At least **20 interconnected companies** (including Will Power) are registered across **10 units** in **Mei Wah Industrial Centre (美華工業中心)**, To Kwa Wan.
+*   **The Bloodline:** This cluster is not a random co-working space; it is the headquarters. The physical co-location of Will Power with Chan Heung-fat's other entities likely reflects a unified command structure controlled by the "Godfather's" dynasty.
 *   **The Wang Fuk Swarm:** This single "Hive" deployed agents to infiltrate every stage of the Wang Fuk project:
     *   **Inspection Stage:** 
         * Will Power (Winner)
@@ -1149,7 +1149,7 @@ Owners thought they were choosing between different companies. In reality, they 
 *   *Example:* **Milton (萬昇)** and **Wai Yip (瑋業)** both bid for the construction contract. Both are linked to this network. Their loss to **Prestige (宏業)** might not be a competitive defeat but a coordinated maneuver, likely with backend profit-sharing.
 
 **3. The "Godfather" Nexus:**
-The address cluster physically links the "new" consultants (Will Power) to the "old" triad-linked networks (Chan Heung-fat's family). It proves that the "Professional" consultants and the "Gangster" contractors are literally roommates.
+The corporate history confirms that Will Power is the ["Reincarnation"](#-e-cartel-willpower-2006-01-11-01-the-reincarnation-how-a-bid-rigging-syndicate-rebranded-as-the-estate-consultant) of the corrupted **Century Architects (世紀建築師樓)**. William Shum transferred his Century shares to Chan's other daughter, **Chan Ka-wai (陳嘉威)**, before co-founding Will Power with Chan Ka-man. This proves that Will Power is not an independent professional firm; it is the **Second Generation** of a syndicate.
 
 **📜 Original Record:**
 
@@ -1161,12 +1161,19 @@ The address cluster physically links the "new" consultants (Will Power) to the "
 > *Translation:*
 > "Will Power is interconnected to at least 37 industry consultants and construction firms... The registered addresses of multiple companies... have been located in **10 units at Mei Wah Industrial Centre, To Kwa Wan** for years. An address search revealed at least **20 companies** registered under them, **13** of which have bid for building maintenance projects... including companies of Chan Heung-fat, Ong Siu-keung, Wang Cheung-fai, etc, also includes company registrations when **Wong Man-hong**, **Sin Yeung-bor**, and **Wong Tin-hei** served as directors."
 
-
 > **Evidence [B]: The Spider Web**  
 > *Source: Journalist W's Report / 2025-12-26*
 >
 > (*Note: See the Hive Diagram.  
 Bidding activities record stem from 2009-2016 FactWire database*)
+
+> **Evidence [C]: The Daughter's Role (Direct Lineage)**
+> *Source: HK Feature / 2026-01-09*
+>
+> "2006年沈鉅忠與維修界老行尊陳响發的另一位女兒**陳嘉文**共同創立「鴻毅建築師」。... 沈鉅忠... 於2005年... 將[世紀]股份轉讓給陳响發女兒**陳嘉威**。"
+>
+> *Translation:*
+> "In 2006, William Shum co-founded 'Will Power Architects' with **Chan Ka-man**, another daughter of maintenance veteran Chan Heung-fat... In 2005, Shum... transferred [Century] shares to Chan's daughter **Chan Ka-wai**."
 
 **🛡️ Pre-emptive Rebuttal:**
 
@@ -1174,9 +1181,10 @@ Bidding activities record stem from 2009-2016 FactWire database*)
 "Sharing an industrial building is common for SMEs to save costs. Many companies use the same secretarial service or accounting firm, leading to the same registered address. This does not imply shared operations or collusion. We prepare our bids independently."
 
 **The Logical Trap:**
-1.  **Directors, not just Desks:** The network doesn't just share addresses; it shares **people**. The diagram shows a web of cross-directorships (e.g., Wong Man-hong serving multiple boards). You can share a secretary, but you don't accidentally share the same boss unless you are the same entity.
-2.  **The Statistical Impossibility:** What are the odds that 10 different bidders for *one specific estate* (Wang Fuk) all originate from the *same* specific industrial center? This concentration exceeds any random distribution. It indicates a coordinated attack, or **"Swarming"**.
-3.  **The "Dummy" Behavior:** The companies from this hub (like Milton and Wai Yip) consistently *lost* the bid with low votes or high prices. If they were independent, they would try to win. Their consistent failure suggests their role is to **pad the tender list**, making the "Winner" look legitimate.
+1.  **Family, not just Neighbors:** The link goes beyond sharing desks; it involves sharing **DNA**. The co-founder of Will Power is the daughter of the "Godfather" who controls the other companies in the building. This is a **Family Enterprise**, where different companies act as different limbs of the same body. Claiming independence is like claiming your left hand doesn't know what your right hand is doing.
+2.  **Directors, not just Desks:** The network doesn't just share addresses; it shares **people**. The diagram shows a web of cross-directorships. You can share a secretary, but you don't accidentally share the same boss unless you are the same entity.
+3.  **The Statistical Impossibility:** What are the odds that 10 different bidders for *one specific estate* (Wang Fuk) all originate from the *same* specific industrial center? This concentration exceeds any random distribution. It indicates a coordinated attack, or **"Swarming"**.
+4.  **The "Dummy" Behavior:** The companies from this hub (like Milton and Wai Yip) consistently *lost* the bid with low votes or high prices. If they were independent, they would try to win. Their consistent failure suggests their role is to **pad the tender list**, making the "Winner" look legitimate.
 
 **📅 Timeline:**
 
@@ -1208,6 +1216,7 @@ Bidding activities record stem from 2009-2016 FactWire database*)
 
 **🔗 Links:**
 *   [Journalist W's Report](https://www.facebook.com/share/p/19YbQWsXBe/)
+*   [HK Feature Report](https://hkfeature.com/local/【宏福苑調查】九七金融風暴投資損手-陳响發家族/)
 *   [Hive Diagram based on the report](鴻毅與業界關係圖.png) | [Documentation to rebuild the Hive Diagram](鴻毅與業界關係圖代碼.md)
 
 **📊 Diagram:**  
