@@ -961,6 +961,105 @@ The Government has known this for a decade. In **2015**, Secretary for Developme
 
 ---
 
+### 🆔 [E-CARTEL-WK-2016-03-17-01] The "Mayfair" Disaster: The HK$56M Bait-and-Switch & The Absentee Consultant
+
+**🚨 Significance:**
+
+Historical records reveal that **W&K Architects (黃鄺建築師)**, a key player in the [**"Wellman" Nexus**](#-e-cartel-prestige-2020-02-12-01-the-wellman-nexus-the-sports-club-that-runs-the-bid-rigging-cartel), was the consultant for the catastrophic renovation failure at **Mayfair Gardens (美景花園)**. 
+
+This case exposes a decade-long "Master Script" used by the cartel: **The Upsell Trap**. From Mayfair (2012) to Wang Fuk (2024), the playbook remains identical—take a compliant, affordable "Option 1" required by law, and manipulate owners into choosing an exorbitant "Option 2/3" under the guise of "better quality."
+
+**1. The "Option 1" Bait (Same Script, Different Decade):**
+*   **At Mayfair (2012):** Option 1 (HK$4.7M) was presented as the "Basic" choice.
+*   **At Wang Fuk (2024):** Option 1 (HK$150M) was presented as the ["No Warranty" choice](#-e-cartel-willpower-2023-10-30-01-the-hk150-million-upsell-how-10-year-warranty-was-used-to-double-the-bill).
+*   *The Pattern:* In both cases, Option 1 was fully compliant with the statutory Mandatory Building Inspection Scheme (MBIS). Yet, the Consultant systematically steered owners away from the legal minimum towards a "Luxury Upgrade" that inflated costs by **42%** (Mayfair) or **100%** (Wang Fuk). The logic is consistent: "Compliance is cheap; Profit lies in the Upgrade."
+
+**2. The "Price Swap" Fraud:**
+*   **The Tender:** The contractor (**Fai Wong Construction/輝煌建築**) submitted two options for external walls:
+    *   **Option 1 (Re-tiling/重造):** **HK$4,726,400** (Cheap).
+    *   **Option 2 (Repair/修葺):** **HK$62,596,200** (Expensive).
+*   **The Switch:** Owners voted for "Option 1" believing it was ~HK$4.7M. However, the final contract signed by the Management Company (**Kai Shing/啟勝管理服務**) listed the price as **HK$62.5M**—an increase of **HK$57.8M**.
+*   *The Excuse:* Kai Shing claimed the tender document had a "mistake" where the prices/labels were swapped, and that the "Real Price" of Option 1 was always HK$62M. This effectively trapped owners in a contract 13 times more expensive than the sticker price.
+
+**3. The Consultant's Complicity:**
+The tender document containing this critical "error" was designed by **W&K Architects**.
+*   *The Blind Eye:* An independent surveyor had flagged that Fai Wong's bid was inconsistent with others, warning of "high/low price errors." Yet, the Management Company, Consultant (W&K), and Contractor all proceeded to sign the inflated contract.
+*   *The Outcome:* This "oversight" allowed the project cost to jump from an expected HK$120M to **HK$170M**.
+
+**4. The Collapse & Absence:**
+When the contractor Fai Wong Construction was de-registered in 2016 leaving the project rotting, W&K refused to attend the emergency owners' meeting to explain the mess. They resigned in Oct 2016, leaving 900+ defect cases behind.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Price Swap (Visual Proof)**  
+> *Source: Apple Daily (Citing Tender Doc) / 2016-11-20*
+>
+> "『輝煌』標書... 方案一：重造外牆批盪... 本頁總計 **4,726,400.-**"
+> "『輝煌』標書... 方案二：修葺外牆結構... 上述 1.0 項工程金額總計 **62,596,200.-**"
+>
+> *Translation:*
+> "'Fai Wong' Tender... Option 1: Re-tiling external wall... Total: **4,726,400.-**"
+> "'Fai Wong' Tender... Option 2: Repair external wall structure... Total: **62,596,200.-**"
+> *(Analysis: Owners voted for Option 1 thinking it was cheap. The contract charged the Option 2 price.)*
+
+> **Evidence [B]: The "Magic" Increase**  
+> *Source: Apple Daily / 2016-11-20*
+>
+> "業主立案法團... 發現1.7億元的總工程造價，與承建商入標文件顯示的1.2億元，相差逾**5,000萬元**... 最終合約把兩個方案的名目及價格對調... 啟勝未有通知業主便簽約"
+>
+> *Translation:*
+> "Owners' board found total cost HK$170M... differed from tender doc's HK$120M by over **HK$50 million**... The final contract **swapped the names and prices** of the two options... Kai Shing signed without notifying owners."
+
+> **Evidence [C]: The Independent Warning Ignored**  
+> *Source: Apple Daily / 2016-11-20*
+>
+> "曾有獨立顧問公司審視工程合約... 向啟勝、輝煌指出，輝煌標書內容與其他入標承建商不同... 寫明『此錯誤或導致相關項目金額偏高或偏低』"
+>
+> *Translation:*
+> "Independent consultant... pointed out to Kai Shing and Fai Wong that Fai Wong's tender content differed from others... stating 'This error may lead to the relevant item amount being too high or too low'."
+
+> **Evidence [D]: The Consultant's Role**  
+> *Source: Oriental Daily / 2016-11-19*
+>
+> "標書由大廈工程顧問「**黃鄺建築師有限公司**」設計... 尹兆堅質疑... 顧問公司... 是否... 『睇漏眼』，懷疑有人專業失德，偷龍轉鳳犯下嚴重詐騙罪"
+>
+> *Translation:*
+> "Tender designed by Consultant '**W&K Architects**'... Wan Siu-kin questioned... if Consultant... 'missed it', suspecting professional misconduct or fraudulent bait-and-switch."
+
+> **Evidence [E]: The Abandonment**  
+> *Source: Apple Daily / 2016-03-14*
+>
+> "林卓廷... 譴責... 顧問公司[黃鄺]不出席會議，猶如置身事外..."
+>
+> *Translation:*
+> "Lam Cheuk-ting... condemned... Consultant [W&K] for not attending the meeting, acting as if uninvolved..."
+
+**¶ Statutory Basis:**
+*   **Context:** Fraud / Professional Negligence.
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"The discrepancy between the tender sum ($4.7M) and contract sum ($62.5M) for Option 1 was a genuine clerical error in the tender form—the prices for Option 1 and Option 2 were accidentally swapped by the contractor. The owners voted for the 'Re-tiling' method (Option 1) because it was technically superior, and the final price ($62M) reflected the true market value of re-tiling. The consultant clarified this before signing. It was an unfortunate administrative mix-up, not fraud."
+
+**The Logical Trap:**
+1.  **The "Upgrade" Fallacy:** Just like at Wang Fuk, the Consultant framed the expensive option as the "only real solution." But if Option 2 (Repair) was compliant with statutory orders, why push for Option 1 (Re-tiling) at **13x the cost**? The "Value" argument is a smokescreen for **Price Inflation**.
+2.  **The "Clerical Error" Lie:** A HK$57 million "typo" on the most critical page of a tender document is impossible to miss for a professional Quantity Surveyor or Architect. If the Consultant (W&K) missed it, they are incompetent. If they saw it and let it pass (until the contract was signed), they are complicit.
+3.  **The Absentee Defense:** If it was truly an innocent mistake, why did W&K refuse to attend the owners' meeting to explain it? Innocence usually defends itself; guilt hides. Their resignation and silence speak volumes.
+
+**📅 Timeline:**
+*   **2011-2012:** Tender issued with "Swapped Prices" under W&K. 
+*   **2012-10-28:** Owners vote for Option 1 (Cheap on paper).
+*   **After Oct 2012:** Kai Shing signs contract at Option 2's price ($62M).
+*   **2016-03-17:** Contractor de-registered; Project collapses.
+*   **2016-11-19:** "Price Swap" fraud exposed by media.
+
+**🔗 Links:**
+*   Apple Daily Report: [2016-03-14](https://collection.news/appledaily/articles/GGW64WLQSV5HXJKCOV3SDRVJQA) | [2016-11-20](https://collection.news/appledaily/articles/2CHTFWSQOOP5Q7KJT5ZUVFSG6U)
+*   [Oriental Daily Report](https://hk.on.cc/hk/bkn/cnt/news/20161119/bkn-20161119171434694-1119_00822_001.html)
+
+---
+
 ### 🆔 [E-CARTEL-WILLPOWER-2016-12-31-01] The "Bid-Rigging Factory": 20 Companies, 10 Units, One Industrial Building
 
 **🚨 Significance:**
