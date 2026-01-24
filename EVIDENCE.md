@@ -823,7 +823,7 @@ Chan fled HK in 2001 just as the ICAC arrested his brother. Prosecution revealed
 
 **🚨 Significance:**
 
-In the Grandway Garden (富嘉花園) renovation, **W&K Architects** was exposed for drafting a contract that explicitly **allowed lead in water pipes**, just as the city was reeling from the Lead-in-Water Scandal.
+In the Grandway Garden (富嘉花園) renovation, **W&K Architects (黃鄺建築師)**, a key player in the [**"Wellman" Nexus**](#-e-cartel-wk-2020-02-12-01-the-wellman-nexus-the-sports-club-that-runs-the-bid-rigging-cartel), was exposed for drafting a contract that explicitly **allowed lead in water pipes**, just as the city was reeling from the Lead-in-Water Scandal.
 
 **1. The "Clerical Error" Excuse:**
 *   **The Clause:** The contract drafted by W&K stated: *"Solder sticks must be a compound of **lead** and tin."*.
@@ -1294,6 +1294,87 @@ Data from FactWire (up to 2016) shows Prestige was already one of the top 4 most
 *   [FactWire Database Archive](https://docs.google.com/spreadsheets/d/1O7FjXTBtbsbiWdxN43ujyuu6Cgh-I9wvdGZQq6rQEvA/edit?gid=746443571#gid=746443571) | [Backup](傳真社製首個樓宇維修公開資料庫.xlsx)
 *   [The Points Media Report](https://points-media.com/最新/香港-世紀大火-學者-強制驗樓-制度-圍標-議價-宏業/)
 *   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf) | [Backup](強制驗樓驗窗計劃%2011.%20樓宇復修工程資料簡報小冊子.pdf)
+
+---
+
+### 🆔 [E-CARTEL-WK-2017-08-04-01] The "Magnet for Failure": A Decade of Rot from Po Tak Street to Fung Wah Estate
+
+**🚨 Significance:**
+
+A review of court judgments and news reports reveals a consistent pattern: Contractors supervised by **W&K Architects (黃鄺建築師)**, a key player in the [**"Wellman" Nexus**](#-e-cartel-wk-2020-02-12-01-the-wellman-nexus-the-sports-club-that-runs-the-bid-rigging-cartel), frequently engage in disastrous malpractice, ranging from project abandonment to document forgery. W&K itself exhibits a pattern of absenteeism and blame-shifting when these crises occur.
+
+**1. The "Man Yuen" Connection (Fraud Allegations & Fake Reports):**
+*   **2016 (Grandview Garden):** Resident Mr. Ng lodged police reports accusing W&K and contractor **Man Yuen (文源)** of fraud regarding the renovation. While the High Court (CACV 213/2016) upheld the police's decision to classify it as a "Miscellaneous Incident" citing lack of criminal evidence at the time, it established the close working relationship between W&K and Man Yuen.
+*   **2025 (Fung Wah Estate):** Nine years later, **Man Yuen**—W&K's old partner—was caught red-handed submitting a **"100% Fake"** safety report issued by a Beijing lab using an obsolete name.
+*   *The Inference:* While the 2016 case lacked evidence, the 2025 revelation confirms that Man Yuen operates with a lack of integrity. W&K's association with such a contractor reflects poorly on their vetting and supervision standards.
+
+**2. The "Po Tak Street" Abandonment (Absent for 2.5 Years):**
+In the **Po Tak Street (保德街)** project, W&K supervised contractor **Yan Cheong (仁昌建築)**.
+*   *The Delay:* A mandatory fire safety order issued in 2011 remained unfulfilled by 2017 (4 years of delay), risking prosecution for owners.
+*   *The Ghost Consultant:* W&K failed to attend any owners' meetings for **over 2.5 years** (Dec 2014 - Aug 2017). When confronted, they claimed "no need to attend" and shifted blame for the rejected plans entirely to the contractor and the Fire Services Department.
+
+**3. The Track Record of Failure:**
+Combining these with the [**Mayfair Gardens**](#-e-cartel-wk-2016-03-17-01-the-mayfair-disaster-the-hk56m-bait-and-switch--the-absentee-consultant) disaster (where contractor **Fai Wong/輝煌** collapsed), a clear profile emerges: W&K consistently presides over projects where contractors fail, delay, or cheat, while W&K consistently attempts to distance itself from the fallout.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Grandview Allegation (W&K & Man Yuen)**  
+> *Source: CACV 213/2016 Judgment / 2017-02-17*
+>
+> "吳錫偉先生在2015年12月至2016年2月期間，數次向警方舉報**黃鄺建築師有限公司** (下稱 “黃鄺”) 和**文源建築工程有限公司** (下稱 “文源”) ，在涉及香港堅道嘉景臺的大維修， 涉嫌干犯欺詐罪。警方初步認為當中不涉及任何刑事成份，把個案列作「雜項事件」。"
+>
+> *Translation:*
+> "Mr. Ng... reported **W&K Architects**... and **Man Yuen Construction**... for suspected fraud... involving Grandview Garden renovation. Police preliminarily considered no criminal element involved, classified as 'Miscellaneous Incident'."
+
+> **Evidence [B]: Man Yuen's Fake Report (2025)**  
+> *Source: HK01 / 2025-12-01*
+>
+> "柴灣峰華邨... 工程承辦商**文源建築工程有限公司**... 向法團提交... 棚網檢驗報告。... 職員表示... 2025年的報告用舊名「**百分百是假**」。... 記者曾致電文源建築查詢，職員表示「答你唔到，或者你問返法團」"
+>
+> *Translation:*
+> "Fung Wah Estate... Contractor **Man Yuen Construction**... submitted... net inspection report... Staff stated... 2025 report used old name, '**100% Fake**'... Reporter called Man Yuen... staff said 'Can't answer you, maybe ask the MC'."
+
+> **Evidence [C]: The Po Tak Street Delay (Yan Cheong)**  
+> *Source: Apple Daily / 2017-08-04*
+>
+> "石塘嘴保德街... 2012年聘請**黃鄺建築師有限公司**任工程顧問公司，及**仁昌建築有限公司**任承辦商... 消防改善工程至今仍未動工。... 消防處皆指圖則不合格... 消防處已向大廈發出最後通牒... 法團指，自2014年12月起，黃鄺逾兩年半從未出席業主大會... 批評黃鄺令工程拖延"
+>
+> *Translation:*
+> "Po Tak Street... hired **W&K Architects** as consultant and **Yan Cheong Construction** as contractor in 2012... Fire safety works haven't started... FSD rejected plans... issued ultimatum... MC stated since Dec 2014, W&K had not attended MC meetings for over 2.5 years... criticizing W&K for causing delays."
+
+> **Evidence [D]: W&K's Defense (Blame Shifting)**  
+> *Source: Apple Daily / 2017-08-04*
+>
+> "黃鄺回覆稱，消防工程的圖則是由承辦商遞交及由消防處批核... 故黃鄺**毋須出席**業主大會。"
+>
+> *Translation:*
+> "W&K replied that fire safety plans are submitted by the contractor and approved by FSD... therefore W&K **did not need to attend** the owners' meetings."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"The consultant's role is to advise, not to guarantee the contractor's performance or integrity. In the Grandview case, the courts vindicated us by finding no criminal element. In Po Tak Street, the delays were due to the contractor's submissions failing FSD requirements, which is outside our direct control. Regarding Man Yuen's recent issues, we cannot be held responsible for the actions of a contractor in a completely different project nine years later."
+
+**The Logical Trap:**
+1.  **Selection Responsibility:** A key duty of a Consultant is to recommend competent contractors. If W&K repeatedly recommends or works with contractors who collapse (Fai Wong), delay (Yan Cheong), or forge documents (Man Yuen), their vetting process is either **grossly incompetent** or **rigged**.
+2.  **Supervision Duty:** In Po Tak Street, claiming "no need to attend meetings" for 2.5 years while the project is stalling and facing prosecution is **professional abandonment**. A consultant is paid to solve these exact deadlocks, not to watch from the sidelines.
+3.  **The Pattern:** One bad contractor is bad luck. Three bad contractors across a decade is a **Systemic Feature**. W&K acts as a bridge that brings problematic contractors into estates.
+
+**¶ Statutory Basis:**
+*   **Case:** [CACV 213/2016](https://vlex.hk/vid/862499327).
+
+**📅 Timeline:**
+*   **2012:** W&K hired for Po Tak Street.
+*   **2014-12:** W&K stops attending Po Tak Street meetings.
+*   **2015-12:** Ng reports W&K & Man Yuen (Grandview).
+*   **2016-03-17:** W&K's project at Mayfair Gardens collapses.
+*   **2017-08-04:** W&K exposed for Po Tak Street delays.
+*   **2025-12-01:** Man Yuen (W&K's partner) caught forging docs.
+
+**🔗 Links:**
+*   [Judgment CACV 213/2016](https://vlex.hk/vid/862499327)
+*   [Apple Daily Report](https://collection.news/appledaily/articles/NXZX4GREKTAU5Y7TTRKFT3A3HM)
+*   [HK01 Investigation](https://www.hk01.com/01偵查/60299456)
 
 ---
 
