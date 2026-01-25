@@ -10294,7 +10294,7 @@ The authorities possesses the power of search and seizure, yet they were outpace
 Media coverage of the "Wall Material Controversy" demonstrates a systemic failure in investigative journalism. Major outlets (TVB, Sing Tao) acted as mere "data entry clerks," reciting numbers from a comparison chart while completely missing the chronological context that revealed a potential fraud.
 
 **1. "Picture-Book" Reporting:**
-Reporters focused solely on a single document (the Sept 2024 Price Chart) and mechanically recited the price differences ($32 vs $40). They failed to cross-reference with the June minutes (where the Contractor claimed Mosaic was "out of production") or the October minutes (where the Contractor offered a suspicious ["free upgrade"]([#-e-cartel-prestige-2024-06-27-01-the-rashomon-of-tiles-lies-finger-pointing-and-the-free-upgrade-trap])).
+Reporters focused solely on a single document (the Sept 2024 Price Chart) and mechanically recited the price differences ($32 vs $40). They failed to cross-reference with the June minutes (where the Contractor claimed Mosaic was "out of production") or the October minutes (where the Contractor offered a suspicious ["free upgrade"][#-e-cartel-prestige-2024-06-27-01-the-rashomon-of-tiles-lies-finger-pointing-and-the-free-upgrade-trap]).
 
 **2. The Amplification of Absurdity:**
 Both outlets quoted the phrase "**Unknown Material**" regarding the Contractor's bid, yet treated it as a neutral fact.
