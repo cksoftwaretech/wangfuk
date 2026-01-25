@@ -5995,7 +5995,7 @@ Prestige's notice ended with an ultimatum: "If not decided by Oct 7, we will sti
 >
 > "承建商經查詢供應商後，有關外牆現有之 1x1 吋紙皮石飾面物料**已不再生產**，故承建商提出會否考慮更換..."
 >
-> *Translation:*
+> *Translation:*  
 > "after enquiring with suppliers, Contractor stated that the existing 1x1 inch mosaic tile material is **no longer produced**, thus Contractor proposed considering a switch..."
 
 > **Evidence [B]: Prestige's Version (MC proposed it)**  
@@ -6003,7 +6003,7 @@ Prestige's notice ended with an ultimatum: "If not decided by Oct 7, we will sti
 >
 > "法團因收到業戶查詢... 因而**指示本公司**更改物料的可行性... 本公司在此聲明, 更改外牆物料並不是作為承建商去決定..."
 >
-> *Translation:*
+> *Translation:*  
 > "MC received resident inquiries... thus **instructed our company** to explore feasibility... We declare that changing material was not decided by the Contractor..."
 
 > **Evidence [C]: The Suspicious Generosity**  
@@ -6011,7 +6011,7 @@ Prestige's notice ended with an ultimatum: "If not decided by Oct 7, we will sti
 >
 > "承建商縱然在轉換物料後會有多出的費用亦最終同意及已書面回覆**不會向法團徵收差價**..."
 >
-> *Translation:*
+> *Translation:*  
 > "Even though switching materials would incur extra costs, the Contractor [Prestige] eventually agreed and replied in writing that they **would not charge the Corporation for the price difference**..."
 
 > **Evidence [D]: The "Rumor" Admission**  
@@ -6019,7 +6019,7 @@ Prestige's notice ended with an ultimatum: "If not decided by Oct 7, we will sti
 >
 > "得悉有大量謠言，聲稱本公司密謀串同法團及顧問公司藉着更改外牆飾面物料而增加工程造價..."
 >
-> *Translation:*
+> *Translation:*  
 > "Learned of rumors claiming our company conspired with MC and Consultant to increase project cost by changing materials..."
 
 > **Evidence [E]: Residents' Rage**  
@@ -6027,7 +6027,7 @@ Prestige's notice ended with an ultimatum: "If not decided by Oct 7, we will sti
 >
 > "你兩個邊個講大話？法團定你宏業講大話？... 你依家屈我哋啲住户？"
 >
-> *Translation:*
+> *Translation:*  
 > "Which one of you is lying? The MC or Prestige? ... Now you are framing us residents?"
 
 > **Evidence [F]: The "Free Upgrade" Offer**  
@@ -6035,7 +6035,7 @@ Prestige's notice ended with an ultimatum: "If not decided by Oct 7, we will sti
 >
 > "承建商...已書面回覆**不會向法團徵收差價**..."
 >
-> *Translation:*
+> *Translation:*  
 > "Contractor... replied in writing they **would not charge the Corporation for the price difference**..."
 
 > **Evidence [G]: The Market Reality (Consultant's Chart)**  
@@ -6100,67 +6100,67 @@ Investigative reporting confirms that the "Wellman Cartel" achieved vertical int
 
 **📜 Original Record:**
 
-> **Evidence [A]: The Tile: Ceramesse**
+> **Evidence [A]: The Tile: Ceramesse**  
 > *Source: Will Power Notice: Mosaic and Tiles Comparison / 2024-09-27*
 >
 > "磚瓦…承建商提供之價錢…$190/m² — Ceramesse"
 >
-> *Translation:*
+> *Translation:*  
 > "'Tiles...Price quoted by the Contractor [Prestige]... $190/m² — Ceramesse"
 
-> **Evidence [B]: The Mosaic: Meigie**
+> **Evidence [B]: The Mosaic: Meigie**  
 > *Source: Prestige Notice: Mosaic Test Report / 2024-11-05*
 >
 > "Project: Renovation work at Wang Fuk Court, Tai Po; Chinese "Meigie" Brand Unglazed Mosaic Tile; 原合約外牆飾面樣板; 1 寸 x 1 寸紙皮石; Model: DF-30/HFD-Z06; Size: 25 x 25 x 5mm"
 >
-> *Translation:*
+> *Translation:*  
 > "Project: Renovation work at Wang Fuk Court, Tai Po; Chinese "Meigie" Brand Unglazed Mosaic Tile; Sample material as per original contract; 1 inch x 1 inch Mosaic"
 
-> **Evidence [C]: The Sponsor (HK Building Material)**
+> **Evidence [C]: The Sponsor (HK Building Material)**  
 > *Source: HK Feature / 2026-01-09*
 >
 > "根據居民...發布的照片顯示，「宏業建築」所使用的紙皮石供應商為中國製「**明治MEIGIE**」... 而「宏業建築」報價中提及的... 日本磚瓦品牌「**Ceramesse**」... 同樣由香港建材有限公司...代理，而『香港建材』是『康仁體育會』的贊助商之一。"
 >
-> *Translation:*
+> *Translation:*  
 > "According to photos posted by residents... the mosaic supplier used by 'Prestige Construction' is Chinese-made '**Meigie**'... and the Japanese tile brand '**Ceramesse**' mentioned in 'Prestige's' quotation... are both distributed by **HK Building Material Ltd**... which is a **Sponsor of Wellman Sports Association**."
 
-> **Evidence [D]: The Paint (AKA)**
+> **Evidence [D]: The Paint (AKA)**  
 > *Source: Minutes 20 / 2023-09-12*
 >
 > "4.2 工程顧問公司「鴻毅」黃先生 [黃俠然] 匯報資料分析... 
 主要工程項目 [強制驗樓法令的必需維修項目]：外牆粉飾工程(方案一：紙皮石修補+透明面油保護方案，油漆品牌:AKA)、室內公眾地方粉飾工程(油漆品牌:AKA)…
 選擇性工程項目：外牆粉飾工程 (方案一：紙皮石修補+透明面油保護方案，油漆品牌:SKK) (方案二：紙皮石修補+顏色面油保護方案，油漆品牌:AKA) "
 >
-> *Translation:*
+> *Translation:*  
 > "4.2 Consultant Will Power Mr. Wong [Hap-yin] reported:  
 **Mandatory works** — external wall finishing (Option 1: render patching + clear protective topcoat; paint: AKA); interior public‑area finishing (paint: AKA).  
 **Optional works** — external wall finishing: Option 1 render patching + clear topcoat (paint: SKK); Option 2 render patching + colored topcoat (paint: AKA)."
 
-> **Evidence [E]: The Paint Director (AKA / Bernie Yuen)**
+> **Evidence [E]: The Paint Director (AKA / Bernie Yuen)**  
 > *Source: HK Feature / 2026-01-09*
 >
 > "「鴻毅建築師」於2023年9月發布的...影片中提到... 明確標示所使用的油漆品牌為**AKA**或SKK... AKA由胡文靜及**袁達強**兼任股東及董事。根據康仁體育會網頁顯示，袁達強為該體育**會董**之一，而AKA亦是康仁體育會的**贊助商**之一。"
 >
-> *Translation:*
+> *Translation:*  
 > "In the video released by '**Will Power Architects**' in Sept 2023... it explicitly labeled the paint brands to be used as **AKA** or SKK... AKA is owned by **Bernie Yuen**... Wellman website shows Yuen is a **Director**... and AKA is a **Sponsor**."
 
-> **Evidence [F]: The Waterproofing Switch (Boomplast)**
+> **Evidence [F]: The Waterproofing Switch (Boomplast)**  
 > *Source: HK Feature / 2026-01-09*
 >
 > "合約... 訂明 Ronabond (Sika)... 居民在棚架附近發現一排排... **Boomplast** (邦霸)... 由駿嘉建材... 提供，該供應商董事為AKA董事**袁達強**..."
 >
-> *Translation:*
+> *Translation:*  
 > "Contract specified Ronabond (Sika)... Residents found **Boomplast**... supplied by **Junka Building**, whose director is AKA Director **Bernie Yuen**..."
 
-> **Evidence [G]: The "Comparison"**
+> **Evidence [G]: The "Comparison"**  
 > *Source: Wang Fuk MC Notice / 2025-02-21*
 >
 > "工程顧問公司已提交「Ronabond Premixed Render」及「Boomplast WM130 Waterproofing Mortar」的外牆批盪物料比較資料，詳情可參閱張貼在報告板上的比較表"
 >
-> *Translation:*
+> *Translation:*  
 > "Consultant submitted exterior‑render comparison: Ronabond Premixed Render vs Boomplast WM130 Waterproofing Mortar. See chart on noticeboard."
 
-> **Evidence [H]: The Ecosystem**
+> **Evidence [H]: The Ecosystem**  
 > *Source: Composite Analysis*
 >
 >| **Entity** | **Wang Fuk Role** | **Wellman Connection** | **Link Details** |
@@ -6169,12 +6169,12 @@ Investigative reporting confirms that the "Wellman Cartel" achieved vertical int
 >| **Junka** | **Waterproofing** | **Director** | Owner **Bernie Yuen** is Wellman Director. |
 >| **HK Building Material** | **Tiles** | **Sponsor** | Was listed Sponsor; distributes Meigie/Ceramesse. |
 
-> **Evidence [I]: The Deletion**
+> **Evidence [I]: The Deletion**  
 > *Source: HK Feature / 2026-01-09*
 >
 > "報道刊出前一星期... 涉事的AKA與「香港建材」... 其名字均被刪除。"
 >
-> *Translation:*
+> *Translation:*  
 > "One week before publication... **AKA** and '**HK Building Material**'... were deleted [from Wellman website]."
 
 **🛡️ Pre-emptive Rebuttal:**
@@ -6201,6 +6201,7 @@ Investigative reporting confirms that the "Wellman Cartel" achieved vertical int
 *   [HK Feature Report](https://hkfeature.com/local/宏福苑調查-圍標圍物料-宏業建築董事侯華健投資/)
 *   [Will Power Notice: Prestige Quoting Ceramesse](http://www.wangfuk.org/html/home/doc/2024-09-27%20紙皮石與磚瓦比較%20(鴻毅).pdf) | [Backup](大維修相關資訊%204.%202024-09-27%20紙皮石與磚瓦比較%20(鴻毅).pdf)
 *   [Prestige Notice: Mosaic Brands](https://www.facebook.com/share/p/1GW7e4xGxX/)
+*   [MC Notice: Boomplast](http://www.wangfuk.org/html/ios/12/2025-02-21%20082%20跟進工程交流會事項.pdf) | [Backup](第12屆法團通告%202025年02月21日%20082%20-%20跟進工程交流會事項.pdf)
 *   [Minutes 20](http://www.wangfuk.org/html/meeting/05/第20次全體委員會議記錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2023-09-12%20第十一屆第二十次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2023-09-12-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 
 ---
