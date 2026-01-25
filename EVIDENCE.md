@@ -209,7 +209,7 @@ The fact that Wang Fuk Court's consultant was born from the ashes of a proven bi
 
 **🔗 Links:**
 *   [Journalist W's Full Report](https://www.facebook.com/share/p/19YbQWsXBe/) 
-*   [HK Feature Report](https://hkfeature.com/local/【宏福苑調查】九七金融風暴投資損手-陳响發家族/)
+*   [HK Feature Investigation](https://hkfeature.com/local/【宏福苑調查】九七金融風暴投資損手-陳响發家族/)
 *   [DCCC 552/2015 Judgment](https://legalref.judiciary.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=106355&QS=%2B&TP=RS)
 *   [Hive Diagram based on the reports](鴻毅與業界關係圖.png) | [Documentation](鴻毅與業界關係圖代碼.md)
 
@@ -1233,7 +1233,7 @@ Bidding activities record stem from 2009-2016 FactWire database*)
 
 **🔗 Links:**
 *   [Journalist W's Report](https://www.facebook.com/share/p/19YbQWsXBe/)
-*   [HK Feature Report](https://hkfeature.com/local/【宏福苑調查】九七金融風暴投資損手-陳响發家族/)
+*   [HK Feature Investigation](https://hkfeature.com/local/【宏福苑調查】九七金融風暴投資損手-陳响發家族/)
 *   [Hive Diagram based on the reports](鴻毅與業界關係圖.png) | [Documentation](鴻毅與業界關係圖代碼.md)
 
 **📊 Diagram:**  
@@ -1706,8 +1706,8 @@ Legal experts suggest that Hau's use of these shells to obtain immediate bank mo
 *   **2026-01-09:** Media exposes the Newform/Kwong links.
 
 **🔗 Links:**
-*   [HK Feature Report: Newform)](https://hkfeature.com/local/宏福苑調查-侯華健以newform-limited-成立的殼公司購入單位-黃/)
-*   [HK Feature Report: Chan Family](https://hkfeature.com/local/【宏福苑調查】九七金融風暴投資損手-陳响發家族/)
+*   [HK Feature Investigation: Newform)](https://hkfeature.com/local/宏福苑調查-侯華健以newform-limited-成立的殼公司購入單位-黃/)
+*   [HK Feature Investigation: Chan Family](https://hkfeature.com/local/【宏福苑調查】九七金融風暴投資損手-陳响發家族/)
 *   [Hive Diagram of the networks between Wellman, Prestige and Will Power](宏業、鴻毅與康仁體育會關係圖.png) | [Documentation](宏業、鴻毅與康仁體育會關係圖代碼.md)
 
 ---
@@ -6198,7 +6198,7 @@ Investigative reporting confirms that the "Wellman Cartel" achieved vertical int
 *   **2026-01-02:** Wellman deletes AKA and HK Building Material from website — [report](https://hkfeature.com/local/宏福苑調查-圍標圍物料-宏業建築董事侯華健投資/)
 
 **🔗 Links:**
-*   [HK Feature Report](https://hkfeature.com/local/宏福苑調查-圍標圍物料-宏業建築董事侯華健投資/)
+*   [HK Feature Investigation](https://hkfeature.com/local/宏福苑調查-圍標圍物料-宏業建築董事侯華健投資/)
 *   [Will Power Notice: Prestige Quoting Ceramesse](http://www.wangfuk.org/html/home/doc/2024-09-27%20紙皮石與磚瓦比較%20(鴻毅).pdf) | [Backup](大維修相關資訊%204.%202024-09-27%20紙皮石與磚瓦比較%20(鴻毅).pdf)
 *   [Prestige Notice: Mosaic Brands](https://www.facebook.com/share/p/1GW7e4xGxX/)
 *   [MC Notice: Boomplast](http://www.wangfuk.org/html/ios/12/2025-02-21%20082%20跟進工程交流會事項.pdf) | [Backup](第12屆法團通告%202025年02月21日%20082%20-%20跟進工程交流會事項.pdf)
