@@ -7340,6 +7340,94 @@ Allowing a contractor to define a schedule as "Until Done" is a failure of the *
 
 ---
 
+### 🆔 [E-ADMIN-2025-02-21-01] The Unilateral Switch: How a HK$60M Contract Spec Was Swapped for a Club Member's Product
+
+**🚨 Significance:**
+
+Investigative reporting and resident testimonies reveal a systemic failure in contract enforcement. The Contractor (**Prestige/宏業**) unilaterally swapped the contract-specified waterproofing material (Sika/Ronabond) for a locally supplied substitute (**Boomplast/邦霸**) without prior resident approval. This unauthorized change, involving a **HK$60 million** item, exposed a "Dictator Clause" in the contract and the complete subservience of the Consultant and MC to the Contractor's interests.
+
+**1. The "Bait-and-Switch" (Sika to Boomplast):**
+*   **Contract Spec:** **Ronabond Premixed Render** (Distributed by **Sika**, a global leader).
+*   **Site Reality:** Residents discovered **Boomplast WM130** (Distributed by **Junka**, a local firm).
+*   *The Conflict:* **Junka** is owned by [**Bernie Yuen  (袁達強)**](#-e-cartel-wk-2024-06-27-01-the-material-monopoly-how-the-wellman-cartel-controlled-the-supply-chain), a Director of [**Wellman Sports Association (康仁體育會)**](#-e-cartel-wk-2020-02-12-01-the-wellman-nexus-the-sports-club-that-runs-the-bid-rigging-cartel) (the cartel's hub [connected to both](#-e-cartel-link-2018-10-30-01-the-missing-link-how-wilson-kwong-and-newform-connect-the-consultant-to-the-contractor) Prestige and Will Power). This swap wasn't for quality; it was to divert HK$60M from an international supplier to a "Club Member."
+
+**2. The "Dictator Clause" (No Vote Needed):**
+The contract drafted by the Consultant (**Will Power/鴻毅**) contained a loophole: "Engineering Changes" (including material swaps) only required the Consultant's instruction and MC's consent.
+*   *The Trap:* There was **no requirement** for a residents' meeting to approve changes, even for major items. This effectively stripped owners of their consumer rights *after* they signed the check.
+
+**3. The Cover-Up (Silence & Endorsement):**
+*   **The MC's Silence:** Chairman Tsui Man-kam (徐滿柑) admitted the swap verbally but **omitted it from meeting minutes**.
+*   **The Consultant's complicity:** Instead of rejecting the non-compliant material, Will Power issued a "Comparison Table" to justify it retrospectively, just like they did when Prestige attempted to [switch to tiles](#-e-cartel-prestige-2024-06-27-01-the-rashomon-of-tiles-lies-finger-pointing-and-the-free-upgrade-trap). They acted as the **Contractor's Advocate**, not the Residents' Guardian.
+*   **The Result:** A deviation in a HK$60M-project was treated as a minor administrative detail, bypassing the scrutiny that such a massive change warrants.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Discovery & The Switch**
+> *Source: HK Feature / 2026-01-09*
+>
+> "居民在棚架附近發現一排排... **Boomplast** (邦霸)... 該材料與合約中「B3」外牆批盪、價值**5,974.8萬**的工程項目所訂明的 **Ronabond Premixed Render** 品牌（Sika為香港代理商）完全不相符"
+>
+> *Translation:*
+> "Residents found rows of... **Boomplast**... completely inconsistent with the contract item 'B3' External Wall Render (Value **$59.748M**) which specified **Ronabond Premixed Render** (Sika agent)."
+
+> **Evidence [B]: The "Club Member" Connection**
+> *Source: HK Feature / 2026-01-09*
+>
+> "「Boomplast WM130」由**駿嘉建材**（即JUNKA BUILDING）提供，該供應商董事為AKA董事**袁達強**... 「駿嘉建材」似乎是AKA的影子公司。"
+>
+> *Translation:*
+> "'Boomplast WM130' is supplied by **Junka Building**, whose director is AKA Director **Bernie Yuen**... Junka appears to be a shadow company of AKA."
+> *(Note: Bernie Yuen is a Director of Wellman Sports Association.)*
+
+> **Evidence [C]: The "Dictator Clause"**
+> *Source: HK Feature / 2026-01-09*
+>
+> "根據合約... 取得同意後「可發出指示」，要求「工程更改」... 合約中「更改」一詞，包括更換材料。不過，合約**沒有訂明更改物料需要居民大會通過**。"
+>
+> *Translation:*
+> "According to the contract... upon agreement, [Consultant] 'may issue instruction' for 'Works Variation'... 'Variation' includes material change. However, the contract **does not stipulate that material changes require a General Meeting resolution**."
+
+> **Evidence [D]: The Cover-Up (No Minutes)**
+> *Source: HK Feature / 2026-01-09*
+>
+> "陳先生向本刊指：「管委會主席徐滿柑在交流會已向居民承認轉了物料，但**會議紀錄中沒有記錄**。... 本刊翻查法團文件... 會議紀錄中並未提及... 更改物料的事宜。"
+>
+> *Translation:*
+> "Mr. Chan told us: 'Chairman Tsui admitted the swap... but **there is no record in the minutes**.'... We checked documents... minutes did not mention... the material change."
+
+> **Evidence [E]: The "Comparison" Defense**
+> *Source: MC Notice / 2025-02-21*
+>
+> "工程顧問公司已提交「Ronabond Premixed Render」及「Boomplast WM130 Waterproofing Mortar」的外牆批盪物料比較資料..."
+>
+> *Translation:*
+> "Consultant has submitted comparison data for 'Ronabond' and 'Boomplast'..."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"The contract allows for material substitution if the alternative is of equivalent standard. Boomplast WM130 is a recognized product with comparable specifications to Ronabond. The Consultant verified the technical data before approval. The MC was informed and agreed to the change to ensure material supply stability. It was an operational decision within our delegated authority, hence no EGM was needed."
+
+**The Logical Trap:**
+1.  **Equivalent vs. Downgrade:** Sika is a global giant; Junka is a local shadow firm owned by a "Club Director." Swapping a Tier-1 brand for a "Club Brand" without a price reduction is a **financial downgrade** for owners. The "Equivalency" argument is a technical smokescreen for value extraction.
+2.  **Supply vs. Strategy:** Was Sika out of stock? Unlikely for a global product. The swap happened *after* the contract was signed, suggesting a premeditated strategy to win with a famous brand (Sika) and build with a crony brand (Boomplast).
+3.  **Transparency Void:** If the change was legitimate, why hide it from the minutes? Why did residents have to discover it by looking at bags on site? Honest operational decisions are recorded; shady deals are omitted.
+
+**¶ Statutory Basis:**
+*   **Context:** Breach of Fiduciary Duty / Consumer Protection.
+
+**📅 Timeline:**
+*   **2024-04-16:** Contract signed specifying Sika/Ronabond.
+*   **2025-02-Early:** Residents find Boomplast on site.
+*   **2025-02-21:** MC issues notice claiming Consultant provided "comparison."
+*   **2025-Post:** Boomplast installed without EGM vote.
+
+**🔗 Links:**
+*   [HK Feature Investigation](https://hkfeature.com/local/宏福苑調查-圍標圍物料-宏業建築董事侯華健投資/)
+*   [MC Notice: Boomplast](http://www.wangfuk.org/html/ios/12/2025-02-21%20082%20跟進工程交流會事項.pdf) | [Backup](第12屆法團通告%202025年02月21日%20082%20-%20跟進工程交流會事項.pdf)
+
+---
+
 ### 🆔 [E-CARTEL-UBIQUITY-2025-03-26-01] The End of Hope: Even the "White Knights" are Corrupt
 
 **🚨 Significance:**
