@@ -6074,6 +6074,137 @@ Prestige's notice ended with an ultimatum: "If not decided by Oct 7, we will sti
 
 ---
 
+### 🆔 [E-CARTEL-WK-2024-06-27-01] The Material Monopoly: How the "Wellman" Cartel Controlled the Supply Chain
+
+**🚨 Significance:**
+
+Investigative reporting confirms that the "Wellman Cartel" achieved vertical integration. Not only were the Consultant and Contractor linked to [**Wellman Sports Association (康仁體育會)**](#-e-cartel-wk-2020-02-12-01-the-wellman-nexus-the-sports-club-that-runs-the-bid-rigging-cartel), but the key material suppliers—for tiles, paint, and waterproofing—were also **Wellman Sponsors** or owned by **Wellman Directors**. This allowed the cartel to profit from every layer of the project, likely turning the renovation into a closed-loop internal economy.
+
+**1. The "Tile" Connection (HK Building Material):**
+*   **The Swap:** After the [controversial attempt](#-e-cartel-prestige-2024-06-27-01-the-rashomon-of-tiles-lies-finger-pointing-and-the-free-upgrade-trap) to switch from Mosaic to Tiles, Prestige used **Meigie (明治)** mosaic and proposed **Ceramesse** tiles.
+*   **The Link:** Both brands are distributed by **HK Building Material Ltd (香港建材)**.
+*   **The Nexus:** HK Building Material was a [listed **Sponsor**](#-e-cartel-wk-2025-12-29-01-the-digital-shredding-deleting-the-evidence-of-collusion) of Wellman (deleted in Jan 2026). This may explain why Prestige was so eager to push for a tile switch that benefited a fellow "Club Member."
+
+**2. The "Paint" Connection (AKA / Bernie Yuen):**
+*   **The Spec:** The Consultant (Will Power) specified **AKA** or **SKK** for paint in the contract.
+*   **The Link:** **AKA Coating (澳嘉塗料)** is owned by **Bernie Yuen (袁達強)**.
+*   **The Nexus:** Bernie Yuen is a **Director** of Wellman. AKA was a listed **Sponsor** of Wellman (deleted in late Dec 2025 or early Jan 2026).
+*   *The Conflict:* A consultant specifying a brand owned by a director of the same private club where the contractor's boss is connected is a textbook conflict of interest.
+
+**3. The "Waterproofing" Bait-and-Switch (Boomplast):**
+*   **The Contract:** Specified **Sika** (Ronabond).
+*   **The Reality:** Residents found **Boomplast (邦霸)** on site.
+*   **The Link:** Boomplast is supplied by **Junka Building (駿嘉建材)**.
+*   **The Nexus:** Junka is also owned by **Bernie Yuen** (Wellman Director) and his partner Wu Man-ching (胡文靜). It appears to be a shadow company of AKA.
+*   *The Verdict:* The contractor swapped a reputable international brand (Sika) for a product supplied by a "Club Director," bypassing the contract specs without proper explanation.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Tile: Ceramesse**
+> *Source: Will Power Notice: Mosaic and Tiles Comparison / 2024-09-27*
+>
+> "磚瓦…承建商提供之價錢…$190/m² — Ceramesse"
+>
+> *Translation:*
+> "'Tiles...Price quoted by the Contractor [Prestige]... $190/m² — Ceramesse"
+
+> **Evidence [B]: The Mosaic: Meigie**
+> *Source: Prestige Notice: Mosaic Test Report / 2024-11-05*
+>
+> "Project: Renovation work at Wang Fuk Court, Tai Po; Chinese "Meigie" Brand Unglazed Mosaic Tile; 原合約外牆飾面樣板; 1 寸 x 1 寸紙皮石; Model: DF-30/HFD-Z06; Size: 25 x 25 x 5mm"
+>
+> *Translation:*
+> "Project: Renovation work at Wang Fuk Court, Tai Po; Chinese "Meigie" Brand Unglazed Mosaic Tile; Sample material as per original contract; 1 inch x 1 inch Mosaic"
+
+> **Evidence [C]: The Sponsor (HK Building Material)**
+> *Source: HK Feature / 2026-01-09*
+>
+> "根據居民...發布的照片顯示，「宏業建築」所使用的紙皮石供應商為中國製「**明治MEIGIE**」... 而「宏業建築」報價中提及的... 日本磚瓦品牌「**Ceramesse**」... 同樣由香港建材有限公司...代理，而『香港建材』是『康仁體育會』的贊助商之一。"
+>
+> *Translation:*
+> "According to photos posted by residents... the mosaic supplier used by 'Prestige Construction' is Chinese-made '**Meigie**'... and the Japanese tile brand '**Ceramesse**' mentioned in 'Prestige's' quotation... are both distributed by **HK Building Material Ltd**... which is a **Sponsor of Wellman Sports Association**."
+
+> **Evidence [D]: The Paint (AKA)**
+> *Source: Minutes 20 / 2023-09-12*
+>
+> "4.2 工程顧問公司「鴻毅」黃先生 [黃俠然] 匯報資料分析... 
+主要工程項目 [強制驗樓法令的必需維修項目]：外牆粉飾工程(方案一：紙皮石修補+透明面油保護方案，油漆品牌:AKA)、室內公眾地方粉飾工程(油漆品牌:AKA)…
+選擇性工程項目：外牆粉飾工程 (方案一：紙皮石修補+透明面油保護方案，油漆品牌:SKK) (方案二：紙皮石修補+顏色面油保護方案，油漆品牌:AKA) "
+>
+> *Translation:*
+> "4.2 Consultant Will Power Mr. Wong [Hap-yin] reported:  
+**Mandatory works** — external wall finishing (Option 1: render patching + clear protective topcoat; paint: AKA); interior public‑area finishing (paint: AKA).  
+**Optional works** — external wall finishing: Option 1 render patching + clear topcoat (paint: SKK); Option 2 render patching + colored topcoat (paint: AKA)."
+
+> **Evidence [E]: The Paint Director (AKA / Bernie Yuen)**
+> *Source: HK Feature / 2026-01-09*
+>
+> "「鴻毅建築師」於2023年9月發布的...影片中提到... 明確標示所使用的油漆品牌為**AKA**或SKK... AKA由胡文靜及**袁達強**兼任股東及董事。根據康仁體育會網頁顯示，袁達強為該體育**會董**之一，而AKA亦是康仁體育會的**贊助商**之一。"
+>
+> *Translation:*
+> "In the video released by '**Will Power Architects**' in Sept 2023... it explicitly labeled the paint brands to be used as **AKA** or SKK... AKA is owned by **Bernie Yuen**... Wellman website shows Yuen is a **Director**... and AKA is a **Sponsor**."
+
+> **Evidence [F]: The Waterproofing Switch (Boomplast)**
+> *Source: HK Feature / 2026-01-09*
+>
+> "合約... 訂明 Ronabond (Sika)... 居民在棚架附近發現一排排... **Boomplast** (邦霸)... 由駿嘉建材... 提供，該供應商董事為AKA董事**袁達強**..."
+>
+> *Translation:*
+> "Contract specified Ronabond (Sika)... Residents found **Boomplast**... supplied by **Junka Building**, whose director is AKA Director **Bernie Yuen**..."
+
+> **Evidence [G]: The "Comparison"**
+> *Source: Wang Fuk MC Notice / 2025-02-21*
+>
+> "工程顧問公司已提交「Ronabond Premixed Render」及「Boomplast WM130 Waterproofing Mortar」的外牆批盪物料比較資料，詳情可參閱張貼在報告板上的比較表"
+>
+> *Translation:*
+> "Consultant submitted exterior‑render comparison: Ronabond Premixed Render vs Boomplast WM130 Waterproofing Mortar. See chart on noticeboard."
+
+> **Evidence [H]: The Ecosystem**
+> *Source: Composite Analysis*
+>
+>| **Entity** | **Wang Fuk Role** | **Wellman Connection** | **Link Details** |
+>| :--- | :--- | :--- | :--- |
+>| **AKA Coating** | **Paint** | **Director + Sponsor** | Owner **Bernie Yuen** is Wellman Director; AKA was Sponsor. |
+>| **Junka** | **Waterproofing** | **Director** | Owner **Bernie Yuen** is Wellman Director. |
+>| **HK Building Material** | **Tiles** | **Sponsor** | Was listed Sponsor; distributes Meigie/Ceramesse. |
+
+> **Evidence [I]: The Deletion**
+> *Source: HK Feature / 2026-01-09*
+>
+> "報道刊出前一星期... 涉事的AKA與「香港建材」... 其名字均被刪除。"
+>
+> *Translation:*
+> "One week before publication... **AKA** and '**HK Building Material**'... were deleted [from Wellman website]."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"The specified brands (AKA, Meigie) are common in the industry and meet technical standards. The switch to Boomplast was a technical equivalency decision approved by the Consultant. The suppliers' sponsorship of a sports club is a CSR activity and does not imply they received preferential treatment in a commercial tender."
+
+**The Logical Trap:**
+1.  **The "Club" Economy:** It is statistically impossible for *every* major material choice (Tiles, Paint, Waterproofing) to "accidentally" land on a Wellman Sponsor or Director. This concentration proves the project was a **"Closed Shop"** designed to funnel money to club members.
+2.  **The Unauthorized Switch:** Swapping Sika (Global Leader) for Boomplast (Local/Club-linked) without a formal EGM vote or transparent comparison is a material breach. It suggests the goal was to divert funds to the "Club Network," not to ensure quality.
+3.  **The "Sponsorship" cover:** If it was innocent CSR, why delete it? Hiding the sponsorship link immediately after media scrutiny proves they knew it looked like a kickback channel.
+
+**¶ Statutory Basis:**
+*   **Context:** Prevention of Bribery Ordinance (Advantage).
+
+**📅 Timeline:**
+*   **2023-09-12:** Consultant specifies AKA (Club Director's brand) in tender — [minutes](http://www.wangfuk.org/html/meeting/05/第20次全體委員會議記錄.pdf)
+*   **2024-01-28:** Prestige wins tender.
+*   **2024-06-27:** Prestige attempts tile switch (to HK Building Material brand) — [ref](#-e-cartel-prestige-2024-06-27-01-the-rashomon-of-tiles-lies-finger-pointing-and-the-free-upgrade-trap)
+*   **Before 2025-02-21:** Prestige swaps waterproofing to Boomplast (Club Director's brand).
+*   **2026-01-02:** Wellman deletes AKA and HK Building Material from website — [report](https://hkfeature.com/local/宏福苑調查-圍標圍物料-宏業建築董事侯華健投資/)
+
+**🔗 Links:**
+*   [HK Feature Report](https://hkfeature.com/local/宏福苑調查-圍標圍物料-宏業建築董事侯華健投資/)
+*   [Will Power Notice: Prestige Quoting Ceramesse](http://www.wangfuk.org/html/home/doc/2024-09-27%20紙皮石與磚瓦比較%20(鴻毅).pdf) | [Backup](大維修相關資訊%204.%202024-09-27%20紙皮石與磚瓦比較%20(鴻毅).pdf)
+*   [Prestige Notice: Mosaic Brands](https://www.facebook.com/share/p/1GW7e4xGxX/)
+*   [Minutes 20](http://www.wangfuk.org/html/meeting/05/第20次全體委員會議記錄.pdf) | [Backup](https://github.com/sparktsang/wangfuk/blob/main/2023-09-12%20第十一屆第二十次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2023-09-12-%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%BA%8C%E5%8D%81%E6%AC%A1%E5%85%A8%E9%AB%94%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
+
+---
+
 ### 🆔 [E-CARTEL-WILLPOWER-2024-07-19-01] The "Endorsement" Myth: How URA Subsidies Were Used to Whitewash Corruption
 
 **🚨 Significance:**
@@ -10160,7 +10291,7 @@ The authorities possesses the power of search and seizure, yet they were outpace
 Media coverage of the "Wall Material Controversy" demonstrates a systemic failure in investigative journalism. Major outlets (TVB, Sing Tao) acted as mere "data entry clerks," reciting numbers from a comparison chart while completely missing the chronological context that revealed a potential fraud.
 
 **1. "Picture-Book" Reporting:**
-Reporters focused solely on a single document (the Sept 2024 Price Chart) and mechanically recited the price differences ($32 vs $40). They failed to cross-reference with the June minutes (where the Contractor claimed Mosaic was "out of production") or the October minutes (where the Contractor offered a suspicious "free upgrade").
+Reporters focused solely on a single document (the Sept 2024 Price Chart) and mechanically recited the price differences ($32 vs $40). They failed to cross-reference with the June minutes (where the Contractor claimed Mosaic was "out of production") or the October minutes (where the Contractor offered a suspicious ["free upgrade"]([#-e-cartel-prestige-2024-06-27-01-the-rashomon-of-tiles-lies-finger-pointing-and-the-free-upgrade-trap])).
 
 **2. The Amplification of Absurdity:**
 Both outlets quoted the phrase "**Unknown Material**" regarding the Contractor's bid, yet treated it as a neutral fact.
