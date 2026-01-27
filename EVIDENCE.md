@@ -2504,7 +2504,7 @@ Chairman Tang declared that since the meeting was an "adjournment" (延會), the
 *   *The Malice:* This procedural trick stripped owners of their right to query the agenda. When residents protested, Tang issued "warnings" and ordered security to expel them, treating legitimate inquiries as disorder.
 
 **2. The Chokehold Incident:**
-Video footage captures a black-suited security guard (without a name tag) physically assaulting an elderly owner.
+Video footage captures a black-suited security guard (without a name tag, likely hired by ISS EastPoint) physically assaulting an elderly owner.
 *   *The Violence:* The guard shadowed the elderly man closely, then grabbed his arm and put him in a **chokehold**. The MC minutes completely omitted this assault, euphemistically describing it as "order confusion" requiring police intervention.
 
 **3. The Secretary's "Performance":**
