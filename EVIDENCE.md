@@ -7289,7 +7289,7 @@ When questioned about the HK$1M fee, former Chairman (current Treasurer) **Wong 
 
 **🚨 Significance:**
 
-Investigative reporting exposes a dangerous conflict of interest at the heart of the Buildings Department's regulatory system. **Richie Tam Chee-man (譚子文)**, a close business partner of **Prestige (宏業)** boss **Hau Wah-kin (侯華建)**, sits on the **Minor Works Contractors Registration Committee (MWCRC)** (小型工程承建商註冊事務委員會).
+Investigative reporting exposes a dangerous conflict of interest at the heart of the Buildings Department's regulatory system. **Richie Tam Chee-man (譚子文)**, a close business partner of **Prestige (宏業)** boss **Hau Wah-kin (侯華建)**, sits on the **Minor Works Contractors Registration Committee (MWCRC)** (小型工程承建商註冊事務委員會). The one exposed in the [case of Steve Wong Chung-kee](#-e-gov-2023-02-17-01-the-triple-agent-how-a-housing-department-surveyor-moonlighted-for-the-cartel) (黃忠基) is not a single event. 
 
 **1. The Judge and the Accused:**
 *   **The Power:** The MWCRC is responsible for interviewing Authorized Signatories (AS) and conducting disciplinary hearings for contractors. It holds the power to grant, renew, or revoke licenses.
