@@ -8044,6 +8044,90 @@ Residents were forced to live in sealed, air-conditioner-less units (due to remo
 
 ---
 
+### 🆔 [E-CARTEL-2025-08-27-01] The Vanguard's Playbook: How ISS Manipulated Elections and Invited "Big Repairs" at World Wide Gardens
+
+**🚨 Significance:**
+
+Investigative reporting reveals that **ISS EastPoint (置邦)**, the Property Manager for both Wang Fuk Court and **World Wide Gardens (世界花園)**, employs a consistent playbook of electoral manipulation and procedural violation to consolidate power and pave the way for lucrative major renovation projects.
+
+**1. The "Auto-Fill" Proxy Fraud:**
+In July 2022, an ISS manager at World Wide Gardens was caught filling in the "Proxy" field on a blank authorization form with the name of the incumbent Chairman.
+*   *The Confession:* When confronted, the manager admitted: "I filled it in."
+*   *The Defense:* Despite this admission, Police classified it as a "misunderstanding" and took no action. This impunity mirrors the ["Mystery Mouse"](#-e-cartel-2024-01-28-01-the-phantom-voters-how-a-mystery-mouse-swung-the-hk330m-contract) incident at Wang Fuk, where bulk proxies appeared mysteriously.
+
+**2. The "Phantom" Candidate:**
+In Sept 2021, an elderly owner (Mr. A) found himself "nominated" for the MC election without his knowledge.
+*   *The Tactic:* ISS claimed it was a "mutual nomination" that he "forgot."
+*   *The Goal:* By planting phantom candidates, the management can control the MC composition, ensuring a compliant board that will approve future contracts.
+
+**3. The "Retrospective" Tender (Small Works):**
+Between Nov 2024 and Mar 2025, ISS awarded **5 small projects** to the same contractor (**Fuk Ming Decoration Works/復明工程**) *before* inviting tenders.
+*   *The Smoking Gun:* For a drainage job, ISS recorded completion on **Jan 23**, but only issued the tender notice on **Jan 24**.
+*   *The System:* This "Start First, Tender Later" method eliminates competition, ensuring the preferred contractor always wins. It is a microcosm of the larger bid-rigging mechanism.
+
+**4. Inviting the "Big Repair":**
+In Aug 2025, the ISS manager *proactively* emailed the Buildings Department to ask why a Mandatory Building Inspection Scheme (MBIS) order had *not* yet been issued.
+*   *The Motive:* Why would a manager beg for a statutory order that costs owners millions? Because an MBIS order is the **"Golden Ticket"** for the cartel. It forces the estate into a mandatory renovation cycle, unlocking the HK$100 million+ contracts where the real profit lies.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Proxy Confession**
+> *Source: HK01 / 2026-01-19*
+>
+> "世界花園的管理公司「**置邦物業管理**」... 「置邦」的物管經理，擅自在無填寫授權代表的簽署授權信上，寫上時任法團主席名字... 開會當日... 「問了**梁經理**，梁經理說是**他填下去的**。我問他知不知道這樣是篡改文書？...」"
+>
+> *Translation:*
+> "World Wide Gardens' management company is '**ISS EastPoint**'... '**ISS**' property manager took the liberty to fill in the Chairman's name on a blank proxy... On the meeting day... 'Asked **Manager Leung**, Manager Leung said **he filled it in**. I asked him if he knew this was tampering with documents?...'"
+
+> **Evidence [B]: The Phantom Candidate**
+> *Source: HK01 / 2026-01-19*
+>
+> "A先生見到法團通告，發現自己「被提名」做候選人... 隨即寫了一份聲明，稱自己無參選... **置邦**回覆《香港01》... 稱事件是兩名業主之間「互相提名」，但業主A忘記曾在提名表格上簽署"
+>
+> *Translation:*
+> "Mr. A saw the notice... found he was 'nominated' as a candidate... immediately wrote a statement denying participation... **ISS** replied to HK01... claiming it was 'mutual nomination' but Mr. A **forgot** he signed."
+
+> **Evidence [C]: The "Time Travel" Tender**
+> *Source: HK01 / 2026-01-19*
+>
+> "以這個價值四萬元換污水喉的的工程為例，「**置邦**」寫工程在2025年1月**23日完成**，但他們1月**24日才出通告**，公開5間公司的報價... 所有工程都是由**置邦**直接找「復明工程公司」完成。"
+>
+> *Translation:*
+> "Taking a $40,000 sewage pipe job as example, '**ISS**' recorded completion on **Jan 23, 2025**, but only **issued the tender notice on Jan 24**... disclosing 5 quotes... All works were directly assigned by **ISS** to 'Fuk Ming Engineering'."
+
+> **Evidence [D]: Begging for the Order**
+> *Source: HK01 / 2026-01-19*
+>
+> "業主後來再發現世界花園**物業經理**。在2025年8月**主動向屋宇署發電郵**，查詢為何屋宇署未有向世界花園，發出強制驗窗或驗樓的通知。... **置邦**回覆《香港01》，否認主動申請「大維修」，稱是業主及法團對維修有疑問，才代為向屋宇署查詢。"
+>
+> *Translation:*
+> "Owners discovered the World Wide Gardens **Property Manager**... in Aug 2025 **proactively emailed the Buildings Department**, asking why BD had not issued MBIS notices... **ISS** replied to HK01, denying proactive application... claiming they inquired on behalf of owners."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"The proxy incident was a regrettable individual error by a staff member trying to assist owners, not a corporate policy. The 'start first' works were emergency repairs where immediate action was needed, and procedural paperwork followed. The inquiry to BD was due diligence to clarify the estate's liability status, not to invite orders. Police investigations found no criminal element."
+
+**The Logical Trap:**
+1.  **Individual vs. Systemic:** When the *same* management company presides over proxy irregularities in **World Wide Gardens** (2022) and **Wang Fuk Court** (2024), and [disables alarms](#-e-safety-alarm-2025-05-14-01-the-silent-switch-how-management-disabled-the-alarm-to-save-trouble) in Wang Fuk (2025), it is a **Corporate Culture** of non-compliance, not a series of isolated errors.
+2.  **Emergency vs. Routine:** Replacing a sewage pipe might be urgent, but doing it **5 times** with the *same* contractor using the *same* "Retrospective" excuse is a pattern of **procurement fraud**.
+3.  **The "Diligence" Lie:** A diligent manager tries to *avoid* statutory orders (by doing preventive maintenance). proactively *asking* for a statutory order (which triggers expensive fees) acts against the owners' financial interest. It only benefits the ecosystem of consultants and contractors who feed on these orders. 
+
+**¶ Statutory Basis:**
+*   **Context:** Building Management Ordinance (Proxy) / Prevention of Bribery.
+
+**📅 Timeline:**
+*   **2021-09-20:** Mr. A "phantom nominated" at World Wide Gardens.
+*   **2022-07:** ISS Manager admits filling proxy at World Wide Gardens.
+*   **2025-01-24:** "Start First, Tender Later" works (Fuk Ming).
+*   **2025-08-27:** ISS asks BD for "Big Repair" order.
+*   **2026-01-19:** Media exposes the pattern.
+
+**🔗 Links:**
+*   [HK01 Investigation](https://www.hk01.com/01偵查/60312640/)
+
+---
+
 ### 🆔 [E-CARTEL-PRESTIGE-2025-08-30-01] The "Schrödinger's AP": How Sky Arashi Faked its Credentials to Win Contracts
 
 **🚨 Significance:**
