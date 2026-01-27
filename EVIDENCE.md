@@ -7283,6 +7283,100 @@ When questioned about the HK$1M fee, former Chairman (current Treasurer) **Wong 
 
 ---
 
+### 🆔 [E-CARTEL-PRESTIGE-2025-01-01-01] The "Regulatory Capture": The Contractor Who Judges Contractors
+
+**🚨 Significance:**
+
+Investigative reporting exposes a dangerous conflict of interest at the heart of the Buildings Department's regulatory system. **Richie Tam Chee-man (譚子文)**, a close business partner of **Prestige (宏業)** boss **Hau Wah-kin (侯華建)**, sits on the **Minor Works Contractors Registration Committee (MWCRC)** (小型工程承建商註冊事務委員會).
+
+**1. The Judge and the Accused:**
+*   **The Power:** The MWCRC is responsible for interviewing Authorized Signatories (AS) and conducting disciplinary hearings for contractors. It holds the power to grant, renew, or revoke licenses.
+*   **The Conflict:** Tam is a [50/50 partner with Hau](#-e-cartel-prestige-2023-07-04-01-the-prestige-spiderweb-how-business-partners-posed-as-competitors) in "Rich Surplus Develop Ltd" and owns Man Sing (民星營造) which was a co-bidder in Wang Fuk.
+*   **The Scenario:** If Prestige faces a disciplinary hearing for the Wang Fuk fire (where it faces potential prosecution), its judge could be its own business partner.
+
+**2. The Corruption Precedent:**
+This is not a hypothetical risk. In 2012, a former MWCRC member, **Law Hiu-man (羅曉文)**, was jailed for soliciting bribes from applicants. The system has a proven vulnerability to insider corruption.
+
+**3. The Silence:**
+When queried about whether Tam declared his financial links to Hau or if he would recuse himself from Prestige's hearings, the Buildings Department failed to respond before publication.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Official Appointment**  
+> *Source: Buildings Department Website*
+>
+> *Translation:*  
+> "Minor Works Contractors Registration Committee... Member... **Mr TAM Chee-man Richie** (譚子文先生)... Term Expiry... Dec 31, 2026."
+
+> **Evidence [B]: The Committee's Power**  
+> *Source: Cap 123N Section 8*
+>
+> "Cap. 123N Building (Minor Works) Regulation ─ Section 8 Function of Minor Works Contractors Registration Committee
+>Function of Minor Works Contractors Registration Committee
+>The function of a Registration Committee is to assist the Building Authority in considering applications under Parts 4 and 10 by—  (L.N. 113 of 2009)
+>(a)examining the qualifications of the applicants;
+>(b)making necessary inquiry to ascertain whether the applicants have the experience required of them for the purposes of their applications;
+>(c)conducting interviews with the applicants;
+>(d)making recommendations to the Authority to allow or refuse, either in whole or in part, the applications or defer the determination of the applications; and
+>(e)reviewing the decisions of the Authority or recommendations of other Registration Committees under section 26. (L.N. 113 of 2009)"
+
+> **Evidence [C]: The Conflict of Interest**  
+> *Source: HK Feature / 2026-01-12*
+>
+> "譚子文與侯華健及其家人為多年來的投資夥伴... 該委員會有權調查「宏業建築」是否違規，並決定其未來牌照是否會被吊銷。"
+>
+> *Translation:*  
+> "Tam and Hau Wah-kin... are investment partners for many years... The committee has the power to investigate if 'Prestige' violated regulations and decide whether to revoke its license."
+
+> **Evidence [D]: The Corruption Precedent**  
+> *Source: HK Feature / 2026-01-12*
+>
+> "2012年... 前委員31歲羅曉文向一名申請... 的董事索取7萬元，被廉署拘捕並起訴... 最終被判監半年。"
+>
+> *Translation:*  
+> "In 2012... former member Law Hiu-man solicited HK$70k from an applicant... arrested by ICAC... sentenced to 6 months jail."
+
+> **Evidence [E]: The Silence**  
+> *Source: HK Feature / 2026-01-12*
+>
+> "「宏業建築」或將面臨紀律聆訊或申請續牌事宜，署方會否安排譚子文避席或其他安排？屋宇署在截稿前未有回覆。"
+>
+> *Translation:*  
+> "Prestige may face a disciplinary hearing or licence‑renewal review; will the department ask Tam to recuse? The Buildings Department had not replied as of press time"
+
+> **Evidence [F]: Term of Office**  
+> *Source: Architects Registration Board News  / 2025-02-18*
+>
+> "Minor Works Contractors Registration Committee and Minor Works Contractors Registration Committee Panel (Tenure 2025/2026)
+> Term of office: 2 years (1 January 2025 – 31 December 2026)"
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"Committee members are appointed based on professional expertise. A strict declaration of interest mechanism exists. If a member has a conflict with a specific case, they must declare it and abstain from voting. Mr. Tam's business dealings are private and separate from his public duty. Assuming bias without evidence of actual misconduct in a specific hearing is unfair."
+
+**The Logical Trap:**
+1.  **Structural Conflict:** You cannot "declare" away a 50/50 partnership. If your business partner loses his license, *your* joint business suffers. The financial entanglement is too deep for simple recusal to cure. Tam shouldn't just "abstain"; he shouldn't be on the committee regulating his partners' and his own industry.
+2.  **The "Insider" Edge:** Even if he recuses himself from the *vote*, his presence on the committee gives Prestige access to insider information about regulatory trends, crackdown schedules, and interview questions for Authorized Signatories.
+3.  **The "Benefit of Doubt" is Gone:** Given the 2012 corruption precedent in the *same* committee, and the proven bid-rigging links between Tam and Hau in Wang Fuk, the public cannot trust the "Honor System."
+
+**¶ Statutory Basis:**
+*   **Context:** Misconduct in Public Office / Prevention of Bribery.
+
+**📅 Timeline:**
+*   **2018-10:** Tam & Hau form "Rich Surplus" partnership.
+*   **2025-01-01:** Tam serves on MWCRC (Term until Dec 2026).
+*   **2025-11-27:** Prestige's management arrested for Wang Fuk fire.
+*   **2026-01-12:** Tam's role exposed.
+
+**🔗 Links:**
+*   [HK Feature Report](https://hkfeature.com/local/宏福苑調查-宏業建築生意夥伴譚子文為屋宇署轄下/)
+*   [Cap 123N Section 8](https://www.elegislation.gov.hk/hk/cap123N!en/s8?_lang=en)
+*   [BD Committee List](https://www.bd.gov.hk/en/resources/request-for-information/boards-and-committees/MWCRC.html)
+*   [Architects Registration Board News No.03/2025](https://arb.org.hk/en/news/153)
+
+---
+
 ### 🆔 [E-SAFETY-WINDOWS-2025-01-20-01] The "Infinite" Risk: Why Replacing Windows Took Forever
 
 **🚨 Significance:**
