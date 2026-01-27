@@ -3525,18 +3525,21 @@ Investigation reveals that **Steve Wong Chung-kee (黃忠基)**, the Authorized 
 
 **1. The "110k" Public Servant:**
 Wong was hired via an outsourcing agency but interviewed and selected by HD staff. He received the top-tier salary of **HK$112,000/month**.
-*   *The Conflict:* While paid by taxpayers to maintain public housing, he was secretly serving as the AP for a private contractor (Prestige), signing off on the very projects that eventually killed 168 people.
+*   *The Conflict:* While paid by taxpayers to maintain public housing, he was serving as the AP for a private contractor (Prestige), signing off on the very projects that eventually killed 168 people.
 *   *The Suspicion:* Industry insiders suspect Prestige's ability to hoard 28 projects was facilitated by Wong's dual status and insider knowledge of government protocols.
 
-**2. The "Immediate" Firing:**
+**2. The "Rubber Stamp" Risk:**
+As an AS, Wong is responsible for signing off on safety plans and supervision. However, if he has a full-time government job, his ability to physically supervise Prestige's 28 concurrent projects is questionable. He is likely a **"Rent-a-Signatory"**—lending his credentials to Prestige for a fee while doing minimal actual supervision.
+
+**3. The "Immediate" Firing:**
 Wong was fired by his agency on **Nov 28**, just two days after the fire.
 *   *The Guilt:* If his dual employment was declared and compliant, there would be no grounds for summary dismissal. The swift sacking suggests the HD knew the arrangement was indefensible once exposed to light.
 
-**3. The Background:**
+**4. The Background:**
 Wong was charged by the ICAC in 2004 for **"Agent using document with intent to deceive principal."**
 *   *The Screening Failure:* How did a person with a corruption-related prosecution record pass the vetting for a high-level government role and become a registered AP? This points to a systemic failure in background checks.
 
-**4. The Political Irony:**
+**5. The Political Irony:**
 In Aug 2023, DAB Councilor **Frankie Ngan Man-yu** (顏汶羽) wrote a commendation letter praising Wong's team for "professionalism."
 *   *The Verdict:* The political establishment praised the very man who was simultaneously enabling the cartel. This highlights the superficiality of political oversight.
 
