@@ -2030,10 +2030,10 @@ Analysis reveals that **8 companies** bidding for the Wang Fuk renovation are ti
 > "康仁體育會贊助名單中，有澳門晉誠物業和現代建設集團。網頁上譚子文個人簡介上，有寫著他曾以晉誠物業贊助籃球比賽。現代建設集團，則是蔡文彬任董事，蔡文彬同時是現代建設（亞洲）的董事"
 >
 > *Translation:*  
-> "Prestige boss Hau Wah-kin and... rival bosses are business partners... **Richie Tam Tsz-man** (50% shareholder of Rich Surplus with Hau) is the major shareholder of bidder **Man Sing**..."  
+> "Prestige boss Hau Wah-kin and... rival bosses are business partners... **Richie Tam Chee-man** (50% shareholder of Rich Surplus with Hau) is the major shareholder of bidder **Man Sing**..."  
 > "Li Chik-hoi once registered, with Hou and Choi Man-ming, as directors of Blazing Edge Limited in 2014... He is currently a director and shareholder of **San Hoi Ming**"  
 >"...Choi Man-ming is a director of **Sunarts (Holdings)**"  
->"The Wellman Sports Association’s sponsor list includes Earnest Property Agency and Now Construction Holdings (H.K.) Limited. On Tam Tsz-man’s profile page it states that he once sponsored basketball competitions through Earnest. Now Construction lists Choi Man-ban as a director, who is also a director of **Now Construction (Asia)** Company Limited.
+>"The Wellman Sports Association’s sponsor list includes Earnest Property Agency and Now Construction Holdings (H.K.) Limited. On Tam Chee-man’s profile page it states that he once sponsored basketball competitions through Earnest. Now Construction lists Choi Man-ban as a director, who is also a director of **Now Construction (Asia)** Company Limited.
 
 > **Evidence [F]: Link to Now Construction (Asia)**  
 > *Source: HK Feature / 2026-01-09*
@@ -4008,7 +4008,7 @@ This specific weighting (High MPF points / Low Professional points) appears cust
 Investigative reporting exposes a web of cross-ownership linking the winning contractor, **Prestige (宏業)**, to at least four other "competitors" in the tender. Corporate registry filings prove that Prestige's owner, **Hau Wah-kin**, is a direct business partner with the owners of these rival firms. Furthermore, they are all high-ranking office bearers in the same organization: [**Wellman Sports Association (康仁體育會)**](#-e-cartel-wk-2020-02-12-01-the-wellman-nexus-the-sports-club-that-runs-the-bid-rigging-cartel).
 
 **1. The "Partner" Competitors:**
-*   **Man Sing (民星營造):** Owned by **Richie Tam Tsz-man (譚子文)**.
+*   **Man Sing (民星營造):** Owned by **Richie Tam Chee-man (譚子文)**.
     *   *Link:* Tam is a 50/50 partner with Prestige's Hau in "Rich Surplus Develop Ltd".
     *   *Club Role:* Tam was **Executive Vice-President** of Wellman.
 *   **San Hoi Ming (新開明):** Owned by **Li Chik-hoi (李植開)**.
@@ -4042,10 +4042,10 @@ The failure to declare these close business ties constitutes a fraudulent misrep
 > "康仁體育會贊助名單中，有澳門晉誠物業和現代建設集團。網頁上譚子文個人簡介上，有寫著他曾以晉誠物業贊助籃球比賽。現代建設集團，則是蔡文彬任董事，蔡文彬同時是現代建設（亞洲）的董事"
 >
 > *Translation:*  
-> "Prestige boss Hau Wah-kin and... rival bosses are business partners... **Richie Tam Tsz-man** (50% shareholder of Rich Surplus with Hau) is the major shareholder of bidder **Man Sing**..."  
+> "Prestige boss Hau Wah-kin and... rival bosses are business partners... **Richie Tam Chee-man** (50% shareholder of Rich Surplus with Hau) is the major shareholder of bidder **Man Sing**..."  
 > "Li Chik-hoi once registered, with Hou and Choi Man-ming, as directors of Blazing Edge Limited in 2014... He is currently a director and shareholder of **San Hoi Ming**"  
 >"...Choi Man-ming is a director of **Sunarts (Holdings)**"  
->"The Wellman Sports Association’s sponsor list includes Earnest Property Agency and Now Construction Holdings (H.K.) Limited. On Tam Tsz-man’s profile page it states that he once sponsored basketball competitions through Earnest. Now Construction lists Choi Man-ban as a director, who is also a director of **Now Construction (Asia)** Company Limited.
+>"The Wellman Sports Association’s sponsor list includes Earnest Property Agency and Now Construction Holdings (H.K.) Limited. On Tam Chee-man’s profile page it states that he once sponsored basketball competitions through Earnest. Now Construction lists Choi Man-ban as a director, who is also a director of **Now Construction (Asia)** Company Limited.
 
 > **Evidence [B]: The "Zero Vote" Outcome**  
 > *Source: 11th MC EGM Minutes / 2024-01-28*
@@ -4602,7 +4602,7 @@ Investigative reporting by *Pulse HK (追光者)* uncovers the ultimate rigging 
 Out of the 9 firms selected by the Consultant (**Will Power/鴻毅**) for the final interview, **4 were directly linked** to Hau Wah-kin or his wife, **Cheung Yin-kam (張燕琴)**.
 *   **Mega Praise (萬嘉):** Formerly named "Prestige Construction (International)". Its registered office was owned by Hau's wife. Its director's address was also owned by Hau's wife. Hau was seen representing Mega Praise in an owners' board meeting of Fu Kar Building. It is effectively a **"Clone"** of Prestige.
 *   **Widely (偉利):** Its director, **Leung Bing-yiu (梁炳耀)**, served as a Director of Prestige for 9 years (2005-2014).
-*   **Man Sing (民星營造):** Its majority shareholder, **Richie Tam Tsz-man (譚子文)**, is a 50/50 business partner with Hau in another company "Rich Surplus" (利來拓展), which shares the same address with Man Sing. Another shareholder is a partner of Hau's wife in "Fullmax Creation" (澤豐創建).
+*   **Man Sing (民星營造):** Its majority shareholder, **Richie Tam Chee-man (譚子文)**, is a 50/50 business partner with Hau in another company "Rich Surplus" (利來拓展), which shares the same address with Man Sing. Another shareholder is a partner of Hau's wife in "Fullmax Creation" (澤豐創建).
 
 **2. The Illusion of Competition:**
 *   *The Tactic:* By occupying **44%** of the interview slots (4 out of 9) with friendly forces, the Cartel statistically ensured that even if Prestige was rejected, the contract would likely fall to a proxy.
@@ -4646,7 +4646,7 @@ The Consultant (**Will Power**) filtered out 48 other bidders to select these sp
 > "民星...由**譚子文**持有... 與侯華建成立利來拓展有限公司，兩人各持一半股份...民星營造和利來拓展的申報地址一致"
 >
 > *Translation:*
-> "Man Sing... owned by **Richie Tam Tsz-man**... who formed Rich Surplus Ltd with Hau Wah-kin, holding 50/50 shares. Rich Surplus shares the same address with Man Sing."
+> "Man Sing... owned by **Richie Tam Chee-man**... who formed Rich Surplus Ltd with Hau Wah-kin, holding 50/50 shares. Rich Surplus shares the same address with Man Sing."
 
 > **Evidence [D]: The Recommended Contractors**
 > *Source: Renovation Booklet p.42*
@@ -8913,7 +8913,7 @@ This incident confirms that the Cartel operates multiple entities to evade liabi
 Following the media exposure of the [**"Wellman" Nexus**](#-e-cartel-wk-2020-02-12-01-the-wellman-nexus-the-sports-club-that-runs-the-bid-rigging-cartel), the cartel engaged in a desperate, multi-stage digital cover-up. The systematic removal of specific names, followed by the entire committee structure and sponsor lists from the **Wellman Sports Association (康仁體育會)** website, constitutes strong **consciousness of guilt**.
 
 **1. The First Wave (Targeted Removal):**
-Immediately after the first media report [named them](#-e-cartel-prestige-2023-07-04-01-the-prestige-spiderweb-how-business-partners-posed-as-competitors), **Richie Tam Tsz-man (譚子文)** and **Li Chik-hoi (李植開)**—key figures linking **Man Sing (民星營造)** and **San Hoi Ming (新開明)** to the cartel—were surgically deleted from the "Executive Vice-President" list.
+Immediately after the first media report [named them](#-e-cartel-prestige-2023-07-04-01-the-prestige-spiderweb-how-business-partners-posed-as-competitors), **Richie Tam Chee-man (譚子文)** and **Li Chik-hoi (李植開)**—key figures linking **Man Sing (民星營造)** and **San Hoi Ming (新開明)** to the cartel—were surgically deleted from the "Executive Vice-President" list.
 
 **2. The Second Wave (Total Erasure of Consultant Links):**
 After media teased further revelations, the *entire* committee list was taken offline. This hidden list contained the smoking gun: Directors and key figures of **W&K Architect (黃鄺建築師)**—**Melvis Choi (蔡家濠)**, **Wilson Kwong (鄺永強)**, **Derek Wai (韋漢棠)**, and **Peter Pang (彭駿傑)**—were sitting on the same board as the contractors. Hiding this list was an attempt to bury the evidence of Consultant-Contractor collusion.
