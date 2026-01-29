@@ -5885,6 +5885,117 @@ The new MC reported the case to the police as "Using False Instruments." Over 80
 
 ---
 
+### 🆔 [E-ADMIN-2024-05-09-01] The Ambush Levy: How a "Secret Meeting" Triggered a Sudden Debt Collection
+
+**🚨 Significance:**
+
+Official records and investigative reporting expose a procedural ambush orchestrated by the Management Committee led by Chairman **Tang Kwok-kuen (鄧國權)**. The collection of the first installment (approx. **HK$34,000**) for the HK$330M renovation was initiated without a formal MC resolution on the *start date*. Instead, the decision was made in an undocumented "Four-Party Meeting," bypassing transparency and catching owners off-guard with a sudden lawyer's letter.
+
+**1. The "Missing Resolution":**
+*   **The Mandate:** The Jan 2024 EGM authorized the levy but left the *date* to be decided by the MC.
+*   **The Void:** Between Jan and May 2024, no MC meeting minutes record a decision on the specific start date of June 30.
+*   **The Revelation:** The decision was made in a **"Four-Party Meeting"** (Consultant, Contractor, Manager, MC) on **May 9**. This meeting has no public minutes. A decision affecting 1,984 households' finances was made in a black box.
+
+**2. The "Lawyer Letter" Shock:**
+On **June 3, 2024**, residents received a demand note from **C.W. Chan & Co.** ([the "Cheap Lawyer"](#-e-admin-2024-06-03-01-the-7000-lawyer-cheap-fees-critical-errors-and-the-role-of-the-legal-thug)), demanding ~HK$34,000 by **June 30**.
+*   *The Tactic:* Using a lawyer to issue the *first* notice (instead of a standard management invoice) is an aggressive intimidation tactic designed to panic owners into paying without questioning the procedural irregularity.
+*   *The Compression:* The original plan demanded full payment in **7.5 months** for a 24-month project, creating an unnecessary cash flow crisis for families.
+
+**3. The "Baffling" Arrogance:**
+When residents protested the sudden demand and lack of consultation, Chairman Tang described their reaction as **"baffling" (莫名其妙)**. He refused to let owners observe the June 14 meeting ("Observing is pointless"), further antagonizing the community. The pressure eventually forced a delay, proving the initial timeline was arbitrary and negotiable.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Legal Demand (The Ambush)**  
+> *Source: C.W. Chan & Co. Letter via "Scoop" Video Report (1:51 - 2:00) / 2024-06-03*
+>
+> "陳俊華律師事務所
+> 有關：大埔宏福苑G座宏盛閣 — 大廈維修工程集資分攤費的繳款通知
+> 本律師行受　貴屋苑業主立案法團委託，處理收取上述工程費用之法律事宜。
+> 第一期分攤費 (20%) **2024年6月30日** HK$ 33,931.00"
+>
+> *Translation:*  
+> "C.W. Chan & Co.
+> Subject: Payment notice for apportionment of repair costs — Wang Shing House (Block G), Wang Fuk Court, Tai Po. 
+> Our law firm represents the Incorporated Owners in collecting these fees.
+> 1st Installment (20%) due **June 30, 2024**: HK$33,931.00"
+
+> **Evidence [B]: The "Secret Meeting" Origin**  
+> *Source: MC Progress Briefing (1) via "Scoop" Video Report (9:33) / 2024-05-20*
+>
+> "2024年5月9日召開了一次**四方代表工作會議**包括工程顧問／承建商／管理公司／法團（管委會）
+> ... 集資通知書將由律師在6月初發出..."
+>
+> *Translation:*  
+> "A **Four-Party Representative Working Meeting** (including the Consultant, Contractor, Property Management, and owners board) was held on May 9... Levy notices will be issued by lawyers in early June..."
+> *(Note: This was decided in a closed-door meeting, not an open MC meeting with records.)*
+
+> **Evidence [C]: The "Baffling" Response**  
+> *Source: Chairman's Statement via "Scoop" Video Report (8:44-9:26) / 2024-07-08*
+>
+> "其後在工程顧問公司... 建議管委會配合發出集資通知, 在5月20日發出工作進度簡報(一)入各業主信箱... 當集資通知信發出後，出現**莫名其妙的反應**..."
+>
+> *Translation:*  
+> "Consultant advised issuing levy notice... progress briefing sent to owners on May 20...When the levy notice was issued, there was a **baffling reaction** [from residents]..."
+
+> **Evidence [D]: The Exclusion of Owners**   
+> *Source: "Scoop" Video Report / 2024-07-08*
+>
+> 0:00-0:12 "[業主：] 我哋係業主嚟㗎喎，點解唔畀我哋入去呀；鄧國權：等我哋開完咗會再話你知"
+> 3:46-3:56 "出咗律師信後，法團曾經係六月中開過管委會，好多業主都想問清楚，一見到主席，已經不斷質問。"
+> 4:29-4:35 "當時小業主要求旁聽會議，但係主席咁回應：**旁聽冇意思**。"
+>
+> *Translation:*  
+> 0:00–0:12: [Owners:] "We're owners—why won't you let us in?" Tang: "We'll tell you after our meeting."
+> 3:46–3:56: "After the lawyer’s letter, the committee met mid‑June; many owners pressed the chair with questions. "
+> 4:29–4:35: "Owners asked to observe the meeting, but the Chairman replied: '**Observing is pointless**'."
+
+> **Evidence [E]: The Procedural Breach**  
+> *Source: "Scoop" Video Report (citing Winfield Chong) (3:14-3:44) / 2024-07-08*
+>
+> "會議個決議講到明，管委會要開會決議，由邊日開始去追大家錢，依家好明顯冇做到啦。"
+>
+> *Translation:*  
+> "The resolution stated the MC must meet to decide the start date for collection. It is obvious they **did not do that**."
+
+> **Evidence [F]: The Final Postponement**  
+> *Source: MC Minutes 1 / 2024-06-14*
+>
+> "4.8 管委會... 承諾在 6 月 17 日晚上與工程顧問公司及承建商聯合進行的四方工作會議... 盡力調整及優化集資安排
+> 4.10 (後記補充)：經 2024 年 6 月 17 日的工作會議討論結果，第一期截止繳款日建議延長至 2024 年 7 月 31 日，而其後每期相隔為 2 個月。"
+>
+> *Translation:*  
+> "4.8 Committee pledged a four‑party meeting with the consultant and contractor on June 17 to optimize levy arrangements.  
+> 4.10 Addendum: After the June 17, 2024 meeting, the first payment deadline was proposed to be extended to July 31, 2024; subsequent installments every two months."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"The 'Four-Party Meeting' is a standard operational mechanism for project coordination. The start date was driven by the Contractor's work schedule and cash flow needs, as advised by the Consultant. Issuing lawyer's letters ensures legal clarity and reduces future disputes. The timeline was compressed to ensure the contractor had funds to purchase materials early to avoid price fluctuation."
+
+**The Logical Trap:**
+1.  **Operational vs. Governance:** "Coordination" is for logistics (where to put the skip). "Levying Money" is a governance act requiring a formal resolution under the BMO. Delegating a taxation power to an informal "Four-Party" group is ultra vires.
+2.  **The "Cash Flow" Lie:** A two-year project does not need 100% of funds in 7 months. This "front-loading" of cash benefits the Contractor (Prestige) at the expense of owners, turning the estate into a free financing bank for the builder.
+3.  **Intimidation Factor:** Standard practice is to issue a debit note first, then a reminder, *then* a lawyer's letter. Skipping straight to the lawyer's letter for the *first* notification is hostile administration aimed at suppressing questions.
+
+**¶ Statutory Basis:**
+*   **Context:** Building Management Ordinance (Transparency of Management Committee).
+
+**📅 Timeline:**
+*   **2024-01-28:** EGM approves levy (Date TBD).
+*   **2024-05-09:** Secret "Four-Party Meeting" decides June start.
+*   **2024-05-20:** Briefing mentions "June Letter" but no specific payment date.
+*   **2024-06-03:** Lawyer issues demand note due June 30.
+*   **2024-06-14:** Chairman blocks owners from meeting.
+*   **2024-06-17:** MC forced to delay deadline.
+*   **2024-07-08:** Media exposure.
+
+**🔗 Links:**
+*   ["Scoop" Video Report](https://youtu.be/6OAXD3rzoOE)
+*   [Minute 1 (The Delay)](http://www.wangfuk.org/html/meeting/12/第1次全體委員會議記錄.pdf) | [Backup](2024-06-14%20第十二屆第一次會議紀錄.pdf)
+
+---
+
 ### 🆔 [E-ADMIN-2024-06-03-01] The $7,000 Lawyer: Cheap Fees, Critical Errors, and the Role of the "Legal Thug"
 
 **🚨 Significance:**
