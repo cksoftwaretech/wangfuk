@@ -5885,7 +5885,7 @@ The new MC reported the case to the police as "Using False Instruments." Over 80
 
 ---
 
-### 🆔 [E-ADMIN-2024-06-05-01] The $7,000 Lawyer: Cheap Fees, Critical Errors, and the Role of the "Legal Thug"
+### 🆔 [E-ADMIN-2024-06-03-01] The $7,000 Lawyer: Cheap Fees, Critical Errors, and the Role of the "Legal Thug"
 
 **🚨 Significance:**
 
@@ -5960,7 +5960,7 @@ Despite the error in June 2024, the new MC under Tsui Man-kam reappointed C.W. C
 *   **2023-07-14:** C.W. Chan & Co. reappointed ($7k/yr) — [minutes](http://www.wangfuk.org/html/meeting/05/第19次全體委員會議記錄.pdf)
 *   **2024-03-22:** Issues threat letter to Lam King-tung — [minutes](http://www.wangfuk.org/html/meeting/05/第24次全體委員會議記錄.pdf)
 *   **2024-04-22:** Awarded levy handling contract ($69k) — [minutes](http://www.wangfuk.org/html/meeting/05/第24次全體委員會議記錄.pdf)
-*   **2024-06-05:** Issues incorrect payment notices — [source](https://www.facebook.com/share/p/1ZfaZf9Jtb/)
+*   **2024-06-03:** Issues incorrect payment notices — [source](https://www.facebook.com/share/p/1ZfaZf9Jtb/)
 *   **2024-06-14:** Mass retraction — [minutes](http://www.wangfuk.org/html/meeting/12/第1次全體委員會議記錄.pdf)
 *   **2025-09-29:** Reappointed by new MC despite errors — [minutes](http://www.wangfuk.org/html/meeting/12/2025-10-27%20第12次全體委員會議記錄.pdf)
 
