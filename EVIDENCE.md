@@ -5992,7 +5992,7 @@ When residents protested the sudden demand and lack of consultation, Chairman Ta
 
 **🔗 Links:**
 *   ["Scoop" Video Report](https://youtu.be/6OAXD3rzoOE)
-*   [Minute 1 (The Delay)](http://www.wangfuk.org/html/meeting/12/第1次全體委員會議記錄.pdf) | [Backup](2024-06-14%20第十二屆第一次會議紀錄.pdf)
+*   [Minute 1 (The Delay)](http://www.wangfuk.org/html/meeting/12/第1次全體委員會議記錄.pdf) | [Backup](2024-06-14%20第十二屆第一次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2024-06-14-第十二屆管理委員會第一次全體委員會議記錄)
 
 ---
 
