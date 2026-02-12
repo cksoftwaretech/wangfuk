@@ -7905,6 +7905,74 @@ The contract drafted by the Consultant (**Will Power/鴻毅**) contained a looph
 
 ---
 
+### 🆔 [E-ADMIN-2025-02-21-02] The Silent Proxy: How the MC Hidden the "Boomplast Decision" from Owners
+
+**🚨 Significance:**
+
+When the Contractor (**Prestige/宏業**) swapped the HK$60M waterproofing spec [from Sika to **Boomplast**](#-e-admin-2025-02-21-01-the-unilateral-switch-how-a-hk60m-contract-spec-was-swapped-for-a-club-members-product), the Management Committee (MC) committed a dual failure of governance. First, they allowed the swap without an EGM resolution. Second, and more insidiously, they refused to disclose *their own decision* regarding the swap. By posting the Consultant's "Comparison Table" without stating whether the MC had approved the change or why, the MC abdicated its role as the owners' agent, effectively shielding the Consultant from accountability while keeping owners in the dark about the authorization of a major contract deviation.
+
+**1. The "Ghost" Approval:**
+*   **The Dilemma:** The contract required the Consultant to obtain the MC's "consent" for changes.
+*   **The Void:** No MC meeting minutes record a vote or resolution approving the switch to Boomplast.
+*   **The Implication:** Either the MC approved it in a **secret meeting** (violating BMO transparency rules), or the Consultant acted **unilaterally** and the MC passively acquiesced. In either case, the decision-making process was completely hidden from the owners who pay the bill.
+
+**2. The "Copy-Paste" Governance:**
+Instead of demanding the Consultant explain the *reason* for the swap (e.g., "Sika is out of stock"), the MC simply posted the Consultant's technical comparison table.
+*   **The Logic Gap:** A comparison table explains *what* is being swapped, not *why*. By failing to relay the justification, the MC deprived owners of the ability to judge the necessity of the change. They acted as a **human shield**, protecting the Consultant from having to justify a suspicious supply chain shift.
+
+**3. The Violation of Consultant's Duty:**
+Official guidelines mandate that consultants must "give lucid explanations to the owners and obtain their approval" for material changes.
+*   **The Failure:** The Consultant did not explain; they just compared specs. The MC did not demand an explanation; they just posted the paper. This mutual silence allowed a HK$60M contract term to be rewritten without a single word of justification entering the public record.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Missing Justification**  
+> *Source: MC Notice / 2025-02-21*
+>
+> "工程顧問公司已提交「Ronabond Premixed Render」及「Boomplast WM130 Waterproofing Mortar」的外牆批盪物料比較資料，詳情可參閱... 比較表。"
+>
+> *Translation:*  
+> "Consultant has submitted comparison data for 'Ronabond' and 'Boomplast'... details in the comparison table."
+> *(Analysis: The notice contains zero explanation of WHY the change was needed or if the MC approved it.)*
+
+> **Evidence [B]: The "Secret" Approval**
+> *Source: HK Feature / 2026-01-09*
+>
+> "陳先生向本刊指：「管委會主席徐滿柑在交流會已向居民承認轉了物料，但**會議紀錄中沒有記錄**。... 本刊翻查法團文件... 會議紀錄中並未提及... 更改物料的事宜。"
+>
+> *Translation:*
+> "Mr. Chan told us: 'Chairman Tsui admitted the swap... but **there is no record in the minutes**.'... We checked documents... minutes did not mention... the material change."
+
+> **Evidence [C]: The Statutory Duty (Consultant)**
+> *Source: URA Building Rehabilitation Guidebook Step 2 / Appendix II*
+>
+> "5. The works consultant shall not modify any works or material specifications prescribed in the tender documents without valid reasons. In the case where modifications are necessary, the works consultant shall **give lucid explanations to the owners and obtain their approval**;"
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"The comparison table provided all necessary technical information for owners to understand the equivalency. The decision was operational and taken during routine site meetings to avoid delays, hence it wasn't a formal MC agenda item requiring separate minutes. The Chairman's verbal confirmation shows we were transparent when asked."
+
+**The Logical Trap:**
+1.  **Technical vs. Strategic:** Owners don't just need to know if Boomplast is "sticky enough"; they need to know **why** they aren't getting the Sika they paid for. Hiding the *motive* (supply chain shift to a crony firm) behind *technical data* is deception.
+2.  **The "Site Meeting" Loophole:** Major contract variations (HK$60M) cannot be decided in "routine site meetings" without being ratified by the MC. If they were, the MC has ceded its financial control to the site team.
+3.  **Verbal is not Record:** A verbal admission to one resident is not transparency. It is hearsay. Transparency means **written record**. The absence of written approval suggests the MC knew the decision was indefensible and chose not to leave a paper trail.
+
+**¶ Statutory Basis:**
+*   **Context:** Fiduciary Duty / BMO Record Keeping.
+
+**📅 Timeline:**
+*   **Before 2025-02-21:** Chairman admits swap verbally; no minutes produced.
+*   **2025-02-21:** MC posts "Comparison Table" (No reason given).
+*   **2026-01-09:** Media exposes the lack of record.
+
+**🔗 Links:**
+*   [MC Notice 082](http://www.wangfuk.org/html/ios/12/2025-02-21%20082%20跟進工程交流會事項.pdf) | [Backup](2025-02-21%20082%20跟進工程交流會事項.pdf)
+*   [HK Feature Investigation](https://hkfeature.com/local/宏福苑調查-圍標圍物料-宏業建築董事侯華健投資/)
+*   [URA Building Rehabilitation Guidebook](https://brplatform.org.hk/en/sample-documents-and-guidebook/building-rehabilitation-guidebook)
+
+---
+
 ### 🆔 [E-CARTEL-UBIQUITY-2025-03-26-01] The End of Hope: Even the "White Knights" are Corrupt
 
 **🚨 Significance:**
