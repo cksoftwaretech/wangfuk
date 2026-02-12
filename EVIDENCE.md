@@ -6980,6 +6980,93 @@ The MC likely believed their own fake data (76% support). This false confidence 
 
 ---
 
+### 🆔 [E-ADMIN-2024-09-06-01] The Scorched Earth Exit: How the Ousted Chairman Tried to Create a Power Vacuum
+
+**🚨 Significance:**
+
+Official records and eyewitness reports from the Sept 6, 2024 EGM reveal a desperate "Scorched Earth" strategy by the outgoing Management Committee (MC). After being voted out by a 56.54% majority, Chairman **Tang Kwok-kuen** (鄧國權), advised by Lawyer **Tsui Pui-hung** (徐沛雄), attempted to abort the meeting before a new MC could be elected.
+
+**1. The "Venue" Sabotage:**
+Immediately after the recall vote passed, Lawyer Tsui advised adjourning the election of the new MC "for fairness," and Chairman Tang declared the meeting adjourned, citing the venue booking expiry at 9:30 PM.
+*   *The Malice:* Leaving the meeting without electing a successor would create a constitutional crisis. A headless estate facing a HK$330M renovation contract would be legally paralyzed. This was a calculated attempt to punish the owners for their revolt.
+*   *The Resolution:* The sabotage failed only because the Home Affairs Department intervened to extend the booking, allowing residents to elect a new committee.
+
+**2. The Legal Intimidation (Again):**
+Before the vote, Lawyer Tsui warned owners that if the committee change led to the project being overturned, **"all owners would bear legal responsibility."**
+*   *The Pattern:* This echoes the [March 2024 threat](#-e-admin-2024-04-16-01-the-done-deal-strategy-how-the-mc-crushed-dissent-before-signing-the-hk330m-contract) against petitioner Lam King-tung. The legal counsel acted less like an advisor and more like an enforcer, using the specter of liability to suppress democratic change.
+
+**3. The "Fake Fall" Sequel:**
+Outside the venue, a male security guard "suddenly fell to the ground" during a dispute over media access.
+*   *The Déjà Vu:* This mirrors the [March 2021 incident](#-e-admin-2021-03-27-01-the-police-state-meeting-chokeholds-bans-and-the-fake-fall) where MC members apparently staged victimhood. The recurrence of "falling guards/members" during contentious meetings suggests a standardized tactic to distract from governance failures and justify police intervention.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Recall Vote**  
+> *Source: 12th MC EGM Minutes / 2024-09-06*
+>
+> "2. 贊成罷免 **8,717 (56.54%)**... 大會以 56.54% 過半數通過贊成罷免現屆... 管理委員會全體委員..."
+>
+> *Translation:*  
+> "2. In Favor of Recall **8,717 (56.54%)**... Meeting passed recall of the entire current MC..."
+
+> **Evidence [B]: The "Venue" Trap**  
+> *Source: 12th MC EGM Minutes / 2024-09-06*
+>
+> "徐沛雄律師指出... 建議議程三 [議決管理委員會委員、主席] 應延期進行。因是次大會原定交場時間... 為晚上 9 時 30 分，大會主持鄧國權先生遂**宣佈延會並清場**..."
+>
+> *Translation:*  
+> "Lawyer Tsui Pui-hung... suggested postponing Agenda 3 [election of new committee]. As venue return time was 9:30 PM, Chairman Tang **declared adjournment and cleared the venue**..."
+
+> **Evidence [C]: The Legal Threat**  
+> *Source: 12th MC EGM Minutes / 2024-09-06*
+>
+> "徐沛雄律師... 表達其個人法律觀點，如因換屆而導致工程被推倒，**所有業主將承擔法律責任**。"
+>
+> *Translation:*  
+> "Lawyer Tsui Pui-hung... expressed his personal legal view: if the change of term leads to the project being overturned, **all owners will bear legal liability**."
+
+> **Evidence [D]: The "Falling Guard"**  
+> *Source: Epoch Times / 2024-09-09*
+>
+> "事源在場保安員與眾人爭論能否開放給記者及其他業主進入會場，期間一名男保安**突然倒地**。"
+>
+> *Translation:*  
+> "Security guards argued with the crowd about media access... during which a male guard **suddenly fell to the ground**."
+
+> **Evidence [E]: The Rescue (Department Intervention)**  
+> *Source: 12th MC EGM Minutes / 2024-09-06*
+>
+> "現場業主要求繼續... 經大埔民政事務處和區議員與校方協調後，校方允許延遲清場時間至晚上 11 時。... 鄧國權先生、徐沛雄律師及一眾嘉賓繼而離開會場。"
+>
+> *Translation:*  
+> "Owners demanded to continue... After Home Affairs Department and District Councilors coordinated... school allowed extension to 11 PM... Tang, Tsui, and guests then **left the venue**."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"The adjournment was a procedural necessity due to strict venue booking rules. Overrunning a booking can lead to blacklisting or liability. The legal warning was a responsible reminder of the contract's binding nature. The security guard was injured in a chaotic situation caused by unauthorized persons trying to force entry."
+
+**The Logical Trap:**
+1.  **Priorities:** If the venue time was tight, why waste time on "Legal Warnings"? A responsible Chairman prioritizes the election of a successor to ensure continuity. Adjourning *after* being fired but *before* a replacement is elected is an act of **administrative sabotage**.
+2.  **The "Departure":** When the venue extension was granted, Tang and lawyer *left*. If they cared about the estate, they would have stayed to facilitate the handover. Their departure proves their goal was obstruction, not compliance.
+3.  **The "Fall" Pattern:** When "sudden falls" happen exclusively during protests against the MC, and always by staff allied with the MC, statistical probability suggests simulation. It is a tactic to delegitimize the opposition as "violent mob."
+
+**¶ Statutory Basis:**
+*   **Context:** Conduct of Meetings / Fiduciary Duty.
+
+**📅 Timeline:**
+*   **19:20:** Meeting starts.
+*   **21:32:** Recall vote passed (Old MC fired).
+*   **21:32-22:00:** Lawyer advises adjournment; Chairman tries to end meeting.
+*   **After 22:00:** Owners protest; Department intervenes to extend venue.
+*   **Before 22:50:** Old MC leaves; New MC elected.
+
+**🔗 Links:**
+*   [Epoch Times Report](https://www.epochtimes.com/b5/24/9/9/n14326573.htm)
+*   [EGM Minutes](http://www.wangfuk.org/html/meeting/03/2024年9月6日特別業主大會會議記錄.pdf) | [Backup](2024-09-06%20第十二屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2024-09-06-第十二屆管理委員會特別業主大會會議記錄)
+
+---
+
 ### 🆔 [E-SAFETY-FOAM-2024-09-16-01] The "TAPEER" Fraud: Counterfeit Brands & Rigged Safety Demos
 
 **🚨 Significance:**
