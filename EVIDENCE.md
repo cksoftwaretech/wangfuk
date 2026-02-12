@@ -4414,12 +4414,12 @@ Will Power inserted a clause stating: *"Report is based on data submitted by ten
 
 **📜 Original Record:**
 
-> **Evidence [A]: The Perfect Score**
+> **Evidence [A]: The Perfect Score**  
 > *Source: Renovation Booklet p.27, p.28 / 2023-10*
 >
 > "過往8年訴訟紀錄 有訴訟=0分 無訴訟=3分"; "宏業建築... 過往8年訴訟記錄資料: **3**"
 >
-> *Translation:*
+> *Translation:*  
 > ""Litigation record over the past 8 years — has litigation = 0 points; no litigation = 3 points.""; "Prestige Construction... Past 8 years litigation record: **3**"
 
 > **Evidence [B]: A Clean Past**  
@@ -4430,7 +4430,7 @@ Will Power inserted a clause stating: *"Report is based on data submitted by ten
 > *Translation:*  
 > "Tenderer: Prestige...Legal proceedings: No records of prosecution by the LD...No litigation records with the owners’ corporation or owners...Summary of overall interview performance: The Consultant considered it generally demonstrated sufficient capability and professional standards."
 
-> **Evidence [C]: The Conviction Reality**
+> **Evidence [C]: The Conviction Reality**  
 > *Source: Labour Dept Conviction Records*
 >
 >| **被告** <br> Defendant  | **案發地點** <br> Offence Location | **違例日期** <br> Date of Offence | **簡述罪行及法例** <br> Short Description | **判決日期** <br> Date of Sentence | **罰款** <br> Fine |
@@ -4458,15 +4458,15 @@ Will Power inserted a clause stating: *"Report is based on data submitted by ten
 >| 宏業建築工程有限公司 | 般咸道78號寧養台 | 07/06/2022 | 沒有確保在工作地方提供及/或維修安全進出口；工廠及工業經營條例(第59章)制訂的建築地盤(安全)規例第38A(2)、68(1)(a)及68(2)(g)條 | 08/11/2023 | HK$4,000 |
 >| 宏業建築工程有限公司 | 般咸道78號寧養台 | 07/06/2022 | 沒有確保工人在監督下進行架設、更改或拆卸棚架工作；工廠及工業經營條例(第59章)制訂的建築地盤(安全)規例第38E(1)(b)、68(1)(a)及68(2)(a)條 | 08/11/2023 | HK$3,000 |
 >
-> *Note:*
+> *Note:*  
 > Dozens of safety convictions within the 8-year window of 2015-2023.
 
-> **Evidence [D]: The "No Responsibility" Disclaimer**
+> **Evidence [D]: The "No Responsibility" Disclaimer**  
 > *Source: Renovation Booklet p.73 / 2023-10*
 >
 > "本公司無需就投標者遞交之資料真偽或準確性承擔任何責任。"
 >
-> *Translation:*
+> *Translation:*  
 > "Our company bears **no responsibility** for the authenticity or accuracy of the data submitted by tenderers."
 
 **🛡️ Pre-emptive Rebuttal:**
