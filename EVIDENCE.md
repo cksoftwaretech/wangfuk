@@ -7164,7 +7164,7 @@ Ms. C described the MC as "changed" (變咗樣), turning from "Questioners" to "
 > "新上任法團主席... 柑仔表示，會**重新檢視合約條款**，並將成立專案小組，與業主共同監管大維修進度..."
 >
 > *Translation:*  
-> "Newly elected Chairman 'Kam Tsai'... stated he would **re-examine contract terms**... and jointly monitor progress with owners."
+> "Newly elected Chairman 'Kam'... stated he would **re-examine contract terms**... and jointly monitor progress with owners."
 
 > **Evidence [B]: The Immediate Pivot (Sep 8)**  
 > *Source: "Monitoring Team" Video / 2024-09-08*
