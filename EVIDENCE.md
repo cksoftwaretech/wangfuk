@@ -6352,14 +6352,14 @@ Official guidelines state owners should instruct the Consultant to "provide eval
 > **Evidence [A]: The Contract Clause (3.5)**  
 > *Source: "Scoop" Video Report [10:09] (Contract Document) / 2024-07-08*
 >
-> "3.5 工程更改 
-> 3.5.1 合約管理人可以發出要求工程更改的指示，亦可以書面確認已由承判人進行的任何工程更改。 
-> 3.5.2 「工程更改」是指以下其中一種或多種或所有情況：   
-> 3.5.2.1 更改合約文件所述本工程的設計、質量或數量；   
-> 3.5.2.2 為完成本工程所需所作出的工項增加、削減或更換；   
-> 3.5.2.3 本工程施工材料的種類、標準或所用物料或物品的變更；   
-> 3.5.2.4 本工程施工次序或期限的改變；
-> 3.5.3  所有工程變更的價值須儘速由合約管理人以公平合理的準則及按合約所規定的有關價格而確定。如由於承判人因遵照工程更改指示而影響正常施工進度，導致承判人蒙受直接損失及／或增加開支（如有者），該項工程更改的計價亦須同時將該損失及／或增加的開支包括在內。
+> "3.5 工程更改  
+> 3.5.1 合約管理人可以發出要求工程更改的指示，亦可以書面確認已由承判人進行的任何工程更改。   
+> 3.5.2 「工程更改」是指以下其中一種或多種或所有情況：  
+> 3.5.2.1 更改合約文件所述本工程的設計、質量或數量；  
+> 3.5.2.2 為完成本工程所需所作出的工項增加、削減或更換；  
+> 3.5.2.3 本工程施工材料的種類、標準或所用物料或物品的變更；  
+> 3.5.2.4 本工程施工次序或期限的改變；  
+> 3.5.3  所有工程變更的價值須儘速由合約管理人以公平合理的準則及按合約所規定的有關價格而確定。如由於承判人因遵照工程更改指示而影響正常施工進度，導致承判人蒙受直接損失及／或增加開支（如有者），該項工程更改的計價亦須同時將該損失及／或增加的開支包括在內。  
 > 3.5.4 工程變更的價格除可按 3.5.3 條款確定外，亦可由合約管理人和承判人商定。"
 >
 > *Translation (selected):*  
@@ -6373,12 +6373,12 @@ Official guidelines state owners should instruct the Consultant to "provide eval
 > *Translation:*  
 > "Chong: Their contract has a clause allowing variation... Even if signed, according to the contract... residents can change the external wall scheme via resolution."
 
-> **Evidence [C]: The Employer's Right to Instruct**
+> **Evidence [C]: The Employer's Right to Instruct**  
 > *Source: URA Building Rehabilitation Guidebook (Step 2) / Para 2.6.2*
 >
 > "Variation of Works: In the case of any contract modifications, owners/OCs should **instruct the works consultant to provide evaluation and analysis** on their impact on the works schedule and cost for consideration."
 
-> **Evidence [D]: The Consultant's Duty to Obey**
+> **Evidence [D]: The Consultant's Duty to Obey**  
 > *Source: URA Building Rehabilitation Guidebook (Step 2) / Appendix VI (Code of Practice)*
 >
 > "12. The works consultant shall **reply and follow up on the employer’s enquiries or instructions** within a reasonable timeframe"
