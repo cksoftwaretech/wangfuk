@@ -6326,6 +6326,84 @@ Investigative reporting confirms that the "Wellman Cartel" achieved vertical int
 
 ---
 
+### 🆔 [E-ADMIN-CONTRACT-2024-07-08-01] The Myth of the "Unbreakable" Contract: Why the HK$330M Deal Could Have Been Stopped
+
+**🚨 Significance:**
+
+Before the fire, residents were repeatedly told by the Management Committee (MC) and its lawyers that the signed contract with **Prestige (宏業)** was set in stone. However, forensic analysis of the contract, expert opinion, and official guidelines proves this was a lie. The contract contained explicit provisions for **"Variation of Works,"** and the MC, as the Employer, had the absolute right to instruct the Consultant to evaluate and execute changes.
+
+**1. The "Variation" Clause (3.5):**
+Standard construction contracts, including Wang Fuk's, contain a **Variation Clause (3.5)** empowering the Contract Administrator (Consultant) to issue instructions to "add, omit, or substitute" work.
+*   *The Verdict:* "Signed" does not mean "Final." The scope was adjustable *during* construction.
+
+**2. The Employer's Command Power (Legal Inference):**
+While expert **Winfield Chong (莊榮輝)** stated that changes require "Consultant's agreement," this simplifies the legal reality.
+*   *The Inference:* Under Common Law agency principles and the **Building Rehabilitation Guidebook**, the Consultant is an agent of the MC (Employer). The MC has the right to **instruct** the Consultant to evaluate changes (e.g., downgrading to Option 2).
+*   *The Obligation:* The **Code of Practice** mandates the Consultant to "reply and follow up on the employer’s instructions." Refusing a legitimate instruction to vary the contract (especially if backed by an owners' resolution) would be a breach of professional duty. The Consultant does not have a "Veto"; they have a "Duty to Execute."
+
+**3. The Abandoned Right:**
+Official guidelines state owners should instruct the Consultant to "provide evaluation and analysis" on the impact of changes.
+*   *The Failure:* The MC failed to even *exercise* this right. Instead of demanding a formal, independent analysis of the cost savings from switching to Option 2, they accepted the Contractor's unverified "financial terror" narrative. By failing to issue the instruction, they surrendered their sovereignty.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Contract Clause (3.5)**  
+> *Source: "Scoop" Video Report [10:09] (Contract Document) / 2024-07-08*
+>
+> "3.5 工程更改 
+> 3.5.1 合約管理人可以發出要求工程更改的指示，亦可以書面確認已由承判人進行的任何工程更改。 
+> 3.5.2 「工程更改」是指以下其中一種或多種或所有情況：   
+> 3.5.2.1 更改合約文件所述本工程的設計、質量或數量；   
+> 3.5.2.2 為完成本工程所需所作出的工項增加、削減或更換；   
+> 3.5.2.3 本工程施工材料的種類、標準或所用物料或物品的變更；   
+> 3.5.2.4 本工程施工次序或期限的改變；
+> 3.5.3  所有工程變更的價值須儘速由合約管理人以公平合理的準則及按合約所規定的有關價格而確定。如由於承判人因遵照工程更改指示而影響正常施工進度，導致承判人蒙受直接損失及／或增加開支（如有者），該項工程更改的計價亦須同時將該損失及／或增加的開支包括在內。
+> 3.5.4 工程變更的價格除可按 3.5.3 條款確定外，亦可由合約管理人和承判人商定。"
+>
+> *Translation (selected):*  
+> "3.5 Variation of Works... 3.5.1 Contract Administrator may issue instructions... 3.5.2.2 Additions, **omissions**, or substitutions of work items..."
+
+> **Evidence [B]: The Expert Opinion**  
+> *Source: "Scoop" Video Report [10:00-10:30] (Interview with Winfield Chong) / 2024-07-08*
+>
+> "莊榮輝：他們的合約其中有一個條文，其實可以容許他們更改工程。... 縱使簽了約，根據合約，只要工程顧問同意... 居民可以透過決議把它的外牆方案改變。"
+>
+> *Translation:*  
+> "Chong: Their contract has a clause allowing variation... Even if signed, according to the contract... residents can change the external wall scheme via resolution."
+
+> **Evidence [C]: The Employer's Right to Instruct**
+> *Source: URA Building Rehabilitation Guidebook (Step 2) / Para 2.6.2*
+>
+> "Variation of Works: In the case of any contract modifications, owners/OCs should **instruct the works consultant to provide evaluation and analysis** on their impact on the works schedule and cost for consideration."
+
+> **Evidence [D]: The Consultant's Duty to Obey**
+> *Source: URA Building Rehabilitation Guidebook (Step 2) / Appendix VI (Code of Practice)*
+>
+> "12. The works consultant shall **reply and follow up on the employer’s enquiries or instructions** within a reasonable timeframe"
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"The Consultant advised against the change due to cost and time implications. As laymen, the MC must defer to professional advice. Forcing a change against the Consultant's advice would expose the MC to liability for delays or quality issues. Therefore, we effectively had no choice but to follow the 'professional' recommendation."
+
+**The Logical Trap:**
+1.  **Advice vs. Instruction:** "Advice" is an opinion; "Instruction" is an order. The MC is the client. If the client wants to save money (Option 2) and accepts the trade-offs, the Consultant *must* execute it. Hiding behind "professional advice" to ignore the owners' will is a dereliction of leadership.
+2.  **The "Analysis" Void:** The MC never even got to the stage of "forcing" a change. They failed at step one: **demanding a proper analysis**. They accepted a vague, terrifying email from the Contractor instead of demanding the rigorous "evaluation and analysis" required by the Guidebook (Evidence C). You cannot claim "deferring to advice" when the advice itself (the cost estimate) was never properly produced.
+
+**¶ Statutory Basis:**
+*   **Context:** Contract Law (Agency) / Professional Code of Conduct.
+
+**📅 Timeline:**
+*   **2024-04-16:** Contract signed.
+*   **2024-07-08:** The "Variation Clause" exposed.
+*   **2024-10-07:** MC accepts Contractor's refusal without exercising right to instruct analysis — [source](http://www.wangfuk.org/html/ios/12/2024-10-07%20061-有關：回應居民交流事宜.pdf)
+
+**🔗 Links:**
+*   ["Scoop" Video Report](https://youtu.be/6OAXD3rzoOE)
+*   [URA Building Rehabilitation Guidebook](https://brplatform.org.hk/en/sample-documents-and-guidebook/building-rehabilitation-guidebook)
+
+---
+
 ### 🆔 [E-CARTEL-WILLPOWER-2024-07-19-01] The "Endorsement" Myth: How URA Subsidies Were Used to Whitewash Corruption
 
 **🚨 Significance:**
