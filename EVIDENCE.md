@@ -6343,7 +6343,7 @@ While expert **Winfield Chong (莊榮輝)** stated that changes require "Consult
 
 **3. The Abandoned Right:**
 Official guidelines state owners should instruct the Consultant to "provide evaluation and analysis" on the impact of changes.
-*   *The Failure:* The MC failed to even *exercise* this right. Instead of demanding a formal, independent analysis of the cost savings from switching to Option 2, they accepted the Contractor's unverified "financial terror" narrative. By failing to issue the instruction, they surrendered their sovereignty.
+*   *The Failure:* The MC failed to even *exercise* this right. Instead of demanding a formal, independent analysis of the cost savings from switching to Option 2, they accepted the Contractor's unverified ["financial terror" narrative](#-e-admin-betrayal-2024-10-07-01-the-great-betrayal-how-the-revolutionary-mc-became-the-cartels-mouthpiece). By failing to issue the instruction, they surrendered their sovereignty.
 
 **📜 Original Record:**
 
