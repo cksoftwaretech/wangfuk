@@ -7158,7 +7158,7 @@ Ms. C described the MC as "changed" (變咗樣), turning from "Questioners" to "
 
 **📜 Original Record:**
 
-> **Evidence [A]: The Election Promise (Sep 6)**
+> **Evidence [A]: The Election Promise (Sep 6)**  
 > *Source: Epoch Times / 2024-09-09*
 >
 > "新上任法團主席... 柑仔表示，會**重新檢視合約條款**，並將成立專案小組，與業主共同監管大維修進度..."
@@ -7166,7 +7166,7 @@ Ms. C described the MC as "changed" (變咗樣), turning from "Questioners" to "
 > *Translation:*  
 > "Newly elected Chairman 'Kam Tsai'... stated he would **re-examine contract terms**... and jointly monitor progress with owners."
 
-> **Evidence [B]: The Immediate Pivot (Sep 8)**
+> **Evidence [B]: The Immediate Pivot (Sep 8)**  
 > *Source: "Monitoring Team" Video / 2024-09-08*
 >
 > "0:04-0:31 工程開始之後，宏業就會按時，將糧單發畀鴻毅，而鴻毅就會按住佢哋工程嘅進度，去核實佢哋嘅糧單。咁究竟依家嘅工程進展值唔值得呢個價呢？未來，宏福監察組就會成立一個「宏福建築監工隊」，所有嘅資料都唔會瞞過我哋雙眼㗎。  
@@ -7179,7 +7179,7 @@ Ms. C described the MC as "changed" (變咗樣), turning from "Questioners" to "
 > "Will there be jerry-building? Safety violations? ... Workers smoking... might cause fire... we specially set up '**Reporting Ambassadors**' [to catch smokers]... How can we allow the project to go '**abandoned**'?"
 > *(Analysis: The focus shifted from "Contract Terms" to "Smoking Workers" and "Fear of Stalling".)*
 
-> **Evidence [C]: The "Full Speed" Surrender (Sep 28)**
+> **Evidence [C]: The "Full Speed" Surrender (Sep 28)**  
 > *Source: MC Video / 2024-09-28*
 >
 > "1:14-2:10 首先，有居民聽到話，假若管委會換屆之後，我哋嘅工程會受到影響甚至會延誤，就呢樣嘢市建局回覆話唔會嘅。……第二，其實宏福監察組嘅成員都係業主，我哋同大家一樣唔希望工程再有延誤或者取消，我哋都希望**全速推進工程**以減輕對業主業戶嘅滋擾，大家都知道啦，落咗網之後黑天黑地咁，個個都覺得好唔舒服。"
@@ -7187,7 +7187,7 @@ Ms. C described the MC as "changed" (變咗樣), turning from "Questioners" to "
 > *Translation (selected):*  
 > "Like everyone, we don't want delays or cancellation; we hope to **push the project at full speed**..."
 
-> **Evidence [D]: The "Financial Terror" Notice**
+> **Evidence [D]: The "Financial Terror" Notice**  
 > *Source: MC Notice 061 / 2024-10-07*
 >
 > "宏業初步回覆：
@@ -7202,7 +7202,7 @@ Ms. C described the MC as "changed" (變咗樣), turning from "Questioners" to "
 > *Translation (selected):*  
 > "Prestige added... including ordered materials, ongoing works, scaffolding reorganization, restoration costs... conservatively estimated the total amount might be **greater than the current Option 3's >HK$300M**."
 
-> **Evidence [E]: The Resident's Despair**
+> **Evidence [E]: The Resident's Despair**  
 > *Source: HK01 (Interview with Ms. C) / 2025-12-28*
 >
 > "C小姐形容他們上任前後好似「變咗樣」，由以往的質疑者變成了工程的護航者。... 感覺係一個唔透明嘅安排... 只能任人魚肉。"
@@ -7210,7 +7210,7 @@ Ms. C described the MC as "changed" (變咗樣), turning from "Questioners" to "
 > *Translation:*  
 > "Ms. C described them as 'changed' after taking office, turning from questioners to **protectors of the project**... Felt like a non-transparent arrangement... leaving us as meat on the chopping block."
 
-> **Evidence [F]: The Cost Baseline**
+> **Evidence [F]: The Cost Baseline**  
 > *Source: Newsletter No. 32 Attachment / 2023-10-30*
 >
 > "方案二: 以**1億6仟萬**為例"
