@@ -4933,6 +4933,67 @@ The "Final Recommendation List" of 5 contractors aligns **perfectly** with Will 
 
 ---
 
+### 🆔 [E-CARTEL-WILLPOWER-2023-10-16-03] The Illegal Disclaimer: How the Consultant Brazenly Violated Professional Codes
+
+**🚨 Significance:**
+
+Official tender documents reveal that the Consultant (**Will Power/鴻毅**) inserted a "Total Disclaimer" clause, stating they bear "**no responsibility**" for verifying the authenticity of tender data. This clause is not just absurd; it is a direct violation of the **Building Rehabilitation Guidebook**, which explicitly mandates consultants to "**thoroughly evaluate and verify**" tender documents.
+
+**1. The "Zero Responsibility" Declaration:**
+In the Renovation Booklet (p.73) disclosing part of the Tender Analysis Report, Will Power wrote: *"Our company bears no responsibility for the authenticity or accuracy of the data submitted by tenderers."*
+*   *The Malice:* This clause effectively turns the Consultant into a "mailbox." If they don't verify if a safety record is real or fake, their "Analysis Report" is worthless. They charged HK$308k to forward unverified lies.
+
+**2. The Regulatory Violation:**
+The URA's *Building Rehabilitation Guidebook* (Appendix II, Phase 3) explicitly states the Consultant's duty: *"For qualitative analysis, it is **imperative to thoroughly evaluate all documents... and verify their validity**."*
+*   *The Verdict:* Will Power's disclaimer contradicts the very standard of service they were hired to perform. By claiming they don't need to verify, they are admitting to **Professional Misconduct**.
+
+**3. The Brazen Impunity:**
+This illegal disclaimer was printed in the official booklet distributed to all owners. That a professional firm could openly disavow its core duty in a formal document—without being challenged by the MC, the Manager (ISS), or the URA—demonstrates a total collapse of oversight. It is akin to a doctor writing "I am not responsible for checking if this medicine is poison" on a prescription.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Illegal Disclaimer**  
+> *Source: Renovation Booklet p.73*
+>
+> "1. 本報告內容只供上述客戶(即業主立案法團)及獲授權人士參考。  
+> 2. 報告內容乃根據投標者遞交之資料及過往記錄而編寫，本公司**無需就投標者遞交之資料真偽或準確性承擔任何責任**。  
+> 3. 本公司保留因任何理由而作出最終修改及調整權利，任何人士不能因藉參考報告內容而構成任何形式損失向本公司作出追討。  
+> 4. 本報告內容純屬建議性質及只供輔助參考，如客戶及獲授權人士**不同意上述條款，建議不應作出參考及引用**。"
+>
+> *Translation (selected):*  
+> "2. The report content is compiled based on data... submitted by tenderers; our company **bears no responsibility for the authenticity or accuracy of the data submitted by tenderers**... 4. ...If... [you] do not agree with the above terms, it is suggested not to refer to or cite [this report]."
+
+> **Evidence [B]: The Mandatory Duty**  
+> *Source: URA Building Rehabilitation Guidebook Step 2 / Appendix II (Basic Service Scope)*
+>
+> "Phase 3: Engagement of Work Contractor and Analysis of Tenders...
+> 15. For qualitative analysis, it is **imperative to thoroughly evaluate all documents submitted by tenderers and verify their validity**;"
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"The disclaimer is a standard commercial clause to limit liability for third-party fraud that is impossible to detect (e.g., sophisticated forgeries). It does not mean we didn't perform due diligence; it means we cannot guarantee 100% accuracy against criminal deception. The Guidebook is a 'best practice' guide, not a statute. Our verification was reasonable within the scope of our fee."
+
+**The Logical Trap:**
+1.  **"Impossible" vs. "Basic":** The fraud here wasn't sophisticated. Prestige had [**public conviction records**](#-e-cartel-willpower-2023-08-31-01-the-perfect-score-scam-how-a-safety-violator-was-rated-clean) on the Labour Department website. Verifying this takes 30 seconds on Google. Failing to catch public records isn't "third-party fraud"; it's **willful blindness**.
+2.  **Disclaimer vs. Duty:** You cannot disclaim a core duty. If your job is "Verification," saying "I am not responsible for Verification" voids the contract. It's a fraudulent misrepresentation of service.
+3.  **The "Fee" Excuse:** Claiming verification was "outside the scope of our fee" (HK$308k) is a confession. If the fee was too low to allow verification, they shouldn't have taken the job. Taking the job and then refusing to do it is **Profiteering via Negligence**.
+
+**¶ Statutory Basis:**
+*   **Context:** Professional Negligence / Misrepresentation.
+*   **Ref:** URA Guidelines.
+
+**📅 Timeline:**
+*   **Sep - Oct 2023:** Will Power issues Booklet with Disclaimer.
+*   **2024-01-28:** Owners vote based on unverified data.
+*   **2025-11-26:** Fire reveals materials/records were fake.
+
+**🔗 Links:**
+*   [Renovation Booklet](http://www.wangfuk.org/html/home/doc/樓宇復修工程資料簡報小冊子.pdf) | [Backup](強制驗樓驗窗計劃%2011.%20樓宇復修工程資料簡報小冊子.pdf)
+*   [URA Guidebook](https://brplatform.org.hk/en/sample-documents-and-guidebook/building-rehabilitation-guidebook)
+
+---
+
 ### 🆔 [E-CARTEL-WILLPOWER-2023-10-30-01] The HK$150 Million Upsell: How "10-Year Warranty" was Used to Double the Bill
 
 **🚨 Significance:**
