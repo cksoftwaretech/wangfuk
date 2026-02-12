@@ -7198,7 +7198,7 @@ On July 19, 2024, Will Power's Director **Wong Hap-yin** (黃俠然) sat on stag
 
 The new Management Committee (MC), elected on Sept 6, 2024, on a platform of "Re-examining the Contract," rapidly transformed into a tool for the Cartel through a process of **"Goalpost Shifting."** Instead of exercising their power to [vary the contract](#-e-admin-contract-2024-07-08-01-the-myth-of-the-unbreakable-contract-why-the-hk330m-deal-could-have-been-stopped), within 48 hours of taking office, they redefined "Monitoring" from auditing the HK$330M contract to merely policing cigarette butts, effectively abandoning their mandate to challenge the project's legitimacy.
 
-**1. The "Goalpost Shift" (Contract -> Butts):**
+**1. The "Goalpost Shift":**
 *   **Sep 6 (Election Night):** Chairman Tsui promised to **"re-examine contract terms"** (focus on *Terms*).
 *   **Sep 8 (Day 2):** The narrative shifted to **"Monitoring Jerry-building & Safety"** (focus on *Execution*).
 *   **The Reality:** By Sep 8, the "Monitoring Team" was tasked not with auditing the price or materials, but with catching workers **smoking** and checking scaffolding poles poking windows. The MC downgraded their role from "Contract Auditor" to "Site Prefect," distracting residents from the core financial issues.
