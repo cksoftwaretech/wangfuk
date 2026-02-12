@@ -4410,7 +4410,7 @@ A forensic audit of the tender evaluation reveals blatant manipulation by the Co
 
 **3. The "Disclaimer" Loophole:**
 Will Power inserted a clause stating: *"Report is based on data submitted by tenderers... we bear no responsibility for the accuracy of the data."*
-*   *The Absurdity:* A Consultant is paid millions specifically to **vet and verify** tenderers. Claiming "we just copy-pasted what they said" is an admission of professional negligence and renders the entire tender evaluation process a sham.
+*   *The Absurdity:* A Consultant is paid specifically to **vet and verify** tenderers. Claiming "we just copy-pasted what they said" is an admission of professional negligence and renders the entire tender evaluation process a sham.
 
 **📜 Original Record:**
 
