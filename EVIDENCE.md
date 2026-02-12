@@ -7129,6 +7129,126 @@ On July 19, 2024, Will Power's Director **Wong Hap-yin** (黃俠然) sat on stag
 
 ---
 
+### 🆔 [E-ADMIN-BETRAYAL-2024-10-07-01] The Great Betrayal: How the "Revolutionary" MC Became the Cartel's Mouthpiece
+
+**🚨 Significance:**
+
+The new Management Committee (MC), elected on Sept 6, 2024, on a platform of "Re-examining the Contract," rapidly transformed into a tool for the Cartel through a process of **"Goalpost Shifting."** Instead of exercising their power to [vary the contract](#-e-admin-contract-2024-07-08-01-the-myth-of-the-unbreakable-contract-why-the-hk330m-deal-could-have-been-stopped), within 48 hours of taking office, they redefined "Monitoring" from auditing the HK$330M contract to merely policing cigarette butts, effectively abandoning their mandate to challenge the project's legitimacy.
+
+**1. The "Goalpost Shift" (Contract -> Butts):**
+*   **Sep 6 (Election Night):** Chairman Tsui promised to **"re-examine contract terms"** (focus on *Terms*).
+*   **Sep 8 (Day 2):** The narrative shifted to **"Monitoring Jerry-building & Safety"** (focus on *Execution*).
+*   **The Reality:** By Sep 8, the "Monitoring Team" was tasked not with auditing the price or materials, but with catching workers **smoking** and checking scaffolding poles poking windows. The MC downgraded their role from "Contract Auditor" to "Site Prefect," distracting residents from the core financial issues.
+
+**2. The "Abandonment" Fearmongering:**
+As early as Sep 8, the new MC adopted the Cartel's language: *"How can we allow the project to rot (go unfinished)?"*
+*   *The Trap:* By framing any challenge to the contract as a risk of "abandonment" (爛尾), they pre-emptively disarmed the opposition. This narrative ("We want to speed up, just like you") aligned them perfectly with the Contractor's interest in rushing the job, ignoring the option to *pause* and *fix* the dangerous contract.
+
+**3. The "Financial Terror" Echo Chamber:**
+In response to residents asking to switch to "Option 2" (HK$160M estimate vs HK$330M current), the MC issued a notice on Oct 7, 2024.
+*   *The Act:* They copy-pasted the Contractor's claim that downgrading would cost *more* than staying (">HK$300M"), without independent verification. By amplifying this mathematically absurd "Sunk Cost" threat, they sealed the exit door.
+
+**4. The "Copy-Paste" Governance:**
+The MC did not independently verify these figures with a Quantity Surveyor. They simply copy-pasted the Contractor's email into an official notice. By doing so, they lent their elected legitimacy to the Contractor's lies, effectively telling residents: "Resistance is too expensive."
+
+**5. The Victim's Verdict:**
+Ms. C described the MC as "changed" (變咗樣), turning from "Questioners" to "Protectors." This betrayal left residents feeling they had "no exit," contributing to the apathy that allowed all sorts of safety hazards to go unchallenged until the fire.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Election Promise (Sep 6)**
+> *Source: Epoch Times / 2024-09-09*
+>
+> "新上任法團主席... 柑仔表示，會**重新檢視合約條款**，並將成立專案小組，與業主共同監管大維修進度..."
+>
+> *Translation:*
+> "Newly elected Chairman 'Kam Tsai'... stated he would **re-examine contract terms**... and jointly monitor progress with owners."
+
+> **Evidence [B]: The Immediate Pivot (Sep 8)**
+> *Source: "Monitoring Team" Video / 2024-09-08*
+>
+> "0:04-0:31 工程開始之後，宏業就會按時，將糧單發畀鴻毅，而鴻毅就會按住佢哋工程嘅進度，去核實佢哋嘅糧單。咁究竟依家嘅工程進展值唔值得呢個價呢？未來，宏福監察組就會成立一個「宏福建築監工隊」，所有嘅資料都唔會瞞過我哋雙眼㗎。
+> 0:31-0:56 大嗱嗱夾十幾萬，**大家都係想個工程盡快推進啫**，但係工程究竟會唔會有偷工減料呢？有無違反安全指引呢？有無唔跟進度呢？大家唔使怕喎，未來，宏福監察組嘅宏福建築監工隊，都會睇實㗎。
+> 0:56-1:25 工人食煙其實都係佢嘅權利嚟嘅，不過如果喺搭緊棚嘅時候，食煙而又將煙頭抌咗去我哋個冷氣機度，咁就會釀成火災喇，所以食煙雖然係個人自由，但係都要喺施工期間保障大家嘅安全嘅，所以**我哋特登成立咗檢舉大使**。
+> 1:35-2:05 近日唔少住戶都影到呢屋企嘅棚枝正正會桶住自己個窗，喺未打風嘅時候還可以啦，但如果喺打風嘅時候就隨時會爛玻璃喇，面對咁嘅時候其實我哋可以向顧問公司求助嘅，但如果顧問公司未能及時幫到你嘅話，檢舉大使都會上門幫你影低相。
+> 2:52-4:01 三億三千萬嘅工程，講緊可能係好多長者嘅積蓄，講緊可能係好多人好多個月嘅糧，**咁我哋又點可以容許個工程爛尾呀**。所以我哋將會同市建局、鴻毅、同埋宏福苑嘅建築專才啦，同埋好多宏福苑嘅新生代啦，共同去監察住呢個工程。好多嘅長者啦，佢哋呢嘅兒孫啦，時至而家呢已經成為咗好多唔同嘅界別嘅工程師喇，所以呢佢哋都願意自告奮勇嚟幫手，宏福苑其實臥虎藏龍㗎，因為當中係有好多嘅建築界專才，我哋做問卷嘅過程度，我哋真係認識咗好多專家，咁我哋就將會組成一個智囊團啦，並且希望未來可以引入監工，堵塞各方面嘅漏洞。"
+>
+> *Translation (selected):*
+> "Will there be jerry-building? Safety violations? ... Workers smoking... might cause fire... we specially set up '**Reporting Ambassadors**' [to catch smokers]... How can we allow the project to go '**abandoned**'?"
+> *(Analysis: The focus shifted from "Contract Terms" to "Smoking Workers" and "Fear of Stalling".)*
+
+> **Evidence [C]: The "Full Speed" Surrender (Sep 28)**
+> *Source: MC Video / 2024-09-28*
+>
+> "1:14-2:10 首先，有居民聽到話，假若管委會換屆之後，我哋嘅工程會受到影響甚至會延誤，就呢樣嘢市建局回覆話唔會嘅。……第二，其實宏福監察組嘅成員都係業主，我哋同大家一樣唔希望工程再有延誤或者取消，我哋都希望**全速推進工程**以減輕對業主業戶嘅滋擾，大家都知道啦，落咗網之後黑天黑地咁，個個都覺得好唔舒服。"
+>
+> *Translation (selected):*
+> "Like everyone, we don't want delays or cancellation; we hope to **push the project at full speed**..."
+
+> **Evidence [D]: The "Financial Terror" Notice**
+> *Source: MC Notice 061 / 2024-10-07*
+>
+> "宏業初步回覆：
+> 本公司於工程展開前已按　貴屋苑選擇的方案進行施工安排、人手調配、與物料供應商簽訂合約及已訂購各項物料以應付是次維修工程。此外，本公司已完成宏昌閣(F座)、宏盛閣(G 座)及宏志閣(H座)搭建棚架工程，部份業戶私人冷氣機已拆除，而該三座外牆窗戶保護及鑿單位窗邊工序現正進行中，如果轉換方案後果會非常嚴重。
+>
+> 在10月5日上午的工程例會中，工程顧問初步回覆：
+> 如果轉換為方案二，金額計算相當複雜，難以短時間內計算，還有法律上和時間上都要考慮，要多幾日來計算才能答覆。
+> 宏業也補充，如果轉換為方案二，成本計算也是相當複雜，包括已訂的物料、進行中的工程、改組已搭的棚架、還原的成本、保險更改的
+費用、重購履約保證金的費用等，而且方案二的報價金額亦不是原報價表中的的二億多，所以保守估計可能總金額**有機會大於現時方案三
+的3億多元**。"
+>
+> *Translation (selected):*
+> "Prestige added... including ordered materials, ongoing works, scaffolding reorganization, restoration costs... conservatively estimated the total amount might be **greater than the current Option 3's >HK$300M**."
+
+> **Evidence [E]: The Resident's Despair**
+> *Source: HK01 (Interview with Ms. C) / 2025-12-28*
+>
+> "C小姐形容他們上任前後好似「變咗樣」，由以往的質疑者變成了工程的護航者。... 感覺係一個唔透明嘅安排... 只能任人魚肉。"
+>
+> *Translation:*
+> "Ms. C described them as 'changed' after taking office, turning from questioners to **protectors of the project**... Felt like a non-transparent arrangement... leaving us as meat on the chopping block."
+
+> **Evidence [F]: The Cost Baseline**
+> *Source: Newsletter No. 32 Attachment / 2023-10-30*
+>
+> "方案二: 以**1億6仟萬**為例"
+>
+> *Translation:*
+> "Option 2: **HK$160 Million**"
+> *(Analysis: They claimed "restoration" alone would cost >HK$140 Million.)*
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"Upon taking office and reviewing the signed contract, we realized the legal and financial penalties for cancellation were prohibitive. 'Re-examining' meant understanding the terms, not necessarily overturning them. We shifted focus to practical monitoring (like smoking) because those were the immediate nuisances residents complained about. Ensuring the project didn't stall was the responsible choice for the majority's asset value. We chose the path of stability to ensure the project's completion."
+
+**The Logical Trap:**
+1.  **The Definition of "Re-examine":** If "Re-examine" meant "Read and Obey," it was a fraudulent election promise. Voters understood it as "Re-negotiate or Change." The immediate pivot to "Full Speed Ahead" (Sep 28) proves they surrendered without a fight.
+2.  **The "Smoking" Distraction:** Focusing on cigarette butts while ignoring the [**Unauthorized Material Swap**](#-e-admin-2025-02-21-01-the-unilateral-switch-how-a-hk60m-contract-spec-was-swapped-for-a-club-members-product) and the [**Flammable Foam**](#-e-safety-foam-2024-07-19-01-the-sop-death-trap-use-of-flammable-foam) (which was presented in July) is performative governance. They policed the *symptoms* (sparks) while protecting the *disease* (fuel load/contract terms).
+3.  **The "Abandonment" Blackmail:** The MC used the *Contractor's* threat ("it will cost more to switch") as *Truth*. They failed to hire an Independent QS to verify if downgrading to Option 2 was truly more expensive. By amplifying the Contractor's bluff, they became the enforcers of the ransom.
+4.  **Stability vs. Safety:** Prioritizing "Project Completion" over "Project Safety" (and Cost) is exactly what led to the disaster. By refusing to pause and re-evaluate, the MC kept the train speeding towards the cliff.
+
+**¶ Statutory Basis:**
+*   **Context:** Fiduciary Duty of MC Members.
+
+**📅 Timeline:**
+*   **2024-09-06:** Election Promise: "Re-examine Contract Terms."
+*   **2024-09-08:** Pivot: "Monitor Workers (Smoking)" & "Avoid abandonment."
+*   **2024-09-28:** Surrender: "Full Speed Ahead."
+*   **2024-10-07:** Enforcement: "Option 2 is too expensive (says Contractor)."
+*   **2025-11-26:** The Fire (Caused by the "Full Speed" project they protected).
+
+**🔗 Links:**
+*   [Newsletter 32 Attachment](http://www.wangfuk.org/html/comm/02/第32期宏福通訊%20-附件.pdf) | [Backup](宏福通訊%20第11屆管理委員會-第32期附件.pdf)
+*   [Epoch Times Report](https://www.epochtimes.com/b5/24/9/9/n14326573.htm)
+*   [Sep 8 MC Video](http://223.197.186.25:8080/wangfuk/WFC_Policy.mp4)
+*   [Sep 28 MC Video](http://www.wangfuk.org/html/incorp/02/宏福監察組重要資訊.mp4)
+*   [MC Notice 061](http://www.wangfuk.org/html/ios/12/2024-10-07%20061-有關：回應居民交流事宜.pdf) | [Backup](第12屆法團通告%202024年10月07日%20061%20-%20有關：回應居民交流事宜.pdf)
+*   [HK01 Report](https://www.hk01.com/突發/60307299/)
+*   Residents' Despair: [[1]](https://www.facebook.com/share/p/1F3JVCSH14/) | [[2]](https://www.facebook.com/share/p/17n3iBHoMs/)
+
+---
+
 ### 🆔 [E-CARTEL-WILLPOWER-2024-10-27-01] The Triad Coup: How Gangsters Seized a Public Estate for Profit
 
 **🚨 Significance:**
