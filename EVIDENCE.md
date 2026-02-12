@@ -7163,19 +7163,19 @@ Ms. C described the MC as "changed" (變咗樣), turning from "Questioners" to "
 >
 > "新上任法團主席... 柑仔表示，會**重新檢視合約條款**，並將成立專案小組，與業主共同監管大維修進度..."
 >
-> *Translation:*
+> *Translation:*  
 > "Newly elected Chairman 'Kam Tsai'... stated he would **re-examine contract terms**... and jointly monitor progress with owners."
 
 > **Evidence [B]: The Immediate Pivot (Sep 8)**
 > *Source: "Monitoring Team" Video / 2024-09-08*
 >
-> "0:04-0:31 工程開始之後，宏業就會按時，將糧單發畀鴻毅，而鴻毅就會按住佢哋工程嘅進度，去核實佢哋嘅糧單。咁究竟依家嘅工程進展值唔值得呢個價呢？未來，宏福監察組就會成立一個「宏福建築監工隊」，所有嘅資料都唔會瞞過我哋雙眼㗎。
-> 0:31-0:56 大嗱嗱夾十幾萬，**大家都係想個工程盡快推進啫**，但係工程究竟會唔會有偷工減料呢？有無違反安全指引呢？有無唔跟進度呢？大家唔使怕喎，未來，宏福監察組嘅宏福建築監工隊，都會睇實㗎。
-> 0:56-1:25 工人食煙其實都係佢嘅權利嚟嘅，不過如果喺搭緊棚嘅時候，食煙而又將煙頭抌咗去我哋個冷氣機度，咁就會釀成火災喇，所以食煙雖然係個人自由，但係都要喺施工期間保障大家嘅安全嘅，所以**我哋特登成立咗檢舉大使**。
-> 1:35-2:05 近日唔少住戶都影到呢屋企嘅棚枝正正會桶住自己個窗，喺未打風嘅時候還可以啦，但如果喺打風嘅時候就隨時會爛玻璃喇，面對咁嘅時候其實我哋可以向顧問公司求助嘅，但如果顧問公司未能及時幫到你嘅話，檢舉大使都會上門幫你影低相。
+> "0:04-0:31 工程開始之後，宏業就會按時，將糧單發畀鴻毅，而鴻毅就會按住佢哋工程嘅進度，去核實佢哋嘅糧單。咁究竟依家嘅工程進展值唔值得呢個價呢？未來，宏福監察組就會成立一個「宏福建築監工隊」，所有嘅資料都唔會瞞過我哋雙眼㗎。  
+> 0:31-0:56 大嗱嗱夾十幾萬，**大家都係想個工程盡快推進啫**，但係工程究竟會唔會有偷工減料呢？有無違反安全指引呢？有無唔跟進度呢？大家唔使怕喎，未來，宏福監察組嘅宏福建築監工隊，都會睇實㗎。  
+> 0:56-1:25 工人食煙其實都係佢嘅權利嚟嘅，不過如果喺搭緊棚嘅時候，食煙而又將煙頭抌咗去我哋個冷氣機度，咁就會釀成火災喇，所以食煙雖然係個人自由，但係都要喺施工期間保障大家嘅安全嘅，所以**我哋特登成立咗檢舉大使**。  
+> 1:35-2:05 近日唔少住戶都影到呢屋企嘅棚枝正正會桶住自己個窗，喺未打風嘅時候還可以啦，但如果喺打風嘅時候就隨時會爛玻璃喇，面對咁嘅時候其實我哋可以向顧問公司求助嘅，但如果顧問公司未能及時幫到你嘅話，檢舉大使都會上門幫你影低相。  
 > 2:52-4:01 三億三千萬嘅工程，講緊可能係好多長者嘅積蓄，講緊可能係好多人好多個月嘅糧，**咁我哋又點可以容許個工程爛尾呀**。所以我哋將會同市建局、鴻毅、同埋宏福苑嘅建築專才啦，同埋好多宏福苑嘅新生代啦，共同去監察住呢個工程。好多嘅長者啦，佢哋呢嘅兒孫啦，時至而家呢已經成為咗好多唔同嘅界別嘅工程師喇，所以呢佢哋都願意自告奮勇嚟幫手，宏福苑其實臥虎藏龍㗎，因為當中係有好多嘅建築界專才，我哋做問卷嘅過程度，我哋真係認識咗好多專家，咁我哋就將會組成一個智囊團啦，並且希望未來可以引入監工，堵塞各方面嘅漏洞。"
 >
-> *Translation (selected):*
+> *Translation (selected):*  
 > "Will there be jerry-building? Safety violations? ... Workers smoking... might cause fire... we specially set up '**Reporting Ambassadors**' [to catch smokers]... How can we allow the project to go '**abandoned**'?"
 > *(Analysis: The focus shifted from "Contract Terms" to "Smoking Workers" and "Fear of Stalling".)*
 
@@ -7184,7 +7184,7 @@ Ms. C described the MC as "changed" (變咗樣), turning from "Questioners" to "
 >
 > "1:14-2:10 首先，有居民聽到話，假若管委會換屆之後，我哋嘅工程會受到影響甚至會延誤，就呢樣嘢市建局回覆話唔會嘅。……第二，其實宏福監察組嘅成員都係業主，我哋同大家一樣唔希望工程再有延誤或者取消，我哋都希望**全速推進工程**以減輕對業主業戶嘅滋擾，大家都知道啦，落咗網之後黑天黑地咁，個個都覺得好唔舒服。"
 >
-> *Translation (selected):*
+> *Translation (selected):*  
 > "Like everyone, we don't want delays or cancellation; we hope to **push the project at full speed**..."
 
 > **Evidence [D]: The "Financial Terror" Notice**
@@ -7199,7 +7199,7 @@ Ms. C described the MC as "changed" (變咗樣), turning from "Questioners" to "
 費用、重購履約保證金的費用等，而且方案二的報價金額亦不是原報價表中的的二億多，所以保守估計可能總金額**有機會大於現時方案三
 的3億多元**。"
 >
-> *Translation (selected):*
+> *Translation (selected):*  
 > "Prestige added... including ordered materials, ongoing works, scaffolding reorganization, restoration costs... conservatively estimated the total amount might be **greater than the current Option 3's >HK$300M**."
 
 > **Evidence [E]: The Resident's Despair**
@@ -7207,7 +7207,7 @@ Ms. C described the MC as "changed" (變咗樣), turning from "Questioners" to "
 >
 > "C小姐形容他們上任前後好似「變咗樣」，由以往的質疑者變成了工程的護航者。... 感覺係一個唔透明嘅安排... 只能任人魚肉。"
 >
-> *Translation:*
+> *Translation:*  
 > "Ms. C described them as 'changed' after taking office, turning from questioners to **protectors of the project**... Felt like a non-transparent arrangement... leaving us as meat on the chopping block."
 
 > **Evidence [F]: The Cost Baseline**
@@ -7215,7 +7215,7 @@ Ms. C described the MC as "changed" (變咗樣), turning from "Questioners" to "
 >
 > "方案二: 以**1億6仟萬**為例"
 >
-> *Translation:*
+> *Translation:*  
 > "Option 2: **HK$160 Million**"
 > *(Analysis: They claimed "restoration" alone would cost >HK$140 Million.)*
 
