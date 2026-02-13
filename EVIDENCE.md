@@ -9183,6 +9183,119 @@ The Fu Shin tender included other known Cartel affiliates [identified in Journal
 
 ---
 
+### 🆔 [E-GOV-NETS-2025-09-29-01] The Deaf Ear: Six Warnings, Three Departments, Zero Action
+
+**🚨 Significance:**
+
+Residents acted as the city's "nerve endings," lodging **at least six specific complaints** to the Buildings Department (BD), Independent Checking Unit (ICU), and Labour Department (LD) in the two months preceding the fire. They provided visual evidence ("Two-Color Nets"), physical evidence ("Fragile/Tearing Nets"), and context ("Post-Central Fire Risk"). The timeline proves the disaster was a predicted event that authorities failed to prevent despite actionable intelligence.
+
+**1. The "Tear-Test" Warning (Sep 29):**
+Residents submitted a video showing the nets were so fragile they could be **"torn by hand" (一搣即碎)**.
+*   *The Implication:* Physical degradation (friability) often correlates with chemical degradation (loss of fire retardant). The "tear test" was a red flag for material failure that was ignored.
+
+**2. The "Two-Color" Smoking Gun (Oct 1):**
+Residents followed up and further reported that the nets had **two different colors** (Deep Green vs. Light Green), suspecting only some of the fragile nets were changed.
+*   *The Link:* This visual discrepancy matches the later [ICAC finding](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk586-per-victim--the-5-decoy) of mixed compliant and non-compliant stocks.
+
+**3. The "Decoy" Trap (Oct 31):**
+ICU replied on Oct 31 that they inspected and found "some defects" (holes), instructing the contractor to fix them.
+*   *The Trap:* Consultant (**Will Power**) later reported to the MC (Nov 18) that ICU had tested the nets and found them **"Fire Retardant Compliant."**
+*   *The Reality:* Since ICAC later found 95% of nets were fake, ICU's "Pass" means they either tested only the decoy "feet" (as Chris Tang admitted was ["sloppy"](#-e-enforce-nets-2025-12-01-01-the-sloppy-admission)) or the Consultant lied about the ICU's findings to pacify the MC.
+
+**4. The "Post-Central" Warning (Oct 23):**
+After the Chinachem fire, residents explicitly linked the risk to **scaffolding fire safety**, warning that "fire could spread uncontrollably." The government cannot claim "lack of awareness" regarding the specific risk of vertical fire spread via nets.
+
+**5. The "2 Days Before" Tragedy:**
+On **Nov 24**, just **48 hours** before the inferno, the Labour Department claimed to have conducted a "surprise inspection" and issued a written warning.
+*   *The Verdict:* While it is until unclear what kind of warning was that about, if they saw enough to issue a warning, why didn't they **Stop Work**? Issuing a paper warning while leaving the flammable nets in place (especially after the Central fire precedent) proves that the regulatory goal was "file completion," not "hazard removal."
+
+**6. The Post-Mortem Silence:**
+When asked *what* they actually checked during that surprise inspection, the Labour Department refused to answer ("inappropriate to disclose"). This silence suggests they know their inspection was dangerously superficial.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The "Tear-Test" Complaint (Sep 29)**
+> *Source: The Collective HK / 2026-01-05*
+>
+> "9 月 29 日... 向屋宇署投訴... 指『棚網已經老化，很**容易用手撕開**... 已失去保護作用』，更附上當時拍下棚網『**一搣即碎**』的片段。"
+>
+> *Translation:*
+> "Sep 29... complained to BD... stating 'nets are aging, **easily torn by hand**... lost protective function', attached video of nets being '**torn into pieces instantly**'."
+
+> **Evidence [B]: The Visual Warning 1**
+> *Source: Yahoo News / 2025-12-10*
+>
+> "居民...從肉眼便可辨認出顏色跟舊棚網有異。「**舊棚網是深綠色，新棚網是淺綠色**。」...於是有居民於10月初致電1823求助... 一併上載了顏色不同的...相片"
+>
+> *Translation:*
+> "Residents... identified color differences with naked eyes. '**Old nets were deep green, new ones light green**.'... Residents called 1823 in early Oct... uploading photos of the different colored nets."
+
+> **Evidence [C]: The Visual Warning 2**
+> *Source: The Collective HK / 2026-01-05*
+>
+> "兩日後，居民跟進投訴，再附上相片說明承建商只更換了部分損壞棚網（圖中**淺綠色**）..."
+>
+> *Translation:*
+> "Two days later [Oct 1]... residents followed up the case and attached photo showing contractor only replaced parts... (Light Green in photo)..."
+> *(Note: This matches the "Two-Color" warning previously reported.)*
+
+> **Evidence [D]: The "ICU Passed" Report (The Fatal Error)**
+> *Source: The Collective HK / 2026-01-05*
+>
+> "顧問公司鴻毅在 11 月 8 日... 報告，指 ICU 上周（即 10 月底）已巡視，「期間測試棚網**阻燃合乎標準**」。"
+>
+> *Translation:*
+> "Consultant Will Power reported in Nov 8... that ICU inspected in late Oct, 'testing showed nets were **fire retardant compliant**'."
+
+> **Evidence [E]: The "Surprise" Inspection (48 Hours Prior)**
+> *Source: Yahoo News / 2025-12-10*
+>
+> "在大火發生前兩日，居民獲得勞工處回覆，指有派員到宏福苑**突擊巡查**，並已向負責人發出**書面警告**..."
+>
+> *Translation:*
+> "Two days before the fire, residents received LD's reply... stating they conducted a **surprise inspection**... and issued a **written warning**..."
+
+> **Evidence [F]: The Refusal to Disclose**
+> *Source: Yahoo News / 2025-12-10*
+>
+> "《Yahoo新聞》曾就居民的投訴向房屋署和勞工處查詢，包括當時有沒有檢測棚網質量以及是否具阻燃性，有沒有檢查棚網質量證書，以及當時如何跟進等。勞工處回覆指，他們正就是次火警與其他執法部門進行聯合調查，現**不宜透露**與事故有關的行動詳情。"
+>
+> *Translation:*
+> "Yahoo News asked the Buildings and Labour Departments whether scaffold netting had been tested, was flame‑retardant, had quality certificates, and how follow‑up was handled. Labour Department replied it is conducting a joint investigation into the fire with other enforcement agencies and **inappropriate to disclose** details of the operation related to the accident..."
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"We acted on every complaint. Inspections were conducted (16 times by LD), and warnings were issued for identified irregularities (e.g., holes). Regarding fire retardancy, we relied on the professional certification provided by the Contractor and checked by the Consultant. Government inspectors cannot physically test every inch of material on every site. The 'tear test' indicates physical wear, not necessarily flammability."
+
+**The Logical Trap:**
+1.  **Friability = Flammability:** A net that disintegrates by hand is chemically degraded. UV exposure breaks down plastic *and* its fire-retardant coating. Ignoring physical disintegration as a fire risk indicator is negligent.
+2.  **The "Passed" Lie:** If ICU found it "Compliant" (as per Will Power), but ICAC found it "95% Fake," then the inspection method was fundamentally broken. Either ICU was incompetent (fooled by decoys), or Will Power lied. In either case, the "Government Check" gave a false sense of security that killed people.
+3.  **Warning vs. Action:** Issuing a written days before a fire for "falling objects" while ignoring the "fire risk" complaint is the ultimate bureaucratic failure. They policed the *pebbles* while ignoring the *petrol*.
+4.  **The "Paper Shield" Collapses:** Continuing to cite "[reliance on certification](#-e-gov-nets-2025-11-20-01-the-paper-shield-how-16-inspections-missed-the-fire-trap)" after residents specifically complained about the *physical quality* of the nets (tearing easily) is a dereliction of duty. A physical complaint demands a physical test, not a paper check.
+
+**¶ Statutory Basis:**
+*   **Duty:** Inspection and Enforcement (Buildings Ordinance / FIUO).
+
+**📅 Timeline:**
+*   **2025-09-24:** Typhoon exposes net fragility — [ref](https://www.hko.gov.hk/tc/天氣隨筆/109859/樺加沙帶來的十號風球)
+*   **2025-09-29:** Resident sends "Tear-Test" video to BD/1823.
+*   **2025-10-01:** Residents follow up and send photos of mixed colors.
+*   **2025-10-18:** Central Fire occurs — [report](https://www.hk01.com/突發/60286636)
+*   **2025-10-23:** Resident warns "Fire could spread like Central."
+*   **2025-10-31:** ICU mentions inspection citing Will Power's claims.
+*   **2025-11-06:** Residents warn ICU/BD about net and scaffolding safety. 
+*   **2025-11-08:** Will Power reports nets are safe citing ICU's inspection. 
+*   **2025-11-21:** Residents keep warning about net and scaffolding safety. 
+*   **2025-11-24:** LD replies and mentions Surprise Inspection & Warning issued.
+*   **2025-11-26:** Fire destroys the estate.
+
+**🔗 Links:**
+*   [Yahoo News Investigation](https://hk.news.yahoo.com/share/3ce036c6-9f33-4533-be01-d09dde1ed85e)
+*   [The Collective Report](https://thecollectivehk.com/宏福苑火災居民六度投訴難阻慘劇對無官員負責感/)
+
+---
+
 ### 🆔 [E-ADMIN-2025-09-29-01] Documentary Failures: The 'Lift Contractor' Error & The $1.7M Mislabeling
 
 **🚨 Significance:**
@@ -10734,79 +10847,6 @@ The fact that 16 separate site visits resulted in zero findings regarding the ne
 **🔗 Links:**
 *   [The Witness Report (Official Response)](https://thewitnesshk.com/宏福苑五級火-勞工處證書顯示棚網阻燃符標準-曾巡/)
 *   [The Witness Report (Expert Opinion)](https://thewitnesshk.com/宏福苑五級火-兩部門守則指棚網應具阻燃性-業界指/)
-
----
-
-### 🆔 [E-GOV-NETS-2025-11-24-01] The Deaf Ear: How Hotline Complaints and "Surprise Inspections" Failed to Stop the Fire
-
-**🚨 Significance:**
-
-Residents acted as the city's "nerve endings," screaming about the danger for months via the 1823 hotline, but the government refused to react effectively. The timeline proves that the disaster was not a surprise; it was a predicted event that authorities failed to prevent despite specific, actionable intelligence.
-
-**1. The "Two-Color" Smoking Gun:**
-In October, residents reported that the nets had **two different colors** (Deep Green vs. Light Green) and were fragile.
-*   *The Link:* This visual discrepancy  matches the later [ICAC finding](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk561-per-victim--the-5-decoy) of mixed compliant (5%) and non-compliant (95%) stocks.
-*   *The Failure:* ICU and LD inspectors visited the site but ignored this glaring visual cue. A "surprise inspection" that misses a two-tone color difference indicating mixed batches is not an inspection; it is "industrial tourism."
-
-**2. The "Central Fire" Warning:**
-After the Chinachem fire (Oct 18), residents explicitly linked the risk to **scaffolding fire safety**. The government cannot claim "lack of awareness" regarding the specific risk of vertical fire spread via nets.
-
-**3. The "2 Days Before" Tragedy:**
-On **Nov 24**, just **48 hours** before the inferno, the Labour Department claimed to have conducted a "surprise inspection" and issued a written warning.
-*   *The Verdict:* If they saw enough to issue a warning, why didn't they **Stop Work**? Issuing a paper warning while leaving the flammable nets in place (especially after the Central fire precedent) proves that the regulatory goal was "file completion," not "hazard removal."
-
-**4. The Post-Mortem Silence:**
-When asked *what* they actually checked during that surprise inspection, the Labour Department refused to answer ("inappropriate to disclose"). This silence suggests they know their inspection was dangerously superficial.
-
-**📜 Original Record:**
-
-> **Evidence [A]: The Visual Warning (Mixed Batches)**
-> *Source: Yahoo News / 2025-12-10*
->
-> "居民...從肉眼便可辨認出顏色跟舊棚網有異。「**舊棚網是深綠色，新棚網是淺綠色**。」...於是有居民於10月初致電1823求助... 一併上載了顏色不同的...相片"
->
-> *Translation:*
-> "Residents... identified color differences with naked eyes. '**Old nets were deep green, new ones light green**.'... Residents called 1823 in early Oct... uploading photos of the different colored nets."
-
-> **Evidence [B]: The "Surprise" Inspection (48 Hours Prior)**
-> *Source: Yahoo News / 2025-12-10*
->
-> "在大火發生前兩日，居民獲得勞工處回覆，指有派員到宏福苑**突擊巡查**，並已向負責人發出**書面警告**..."
->
-> *Translation:*
-> "Two days before the fire, residents received LD's reply... stating they conducted a **surprise inspection**... and issued a **written warning**..."
-
-> **Evidence [C]: The Refusal to Disclose**
-> *Source: Yahoo News / 2025-12-10*
->
-> "勞工處回覆指... 現**不宜透露**與事故有關的行動詳情。"
->
-> *Translation:*
-> "LD replied... it is **inappropriate to disclose** details of the operation related to the accident."
-
-**🛡️ Pre-emptive Rebuttal:**
-
-**Anticipated Defense:**
-"We acted on every complaint. Inspections were conducted, and warnings were issued for identified irregularities. We rely on the professional certification of the Authorized Person and Registered Contractor. Government inspectors cannot physically test every inch of material on every site."
-
-**The Logical Trap:**
-1.  **Warning vs. Action:** A "Written Warning" stops nothing. If a car is speeding towards a cliff, you don't write it a ticket; you pull the handbrake. Faced with a known fire risk (post-Central fire) and visible material irregularities, the only responsible action was a **Stop Work Order (SWO)**.
-2.  **The "Expert" Blindness:** Residents (laymen) saw the "Two-Color" issue. Inspectors (experts) missed it. If the public is more observant than the regulator, the regulator is obsolete.
-3.  **The "Paper Shield" Collapses:** Continuing to cite "[reliance on certification](#-e-gov-nets-2025-11-20-01-the-paper-shield-how-16-inspections-missed-the-fire-trap)" after residents specifically complained about the *physical quality* of the nets (tearing easily) is a dereliction of duty. A physical complaint demands a physical test, not a paper check.
-
-**¶ Statutory Basis:**
-
-*   **Duty:** Inspection and Enforcement (Buildings Ordinance / FIUO).
-
-**📅 Timeline:**
-*   **2025-09-24:** Typhoon exposes net fragility — [ref](https://www.hko.gov.hk/tc/天氣隨筆/109859/樺加沙帶來的十號風球)
-*   **2025-10-Early:** Residents complain to 1823 (Photos of mixed colors).
-*   **2025-10-18:** Central Fire; Residents chase departments again — [report](https://www.hk01.com/突發/60286636)
-*   **2025-11-24:** LD mentions Surprise Inspection & Warning issued.
-*   **2025-11-26:** Fire destroys the estate.
-
-**🔗 Links:**
-*   [Yahoo News Investigation](https://hk.news.yahoo.com/share/5129e357-9eea-496c-b667-751015a22651)
 
 ---
 
