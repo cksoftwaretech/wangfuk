@@ -3068,28 +3068,65 @@ Using estate funds, the MC printed a "Special Issue" (宏福特刊) unprecedente
 
 ---
 
-### 🆔 [E-CARTEL-WILLPOWER-2021-12-09-01] The Day Democracy Died: How a DAB Councilor and "532 Proxies" Sealed the Estate's Fate
+### 🆔 [E-CARTEL-POLITICAL-2021-12-09-01] The Day Democracy Died: How a Defeated Councilor and "532 Proxies" Sealed the Estate's Fate
 
 **🚨 Significance:**
 
-Eyewitness accounts and meeting records from the Special EGM on Dec 11, 2021, reveal that the cartel's takeover was secured through a massive political mobilization led by DAB District Councilor **Peggy Wong Pik-kiu** (黃碧嬌). This meeting was the "Point of No Return": it defeated a resident attempt to overthrow the MC and successfully appointed **Will Power (鴻毅)** as the renovation consultant.
+Eyewitness accounts and meeting records reveal that the cartel's takeover was secured through a massive political mobilization led by a defeated DAB District Councilor **Peggy Wong Pik-kiu** (黃碧嬌), apparently strategically recruited by the MC just one month before the critical "Survival Vote" in Dec 2021. 
 
-**1. The "532 Proxies" Anomaly:**
+Her role went beyond advisory; she acted as a **Political Enforcer**, mobilizing her volunteer network to harvest proxy votes that crushed the resident revolt  and successfully appointed **Will Power (鴻毅)** as the renovation consultant. 
+
+In return, she was rewarded with a continued "Advisor" title through 2024, cementing the alliance between the Cartel and the pro-establishment machinery.
+
+**1. The Strategic Recruitment:**
+*   **Context:** In late 2021, residents gathered 5% signatures to overthrow the MC. The MC faced imminent collapse.
+*   **The Move:** On Nov 17, Chairman Tang "invited" Wong to replace Clement Woo Kin-man (胡健民) (who was promoted to Govt).
+*   **The Timing:** This was **3 weeks before** the critical EGM. Apparently Wong wasn't hired for "community communication"; she was hired to win the war.
+
+**2. The "Quid Pro Quo":**
+*   **Dec 2021:** Wong delivers proxies, saving Chairman Tang. Tang publicly thanks her for "calling on owners to attend."
+*   **Jun 2024:** The new term MC re-appoints Wong as Advisor, despite the controversy. This suggests her position is a **political reward** for keeping the regime in power.
+
+**3. The "532 Proxies" Anomaly:**
 Before the meeting started, residents discovered **532 proxy votes** (representing ~27% of all households) had already been collected.
 *   *The Harvest:* Residents reported Wong's volunteer team visiting elderlies door-to-door, asking for signatures. Some residents found themselves "authorized" to strangers without their knowledge, leading to police reports.
 *   *The Result:* These ironclad proxies crushed the live vote. The motion to remove the MC was defeated by **61.4%**, and Will Power was elected with **56.69%**. The numbers match the proxy block perfectly.
 
-**2. The "Advisor" with a Temper:**
+**4. The "Advisor" with a Temper:**
 Meeting minutes list Wong as an official **"Advisor"** to the MC.
 *   *The Conflict:* A video shows Wong losing her temper at opposition Councilor Herman Yiu (姚鈞豪), shouting "What authority do I have?", while reportedly physically dominating the registration desk. Her behavior, described by residents as acting like the "Host", confirms her deep integration into the estate's power structure. She wasn't just a guest; she was the **Political Enforcer**.
 
-**3. The "DQ" Tactic:**
+**5. The "DQ" Tactic:**
 While the DAB machine harvested votes, the opposition "Concern Group" saw **~50 of their 120 proxies disqualified (DQ)** by the Management Office (ISS) without clear explanation.
 *   *The Asymmetry:* Pro-establishment proxies (even dubious ones signed by elderly who "didn't know") were accepted en masse, while opposition proxies were scrutinized and purged. This rigged the playing field before the first ballot was cast.
 
 **📜 Original Record:**
 
-> **Evidence [A]: The Proxy Harvest (532 Votes)**  
+> **Evidence [A]: The Strategic Recruitment (3 Weeks Prior)**  
+> *Source: 11th MC Meeting Minutes (No. 9) / 2021-11-17*
+>
+> "為有利日後... 溝通工作... 委員建議邀請**黃碧嬌女士**作為法團事務顧問... 黃碧嬌女士欣然接受..."
+>
+> *Translation:*  
+> "To facilitate future communication... members suggested inviting **Ms. Peggy Wong** as MC Advisor... Ms. Wong gladly accepted..."
+
+> **Evidence [B]: The "Thank You" for Mobilization**  
+> *Source: 11th MC Meeting Minutes (No. 10) / 2021-12-22*
+>
+> "鄧主席... 亦感謝**黃顧問協助呼籲業主出席大會**。"
+>
+> *Translation:*  
+> "Chairman Tang... also thanked **Advisor Wong for assisting in calling on owners to attend the meeting**."
+
+> **Evidence [C]: The Reward (Re-appointment)**  
+> *Source: 12th MC Meeting Minutes (No. 1) / 2024-06-14*
+>
+> "動議邀請**黃碧嬌女士**及陳球強先生繼續出任是屆法團事務顧問... 15 位委員贊成通過"
+>
+> *Translation:*  
+> "Motion to invite **Ms. Peggy Wong** and Mr. Chan Kau-keung to continue as MC Advisors... Passed with 15 votes in favor."
+
+> **Evidence [D]: The Proxy Harvest (532 Votes)**  
 > *Source: Herman Yiu Testimony / 2021-12-10*
 >
 > "尋日截止收特別大會嘅授權票後...授權票有成 **532張**... 呢幾日有某前議員義工團隊上門希望授權畀佢哋，甚至經過眼鏡橋嘅時候畀佢哋問「係咪宏福苑居民」"
@@ -3097,7 +3134,7 @@ While the DAB machine harvested votes, the opposition "Concern Group" saw **~50 
 > *Translation:*
 > "After the proxy deadline yesterday... proxy votes reached **532**... plus an ex-Councilor's volunteer team going door-to-door for proxies and asking people near Glasses Bridge  'Are you a resident?'"
 
-> **Evidence [B]: The Political Enforcer**  
+> **Evidence [E]: The Political Enforcer**  
 > *Source: InMediaHK / 2021-12-11*  
 >  
 > "何小姐稱，今日原打算親自出席大會投票，卻在入場時被告知，她的名字「被授權」了一名不認識的姓林女子...與該女子對質時，黃碧嬌現身護著女子，並稱認識她。何之後報警...她之後得悉，黃碧嬌的義工曾接觸她的母親，著她在授權書上簽名，何母曾表明自己不是業主，對方仍著她簽名。"
@@ -3107,7 +3144,7 @@ While the DAB machine harvested votes, the opposition "Concern Group" saw **~50 
 > "Ms Ho said she intended to vote in person but was told at entry that her name had been authorised to an unknown woman surnamed Lam... When Ho confronted the woman, Peggy Wong defended her and claimed to know her. Ho reported to police... She later learned Wong’s volunteers had approached her mother and asked her to sign a proxy despite her saying she was not an owner."
 > "Mr Mak, whose name was also allegedly authorised, said Wong earlier visited his 70‑plus mother... had her sign a proxy. Mak called the estate’s proxy collection unfair, noting an elderly woman was asked to sign for a man."
 
-> **Evidence [C]: Another Harvest**  
+> **Evidence [F]: Another Harvest**  
 > *Source: Peter Chu Testimony / 2021-12-07*  
 >  
 > "今日有人拍我門，話自己係黃碧嬌樂群義工團，叫我呀媽簽授權俾佢，有無搞錯？？點解保安可以放佢地上黎？投訴保安都無用"  
@@ -3115,7 +3152,7 @@ While the DAB machine harvested votes, the opposition "Concern Group" saw **~50 
 > *Translation:*  
 > "Someone knocked on my door today claiming to be from Wong’s volunteer team and asked my mother to sign a proxy. Are you kidding? Why did security let them in? Complaining to security was useless."
 
-> **Evidence [D]: The "Advisor" Title**  
+> **Evidence [G]: The "Advisor" Title**  
 > *Source: 11th MC EGM Minutes / 2021-12-11*
 >
 > "第十一屆管理委員會顧問... **黃碧嬌女士**"
@@ -3123,7 +3160,7 @@ While the DAB machine harvested votes, the opposition "Concern Group" saw **~50 
 > *Translation:*
 > "11th MC Advisor... **Ms. Peggy Wong Pik-kiu**"
 
-> **Evidence [E]: The Shout**  
+> **Evidence [H]: The Shout**  
 > *Source: Ma Choyin Video Post and Comments / 2025-12-14*  
 >  
 > **Video excerpt:**  
@@ -3159,7 +3196,7 @@ While the DAB machine harvested votes, the opposition "Concern Group" saw **~50 
 > **Selected comments (paraphrased):**  
 > Claims she has the most power and brought people to collect fake proxy votes; says she acted like the host; warns she is aggressive; mocks her as a Justice of the Peace; alleges she stood at the proxy table like a greeter and knew proxy holders; questions her authority and possible hidden interests; insults and derides her behaviour and temperament.
 
-> **Evidence [F]: The DQ of Opposition**  
+> **Evidence [I]: The DQ of Opposition**  
 > *Source: InMediaHK / 2021-12-11*
 >
 > "關注組原收到121張授權票，卻有數十張被DQ，只70多張被指有效。"
@@ -3170,28 +3207,38 @@ While the DAB machine harvested votes, the opposition "Concern Group" saw **~50 
 **🛡️ Pre-emptive Rebuttal:**
 
 **Anticipated Defense:**  
-"Ms. Wong served as an unpaid Advisor to share her community experience. Her team assists elderly residents with form-filling as a community service, ensuring their voices are heard. We strictly follow the BMO regarding proxy validity; any disqualified forms were due to technical errors (e.g., wrong signature, incomplete ID). The election result reflects the silent majority's trust in the MC."
+"Ms. Wong is a respected community leader with deep ties to Tai Po. Her appointment was to bridge the gap between the estate and the district, filling the vacancy left by Mr. Wu. She served as an unpaid Advisor to share her community experience. Her team assists elderly residents with form-filling as a community service, ensuring their voices are heard. We strictly follow the BMO regarding proxy validity; any disqualified forms were due to technical errors (e.g., wrong signature, incomplete ID). The election result reflects the silent majority's trust in the MC. Re-appointment reflects her valuable advice on district matters."
 
 **The Logical Trap:**
-1.  **Service vs. Fraud:** "Assisting" an elderly person to sign a form for a unit they don't own (as witnessed by the male owner whose mother was coerced) is **Fraud**, not service. The sheer volume of complaints about "unauthorized authorization" suggests systematic manipulation, not helpfulness.
-2.  **The "DQ" Black Box:** If 40% of the opposition's votes were "technically wrong," but the establishment votes were "perfect," the statistical probability is near zero unless the **scrutiny applied was unequal**. The Management Office (ISS) acted as a partisan referee.
-3.  **The "Silent Majority" were Silenced:** The majority of *attendees* were angry (as seen in video comments), but they were outvoted by a stack of papers. This wasn't the "Silent Majority"; it was the **"Paper Majority"**.
+1.  **Timing is Everything:** Hiring a "Community Bridge" 3 weeks before a Vote of No Confidence is not routine HR; it's **Crisis Management**. The specific task ("calling owners") confirms her role was electoral mobilization.
+2.  **Mobilization vs. Manipulation:** "Encouraging attendance" is fine. "Collecting proxies for the Chairman" (as witnessed) is partisan intervention. If she was neutral, she would have encouraged owners to vote *their conscience*, not harvest their signatures for the MC's use.
+3.  **Service vs. Fraud:** "Assisting" an elderly person to sign a form for a unit they don't own (as witnessed by the male owner whose mother was coerced) is **Fraud**, not service. The sheer volume of complaints about "unauthorized authorization" suggests systematic manipulation, not helpfulness.
+4.  **The "Harvest" Evidence:** Multiple witnesses saw her team collecting proxies door-to-door. This is not "civic engagement"; it is **Political Machine Operation**.
+5.  **The "DQ" Black Box:** If 40% of the opposition's votes were "technically wrong," but the establishment votes were "perfect," the statistical probability is near zero unless the **scrutiny applied was unequal**. The Management Office (ISS) acted as a partisan referee.
+6.  **The "Silent Majority" were Silenced:** The majority of *attendees* were angry (as seen in video comments), but they were outvoted by a stack of papers. This wasn't the "Silent Majority"; it was the **"Paper Majority"**.
 
 **¶ Statutory Basis:**
 
 *   **Context:** Building Management Ordinance (Proxy Abuse).
 
 **📅 Timeline:**
-*   **2021-12-07:** Wong's team starts door-to-door harvest.
-*   **2021-12-09:** Deadline of submitting proxies.
-*   **2021-12-11:** EGM. 532 proxies deployed. Will Power wins.
-*   **2021-12-14:** Video of Wong shouting at Herman Yiu posted.
+*   **2021-07-26:** Over 5% owners demand EGM — [minutes](http://www.wangfuk.org/html/meeting/05/第6次全體委員會議記錄v2.pdf)
+*   **2021-11-17:** Wong appointed Advisor (3 weeks to EGM) — [minutes](http://www.wangfuk.org/html/meeting/05/第9次全體委員會議記錄.pdf))
+*   **2021-12-07:** Wong's team harvests proxies door-to-door — [report](https://www.inmediahk.net/node/社區/宏福苑大會-民建聯黃碧嬌上門攞長者授權：家訪有咩咁奇怪)
+*   **2021-12-09:** Deadline of submitting proxies — [source](https://www.facebook.com/share/p/181mivh31E/)
+*   **2021-12-11:** EGM. 532 proxies deployed. Will Power wins — [minutes](http://www.wangfuk.org/html/meeting/03/特別業主大會會議紀錄.pdf)
+*   **2021-12-14:** Video of Wong shouting at Herman Yiu posted — [source](https://www.facebook.com/share/v/1Bwb43B6HF/)
+*   **2021-12-22:** Wong thanked by Chairman Tang — [minutes](http://www.wangfuk.org/html/meeting/03/特別業主大會會議紀錄.pdf)
+*   **2024-06-14:** Wong re-appointed Advisor — [minutes](http://www.wangfuk.org/html/meeting/12/第1次全體委員會議記錄.pdf)
 
 **🔗 Links:**
-*   [Herman Yiu Post](https://www.facebook.com/share/p/181mivh31E/)
+*   [11th Term Minutes 9 (Recruitment)](http://www.wangfuk.org/html/meeting/05/第9次全體委員會議記錄.pdf) | [Backup](2021-11-17%20第十一屆第九次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2021-11-17-第十一屆管理委員會第九次全體委員會議記錄)
+*   [11th Term Minutes 10 (Thanks)](http://www.wangfuk.org/html/meeting/03/特別業主大會會議紀錄.pdf) | [Backup](2021-12-22%20第十一屆第十次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2021-12-22-第十一屆管理委員會第十次全體委員會議記錄)
+*   [EGM Minutes (Vote)](http://www.wangfuk.org/html/meeting/03/特別業主大會會議紀錄.pdf) | [Backup](2021-12-11%20第十一屆管理委員會特別業主大會會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2021-12-11-第十一屆管理委員會特別業主大會會議記錄)
+*   [12th Term Minutes 1 (Re-appointment)](http://www.wangfuk.org/html/meeting/12/第1次全體委員會議記錄.pdf) | [Backup](2024-06-14%20第十二屆第一次會議紀錄.pdf) | [Archive](MINUTES_MARKDOWN.md#2024-06-14-第十二屆管理委員會第一次全體委員會議記錄)
+*   [Herman Yiu Testimony](https://www.facebook.com/share/p/181mivh31E/)
 *   [InMediaHK Report](https://www.inmediahk.net/node/社區/宏福苑大會-民建聯黃碧嬌上門攞長者授權：家訪有咩咁奇怪)
 *   [Peter Chu Testimony (Proxy Harvest)](https://www.facebook.com/share/p/1NeXwmevNb/)
-*   [EGM Minutes](http://www.wangfuk.org/html/meeting/03/特別業主大會會議紀錄.pdf) | [Backup](2021-12-11%20第十一屆管理委員會特別業主大會會議紀錄.pdf)
 *   [Ma Choyin's Video](https://www.facebook.com/share/v/1Bwb43B6HF/)
 
 ---
