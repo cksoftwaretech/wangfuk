@@ -10995,20 +10995,20 @@ As Jason Kong poignantly stated: *"We have to use so many lives to exchange for 
 
 **📜 Original Record:**
 
-> **Evidence [A]: The Rejection (Jason Kong)**
+> **Evidence [A]: The Rejection (Jason Kong)**  
 > *Source: Fairchild Radio AM1470 / 2025-11-28*
 >
 > "我哋有去過ICAC，ICAC話**開唔到file**，佢話依家暫時睇唔到有咩問題... 我哋係畀晒啲document佢睇... 最初都話立唔到案，即係嬲尾覆返我哋立唔到案就**close file喇**。"
 >
-> *Translation:*
+> *Translation:*  
 > "We went to the ICAC. They said they **could not open a file**, that they didn't see any problem... We gave them all the documents... In the end, they replied they couldn't establish a case and **closed the file**."
 
-> **Evidence [B]: The "Exchange" (Jason Kong)**
+> **Evidence [B]: The "Exchange" (Jason Kong)**  
 > *Source: Fairchild Radio AM1470 / 2025-11-28*
 >
 > "咁依家突然，嘭一聲幾日... 我哋要去咁多生命，去換取你去調查...？"
 >
-> *Translation:*
+> *Translation:*  
 > "Now suddenly, bang, in a few days [arrests]... **Do we have to use so many lives to exchange for your investigation...?**"
 
 > **Evidence [C]: More Prior Complaints**  
@@ -11018,7 +11018,7 @@ As Jason Kong poignantly stated: *"We have to use so many lives to exchange for 
 >  
 > *Translation:*  
 > "Mr. X: After the incident, I only want to know why the ICAC could immediately arrest people and seize files. They must have had evidence before making arrests. We filed complaints but nothing happened before the fire."
-> 
+
 > **Evidence [D]: Another Prior Complaint**  
 > *Source: I Cable News Report / 2025-12-02*  
 >  
@@ -11060,6 +11060,7 @@ As Jason Kong poignantly stated: *"We have to use so many lives to exchange for 
 **📅 Timeline:**
 *   **Before 2024-04-16:** Residents submit documents. ICAC says "No File"/"No Evidence".
 *   **2025-11-26:** Fire kills 168.
+*   **2025-11-27:** ICAC sets up task force to investigate.
 *   **2025-11-28:** ICAC arrests 8 suspects based on "corruption".
 *   **2025-11-29:** ICAC arrests 3 more.
 
@@ -11067,7 +11068,7 @@ As Jason Kong poignantly stated: *"We have to use so many lives to exchange for 
 *   [Radio Interview Recording](https://www.am1470.com/data/program_archive_details/575_2763.mp3)
 *   [The Collective Report](https://thecollectivehk.com/宏福苑五級火｜居民：火災前已有多人向-icac-舉報大/)
 *   [The I Cable Report](https://www.i-cable.com/新聞資訊/415811/一線搜查-宏福苑大火背後-三疑點惹關注-居民)
-*   ICAC Press Release: [28 Nov](https://www.icac.org.hk/tc/p/press/index_id_2209.html) | [29 Nov](https://www.icac.org.hk/tc/p/press/index_id_2210.html)
+*   ICAC Press Release: [27 Nov](https://www.icac.org.hk/en/p/press/index_id_2207.html) | [28 Nov](https://www.icac.org.hk/tc/p/press/index_id_2209.html) | [29 Nov](https://www.icac.org.hk/tc/p/press/index_id_2210.html)
 
 ---
 
