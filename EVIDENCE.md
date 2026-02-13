@@ -9215,53 +9215,53 @@ When asked *what* they actually checked during that surprise inspection, the Lab
 
 **📜 Original Record:**
 
-> **Evidence [A]: The "Tear-Test" Complaint (Sep 29)**
+> **Evidence [A]: The "Tear-Test" Complaint (Sep 29)**  
 > *Source: The Collective HK / 2026-01-05*
 >
 > "9 月 29 日... 向屋宇署投訴... 指『棚網已經老化，很**容易用手撕開**... 已失去保護作用』，更附上當時拍下棚網『**一搣即碎**』的片段。"
 >
-> *Translation:*
+> *Translation:*  
 > "Sep 29... complained to BD... stating 'nets are aging, **easily torn by hand**... lost protective function', attached video of nets being '**torn into pieces instantly**'."
 
-> **Evidence [B]: The Visual Warning 1**
+> **Evidence [B]: The Visual Warning 1**  
 > *Source: Yahoo News / 2025-12-10*
 >
 > "居民...從肉眼便可辨認出顏色跟舊棚網有異。「**舊棚網是深綠色，新棚網是淺綠色**。」...於是有居民於10月初致電1823求助... 一併上載了顏色不同的...相片"
 >
-> *Translation:*
+> *Translation:*  
 > "Residents... identified color differences with naked eyes. '**Old nets were deep green, new ones light green**.'... Residents called 1823 in early Oct... uploading photos of the different colored nets."
 
-> **Evidence [C]: The Visual Warning 2**
+> **Evidence [C]: The Visual Warning 2**  
 > *Source: The Collective HK / 2026-01-05*
 >
 > "兩日後，居民跟進投訴，再附上相片說明承建商只更換了部分損壞棚網（圖中**淺綠色**）..."
 >
-> *Translation:*
+> *Translation:*  
 > "Two days later [Oct 1]... residents followed up the case and attached photo showing contractor only replaced parts... (Light Green in photo)..."
 > *(Note: This matches the "Two-Color" warning previously reported.)*
 
-> **Evidence [D]: The "ICU Passed" Report (The Fatal Error)**
+> **Evidence [D]: The "ICU Passed" Report (The Fatal Error)**  
 > *Source: The Collective HK / 2026-01-05*
 >
 > "顧問公司鴻毅在 11 月 8 日... 報告，指 ICU 上周（即 10 月底）已巡視，「期間測試棚網**阻燃合乎標準**」。"
 >
-> *Translation:*
+> *Translation:*  
 > "Consultant Will Power reported in Nov 8... that ICU inspected in late Oct, 'testing showed nets were **fire retardant compliant**'."
 
-> **Evidence [E]: The "Surprise" Inspection (48 Hours Prior)**
+> **Evidence [E]: The "Surprise" Inspection (48 Hours Prior)**  
 > *Source: Yahoo News / 2025-12-10*
 >
 > "在大火發生前兩日，居民獲得勞工處回覆，指有派員到宏福苑**突擊巡查**，並已向負責人發出**書面警告**..."
 >
-> *Translation:*
+> *Translation:*  
 > "Two days before the fire, residents received LD's reply... stating they conducted a **surprise inspection**... and issued a **written warning**..."
 
-> **Evidence [F]: The Refusal to Disclose**
+> **Evidence [F]: The Refusal to Disclose**  
 > *Source: Yahoo News / 2025-12-10*
 >
 > "《Yahoo新聞》曾就居民的投訴向房屋署和勞工處查詢，包括當時有沒有檢測棚網質量以及是否具阻燃性，有沒有檢查棚網質量證書，以及當時如何跟進等。勞工處回覆指，他們正就是次火警與其他執法部門進行聯合調查，現**不宜透露**與事故有關的行動詳情。"
 >
-> *Translation:*
+> *Translation:*  
 > "Yahoo News asked the Buildings and Labour Departments whether scaffold netting had been tested, was flame‑retardant, had quality certificates, and how follow‑up was handled. Labour Department replied it is conducting a joint investigation into the fire with other enforcement agencies and **inappropriate to disclose** details of the operation related to the accident..."
 
 **🛡️ Pre-emptive Rebuttal:**
