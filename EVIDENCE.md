@@ -7030,6 +7030,92 @@ The MC likely believed their own fake data (76% support). This false confidence 
 
 ---
 
+### 🆔 [E-CARTEL-POLITICAL-2024-08-24-01] The Political Attack Dog: Smearing Dissent and Protecting the Cartel
+
+**🚨 Significance:**
+
+In the critical months before the recall election, DAB District Councilor and MC Advisor **Peggy Wong Pik-kiu (黃碧嬌)** launched a public smear campaign against those exposing the renovation scandal. Her rhetoric mirrored authoritarian propaganda, framing legal advice as "demonic rumors" and mobilizing political loyalty to protect the embattled MC Chairman **Tang Kwok-kuen (鄧國權)**.
+
+**1. The "Demonic" Smear:**
+When anti-bid-rigging expert **Winfield Chong (莊榮輝)** appeared on a TV program to explain that the [contract could be legally varied](#-e-admin-contract-2024-07-08-01-the-myth-of-the-unbreakable-contract-why-the-hk330m-deal-could-have-been-stopped), Wong attacked him on social media.
+*   *The Rhetoric:* She accused him of "instigating" (挑撥) and spreading **"demonic rumors to confuse the public" (妖言惑眾)**.
+*   *The Reality:* Chong merely cited Contract Clause 3.5. Wong offered no counter-evidence, only ad hominem attacks. This tactic delegitimized rational debate, framing oversight as sabotage.
+
+**2. The "Stability" Narrative:**
+Wong invoked a "Stability" narrative ("Must be of one heart and mind to stabilize the estate") to argue against the recall.
+*   *The Trap:* This equates "Stability" with "Keeping the Incumbent Power," regardless of their competence or corruption. It is a political strategy designed to suppress accountability in the name of order.
+
+**3. The 10-Year "Ground War":**
+Residents revealed that "floor-sweeping" (door-to-door) operations has been conducted for **nearly 10 years** to harvest proxies for controversial projects.
+*   *The System:* This confirms that the [532 proxies](#-e-cartel-political-2021-12-09-01-the-day-democracy-died-how-a-defeated-councilor-and-532-proxies-sealed-the-estates-fate) in 2021 were probably not a one-off event but the product of a long-term **Political Machine** embedded in the estate.
+
+**4. The Loyal Comrade:**
+Even after Chairman Tang was voted out in disgrace on Sept 6, 2024, Wong physically escorted him out, hand on his shoulder in consolidation. This visual confirms their alliance was personal and deep, transcending mere professional advisory duties.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The "Demonic Rumor" Attack**
+> *Source: Instagram @boomheadhk (Archived Wong's Post) / 2025-11-27*
+>
+> "黃碧嬌在去年8月24日... 發文追擊... 莊榮輝：「... 由民主黨莊×輝**挑撥式**地直播... 道出的事都係**妖言惑眾**! ... 必需同心同德為**穩定屋苑**... **支持現屆法團繼續留任! 反對罷免!**」"
+>
+> *Translation:*
+> "24 Aug 2024, Peggy Wong posted attacking Winfield Chong: '...Democratic Party Chong X Fai broadcasted in an **instigating manner**... what he said is **demonic rumors to confuse the public**! ... Must be of one heart and mind to **stabilize the estate**... **Support the current MC to remain! Oppose recall!**'"
+
+> **Evidence [B]: The "10-Year" Machine**
+> *Source: HK01 / 2024-07-24*
+>
+> "過去法團**近十年都有「洗樓」**取得居民授權，多涉有爭議項目；但當有人想召開特別大會，就會「威嚇」簽名業主..."
+>
+> *Translation:*
+> "In the past **nearly 10 years**, the MC has been '**sweeping floors**' [door-to-door] to get resident proxies, mostly involving controversial projects..."
+
+> **Evidence [C]: The "Shoulder" Comfort**
+> *Source: Epoch Times / 2024-09-09*
+>
+> "鄧則與身旁律師接耳交談，半小時後在大埔區議員**黃碧嬌等陪同下離席**... [附圖：黃碧嬌右手搭落剛落選的鄧國權左肩，似作安慰狀]"
+>
+> *Translation:*
+> "Tang whispered with lawyer... left 30 mins later accompanied by District Councilor **Peggy Wong**... [Photo: Wong's right hand on Tang's left shoulder, appearing to comfort him]."
+
+> **Evidence [D]: The Deletion**
+> *Source: Yam Kai-bong Post / 2025-11-27*
+>
+> "黃碧嬌... 指責莊「妖言惑眾」，這是鐵一般是事實，即使黃議員del post"
+>
+> *Translation:*
+> "Councilor Wong accusing Chong of 'demonic rumors' is an iron fact, even if she **deleted the post**"
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"Ms. Wong's social media posts expressed her personal opinion as a stakeholder in community stability. She believed external political figures were politicizing estate management. Her use of strong language ('demonic rumors') was rhetorical, emphasizing her disagreement with their interpretation. Her long-term engagement with residents ('floor sweeping') is diligent district work, ensuring the elderly are not left behind."
+
+**The Logical Trap:**
+1.  **Rhetoric vs. Libel:** Calling a factual legal analysis (Clause 3.5 exists) "Demonic Rumors" is not a difference of opinion; it is **Defamation**. It aims to destroy the credibility of the expert so residents won't listen to the fact.
+2.  **Politicizing vs. Protecting:** The "External Figure" (Chong) was trying to fight against bid-rigging. The "Advisor" (Wong) was trying to *protect* a contract that later killed 168 people. Who was really harming the community?
+3.  **The "Deletion" Guilt:** If her opinion was righteous, why delete the post after the fire? Deleting it suggests she knew her defense of the "Killer Contract" would now be seen as complicity.
+
+**¶ Statutory Basis:**
+*   **Context:** Political Ethics / Defamation.
+
+**📅 Timeline:**
+*   **2014-2024:** 10-year proxy harvesting — [report](https://www.hk01.com/article/1041007)
+*   **2024-07-05:** >5% Owners submit petition for EGM — [minutes](http://www.wangfuk.org/html/meeting/12/第3次全體委員會議紀錄v1.pdf)
+*   **2024-07-08:** Chong explains "Variation Clause" on "Scoop" — [source](https://youtu.be/6OAXD3rzoOE)
+*   **2024-08-24:** Wong posts "Demonic Rumor" attack on Chong — [archive](https://www.instagram.com/p/DRhrccFDE6R/)
+*   **2024-09-06:** Wong escorts defeated Tang out — [report](https://www.epochtimes.com/b5/24/9/9/n14326573.htm)
+*   **2025-11-26:** Fire. 168 killed. 
+*   **2025-11-27:** Wong deletes the post — [testimony](https://www.facebook.com/share/p/1L7tJs4siC/)
+
+**🔗 Links:**
+*   [Instagram Archive](https://www.instagram.com/p/DRhrccFDE6R/)
+*   [Yam Kai-bong Post](https://www.facebook.com/share/p/1L7tJs4siC/)
+*   [Epoch Times Report](https://www.epochtimes.com/b5/24/9/9/n14326573.htm)
+*   [HK01 Report](https://www.hk01.com/article/1041007)
+
+---
+
 ### 🆔 [E-ADMIN-2024-09-06-01] The Scorched Earth Exit: How the Ousted Chairman Tried to Create a Power Vacuum
 
 **🚨 Significance:**
