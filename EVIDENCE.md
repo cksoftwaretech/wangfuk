@@ -3223,7 +3223,7 @@ While the DAB machine harvested votes, the opposition "Concern Group" saw **~50 
 
 **📅 Timeline:**
 *   **2021-07-26:** Over 5% owners demand EGM — [minutes](http://www.wangfuk.org/html/meeting/05/第6次全體委員會議記錄v2.pdf)
-*   **2021-11-17:** Wong appointed Advisor (3 weeks to EGM) — [minutes](http://www.wangfuk.org/html/meeting/05/第9次全體委員會議記錄.pdf))
+*   **2021-11-17:** Wong appointed Advisor (3 weeks to EGM) — [minutes](http://www.wangfuk.org/html/meeting/05/第9次全體委員會議記錄.pdf)
 *   **2021-12-07:** Wong's team harvests proxies door-to-door — [report](https://www.inmediahk.net/node/社區/宏福苑大會-民建聯黃碧嬌上門攞長者授權：家訪有咩咁奇怪)
 *   **2021-12-09:** Deadline of submitting proxies — [source](https://www.facebook.com/share/p/181mivh31E/)
 *   **2021-12-11:** EGM. 532 proxies deployed. Will Power wins — [minutes](http://www.wangfuk.org/html/meeting/03/特別業主大會會議紀錄.pdf)
