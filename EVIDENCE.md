@@ -1718,7 +1718,7 @@ Legal experts suggest that Hau's use of these shells to obtain immediate bank mo
 *   **2026-01-09:** Media exposes the Newform/Kwong links.
 
 **🔗 Links:**
-*   [HK Feature Investigation: Newform)](https://hkfeature.com/local/宏福苑調查-侯華健以newform-limited-成立的殼公司購入單位-黃/)
+*   [HK Feature Investigation: Newform](https://hkfeature.com/local/宏福苑調查-侯華健以newform-limited-成立的殼公司購入單位-黃/)
 *   [HK Feature Investigation: Chan Family](https://hkfeature.com/local/【宏福苑調查】九七金融風暴投資損手-陳响發家族/)
 *   [Hive Diagram of the networks between Wellman, Prestige and Will Power](宏業、鴻毅與康仁體育會關係圖.png) | [Documentation](宏業、鴻毅與康仁體育會關係圖代碼.md)
 
