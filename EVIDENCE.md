@@ -5824,6 +5824,124 @@ When Smartgoal collapsed at Victory Garden, the project was taken over by **Wide
 
 ---
 
+### 🆔 [E-ENFORCE-ICAC-2024-04-15-01] The Evidence Magicians: "No File" Before the Fire, 11 Arrests After the Bodies Piled Up
+
+**🚨 Significance:**
+
+Testimonies from Management Committee member Jason Kong (江祥發) and multiple residents reveal a systematic pattern of dereliction by the Independent Commission Against Corruption (ICAC). Despite receiving **at least 8 reports** from residents throughout 2025 detailing specific bid-rigging evidence (e.g., abnormally low consultant fees, contract violations), the ICAC repeatedly refused to open a case, dismissing serious allegations as "commercial disputes." The sudden arrest of 11 suspects just **two days** after the fire—without new documentary evidence—exposes the agency's failure to act on actionable intelligence until a mass casualty event forced their hand.
+
+**1. The "No File" Wall (Systemic Rejection):**
+*   **The Frequency:** Residents reported to ICAC "at least 8 times", as early as before the [contract was signed] on Apr 2024(#-e-admin-2024-04-16-01-the-done-deal-strategy-how-the-mc-crushed-dissent-before-signing-the-hk330m-contract). 
+*   **The Evidence:** They provided tender documents, contracts, and pointed out specific anomalies (e.g., low fees).
+*   **The Response:** Investigators acknowledged they "already had the data" but demanded *more* evidence from residents, eventually closing files citing "insufficient evidence" or labeling it a "commercial dispute" to be referred to Police.
+*   *The Betrayal:* Residents were told: "Why do we have to provide evidence? In TV dramas filmed by ICAC, isn't it ICAC's job to investigate suspicions?" This shift of burden from investigator to whistleblower effectively paralyzed enforcement.
+
+**2. The 2-Day Miracle (Political Prosecution):**
+On **Nov 28**, just two days after the fire, the ICAC arrested **8 people**. 3 more the next day.
+*   *The Logic Gap:* Corruption evidence is documentary (paper trails, bank records). A fire destroys documents; it does not generate them. If the evidence was sufficient to arrest 11 people *after* the fire, it must have been sufficient *before* the fire when residents submitted it.
+*   *The Conclusion:* The evidence didn't change; the **political pressure** did. The ICAC sat on intelligence until the death toll made inaction politically suicidal.
+
+**3. The Cost of Justice:**
+As Jason Kong poignantly stated: *"We have to use so many lives to exchange for your investigation."* This suggests the anti-corruption mechanism in Hong Kong has degraded from "Proactive Law Enforcement" to "Disaster Response."
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Rejection (Jason Kong)**  
+> *Source: Fairchild Radio AM1470 / 2025-11-28*
+>
+> "我哋有去過ICAC，ICAC話**開唔到file**，佢話依家暫時睇唔到有咩問題... 我哋係畀晒啲document佢睇... 最初都話立唔到案，即係嬲尾覆返我哋立唔到案就**close file喇**。"
+>
+> *Translation:*  
+> "We went to the ICAC. They said they **could not open a file**, that they didn't see any problem... We gave them all the documents... In the end, they replied they couldn't establish a case and **closed the file**."
+
+> **Evidence [B]: Reports Before Signing Contract**  
+> *Source: I Cable News Report / 2025-12-02*  
+>  
+> "陳先生指...去年簽訂維修合約前，已有街坊向廉署舉報，但對方只不斷問：你有沒有證據？...到現在出了事就說成立專責小組調查。」"  
+>  
+> *Translation:*  
+> "Mr. Chan said before the signing of the contract last year... residents had already reported to the ICAC, but were only asked, 'Do you have evidence?'... now that they say they set up a task force to investigate."
+
+> **Evidence [C]: The "Commercial Dispute" Excuse**  
+> *Source: The Collective HK / 2026-01-05*
+>
+> "最少四名居民... 2025 年初... 親自到廉署報案。... 有另外兩名居民表示，2025 年中到廉署報案... 廉署人員表示事件是「**商業糾紛**」，「冇足夠證據前線搜查人員開唔到 file 查」"
+>
+> *Translation:*  
+> "At least 4 residents... reported in person in early 2025... Another two residents reported mid-2025... ICAC officers said it was a '**commercial dispute**', 'insufficient evidence for frontline officers to open a file'."
+
+> **Evidence [D]: The "Already Knew" Factor**  
+> *Source: The Collective HK / 2026-01-05*
+>
+> "調查人員顯示出**早已掌握相關資料**，曾問他「有冇其他證據？」數個月後，通知他「證據不足」而未能立案。"
+>
+> *Translation:*  
+> "Investigators showed they **already possessed relevant data**, asking 'Do you have other evidence?' Months later, notified him 'insufficient evidence' to open a case."
+
+> **Evidence [E]: The "Life Exchange" (Jason Kong)**  
+> *Source: Fairchild Radio AM1470 / 2025-11-28*
+>
+> "咁依家突然，嘭一聲幾日... 我哋要去咁多生命，去換取你去調查...？"
+>
+> *Translation:*  
+> "Now suddenly, bang, in a few days [arrests]... **Do we have to use so many lives to exchange for your investigation...?**"
+
+> **Evidence [F]: The Sudden Arrests**  
+> *Source: ICAC Press Release / 2025-11-28*  
+>  
+> "廉政公署...展開全面調查，今日...拘捕八名人士，包括工程顧問、棚架工程分判商及中間人"  
+>  
+> *Translation:*  
+> "ICAC...launched a full investigation. Today arrests were made... with eight people detained, including engineering consultants, scaffolding subcontractors and intermediaries"
+
+> **Evidence [G]: Further Arrests**  
+> *Source: ICAC Press Release / 2025-11-29*
+>
+> "廉政公署... 繼昨日較早時拘捕八人... 再拘捕三名工程承建商負責人..."
+>
+> *Translation:*  
+> "ICAC... following the arrest of 8 people earlier yesterday, arrested 3 more contractor responsibles..."
+
+> **Evidence [H]: Dramas are Dramas Only**  
+> *Source: The Collective HK / 2026-01-05*
+>
+> "曾向廉署舉報、求助的居民批評，「點解會係由我哋提供證據嘅呢？我睇《廉政行動》唔係咁㗎喎，乜唔係有懷疑，你哋去查去搵證據㗎咩？"
+>
+> *Translation:*  
+> "Residents who reported to ICAC complained: "Why must we provide the evidence? Isn't it ICAC's job to investigate when there's suspicion, as seen in the 'ICAC Investigators' (dramas filmed by ICAC)?""
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**  
+"Corruption investigations are covert and require a high threshold of proof beyond reasonable doubt. The 'Commercial Dispute' classification is standard for cases lacking clear evidence of bribery (money trail). The initial reports might have been speculative. The post-fire arrests were enabled by new evidence or witnesses coming forward due to the tragedy, not because we withheld action previously."
+
+**The Logical Trap:**
+1.  **"Covert" vs. "Rejected":** There is a difference between "We will look into it" and "We cannot open a file / No problem found." Telling a complainant that *no problem exists* actively discourages further evidence submission. If it was a secret probe, why claim "no problem" instead of "we have received your report"?
+2.  **Investigation vs. Prosecution:** You need "reasonable suspicion" to *investigate*, not "proof beyond reasonable doubt" (that's for court). Residents provided contracts, tender docs, and price anomalies—more than enough for reasonable suspicion. Demanding citizens to provide "money trail" evidence (which only ICAC can access via warrants) is a **Catch-22** designed to kill cases.
+3.  **The "New Evidence" Myth:** What "new evidence" of *corruption* (not arson) appears in a burnt building in 48 hours? Bribery happens in banks and restaurants, not in fire debris. The speed of arrest proves they **already knew** who the targets were. They just didn't care until it became a PR crisis.
+4.  **The "TV Drama" Expectation:** Residents correctly noted that ICAC's job is to *find* evidence, not just receive it. If the world's most well-funded anti-corruption agency relies on volunteer residents to do the forensic accounting, it is functionally obsolete.
+
+**¶ Statutory Basis:**
+*   **Duty:** Independent Commission Against Corruption Ordinance (Cap. 204), Section 12.
+
+**📅 Timeline:**
+*   **Before 2024-04-16:** Residents report to ICAC. ICAC says "No Evidence".
+*   **2025-Early:** 4 residents report again (Rejected).
+*   **2025-Mid:** 2 residents report again (Rejected as "Commercial Dispute").
+*   **2025-11-26:** Fire kills 168.
+*   **2025-11-27:** ICAC sets up task force to investigate.
+*   **2025-11-28:** ICAC arrests 8 suspects based on "corruption".
+*   **2025-11-29:** ICAC arrests 3 more.
+
+**🔗 Links:**
+*   [Radio Interview Recording](https://www.am1470.com/data/program_archive_details/575_2763.mp3)
+*   [The Collective Report](https://thecollectivehk.com/宏福苑五級火｜居民：火災前已有多人向-icac-舉報大/)
+*   [The I Cable Report](https://www.i-cable.com/新聞資訊/415811/一線搜查-宏福苑大火背後-三疑點惹關注-居民)
+*   ICAC Press Release: [27 Nov](https://www.icac.org.hk/en/p/press/index_id_2207.html) | [28 Nov](https://www.icac.org.hk/tc/p/press/index_id_2209.html) | [29 Nov](https://www.icac.org.hk/tc/p/press/index_id_2210.html)
+*   [The Collective Report (Jan 5)](https://thecollectivehk.com/宏福苑火災居民六度投訴難阻慘劇對無官員負責感/)
+
+---
+
 ### 🆔 [E-ADMIN-2024-04-16-01] The "Done Deal" Strategy: How the MC Crushed Dissent Before Signing the HK$330M Contract
 
 **🚨 Significance:**
@@ -10973,102 +11091,6 @@ While Will Power executives were arrested following the Wang Fuk fire, this sepa
 **🔗 Links:**
 *   [HK01 Report](https://www.hk01.com/突發/60309418/)
 *   [Chiu Yan-loy Report](https://www.facebook.com/share/p/1AGxpzKrer/)
-
----
-
-### 🆔 [E-ENFORCE-2025-04-15-01] The Evidence Magicians: "No File" Before the Fire, 11 Arrests After the Bodies Piled Up
-
-**🚨 Significance:**
-
-Testimonies from Management Committee member Jason Kong (江祥發) and other residents reveal a shocking dereliction of duty by the Independent Commission Against Corruption (ICAC). Despite being presented with documented evidence of bid-rigging *before* the fire, the ICAC explicitly refused to open a case. Residents had already reported to the ICAC even before the signing of the contract.
-
-**1. The "No File" Rejection:**
-Jason Kong confirms that he and numerous residents submitted documents to the ICAC, addressing specific irregularities. The ICAC's response was: "**Cannot open a file**" and "**Do not see any problem currently.**" They officially closed the complaints.
-
-**2. The 2-Day Miracle:**
-On **Nov 28**, just two days after the fire, the ICAC arrested **8 people**. 3 more next day.
-*   *The Logic Gap:* Corruption evidence is documentary (paper trails, bank records). A fire destroys documents; it does not generate them. If the evidence was sufficient to arrest 11 people *after* the fire, it must have been sufficient *before* the fire when residents submitted it.
-*   *The Conclusion:* The evidence didn't change; the **political pressure** did. The ICAC sat on actionable intelligence until the death toll forced them to act.
-
-**3. The Cost of Justice:**
-As Jason Kong poignantly stated: *"We have to use so many lives to exchange for your investigation."*. This suggests the anti-corruption mechanism in Hong Kong has degraded from "Proactive Law Enforcement" to "Disaster Response."
-
-**📜 Original Record:**
-
-> **Evidence [A]: The Rejection (Jason Kong)**  
-> *Source: Fairchild Radio AM1470 / 2025-11-28*
->
-> "我哋有去過ICAC，ICAC話**開唔到file**，佢話依家暫時睇唔到有咩問題... 我哋係畀晒啲document佢睇... 最初都話立唔到案，即係嬲尾覆返我哋立唔到案就**close file喇**。"
->
-> *Translation:*  
-> "We went to the ICAC. They said they **could not open a file**, that they didn't see any problem... We gave them all the documents... In the end, they replied they couldn't establish a case and **closed the file**."
-
-> **Evidence [B]: The "Exchange" (Jason Kong)**  
-> *Source: Fairchild Radio AM1470 / 2025-11-28*
->
-> "咁依家突然，嘭一聲幾日... 我哋要去咁多生命，去換取你去調查...？"
->
-> *Translation:*  
-> "Now suddenly, bang, in a few days [arrests]... **Do we have to use so many lives to exchange for your investigation...?**"
-
-> **Evidence [C]: More Prior Complaints**  
-> *Source: The Collective / 2025-11-29*  
->  
-> "X先生：出事之後，我淨係想知道點解ICAC 可以即刻捉人，攞 file 去睇。因為你 ICAC 捉人之前一定係有証據先做。我哋去投訴之後到事發前一直無結果"  
->  
-> *Translation:*  
-> "Mr. X: After the incident, I only want to know why the ICAC could immediately arrest people and seize files. They must have had evidence before making arrests. We filed complaints but nothing happened before the fire."
-
-> **Evidence [D]: Another Prior Complaint**  
-> *Source: I Cable News Report / 2025-12-02*  
->  
-> "陳先生指...簽訂維修合約前，已有街坊向廉署舉報，但對方只不斷問：你有沒有證據？...到現在出了事就說成立專責小組調查。」"  
->  
-> *Translation:*  
-> "Mr. Chan said before the signing of the contract... residents had already reported to the ICAC, but were only asked, 'Do you have evidence?'... now that they say they set up a task force to investigate."
-
-> **Evidence [E]: The Sudden Arrests**  
-> *Source: ICAC Press Release / 2025-11-28*  
->  
-> "廉政公署...展開全面調查，今日...拘捕八名人士，包括工程顧問、棚架工程分判商及中間人"  
->  
-> *Translation:*  
-> "ICAC...launched a full investigation. Today arrests were made... with eight people detained, including engineering consultants, scaffolding subcontractors and intermediaries"
-
-> **Evidence [F]: Further Arrests**
-> *Source: ICAC Press Release / 2025-11-29*
->
-> "廉政公署... 繼昨日較早時拘捕八人... 再拘捕三名工程承建商負責人..."
->
-> *Translation:*
-> "ICAC... following the arrest of 8 people earlier yesterday, arrested 3 more contractor responsibles..."
-
-**🛡️ Pre-emptive Rebuttal:**
-
-**Anticipated Defense:**
-"Corruption investigations are covert. We cannot disclose to complainants that an investigation is active to avoid tipping off suspects. The 'Close File' response was standard procedure to protect the integrity of a secret probe. The arrests post-fire were the culmination of long-term intelligence gathering, expedited by the incident."
-
-**The Logical Trap:**
-1.  **"Covert" vs. "Rejected":** There is a difference between "We will look into it" and "We cannot open a file / No problem found." Telling a complainant that *no problem exists* actively discourages further evidence submission. If it was a secret probe, why claim "no problem" instead of "we have received your report"?
-2.  **The "Acceleration" Myth:** If they were already investigating long-term, why did the fire (which creates chaos and destroys evidence) suddenly make arrests possible in 3 days? High-profile arrests usually require rock-solid evidence. The speed suggests the evidence was *already there* (likely the same documents residents submitted), but the **will to arrest** was missing until the public outcry.
-3.  **The "Open Source" Reality:** The rigging wasn't subtle. The "[1.6% price match](#-e-cartel-2023-07-04-02-the-magic-16-how-prestige-hit-the-bullseye-on-a-rigged-target)" and "[90 points for bad interview](#-e-cartel-2023-10-16-01-the-schizophrenic-scorecard-why-the-criticized-beat-the-praised)" were visible in the documents residents provided. It didn't require Sherlock Holmes; it required a calculator. Ignoring such obvious red flags is negligence, not strategy.
-
-**¶ Statutory Basis:**
-
-*   **Duty:** Independent Commission Against Corruption Ordinance (Cap. 204), Section 12.
-
-**📅 Timeline:**
-*   **Before 2024-04-16:** Residents submit documents. ICAC says "No File"/"No Evidence".
-*   **2025-11-26:** Fire kills 168.
-*   **2025-11-27:** ICAC sets up task force to investigate.
-*   **2025-11-28:** ICAC arrests 8 suspects based on "corruption".
-*   **2025-11-29:** ICAC arrests 3 more.
-
-**🔗 Links:**
-*   [Radio Interview Recording](https://www.am1470.com/data/program_archive_details/575_2763.mp3)
-*   [The Collective Report](https://thecollectivehk.com/宏福苑五級火｜居民：火災前已有多人向-icac-舉報大/)
-*   [The I Cable Report](https://www.i-cable.com/新聞資訊/415811/一線搜查-宏福苑大火背後-三疑點惹關注-居民)
-*   ICAC Press Release: [27 Nov](https://www.icac.org.hk/en/p/press/index_id_2207.html) | [28 Nov](https://www.icac.org.hk/tc/p/press/index_id_2209.html) | [29 Nov](https://www.icac.org.hk/tc/p/press/index_id_2210.html)
 
 ---
 
