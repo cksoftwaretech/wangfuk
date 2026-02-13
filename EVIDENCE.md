@@ -382,7 +382,7 @@ Yau's testimony described a dinner where the **MC Chairman**, **Management Compa
 **The Logical Trap:**
 1.  **Smart Tender Failed:** The "Smart Tender" system relies on the Consultant to act as an honest broker. As shown in [fake scores](#-e-cartel-2023-10-16-01-the-schizophrenic-scorecard-why-the-criticized-beat-the-praised) and [1.6% price match](#-e-cartel-2023-07-04-02-the-magic-16-how-prestige-hit-the-bullseye-on-a-rigged-target), the Consultant *was* the manipulator. A lock is useless if the thief has the key.
 2.  **The "Same Script" pattern:** The pattern at Wang Fuk (inflated price, rigged voting, suppressed dissent) is functionally identical to Garden Vista. The only difference is the scale (Wang Fuk is even bigger).
-3.  **The "Missing Money":** If there was no bribery, why did the Consultant charge only HK$308k for a job worth millions in man-hours? And why did the Contractor save money so desperately including the [HK$561 per victim](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk586-per-victim--the-5-decoy)? The numbers imply a massive diversion of funds. 
+3.  **The "Missing Money":** If there was no bribery, why did the Consultant charge only HK$308k for a job worth millions in man-hours? And why did the Contractor save money so desperately including the [HK$561 per victim](#-e-safety-nets-2025-10-18-01-the-price-of-life-hk561-per-victim--the-5-decoy)? The numbers imply a massive diversion of funds. 
 
 **¶ Statutory Basis:**
 
