@@ -8005,6 +8005,77 @@ When questioned about the HK$1M fee, former Chairman (current Treasurer) **Wong 
 
 ---
 
+### 🆔 [E-CARTEL-WILLPOWER-2024-12-09-01] The SLAPP Tactic: Using Legal Threats to Silence Oversight and Mask Negligence
+
+**🚨 Significance:**
+
+On December 9, 2024, the Consultant (**Will Power/鴻毅**) issued a lawyer's letter threatening legal action against residents for "malicious smear" (惡意抹黑). This action was a textbook Strategic Lawsuit Against Public Participation (SLAPP) tactic. By criminalizing legitimate questions about the HK$330M contract—such as the [10-year warranty trap](#-e-cartel-willpower-2023-10-30-01-the-hk150-million-upsell-how-10-year-warranty-was-used-to-double-the-bill) and [material swaps](#-e-admin-2025-02-21-01-the-unilateral-switch-how-a-hk60m-contract-spec-was-swapped-for-a-club-members-product)—the Consultant used legal intimidation to neutralize the estate's monitoring capacity, effectively ensuring that safety hazards remained unchallenged until the fire.
+
+**1. The "Silencing" Mechanism:**
+*   **The Provocation:** Residents at a town hall meeting questioned Will Power’s director, **Wong Hap-yin (黃俠然)**, regarding the contract "traps" and the firm's perceived protection of the contractor (**Prestige/宏業**).
+*   **The Response:** Instead of providing a professional response, Will Power issued a lawyer's letter threatening to "recover all potential losses" if residents continued to ask questions without "new legal data."
+*   *The Consequence:* This threat succeeded. Residents reported that they were subsequently "prohibited" from discussing these issues, creating a vacuum of oversight that allowed flammable materials to be installed unchecked.
+
+**2. The Legal Fallacy (Abuse of "Smear"):**
+Will Power’s threat relies on the claim of "malicious smear." However, legal principles (Qualified Privilege & Fair Comment) protect owners in this context:
+*   **Qualified Privilege (受約制特權):** As the employers of the Consultant, owners have a moral and legal duty to monitor the project's financial and safety integrity.
+*   **Fair Comment (公允評論):** The residents' claims were based on observable facts (low fees, fake safety records, material swaps). Framing factual inquiry as "smear" is a distortion of the legal system.
+
+**3. The "Self-Incrimination" Trap:**
+The threat to sue owners for questioning the contract is a logical paradox. If the Consultant is confident in their professional conduct, they should welcome scrutiny. Threatening to "recover losses" from residents who highlight potential fraud (e.g., [the perfect score scam](#-e-cartel-willpower-2023-08-31-01-the-perfect-score-scam-how-a-safety-violator-was-rated-clean)) only suggests that the "loss" they fear is the exposure of their own malpractice.
+
+**📜 Original Record:**
+
+> **Evidence [A]: The Intimidation (The Lawyer's Letter)**  
+> *Source: HK01 / 2026-02-02 (Archived Will Power's Letter Page 2)*
+>
+> "如相關人士於無新的法律資料下再提出涉及以上條款的質詢或繼續作出**惡意抹黑本所形象的行為**，本所無意再作任何進一步回應並將適時交由法律代表向相關責任人採取法律行動及追討一切潛在損失。"
+>
+> *Translation:*
+> "If relevant persons continue to raise inquiries... or continue **acts of maliciously smearing our firm's image** without new legal data, we have no intention to respond further and will instruct legal representatives to take legal action and recover all potential losses."
+
+> **Evidence [B]: The Silence Effect (Resident Testimony)**  
+> *Source: HK01 / 2026-02-02*
+>
+> "A先生認為...之後在工程或交流會上，我們**想再提起這議題都已被禁止**，因為已出了律師信，有人跟我們說不要再討論這問題。"
+>
+> *Translation:*
+> "Mr. A believes... afterwards in engineering or exchange meetings, **we were prohibited from raising the issue again** because a lawyer's letter was issued; someone told us not to discuss this issue anymore."
+
+> **Evidence [C]: The Duty to Verify (Legal Context)**  
+> *Source: The Witness HK / 2025-05-10*
+>
+> "「受約制特權」的關鍵在於『相互的責任或利益』——即是被告人有法律、道德或社會責任或利益，去作出...陳述，而受眾亦有相應的責任或利益去接收該陳述。"
+>
+> *Translation:*
+> "'Qualified Privilege' hinges on 'reciprocal duty or interest'—where the defendant has a legal, moral, or social duty/interest to make... a statement, and the audience has a corresponding duty/interest to receive it."
+> *(Analysis: Owners have a duty to monitor their HK$330M investment, granting them privilege in these discussions.)*
+
+**🛡️ Pre-emptive Rebuttal:**
+
+**Anticipated Defense:**
+"We have a right to defend our professional reputation against unfounded public accusations. We did not ban discussion; we demanded that if accusations of fraud are made, they must be supported by evidence to avoid wasting time with groundless rumors. The legal letter was a formal notice to maintain professional boundaries."
+
+**The Logical Trap:**
+1.  **Reputation vs. Reality:** A professional reputation is built on the quality of work (e.g., verifying nets and foam). If the work is negligent (resulting in 168 deaths), the "reputation" is not being smeared; it is reflecting reality. Using a lawyer to hide reality is not protecting a reputation; it is **fraudulent concealment**.
+2.  **The "Evidence" Goalpost:** Demanding "new legal data" to ask a question (e.g., "Why did you rate a convicted firm as clean?") is a deliberate barrier to entry. Residents are asking for an explanation, not filing a lawsuit. Requiring legal-grade evidence to ask a question is a tactic to silence laypeople.
+3.  **The Resulting Harm:** The silence bought by this letter was bought with blood. By successfully scaring owners into submission, Will Power removed the final barrier to the dangerous installation of flammable materials.
+
+**¶ Statutory Basis:**
+*   **Context:** Abuse of Process / Defamation Defenses.
+
+**📅 Timeline:**
+*   **2024:** Residents raise concerns at exchange meeting.
+*   **2024-12-09:** Will Power issues the "Threat Letter."
+*   **2025:** Silence ensues; hazards (Styrofoam/Fake Nets) installed without challenge.
+*   **2025-11-26:** Fire kills 168. 
+
+**🔗 Links:**
+*   [HK01 Investigation](https://www.hk01.com/01偵查/60317839/)
+*   [The Witness: Defamation 101](https://thewitnesshk.com/法律101-甚麼是誹謗二/)
+
+---
+
 ### 🆔 [E-CARTEL-PRESTIGE-2025-01-01-01] The "Regulatory Capture": The Contractor Who Judges Contractors
 
 **🚨 Significance:**
