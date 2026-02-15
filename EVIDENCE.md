@@ -9428,7 +9428,7 @@ To deceive inspectors, contractors installed compliant nets (HK$100/roll) only a
 *   **Cost to cheat:** HK$135,700 (2,300 cheap rolls + 115 decoy rolls).
 *   **The Profit:** **HK$94,300**.
 *   **The Human Toll:** 168 deaths.
-*   **The Unit Price of Death:** The contractors effectively valued each human life at **HK$586**.
+*   **The Unit Price of Death:** The contractors effectively valued each human life at **HK$561**.
 
 **3. Premeditation:**
 This was not negligence; it was a calculated cover-up. Following a scaffolding fire in Central in late October, the suspects—fearing inspection—rushed to buy the 115 compliant rolls specifically to create the "safe zone" at ground level, proving they were fully aware of the fire risk but chose to hide it rather than fix it.
